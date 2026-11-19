@@ -108,7 +108,7 @@ export default function ArticleLayout({ a }: { a: Article }) {
           </div>
         </section>
 
-        <div className="wrap grid gap-12 pb-10 lg:grid-cols-[minmax(0,1fr)_300px]">
+        <div className="wrap grid grid-cols-1 gap-12 pb-10 lg:grid-cols-[minmax(0,1fr)_300px]">
           <article className="min-w-0">
             <ArticleBody blocks={a.blocks} source={a.slug} />
 

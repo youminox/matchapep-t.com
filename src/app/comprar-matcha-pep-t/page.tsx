@@ -105,8 +105,8 @@ export default function ComprarPage() {
           </div>
         </section>
 
-        <section className="wrap grid gap-12 py-16 lg:grid-cols-[minmax(0,1fr)_340px]">
-          <div className="prose-fx">
+        <section className="wrap grid grid-cols-1 gap-12 py-16 lg:grid-cols-[minmax(0,1fr)_340px]">
+          <div className="prose-fx min-w-0">
             <h2 id="por-que">Por qué elegir Matcha Pep-T</h2>
             <p>
               Matcha Pep-T reúne en un solo sobre lo que normalmente comprarías por separado: el sabor de un matcha latte, una dosis de colágeno

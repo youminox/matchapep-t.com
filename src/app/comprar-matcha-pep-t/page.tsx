@@ -69,8 +69,8 @@ export default function ComprarPage() {
                 <p className="eyebrow">FuXion · SKU {product.sku}</p>
                 <h1 className="mt-2 text-4xl font-extrabold sm:text-5xl">Comprar Matcha Pep-T FuXion original</h1>
                 <p className="mt-3 text-lg text-[var(--muted)]">{product.packDescription}. {product.flavor}.</p>
-                <div className="mt-6 flex items-end gap-4">
-                  <p className="font-display text-5xl font-extrabold text-fxink">{product.formattedPrice}</p>
+                <div className="mt-6 flex flex-wrap items-end gap-x-4 gap-y-1">
+                  <p className="whitespace-nowrap font-display text-5xl font-extrabold text-fxink">{product.formattedPrice}</p>
                   <p className="pb-1.5 text-[var(--muted)]">{product.formattedPricePerSachet} por taza · IGV incluido</p>
                 </div>
                 <div className="mt-6 grid grid-cols-2 gap-3 text-sm sm:grid-cols-4">

@@ -110,6 +110,18 @@ export default function ArticleLayout({ a }: { a: Article }) {
 
         <div className="wrap grid grid-cols-1 gap-12 pb-10 lg:grid-cols-[minmax(0,1fr)_300px]">
           <article className="min-w-0">
+            {h2s.length > 2 && (
+              <details className="toc mb-6 rounded-2xl border border-[var(--line)] p-4 text-sm lg:hidden">
+                <summary className="cursor-pointer font-display font-bold text-fxink">En esta guía</summary>
+                <ol className="mt-3 space-y-2">
+                  {h2s.map((h) => (
+                    <li key={h.text}>
+                      <a href={`#${slugify(h.text)}`}>{stripMd(h.text)}</a>
+                    </li>
+                  ))}
+                </ol>
+              </details>
+            )}
             <ArticleBody blocks={a.blocks} source={a.slug} />
 
             {a.isPillar && children.length > 0 && (

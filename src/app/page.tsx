@@ -330,7 +330,7 @@ export default function Home() {
                 <Link
                   key={c.slug}
                   href={`/${c.slug}/`}
-                  className={`card spot group p-7 ${i === 0 ? "lg:row-span-2 bg-gradient-to-br from-fxblue to-[#0a5f8f] text-white" : ""}`}
+                  className={`card spot group p-7 ${i === 0 ? "lg:row-span-2 bg-gradient-to-br from-fxblue to-[#0a5f8f] text-white" : ""} ${i === cats.length - 1 ? "md:col-span-2 lg:col-span-3" : ""}`}
                   data-reveal
                 >
                   <p className={`text-sm font-bold uppercase tracking-wider ${i === 0 ? "text-fxlime" : "text-fxblue"}`}>{getArticlesIn(c.slug).length} guías</p>

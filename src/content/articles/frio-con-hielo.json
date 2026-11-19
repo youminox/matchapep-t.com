@@ -1,0 +1,82 @@
+{
+  "slug": "frio-con-hielo",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/frio-con-hielo/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T frío",
+  "title": "Matcha Pep-T frío: iced matcha latte con hielo para el verano",
+  "seoTitle": "Matcha Pep-T frío: iced latte con hielo y para llevar",
+  "metaDescription": "Matcha Pep-T frío paso a paso: iced matcha latte con hielo, cómo evitar que se agüe en el verano limeño y cómo llevarlo en botella sin que pierda textura.",
+  "excerpt": "Cómo convertir tu sobre en un iced matcha latte que aguante el calor de febrero: hielo en el momento justo, versión en botella y trucos para la playa o la oficina.",
+  "quickAnswer": "Para preparar Matcha Pep-T frío, mezcla 1 sobre de 15 g en 180 ml de agua bien fría hasta disolverlo y recién entonces añade el hielo. Así evitas grumos y obtienes un iced matcha latte cremoso. Para llevarlo, prepáralo en una botella hermética, mantenlo frío y agítalo antes de cada sorbo.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A tall clear glass of iced pale green matcha latte with large ice cubes and condensation droplets, standing on a white wooden balcony table with a blurred view of the Pacific coastline and cliffs of Lima on a sunny summer afternoon, a stainless steel insulated bottle beside it, bright natural light, no packaging, no text, no logos, no people",
+    "alt": "Vaso alto de matcha latte helado con cubos de hielo grandes y una botella térmica en un balcón con vista al mar de Lima en verano"
+  },
+  "blocks": [
+    { "type": "p", "text": "Entre enero y marzo, Lima cambia de humor. El cielo gris se despeja, la humedad se queda y a media tarde cualquier bebida caliente parece una mala idea. Es la temporada en que el sobre de matcha pasa de la taza al vaso con hielo." },
+    { "type": "p", "text": "La versión helada no es una receta distinta, sino la misma base con dos o tres cuidados extra. El principal: el momento en que pones el hielo. Si quieres repasar primero las medidas exactas, la [receta clásica de 180 ml](/como-preparar-matcha-pep-t/receta-clasica-180-ml/) las explica paso a paso." },
+    { "type": "h2", "text": "Matcha Pep-T frío en vaso: la receta con hielo" },
+    { "type": "steps", "items": [
+      { "name": "Enfría el agua con anticipación", "text": "Deja una jarra o botella con agua segura en la refrigeradora desde la noche anterior. Cuanto más fría esté, menos hielo necesitarás después." },
+      { "name": "Mezcla sin hielo", "text": "Sirve 180 ml de esa agua fría en un vaso o shaker, agrega el contenido de 1 sobre de 15 g y mezcla o agita hasta que no quede polvo visible." },
+      { "name": "Espera unos segundos", "text": "Deja reposar medio minuto para que la bebida tome cuerpo. Dale una vuelta final con la cuchara." },
+      { "name": "Añade el hielo al final", "text": "Pasa la mezcla a un vaso alto con 3 o 4 cubos de hielo grandes. Si lo preparaste en shaker, puedes echar el hielo dentro y agitar 5 segundos más para enfriarlo de golpe." },
+      { "name": "Sirve y toma pronto", "text": "Disfrútalo en los siguientes 15 a 20 minutos, antes de que el hielo derretido diluya el sabor." }
+    ] },
+    { "type": "p", "text": "¿Por qué no echar todo junto desde el inicio? Porque el polvo se adhiere a la superficie fría y húmeda de los cubos y forma pequeñas costras difíciles de deshacer. Disolver primero y enfriar después da una textura mucho más pareja." },
+    { "type": "h3", "text": "Cómo evitar que se agüe" },
+    { "type": "ul", "items": [
+      "**Cubos grandes en lugar de hielo picado.** Tienen menos superficie y se derriten más lento.",
+      "**Agua previamente refrigerada.** Con la bebida ya fría, dos cubos bastan para mantenerla así.",
+      "**Vaso frío.** Si lo guardas cinco minutos en el congelador antes de servir, el hielo dura más.",
+      "**No subas la cantidad de polvo para compensar.** La proporción de la etiqueta sigue siendo 1 sobre por 180 ml de agua; el hielo solo cambia la temperatura."
+    ] },
+    { "type": "h2", "text": "Versión en botella para llevar" },
+    { "type": "p", "text": "En verano es habitual querer el matcha frío lejos de casa: en la playa del sur, en la universidad o en una reunión de trabajo en otro distrito. Hay dos formas de hacerlo, y la mejor depende de cuánto tiempo vas a estar fuera." },
+    { "type": "h3", "text": "Opción 1: preparado en casa" },
+    { "type": "p", "text": "Mezcla el sobre con los 180 ml de agua fría en un shaker o tomatodo con tapa hermética y guárdalo en una botella térmica de acero, de las que conservan el frío varias horas. Antes de cada sorbo, agita: la chía y la fibra tienden a asentarse en el fondo cuando la bebida reposa." },
+    { "type": "p", "text": "Esta opción funciona bien para trayectos de una o dos horas, por ejemplo el viaje en el Metropolitano o la Vía Expresa hasta la oficina. Evita dejar la botella al sol dentro del auto o en la arena: una bebida con proteína y crema de coco no debe pasar horas a temperatura de verano." },
+    { "type": "h3", "text": "Opción 2: sobre seco y agua aparte" },
+    { "type": "p", "text": "Para un día entero fuera, es más práctico llevar el sobre cerrado y una botella con agua fría. Lo mezclas en el momento, en el mismo tomatodo, y tienes la bebida recién hecha. El sobre individual viaja bien en la mochila o en el cooler de playa, siempre que no se moje." },
+    { "type": "callout", "variant": "tip", "title": "Para la playa o el gimnasio", "text": "Matcha Pep-T frío refresca, pero no reemplaza al agua. Si vas a pasar horas al sol en Punta Hermosa o Asia, o entrenas en pleno febrero, sigue hidratándote con agua. Recuerda también que el matcha contiene cafeína de forma natural, aunque la etiqueta no declara la cantidad." },
+    { "type": "cta", "text": "Abastécete antes de que empiece el calor: revisa el precio oficial de 14 sobres y compra con el distribuidor autorizado en Lima." },
+    { "type": "h2", "text": "Cómo prepararlo según tu día de verano" },
+    { "type": "table", "caption": "Ideas prácticas para tomarlo frío en distintas situaciones", "headers": ["Situación", "Cómo prepararlo", "Detalle útil"], "rows": [
+      ["Oficina con aire acondicionado", "Shaker con agua del dispensador frío y 2 cubos", "Prepáralo a media mañana, no en ayunas si eres sensible"],
+      ["Día de playa en el sur", "Sobre seco y agua en botella térmica", "Guarda el sobre en una bolsa con cierre, lejos de la arena húmeda"],
+      ["Clases en la universidad", "Preparado en casa en tomatodo térmico", "Agita antes de beber; termínalo en la mañana"],
+      ["Después de correr en el malecón", "Vaso con agua helada y hielo al final", "Toma agua sola antes para rehidratarte"],
+      ["Tarde de calor en casa", "Vaso alto, hielo grande y un chorrito de bebida vegetal", "Sírvelo al momento para mejor textura"]
+    ] },
+    { "type": "h2", "text": "Variantes heladas para no aburrirte" },
+    { "type": "p", "text": "Una vez que tienes la base fría, hay ajustes sencillos que cambian la experiencia sin alterar el sobre:" },
+    { "type": "ul", "items": [
+      "**Iced latte más cremoso:** añade un chorrito de bebida vegetal fría. La de avena da más cuerpo, como explicamos en el [latte con leche de avena](/como-preparar-matcha-pep-t/latte-con-avena/).",
+      "**Versión granizada:** si en lugar de cubos enteros usas la licuadora, obtienes una textura de bebida helada espesa; la receta completa está en el [frappé de Matcha Pep-T](/como-preparar-matcha-pep-t/frappe/).",
+      "**Con hielo de agua de coco:** congelar agua de coco en cubetas aporta un matiz que combina con la crema de coco del producto. Suma algo de azúcar natural, así que úsalo con moderación.",
+      "**Toque cítrico:** una tira de cáscara de limón en el vaso (sin jugo, para no cortar la mezcla) da un aroma fresco."
+    ] },
+    { "type": "h2", "text": "¿Cambia algo en frío respecto a caliente?" },
+    { "type": "p", "text": "En lo nutricional, nada: el hielo es agua y no suma calorías, así que la porción sigue aportando 46 kcal, 4.7 g de proteína, 4.9 g de fibra y 0.9 g de azúcares añadidos. Lo que sí cambia es la percepción del sabor. En frío, el dulzor se nota menos y el matcha resulta más refrescante; en caliente, las notas de coco y caramelo se sienten más intensas." },
+    { "type": "p", "text": "Un último detalle propio del verano limeño: la humedad. Con el calor, el polvo de los sobres abiertos se apelmaza rápido, así que ciérralos bien y guárdalos lejos de la cocina y del baño. Lo explicamos en [cómo conservar los sobres de Matcha Pep-T](/como-preparar-matcha-pep-t/como-conservar-los-sobres/). Y si quieres ver todas las formas de prepararlo, vuelve a la guía principal de [preparación de Matcha Pep-T](/como-preparar-matcha-pep-t/)." },
+    { "type": "p", "text": "Cuando necesites reponer para la temporada, puedes [comprar el doypack de 14 sobres](/comprar-matcha-pep-t/) a S/ 158.00, lo que equivale a S/ 11.29 por cada iced latte preparado en casa." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo preparar varios Matcha Pep-T fríos y guardarlos para la semana?", "a": "No es recomendable. Con las horas, la fibra y la chía espesan la mezcla y el sabor pierde frescura. Si lo preparas con antelación, refrigéralo tapado y tómalo dentro del mismo día." },
+    { "q": "¿Sirve el agua con gas?", "a": "No es la forma indicada en la etiqueta y la combinación de gas con una mezcla cremosa suele generar mucha espuma al agitar, sobre todo en shaker cerrado. Si quieres probarla, hazlo en vaso abierto y removiendo despacio." },
+    { "q": "¿Se puede preparar con hielo de la calle o de la bodega?", "a": "Lo más seguro es usar hielo hecho en casa con agua hervida, filtrada o de bidón. El hielo de origen desconocido no siempre se elabora con agua apta para consumo directo." },
+    { "q": "¿Cuál es mejor en verano, shaker o vaso?", "a": "El shaker es más práctico para llevar y deja una espuma ligera; el vaso permite añadir el hielo al final con más control. Ambos funcionan si mezclas primero y enfrías después." }
+  ],
+  "sources": [
+    { "label": "OMS – Inocuidad de los alimentos: cinco claves", "url": "https://www.who.int/publications/i/item/9789241594639" },
+    { "label": "Ficha de Matcha Pep-T en la tienda del distribuidor autorizado", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/frappe/",
+    "/como-preparar-matcha-pep-t/paletas-heladas/",
+    "/como-preparar-matcha-pep-t/receta-clasica-180-ml/",
+    "/como-preparar-matcha-pep-t/caliente/"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "en-la-oficina-y-teletrabajo",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/en-la-oficina-y-teletrabajo/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T en la oficina",
+  "title": "Matcha Pep-T en la oficina y el teletrabajo: guía práctica",
+  "seoTitle": "Matcha Pep-T en la oficina: cómo llevarlo y prepararlo",
+  "metaDescription": "Matcha Pep-T en la oficina: cómo llevar los sobres, prepararlo con agua del dispensador, frenar el picoteo de escritorio y sobrevivir a reuniones largas.",
+  "excerpt": "Sobres en la mochila, agua del dispensador y un tomatodo con tapa: todo lo que necesitas para tomar Matcha Pep-T en el trabajo o en casa sin complicarte.",
+  "quickAnswer": "Tomar Matcha Pep-T en la oficina es sencillo: llevas los sobres de 15 g en la mochila, mezclas uno con 180 ml de agua del dispensador, fría o caliente sin hervir, en un tomatodo con tapa y agitas. Funciona bien a media tarde o antes de una reunión larga para no recurrir a galletas o gaseosas.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A reusable glass bottle filled with green matcha latte on a tidy office desk next to a closed laptop, a notebook with a pen and a small potted succulent, large window with a hazy grey city skyline of San Isidro in the background, soft daylight, no people, no packaging, no text, no logos",
+    "alt": "Botella de vidrio con matcha latte sobre un escritorio de oficina junto a una laptop, una libreta y una planta pequeña, con vista a la ciudad"
+  },
+  "blocks": [
+    { "type": "p", "text": "Son las 4:30 p. m. en una oficina de San Isidro. Alguien trae una torta por un cumpleaños, en la cocina hay un paquete de galletas abierto desde el lunes y todavía falta una reunión de hora y media antes de enfrentar el tráfico de la Javier Prado. Si trabajas desde casa, el escenario cambia, pero el refrigerador a cinco pasos del escritorio cumple el mismo papel." },
+    { "type": "p", "text": "El entorno laboral es, para mucha gente, el lugar donde más se pica sin hambre. Esta guía explica cómo llevar y preparar Matcha Pep-T en el trabajo de forma práctica. Para entender el producto en general, puedes revisar primero [qué es Matcha Pep-T y para qué sirve](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "Por qué Matcha Pep-T en la oficina tiene lógica" },
+    { "type": "p", "text": "No hace falta licuadora ni refrigeración. Cada sobre individual pesa 15 g, entra en cualquier bolsillo de la mochila y se prepara con agua, que es lo único que hay en todas las oficinas. Por porción aporta **46 kcal, 4.7 g de proteína y 4.9 g de fibra**, con 0.9 g de azúcares añadidos y endulzado con estevia." },
+    { "type": "p", "text": "Esa combinación lo convierte en una alternativa más ordenada que el snack de máquina expendedora o la segunda gaseosa del día. No es un almuerzo ni un sustituto de comida: es una bebida para los huecos de la jornada." },
+    { "type": "h2", "text": "Cómo prepararlo con el agua del dispensador" },
+    { "type": "p", "text": "La mayoría de oficinas tiene un dispensador con caño frío y caliente. Ambos sirven. El agua caliente de estos equipos suele salir muy caliente, así que conviene dejarla reposar unos segundos o mezclarla con un poco de fría para no usarla hirviendo." },
+    { "type": "steps", "items": [
+      { "name": "Mide 180 ml", "text": "Usa un tomatodo o shaker con marcas de medida. Si tu botella no las tiene, mide una vez en casa con una taza medidora y marca la línea de 180 ml con un plumón indeleble." },
+      { "name": "Sirve el agua primero", "text": "Llena hasta la marca con agua fría del dispensador o con agua caliente que no esté hirviendo. Echar el agua antes que el polvo reduce los grumos." },
+      { "name": "Agrega un sobre", "text": "Vierte el contenido completo de un sobre de 15 g." },
+      { "name": "Cierra y agita", "text": "Tapa bien y agita durante unos 15 a 20 segundos hasta que no queden grumos. Si usas taza abierta, mezcla con una cucharita o un mini batidor." },
+      { "name": "Tómalo con calma", "text": "No lo tomes de un trago mientras respondes correos. Bebe a sorbos durante unos minutos para que funcione como una verdadera pausa." }
+    ] },
+    { "type": "p", "text": "Si siempre te quedan grumos, revisa los trucos de [cómo preparar Matcha Pep-T en shaker sin grumos](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/)." },
+    { "type": "callout", "variant": "tip", "title": "Kit mínimo para el escritorio", "text": "Un tomatodo con tapa hermética y marca de 180 ml, de dos a cinco sobres para la semana guardados en un táper o bolsa con cierre, y una cucharita de repuesto. Evita dejar los sobres junto a la ventana o encima del CPU, donde se calientan." },
+    { "type": "h2", "text": "El picoteo de escritorio: dónde puede ayudarte" },
+    { "type": "p", "text": "El picoteo en el trabajo rara vez es hambre. Es aburrimiento, estrés, el correo que no quieres contestar o simplemente que la comida está ahí. Tener un ritual alternativo ayuda a cortar ese automatismo." },
+    { "type": "ul", "items": [
+      "**Las 4 p. m.**: es la hora típica del bajón. Un sobre frío puede reemplazar la escapada al kiosko por galletas o un chocolate.",
+      "**Cumpleaños y tortas de oficina**: si llegas con tu bebida ya preparada, es más fácil aceptar una porción pequeña o pasar sin sentirte excluido.",
+      "**Teletrabajo**: prepara tu sobre antes de sentarte a trabajar la tarde y déjalo junto a la laptop; así reduces las visitas a la cocina.",
+      "**Horas extra**: cuando te quedas hasta tarde, en lugar de pedir delivery por ansiedad, una bebida te da tiempo para decidir con calma qué cenar al llegar."
+    ] },
+    { "type": "p", "text": "Si tu problema específico son los antojos de dulce de la tarde, hay una guía dedicada a [la ansiedad por dulce en la tarde](/que-es-matcha-pep-t/ansiedad-por-dulce-en-la-tarde/) con más estrategias." },
+    { "type": "cta", "text": "Arma tu kit de oficina: revisa el precio del doypack de 14 sobres, a S/ 11.29 por sobre." },
+    { "type": "h2", "text": "Reuniones largas y jornadas de pantalla" },
+    { "type": "p", "text": "Las reuniones de dos horas, presenciales o por Teams, son terreno fértil para el picoteo: la bandeja de galletas al centro de la mesa o el paquete de piqueos junto al teclado cuando la cámara está apagada. Llegar con tu bebida preparada te da algo en las manos y en la boca sin tener que levantarte." },
+    { "type": "p", "text": "Un detalle importante: el matcha contiene cafeína de forma natural, pero **la etiqueta no declara cuánta**. Si te pones nervioso con el café o te cuesta dormir, prueba primero en reuniones de la mañana o del mediodía y observa cómo te sientes. Para elegir el horario que mejor te acomode, revisa la guía sobre [la mejor hora para tomarlo](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "h3", "text": "En casa vs. en la oficina" },
+    { "type": "table", "caption": "Diferencias prácticas según dónde trabajes", "headers": ["Situación", "Oficina", "Teletrabajo"], "rows": [
+      ["Agua", "Dispensador frío y caliente", "Hervidor o caño con filtro; deja enfriar el agua hervida"],
+      ["Tentación principal", "Galletas compartidas, tortas, kiosko", "Refrigerador y alacena a pocos pasos"],
+      ["Mejor recipiente", "Tomatodo con tapa hermética", "Taza grande o vaso con hielo"],
+      ["Momento útil", "Antes de la reunión de la tarde", "Al iniciar el bloque de trabajo de la tarde"]
+    ] },
+    { "type": "h2", "text": "Cómo guardar los sobres en el trabajo" },
+    { "type": "p", "text": "Los sobres deben mantenerse en un lugar fresco y seco. En verano, una mochila al sol dentro de la combi o un cajón cerca de la ventana pueden calentarse bastante. Guarda tu reserva en un cajón interior y lleva solo los sobres de la semana. Si un sobre se abrió o se mojó, descártalo. Más detalles en [cómo conservar los sobres](/como-preparar-matcha-pep-t/como-conservar-los-sobres/)." },
+    { "type": "callout", "variant": "aviso", "title": "Un sobre al día es suficiente", "text": "Que sea fácil de preparar no significa que debas tomar varios. La etiqueta indica 1 sobre en 180 ml de agua y no exceder lo recomendado. Si estás embarazada, tienes alguna condición médica o tomas medicación, consulta antes con un profesional de salud." },
+    { "type": "p", "text": "Si quieres armar tu reserva para el trabajo, puedes [comprar Matcha Pep-T](/comprar-matcha-pep-t/) y recibirlo en tu casa u oficina." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo preparar el sobre en casa y llevarlo listo?", "a": "Sí, pero es mejor tomarlo dentro de pocas horas y mantenerlo frío, sobre todo si le agregaste leche. Si lo preparas solo con agua, agítalo de nuevo antes de beber porque el polvo tiende a asentarse." },
+    { "q": "¿Se puede preparar con el café de la máquina de la oficina?", "a": "La preparación indicada en la etiqueta es con 180 ml de agua. Mezclarlo con café cambia el sabor y suma la cafeína del café a la del matcha, que no está declarada. Lo más prudente es seguir la preparación original." },
+    { "q": "¿Huele fuerte o llama la atención en una oficina abierta?", "a": "Tiene un aroma suave a matcha latte con notas de coco y caramelo. No es invasivo, y preparado en un tomatodo cerrado pasa prácticamente desapercibido." },
+    { "q": "¿Cuántos sobres conviene llevar a la oficina?", "a": "Lleva los que vayas a usar en la semana laboral, normalmente cinco como máximo si tomas uno por día de trabajo. Así evitas que se acumulen en el cajón y se expongan al calor." }
+  ],
+  "sources": [
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "FDA – Daily Value on the Nutrition and Supplement Facts Labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" }
+  ],
+  "related": ["/como-preparar-matcha-pep-t/en-shaker-sin-grumos/", "/que-es-matcha-pep-t/ansiedad-por-dulce-en-la-tarde/", "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/", "/como-preparar-matcha-pep-t/como-conservar-los-sobres/"]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "nextida-gc-estudios",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/nextida-gc-estudios/",
+  "isPillar": false,
+  "primaryKeyword": "Nextida GC estudios",
+  "title": "Nextida GC estudios: qué se probó, con qué dosis y sus límites",
+  "seoTitle": "Nextida GC estudios: resultados, dosis y limitaciones",
+  "metaDescription": "Nextida GC estudios explicados: ensayos en ratones y pilotos en humanos con 5 y 10 g, efecto en GLP-1, GIP y glucosa, y por qué no aplican tal cual al sobre.",
+  "excerpt": "Repasamos los estudios del fabricante sobre Nextida GC: qué midieron, con cuánto ingrediente, en quiénes y qué límites tienen antes de sacar conclusiones sobre Matcha Pep-T.",
+  "quickAnswer": "Los Nextida GC estudios son investigaciones del propio fabricante, Rousselot: un trabajo preclínico en ratones y ensayos piloto en personas sanas y con prediabetes. Con 5 g y 10 g del ingrediente aislado, tomados unos 30 minutos antes de comer, se observó menor pico de glucosa y más GLP-1 y GIP. No evaluaron el producto Matcha Pep-T.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "Minimal scientific still life: a notebook with handwritten graph lines, a pair of reading glasses and a glass of iced green matcha latte on a white desk near a window with grey Lima winter sky, calm editorial style, no text legible, no logos, no packaging, no faces",
+    "alt": "Cuaderno con gráficos a mano, lentes de lectura y un vaso de matcha latte frío sobre un escritorio blanco"
+  },
+  "blocks": [
+    { "type": "p", "text": "En los últimos meses, el término GLP-1 se volvió habitual en reels y grupos de WhatsApp, muchas veces acompañado de frases que suenan demasiado bien. Cuando un producto menciona un ingrediente \"con estudios\", la pregunta sensata no es si existen, sino **qué estudios son, con cuánta cantidad y en quiénes**." },
+    { "type": "p", "text": "Eso es lo que hacemos aquí con Nextida GC, el péptido de colágeno de Rousselot que encabeza la lista de ingredientes de Matcha Pep-T. Si todavía no tienes claro qué es este ingrediente, empieza por [qué es Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-que-es/) y vuelve después." },
+    { "type": "h2", "text": "Nextida GC estudios: el mapa en una tabla" },
+    { "type": "p", "text": "Antes de entrar al detalle, este es el panorama general de la investigación que comunica el fabricante:" },
+    { "type": "table", "caption": "Resumen de la investigación del fabricante sobre Nextida GC (ingrediente aislado)", "headers": ["Tipo de estudio", "Participantes", "Dosis del ingrediente", "Hallazgo principal comunicado"], "rows": [["Preclínico", "Ratones", "No aplica a humanos", "Mejor respuesta a la glucosa y señales de liberación de incretinas"], ["Piloto en humanos", "Adultos sanos", "5 g y 10 g, ~30 min antes de comer", "Con 10 g, aumento significativo de GLP-1; menor pico de glucosa"], ["Piloto en humanos", "Personas con prediabetes", "5 g y 10 g, ~30 min antes de comer", "Aumento de GLP-1 también con 5 g; vaciamiento gástrico más lento"]] },
+    { "type": "h2", "text": "El punto de partida: el estudio en ratones" },
+    { "type": "p", "text": "Como casi todo ingrediente nuevo, Nextida GC se probó primero en animales. El trabajo preclínico, difundido en la revista científica *Food Science & Nutrition*, evaluó en ratones cómo estos péptidos influían en la manera de manejar la glucosa y en la liberación de hormonas intestinales." },
+    { "type": "p", "text": "Este tipo de estudio sirve para formular hipótesis y descartar ideas, no para hacer recomendaciones a personas. El metabolismo de un ratón de laboratorio no es el de un oficinista limeño que almuerza a las dos de la tarde. Por eso el paso siguiente fueron los pilotos en humanos." },
+    { "type": "h2", "text": "Los ensayos piloto en humanos" },
+    { "type": "p", "text": "Rousselot condujo ensayos piloto en dos grupos: **adultos sanos** y **personas con prediabetes**. Un estudio piloto es, por definición, pequeño y exploratorio: busca ver si un efecto aparece y si vale la pena investigarlo a mayor escala." },
+    { "type": "h3", "text": "Dosis de 5 g y 10 g" },
+    { "type": "p", "text": "Se compararon dos cantidades del ingrediente aislado: **5 g** y **10 g**. Según el fabricante, en personas sanas el aumento de GLP-1 fue estadísticamente significativo con **10 g**, mientras que en el grupo con prediabetes también se observó con **5 g**. Es decir, la respuesta pareció depender tanto de la dosis como del perfil metabólico de cada grupo." },
+    { "type": "h3", "text": "El momento: unos 30 minutos antes de comer" },
+    { "type": "p", "text": "Un detalle que suele pasarse por alto: los participantes tomaron Nextida GC alrededor de **30 minutos antes de una comida**. La lógica es que los péptidos lleguen al intestino y estimulen las hormonas antes de que empiece la digestión del plato. Por eso, cuando se habla de un horario sugerido para la bebida, se toma como referencia esa ventana; lo desarrollamos en [a qué hora tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "h2", "text": "GLP-1, GIP y pico de glucosa: qué se midió" },
+    { "type": "p", "text": "Los estudios se centraron en tres marcadores. Vale la pena entenderlos para leer los resultados sin exagerarlos:" },
+    { "type": "ul", "items": ["**GLP-1** (péptido similar al glucagón tipo 1): hormona que libera el intestino al comer; participa en la saciedad, en la secreción de insulina y en la velocidad con que el estómago se vacía. Tienes una explicación completa en [qué es GLP-1](/ciencia-matcha-pep-t/que-es-glp-1/).", "**GIP** (polipéptido insulinotrópico dependiente de glucosa): otra hormona intestinal de la misma familia, las incretinas, que también estimula la insulina después de comer.", "**Pico de glucosa posprandial**: el punto más alto que alcanza el azúcar en sangre tras una comida. Un pico más bajo y más gradual suele considerarse una respuesta más estable."] },
+    { "type": "callout", "variant": "fabricante", "title": "Cifras comunicadas por Rousselot", "text": "El fabricante comunica reducciones promedio del pico de glucosa de hasta 42 % y un retraso del vaciamiento gástrico en personas con prediabetes, además de mayor liberación de GLP-1 y GIP. Son resultados de sus propios estudios con 5–10 g del ingrediente aislado, no del producto Matcha Pep-T." },
+    { "type": "p", "text": "La expresión **\"hasta\"** es clave: indica el mejor resultado promedio observado, no lo que le pasará a cada persona. En estudios pequeños, las diferencias individuales suelen ser grandes." },
+    { "type": "cta", "text": "Si después de conocer la evidencia quieres incluir Matcha Pep-T en tu rutina, revisa el precio vigente y las opciones de compra." },
+    { "type": "h2", "text": "Limitaciones que conviene tener presentes" },
+    { "type": "p", "text": "Leer un estudio con criterio significa mirar también lo que no demuestra. En el caso de Nextida GC, estas son las principales reservas:" },
+    { "type": "ol", "items": ["**Son estudios del fabricante.** La investigación fue promovida por la empresa que vende el ingrediente. No invalida los resultados, pero hace deseable que otros grupos independientes los repliquen.", "**Son pilotos.** Pocos participantes y periodos cortos. Sirven como señal, no como prueba definitiva.", "**Midieron respuestas agudas.** Se observó lo que pasa alrededor de una comida, no cambios sostenidos de peso o de salud a largo plazo.", "**Usaron el ingrediente solo.** Nextida GC se tomó aislado, no dentro de una bebida con fibra, coco, matcha y otros componentes.", "**La dosis por sobre no está declarada.** Este punto merece una sección propia."] },
+    { "type": "h2", "text": "Qué significa todo esto para un sobre de Matcha Pep-T" },
+    { "type": "p", "text": "La etiqueta de Matcha Pep-T no indica cuántos gramos de Nextida GC hay en cada sobre de 15 g. Lo único que declara es la **proteína total por porción: 4.7 g**. Como el colágeno es la principal fuente de proteína de la fórmula, es razonable pensar que la cantidad de péptidos ronda esa cifra, pero no es posible saber si alcanza los 5 g estudiados. Lo que sí puede afirmarse es que un sobre difícilmente se acerca a los 10 g." },
+    { "type": "p", "text": "Por eso, lo honesto es decir que Matcha Pep-T **contiene un ingrediente con estudios prometedores**, no que el producto haya demostrado esos efectos. Tampoco es un análogo de GLP-1 como la semaglutida; las diferencias de fondo están en [Matcha Pep-T vs Ozempic](/ciencia-matcha-pep-t/vs-ozempic/)." },
+    { "type": "callout", "variant": "aviso", "title": "Si tienes una condición de salud", "text": "Matcha Pep-T es un alimento en polvo y no un medicamento: no trata ni previene la diabetes ni la prediabetes. Si tienes alguna de estas condiciones, estás embarazada o tomas medicación para la glucosa, consulta con tu médico o endocrinólogo antes de usarlo y no modifiques tu tratamiento por tu cuenta." },
+    { "type": "p", "text": "Para ver cómo encaja este ingrediente con el resto de la fórmula, consulta la guía de [ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Y si decides probarlo, en la página de [compra de Matcha Pep-T](/comprar-matcha-pep-t/) encuentras el precio de referencia de S/ 158.00 por 14 sobres." }
+  ],
+  "faqs": [
+    { "q": "¿Hay estudios independientes sobre Nextida GC?", "a": "La investigación que se comunica públicamente proviene del fabricante, Rousselot. Lo ideal sería que equipos sin vínculo comercial repitieran los ensayos con más participantes; mientras tanto, conviene leer los resultados como preliminares." },
+    { "q": "¿Tomar dos sobres al día replicaría la dosis de 10 g?", "a": "No se puede afirmar, porque la cantidad de Nextida GC por sobre no está declarada. Además, la etiqueta indica 1 sobre en 180 ml de agua como porción y recomienda no exceder lo indicado." },
+    { "q": "¿Los resultados aplican a personas con diabetes tipo 2?", "a": "Los pilotos que comunica el fabricante se hicieron en personas sanas y con prediabetes, no en pacientes con diabetes tipo 2 en tratamiento. Si tienes diabetes, la decisión de usar cualquier producto debe pasar por tu médico." },
+    { "q": "¿Dónde puedo leer las fuentes originales?", "a": "Rousselot resume la información en la página oficial de Nextida GC, y el trabajo preclínico puede ubicarse en PubMed. Te dejamos ambos enlaces en las fuentes de este artículo." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "Food Science & Nutrition – estudio preclínico en ratones (búsqueda en PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Nextida+collagen+peptide+glucose" },
+    { "label": "NIH MedlinePlus – Glucosa en la sangre", "url": "https://medlineplus.gov/spanish/bloodsugar.html" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/nextida-gc-que-es/", "/ciencia-matcha-pep-t/que-es-glp-1/", "/ciencia-matcha-pep-t/", "/opiniones-matcha-pep-t/diabetes/"]
+}

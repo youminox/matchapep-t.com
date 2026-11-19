@@ -1,0 +1,75 @@
+{
+  "slug": "precio-socio-vs-cliente",
+  "pillar": "precio-matcha-pep-t-peru",
+  "path": "/precio-matcha-pep-t-peru/precio-socio-vs-cliente/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T precio socio",
+  "title": "Matcha Pep-T precio socio vs. cliente: qué cambia si te afilias",
+  "seoTitle": "Matcha Pep-T precio socio vs. cliente: diferencias",
+  "metaDescription": "Matcha Pep-T precio socio vs. precio de cliente: qué significa afiliarte a FuXion, para qué sirven los 24 puntos y cómo saber si te conviene, sin promesas.",
+  "excerpt": "Comprar como cliente o registrarte como socio FuXion: diferencias de precio, qué son los 24 puntos y preguntas que hacer antes de afiliarte.",
+  "quickAnswer": "El Matcha Pep-T precio socio es el precio preferente que FuXion ofrece a quienes se registran como afiliados, menor que el precio de lista de S/ 158.00 que paga un cliente. Además, los 24 puntos del producto cuentan dentro del sistema de afiliados. Afiliarte implica aceptar condiciones de la marca; no es una vía garantizada de ingresos.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two glasses of iced matcha latte on a small balcony table overlooking a Lima neighborhood at golden hour, a notebook and pen beside them, calm and conversational mood, no packaging, no text, no logos, no faces",
+    "alt": "Dos vasos de matcha latte frío sobre una mesa de balcón con una libreta al atardecer en Lima"
+  },
+  "blocks": [
+    { "type": "p", "text": "Al revisar la tienda oficial puede que veas dos realidades: el precio que paga cualquier persona que entra a comprar y un precio distinto para quienes están registrados con FuXion. Es normal preguntarse si vale la pena registrarse solo para pagar menos por tu matcha latte." },
+    { "type": "p", "text": "Antes de responder, una aclaración de transparencia: este sitio lo administra un distribuidor independiente autorizado de FuXion, que puede beneficiarse tanto si compras como cliente como si te afilias. Por eso aquí vas a encontrar las dos opciones explicadas con la misma claridad, sin empujarte hacia ninguna. Puedes leer más [sobre el distribuidor](/sobre-el-distribuidor/)." },
+    { "type": "h2", "text": "Dos formas de comprar el mismo producto" },
+    { "type": "p", "text": "El doypack es idéntico: 14 sobres de 15 g, la misma fórmula, la misma etiqueta. Lo que cambia es tu relación con la marca y, con ella, el precio y las condiciones." },
+    { "type": "table", "caption": "Cliente frente a socio o afiliado FuXion", "headers": ["Aspecto", "Cliente", "Socio o afiliado"], "rows": [["Registro", "Solo tus datos de entrega", "Inscripción formal con FuXion"], ["Precio", "Precio de lista: S/ 158.00", "Precio preferente, menor al de lista"], ["Puntos (24 por doypack)", "Dato informativo, no cambia lo que pagas", "Se suman a tu volumen dentro del sistema de afiliados"], ["Compromisos", "Ninguno: compras cuando quieres", "Los que fije FuXion en sus términos de afiliación"], ["Ideal para", "Quien lo toma ocasionalmente o quiere probar", "Quien lo consume con regularidad y acepta las condiciones"]] },
+    { "type": "h2", "text": "Matcha Pep-T precio socio: cómo funciona" },
+    { "type": "p", "text": "FuXion trabaja con un modelo de venta directa: además de vender al público, permite que las personas se registren como afiliados. A ellos les ofrece un **precio preferente**, inferior al de lista, en todo su catálogo, incluido Matcha Pep-T." },
+    { "type": "p", "text": "No publicamos aquí una cifra exacta del precio de socio porque depende de las condiciones vigentes de la marca y la ves al iniciar sesión como afiliado. Lo importante es entender la lógica: el ahorro por doypack es la diferencia entre S/ 158.00 y el precio preferente que te muestre la tienda." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "Según FuXion, sus afiliados acceden a precios preferentes y a programas internos basados en puntos. Las condiciones exactas de inscripción y permanencia las define la empresa y pueden cambiar; consúltalas siempre en la información oficial antes de registrarte." },
+    { "type": "h2", "text": "Qué son los 24 puntos" },
+    { "type": "p", "text": "Cada producto FuXion tiene asignado un puntaje; el de Matcha Pep-T es **24 puntos**. Es la unidad con la que la empresa mide el volumen de compra de sus afiliados." },
+    { "type": "ul", "items": [
+      "**Como cliente**, los puntos aparecen en la ficha, pero no te generan nada ni modifican tu precio.",
+      "**Como socio**, se acumulan en tu cuenta y pueden contar para requisitos o programas internos de la marca, según sus reglas.",
+      "**En ningún caso** los puntos son dinero ni equivalen a un saldo que puedas cobrar."
+    ] },
+    { "type": "cta", "text": "¿Prefieres lo simple? Compra Matcha Pep-T como cliente a S/ 158.00 en la tienda oficial, sin registros ni compromisos." },
+    { "type": "h2", "text": "Cómo saber si te conviene: haz tu propia cuenta" },
+    { "type": "p", "text": "El ahorro solo tiene sentido si lo comparas con tu consumo real. La fórmula es:" },
+    { "type": "p", "text": "**Ahorro mensual = (S/ 158.00 − precio de socio) × doypacks que compras al mes**" },
+    { "type": "p", "text": "Un ejemplo ilustrativo, con una diferencia inventada solo para el cálculo: si el precio de socio fuera S/ 10 menor, quien toma un sobre diario (unos 2 doypacks al mes) ahorraría alrededor de S/ 20 mensuales; quien lo toma tres veces por semana (cerca de 1 doypack), unos S/ 10. Reemplaza esa diferencia por la real cuando la conozcas." },
+    { "type": "p", "text": "Después, resta cualquier costo asociado a la afiliación que indique FuXion. Si lo que queda es poco o nada, comprar como cliente es más práctico. Para estimar cuántos doypacks usarías al mes, revisa los escenarios de [presupuesto mensual de Matcha Pep-T](/precio-matcha-pep-t-peru/presupuesto-mensual/)." },
+    { "type": "h3", "text": "Preguntas que debes hacer antes de afiliarte" },
+    { "type": "ol", "items": [
+      "¿Hay un costo de inscripción o un kit obligatorio?",
+      "¿Existe un consumo mínimo mensual para mantener el precio preferente?",
+      "¿Qué pasa si dejo de comprar algunos meses?",
+      "¿Puedo darme de baja cuando quiera y sin penalidades?",
+      "¿Dónde están por escrito los términos y condiciones?"
+    ] },
+    { "type": "p", "text": "Si alguien no responde con claridad estas preguntas o te presiona para decidir rápido, tómate tu tiempo. Una buena decisión de compra no necesita urgencia." },
+    { "type": "callout", "variant": "aviso", "title": "Sin promesas de ingresos", "text": "Registrarte como socio te da acceso a un precio preferente, no a un ingreso asegurado. Desconfía de cualquiera que te prometa ganancias, recuperar tu inversión en semanas o «tomar gratis» el producto. Aquí no hacemos ese tipo de promesas." },
+    { "type": "h2", "text": "Lo que no cambia, seas socio o cliente" },
+    { "type": "ul", "items": [
+      "El producto y su etiqueta: 1 sobre en 180 ml de agua, 46 kcal, 4.7 g de proteína y 4.9 g de fibra por porción.",
+      "La recomendación de no superar la porción indicada en el envase.",
+      "La importancia de comprar en la tienda oficial y no a revendedores.",
+      "Los medios de pago y el proceso de envío, que se confirman en el checkout, como explicamos en [formas de pago de Matcha Pep-T](/precio-matcha-pep-t-peru/formas-de-pago/)."
+    ] },
+    { "type": "p", "text": "Tampoco confundas el precio de socio con una oferta temporal: el primero depende de tu registro y el segundo es una campaña abierta a todos. Lo diferenciamos en [ofertas y promociones de Matcha Pep-T](/precio-matcha-pep-t-peru/ofertas-y-promociones/). Para la ficha completa con precio, puntos y envío, vuelve a la [guía del precio de Matcha Pep-T en Perú](/precio-matcha-pep-t-peru/), y cuando estés listo, entra a la página para [comprar Matcha Pep-T](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Tengo que vender para mantenerme como socio?", "a": "Las obligaciones de un afiliado las establece FuXion en sus términos vigentes. Pregunta específicamente si existe algún requisito de consumo o actividad, y pide que te muestren dónde está por escrito antes de inscribirte." },
+    { "q": "¿Puedo comprar como cliente y afiliarme más adelante?", "a": "Sí. Puedes empezar comprando a precio de lista, ver si el producto encaja en tu rutina y decidir después si te interesa registrarte. No necesitas tomar esa decisión en tu primer pedido." },
+    { "q": "¿El socio recibe un producto diferente?", "a": "No. El doypack de Matcha Pep-T es el mismo para clientes y socios: 14 sobres de 15 g con la misma fórmula y la misma etiqueta. Solo cambian el precio y las condiciones de compra." },
+    { "q": "¿Los 24 puntos se pueden canjear por dinero?", "a": "No. Los puntos son una medida interna de volumen de compra que FuXion usa en sus programas para afiliados. No son un saldo ni una moneda que puedas cobrar." }
+  ],
+  "sources": [
+    { "label": "Tienda oficial del distribuidor – Matcha Pep-T", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" },
+    { "label": "Indecopi – Protección al consumidor", "url": "https://www.gob.pe/indecopi" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/presupuesto-mensual/",
+    "/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/",
+    "/precio-matcha-pep-t-peru/ofertas-y-promociones/",
+    "/precio-matcha-pep-t-peru/formas-de-pago/"
+  ]
+}

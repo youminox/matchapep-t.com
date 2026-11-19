@@ -1,0 +1,83 @@
+{
+  "slug": "suplementos-glp-1-en-peru",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/suplementos-glp-1-en-peru/",
+  "isPillar": false,
+  "primaryKeyword": "suplementos GLP-1 Perú",
+  "title": "Suplementos GLP-1 en Perú: cómo evaluar lo que prometen",
+  "seoTitle": "Suplementos GLP-1 en Perú: guía para evaluar claims",
+  "metaDescription": "Suplementos GLP-1 en Perú: probióticos, fibras, péptidos y extractos que se venden como «GLP-1 natural», cómo evaluarlos y dónde encaja Matcha Pep-T.",
+  "excerpt": "La etiqueta «GLP-1» se ha vuelto un imán de ventas. Ordenamos las categorías de productos que circulan en Perú, te damos un filtro de siete preguntas para evaluarlos y aplicamos ese mismo filtro a Matcha Pep-T.",
+  "quickAnswer": "Los suplementos GLP-1 en Perú son productos de venta libre, como probióticos, fibras, péptidos o extractos vegetales, que dicen estimular la liberación natural de esta hormona. No son medicamentos como la semaglutida. Su evidencia suele ser de ingredientes aislados, en dosis concretas y con efectos modestos, por eso conviene revisar dosis, estudios y registro sanitario antes de comprar.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A pharmacy-style wooden shelf with unlabeled amber glass jars, a small bowl of psyllium husk, a bowl of chia seeds and a glass of green matcha latte in soft focus, clean bright light, editorial still life, no packaging labels, no text, no logos, no people",
+    "alt": "Estante de madera con frascos ámbar sin etiqueta, cuencos de psyllium y chía y un vaso de matcha latte"
+  },
+  "blocks": [
+    { "type": "p", "text": "Hace unos años, casi nadie en Lima había oído hablar del GLP-1. Hoy la sigla aparece en anuncios de Instagram, en vitrinas de farmacias de barrio, en tiendas de suplementos de Jesús María y en publicaciones que prometen «el mismo efecto que la inyección, pero natural». El responsable del boom es el éxito mundial de los fármacos agonistas de GLP-1." },
+    { "type": "p", "text": "El problema es que, bajo esa misma etiqueta, se venden cosas muy diferentes, con niveles de evidencia que van de razonables a inexistentes. Esta guía no recomienda marcas: te ayuda a ordenar el panorama y a tomar decisiones con criterio, incluida la de si Matcha Pep-T tiene sentido para ti." },
+    { "type": "h2", "text": "Qué significa «GLP-1 natural» y qué no" },
+    { "type": "p", "text": "El GLP-1 es una hormona que tu intestino libera al comer; participa en la saciedad, la secreción de insulina y el vaciamiento del estómago. Si quieres la explicación completa, empieza por [qué es GLP-1](/ciencia-matcha-pep-t/que-es-glp-1/)." },
+    { "type": "p", "text": "Los medicamentos como la semaglutida *imitan* esa hormona y actúan durante muchas horas, con receta y control médico. Los productos de venta libre que se presentan como «GLP-1 natural», en cambio, buscan *estimular* que tu cuerpo libere un poco más de su propia hormona después de comer. La diferencia de potencia y de evidencia es enorme; la detallamos en [Matcha Pep-T vs Ozempic](/ciencia-matcha-pep-t/vs-ozempic/)." },
+    { "type": "h2", "text": "Panorama de suplementos GLP-1 en Perú por categoría" },
+    { "type": "p", "text": "Lo que se encuentra en farmacias, tiendas naturistas, marketplaces y redes sociales puede agruparse en cinco familias. Las descripciones son generales; cada producto concreto debe juzgarse por su propia etiqueta y sus propios estudios." },
+    { "type": "table", "caption": "Categorías de productos que se promocionan con relación al GLP-1 (resumen general)", "headers": ["Categoría", "Qué suelen prometer", "Qué dice la evidencia en general", "Qué revisar"], "rows": [
+      ["Probióticos", "Mejorar la microbiota para «activar» el GLP-1", "Algunas cepas se investigan por su relación con GLP-1 y la insulina; abundan los estudios en animales y pilotos pequeños", "Cepa exacta, dosis en UFC y estudios con esa cepa"],
+      ["Fibras prebióticas o viscosas", "Saciedad y control del apetito", "La fermentación de la fibra estimula hormonas intestinales; efectos modestos y dependientes del tipo de fibra", "Tipo de fibra y gramos por porción"],
+      ["Proteínas y péptidos", "Saciedad y menor pico de glucosa", "La proteína estimula GLP-1 de forma natural; algunos péptidos específicos tienen estudios del fabricante", "Qué péptido, cantidad declarada y quién hizo los estudios"],
+      ["Extractos vegetales", "Efecto similar al fármaco", "Algunos, como la berberina, tienen ensayos sobre glucosa, con molestias digestivas e interacciones posibles", "Estandarización, dosis y posibles interacciones"],
+      ["Formatos sin lógica fisiológica", "«Activar» el GLP-1 con parches o gotas", "Sin evidencia sólida conocida", "Desconfiar"]
+    ] },
+    { "type": "p", "text": "Un apunte importante: muchos productos mezclan varias categorías en una sola fórmula. Eso no suma automáticamente sus efectos, sobre todo si cada ingrediente va en una dosis menor a la estudiada." },
+    { "type": "h2", "text": "Siete preguntas para evaluar cualquier claim sobre GLP-1" },
+    { "type": "ol", "items": [
+      "**¿La evidencia es del producto o de un ingrediente?** Casi siempre es del ingrediente aislado. Es válido mencionarlo, pero no equivale a probar el producto terminado.",
+      "**¿Qué dosis se estudió y cuánto trae tu porción?** Si la etiqueta no declara la cantidad, no puedes compararla con los estudios.",
+      "**¿En quiénes se probó?** No es lo mismo un estudio en ratones que un piloto con 20 adultos sanos o un ensayo grande con personas con prediabetes.",
+      "**¿Qué se midió?** Un aumento de GLP-1 en sangre no es lo mismo que menos hambre, y menos hambre no es lo mismo que bajar de peso.",
+      "**¿Quién financió el estudio?** La investigación de la industria puede ser rigurosa, pero merece confirmación independiente.",
+      "**¿Tiene registro sanitario y etiqueta completa en español?** Ingredientes, tabla nutricional, lote y vencimiento deberían ser visibles.",
+      "**¿Cómo lo vende?** Promesas de kilos, plazos fijos, «sin dieta ni ejercicio» o comparaciones directas con fármacos son señales de alerta."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Medicamentos con receta, nunca por redes", "text": "Los análogos de GLP-1 son medicamentos que requieren evaluación y receta médica. La OMS ha emitido alertas por productos falsificados de semaglutida vendidos fuera de los canales formales. Si tienes diabetes, obesidad o tomas medicación, ningún suplemento reemplaza la consulta con tu médico." },
+    { "type": "h2", "text": "Registro sanitario y regulación: lo básico en Perú" },
+    { "type": "p", "text": "En términos generales, los alimentos y bebidas industrializados se registran ante DIGESA, mientras que los medicamentos y los productos naturales de uso en salud dependen de DIGEMID. Un producto registrado como alimento no puede presentarse como tratamiento de una enfermedad." },
+    { "type": "p", "text": "Si tienes dudas sobre cómo verificar un código en el envase, revisa nuestra guía sobre [el registro sanitario de Matcha Pep-T](/opiniones-matcha-pep-t/registro-sanitario/); el procedimiento te sirve para cualquier producto." },
+    { "type": "cta", "text": "Revisa la presentación, el precio de S/ 158.00 y las opciones de pedido de Matcha Pep-T en la tienda oficial." },
+    { "type": "h2", "text": "Dónde encaja Matcha Pep-T: el mismo filtro, aplicado sin rebajas" },
+    { "type": "p", "text": "Matcha Pep-T pertenece a la familia de **proteínas y péptidos**, con un componente de fibra. Es una bebida instantánea de matcha latte, no un medicamento. Para ser coherentes, le aplicamos las mismas preguntas que a cualquier otro producto:" },
+    { "type": "table", "caption": "Matcha Pep-T frente al filtro de siete preguntas", "headers": ["Pregunta", "Respuesta honesta"], "rows": [
+      ["¿Evidencia del producto o del ingrediente?", "Del ingrediente Nextida GC, en estudios de su fabricante, Rousselot"],
+      ["¿Dosis estudiada vs porción?", "Estudios con 5 y 10 g del ingrediente aislado; la cantidad por sobre no está declarada"],
+      ["¿En quiénes?", "Modelos preclínicos y pilotos en humanos sanos y con prediabetes"],
+      ["¿Qué se midió?", "Pico de glucosa posprandial y liberación de GLP-1 y GIP, no pérdida de peso"],
+      ["¿Datos firmes de la etiqueta?", "46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y cromo al 45 % VD por porción"],
+      ["¿Precio?", "S/ 158.00 por 14 sobres, es decir, S/ 11.29 por sobre"],
+      ["¿Cómo se comunica aquí?", "Sin promesas de kilos ni comparaciones con fármacos"]
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que reporta Rousselot sobre Nextida GC", "text": "Según el fabricante del ingrediente, tomar Nextida GC unos 30 minutos antes de una comida se asoció a un menor pico de glucosa y a mayor liberación de GLP-1 y GIP, con reducciones promedio del pico de glucosa de hasta 42 % comunicadas por la empresa. Son resultados del ingrediente aislado, no de Matcha Pep-T." },
+    { "type": "p", "text": "Puedes revisar el diseño y las limitaciones de esos trabajos en nuestro resumen de [estudios de Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-estudios/). La conclusión práctica: Matcha Pep-T puede ser una bebida útil de pocas calorías, con fibra y proteína, para tomar antes de una comida dentro de hábitos ordenados. No es una alternativa a un tratamiento." },
+    { "type": "h2", "text": "Antes de comprar cualquier producto «GLP-1»" },
+    { "type": "ul", "items": [
+      "Define tu objetivo: ¿saciedad, glucosa, sustituir un snack dulce de la tarde? Un producto no sirve para todo.",
+      "Lee la etiqueta completa, no solo el frente del envase.",
+      "Compra en canales oficiales y desconfía de precios demasiado bajos en redes.",
+      "Si tomas antidiabéticos, anticoagulantes o un análogo de GLP-1, consulta antes de sumar cualquier suplemento."
+    ] },
+    { "type": "p", "text": "Para una visión completa de lo que la ciencia permite decir sobre este producto, visita la [guía de ciencia de Matcha Pep-T](/ciencia-matcha-pep-t/). Y si después de evaluarlo con calma decides probarlo, aquí explicamos [cómo comprar Matcha Pep-T de forma segura](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Un suplemento puede dar los mismos resultados que un fármaco GLP-1?", "a": "No hay evidencia de que algún suplemento de venta libre iguale los efectos de un agonista de GLP-1. Los fármacos actúan de forma sostenida y potente; los alimentos y suplementos, en el mejor de los casos, producen aumentos pequeños y pasajeros de la hormona natural." },
+    { "q": "¿Puedo tomar Matcha Pep-T si ya uso semaglutida u otro análogo?", "a": "Coméntalo primero con tu médico. Aunque es un alimento, aporta péptidos, fibra y cromo, y tu tratamiento puede necesitar ajustes de alimentación supervisados. No suspendas ni modifiques tu medicación por tu cuenta." },
+    { "q": "¿Los probióticos para GLP-1 funcionan igual en todas las personas?", "a": "No. Los efectos de los probióticos dependen de la cepa concreta, la dosis y la microbiota de cada persona. Un resultado obtenido con una cepa no se aplica automáticamente a otra con nombre parecido." },
+    { "q": "¿Dónde verifico si un suplemento es legal en Perú?", "a": "Revisa que el envase tenga registro sanitario y datos del fabricante o importador, y consulta los portales de DIGESA o DIGEMID según el tipo de producto. Ante la duda, pregunta en una farmacia formal." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "Organización Mundial de la Salud – alertas sobre productos médicos", "url": "https://www.who.int/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "PubMed – Probiotics, prebiotics and GLP-1 secretion", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=probiotics+prebiotics+GLP-1+secretion+humans" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/que-es-glp-1/", "/ciencia-matcha-pep-t/vs-ozempic/", "/ingredientes-matcha-pep-t/nextida-gc-estudios/", "/opiniones-matcha-pep-t/registro-sanitario/"]
+}

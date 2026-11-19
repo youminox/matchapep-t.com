@@ -1,0 +1,78 @@
+{
+  "slug": "garantia-y-devoluciones",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/garantia-y-devoluciones/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T devolución",
+  "title": "Matcha Pep-T: devolución, garantía y qué hacer si llega dañado",
+  "seoTitle": "Matcha Pep-T devolución: garantía y pedido dañado",
+  "metaDescription": "Matcha Pep-T devolución: cómo reclamar si tu pedido llega dañado, abierto o vencido, qué pruebas guardar y por qué conservar tu comprobante.",
+  "excerpt": "Qué hacer si tu doypack llega roto, incompleto o con fecha corta: pasos concretos, pruebas que conviene guardar y a quién escribir para resolverlo.",
+  "quickAnswer": "Una devolución de Matcha Pep-T se gestiona con la tienda oficial donde hiciste la compra, según sus términos vigentes de cambios y reembolsos. Si el pedido llega dañado, abierto, incompleto o vencido, toma fotos antes de manipularlo, conserva tu comprobante y el número de pedido, y comunícate con el distribuidor lo antes posible.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "An opened cardboard delivery box on a wooden entryway table in a Lima apartment, crumpled kraft paper inside, a smartphone lying next to it and a printed paper receipt held by a small stone, soft afternoon light through sheer curtains, realistic lifestyle photography, no text, no logos, no packaging labels, no people",
+    "alt": "Caja de envío abierta sobre una mesa de entrada junto a un celular y un comprobante impreso"
+  },
+  "blocks": [
+    { "type": "p", "text": "Imagina la escena: el motorizado deja la caja en la recepción de tu edificio, subes, la abres y encuentras el doypack aplastado y un poco de polvo verde en el fondo. Lo primero que se te ocurre es escribir molesto. Lo que realmente te ayudará es tener a mano unas cuantas pruebas y saber a quién dirigirte." },
+    { "type": "p", "text": "Esta guía explica cómo funciona una **devolución de Matcha Pep-T** comprado en la tienda oficial, qué hacer en cada tipo de problema y por qué el comprobante es el papel más importante del pedido. No reemplaza los términos de la tienda, que son los que mandan, pero te prepara para usarlos bien." },
+    { "type": "h2", "text": "¿Quién responde por una devolución de Matcha Pep-T?" },
+    { "type": "p", "text": "Cuando compras en la [tienda oficial del distribuidor](https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/), la operación se rige por las condiciones de venta publicadas en esa tienda de FuXion: plazos para reportar incidencias, si procede cambio o reembolso y quién asume el envío. Esas condiciones pueden actualizarse, así que revísalas al momento de pagar y guarda una captura si quieres tenerlas a mano." },
+    { "type": "p", "text": "Este sitio lo administra Carlos Eden Lingan Borja, distribuidor autorizado independiente en Lima. Su papel es ser tu punto de contacto: recibir el reporte, ayudarte a reunir la información y canalizar el caso. Por eso conviene escribir por la página de [contacto con el distribuidor](/contacto/) en cuanto detectes el problema, no días después." },
+    { "type": "callout", "variant": "tip", "title": "Un minuto que puede ahorrarte el reclamo", "text": "Si el paquete exterior llega golpeado, mojado o con la cinta despegada, graba un video corto mientras lo abres. Es la prueba más clara de en qué estado llegó, y no te toma más tiempo que abrirlo sin grabar." },
+    { "type": "h2", "text": "Qué hacer si tu pedido llega dañado: paso a paso" },
+    { "type": "steps", "items": [
+      { "name": "No botes nada", "text": "Conserva la caja, el relleno, el doypack y todos los sobres, incluso los rotos. Si los desechas, pierdes la evidencia." },
+      { "name": "Fotografía el estado", "text": "Toma fotos claras del paquete exterior, del doypack por ambos lados, de los sobres afectados y del lote y la fecha de vencimiento." },
+      { "name": "Cuenta los sobres", "text": "Un doypack trae 14 sobres de 15 g. Si faltan, anota cuántos y fotografía el contenido sobre una superficie lisa." },
+      { "name": "Ubica tu comprobante", "text": "Ten a la mano el número de pedido, el correo de confirmación y la boleta o factura electrónica." },
+      { "name": "Escribe cuanto antes", "text": "Envía la descripción, las fotos y el número de pedido por el canal de contacto, dentro del plazo que indiquen los términos de la tienda." },
+      { "name": "Aparta lo sospechoso", "text": "No consumas sobres abiertos, perforados o con el polvo húmedo mientras se resuelve el caso." }
+    ] },
+    { "type": "h2", "text": "Cada problema tiene su respuesta" },
+    { "type": "p", "text": "No todos los inconvenientes son iguales. Esta tabla resume cómo actuar en las situaciones más comunes; la solución final (cambio, reposición o reembolso) depende siempre de lo que establezca la tienda." },
+    { "type": "table", "caption": "Situaciones frecuentes y cómo actuar", "headers": ["Situación", "Qué hacer"], "rows": [
+      ["Caja golpeada, pero doypack y sobres intactos", "Revisa sobre por sobre. Si todos están sellados, el producto está bien; igual guarda una foto por si notas algo después."],
+      ["Uno o más sobres rotos o con polvo derramado", "Fotos de los sobres dañados y del lote; repórtalo de inmediato y no los consumas."],
+      ["Faltan sobres o llegó otro producto", "Foto del contenido completo y del comprobante; indica qué pediste y qué recibiste."],
+      ["Fecha de vencimiento pasada o muy próxima", "Foto nítida de la fecha y el lote; repórtalo antes de abrir sobres."],
+      ["Doypack sin sello, raspado o con etiqueta extraña", "No lo consumas y repórtalo; revisa las señales de producto original."],
+      ["Simplemente no te gustó", "Es un cambio de opinión, no un defecto. Consulta los términos: en alimentos abiertos, la devolución suele ser limitada por razones de inocuidad."]
+    ] },
+    { "type": "p", "text": "Si dudas de que el producto sea auténtico, compara lo que recibiste con nuestra guía para reconocer un [Matcha Pep-T original frente a uno falsificado](/precio-matcha-pep-t-peru/original-vs-falsificado/): sellado, lote, vencimiento y texto exacto de la etiqueta." },
+    { "type": "cta", "text": "¿Prefieres comprar con respaldo desde el inicio? Haz tu pedido en la tienda oficial y guarda tu comprobante." },
+    { "type": "h2", "text": "Conserva tu comprobante: tu mejor garantía" },
+    { "type": "p", "text": "Sin comprobante, cualquier reclamo se vuelve una conversación de buena fe; con él, es un caso documentado. Guarda estos elementos al menos hasta terminar el doypack:" },
+    { "type": "ul", "items": [
+      "El **número de pedido** y el correo de confirmación de la compra.",
+      "La **boleta o factura electrónica**, que en Perú puedes consultar con los datos del emisor en el sistema de SUNAT.",
+      "El voucher o la constancia del pago con tarjeta, transferencia o billetera digital.",
+      "Una foto del lote y la fecha de vencimiento del doypack que recibiste."
+    ] },
+    { "type": "p", "text": "Un truco útil: crea una carpeta en tu correo o en la galería del celular llamada «compras salud» y archiva ahí todo junto. Cuando necesites el dato, no tendrás que buscar entre cientos de mensajes." },
+    { "type": "h2", "text": "Tus derechos como consumidor en Perú" },
+    { "type": "p", "text": "Más allá de los términos de cada tienda, el Código de Protección y Defensa del Consumidor (Ley N.° 29571) exige que los productos correspondan a lo ofrecido y que los proveedores atiendan los reclamos. Los proveedores deben contar con un Libro de Reclamaciones, también en su versión virtual." },
+    { "type": "p", "text": "Lo razonable es intentar primero la vía directa con la tienda. Si no obtienes respuesta en un plazo razonable, puedes registrar tu queja en el Libro de Reclamaciones y, de ser necesario, acudir a INDECOPI." },
+    { "type": "h2", "text": "Compras fuera de la tienda oficial: el respaldo se pierde" },
+    { "type": "p", "text": "Si compraste en un marketplace, en una feria o a un vendedor por redes sociales, la tienda oficial no puede responder por ese producto: no sabe cómo se almacenó, cuánto tiempo estuvo en un almacén caluroso ni si es auténtico. Tu reclamo tendría que dirigirse a quien te lo vendió. Analizamos esos escenarios en los [riesgos de comprar en marketplaces](/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/)." },
+    { "type": "p", "text": "Si estás evaluando el producto antes de comprarlo, la guía de [opiniones y preguntas frecuentes sobre Matcha Pep-T](/opiniones-matcha-pep-t/) reúne lo que conviene saber. Y cuando decidas, la [página de compra](/comprar-matcha-pep-t/) te lleva al canal oficial, con el precio vigente de S/ 158.00 por doypack de 14 sobres." },
+    { "type": "callout", "variant": "aviso", "title": "Si el problema es una molestia física", "text": "Una devolución no es la vía para un malestar. Si después de tomarlo notas una reacción alérgica, hinchazón, ronchas o un malestar digestivo persistente, suspende el consumo y consulta a un profesional de salud. Conserva el envase para mostrar los ingredientes y el lote." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo devolver Matcha Pep-T si no me gustó el sabor?", "a": "Depende de los términos vigentes de la tienda oficial. En alimentos abiertos, los cambios por preferencia personal suelen estar limitados por razones de higiene. Antes de descartarlo, prueba ajustar la temperatura o añadir un chorrito de bebida vegetal: a muchas personas les cambia la percepción." },
+    { "q": "¿Cuánto tarda en resolverse un reclamo?", "a": "No hay un plazo único que podamos garantizar: depende del tipo de problema, de la tienda y de la logística. Lo que sí acelera el proceso es reportarlo rápido, con fotos claras y el número de pedido en el primer mensaje." },
+    { "q": "¿Me devuelven también el costo del envío?", "a": "Esa condición la define la tienda oficial en sus términos. Si el problema fue un error de despacho o un producto dañado en el traslado, menciónalo expresamente en tu reporte para que se evalúe." },
+    { "q": "¿Qué pasa si encontré el problema después de abrir varios sobres?", "a": "Repórtalo igual, indicando cuántos sobres usaste y cuándo notaste el problema. Conserva los sobres restantes, el doypack y el comprobante, porque sirven para identificar el lote." }
+  ],
+  "sources": [
+    { "label": "INDECOPI – Protección al consumidor", "url": "https://www.gob.pe/indecopi" },
+    { "label": "SUNAT – Comprobantes de pago electrónicos", "url": "https://www.sunat.gob.pe/" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/original-vs-falsificado/",
+    "/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/",
+    "/opiniones-matcha-pep-t/cuanto-dura-un-doypack/",
+    "/precio-matcha-pep-t-peru/formas-de-pago/"
+  ]
+}

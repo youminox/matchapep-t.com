@@ -1,0 +1,77 @@
+{
+  "slug": "paletas-heladas",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/paletas-heladas/",
+  "isPillar": false,
+  "primaryKeyword": "paletas heladas de matcha",
+  "title": "Paletas heladas de matcha caseras con Matcha Pep-T para el verano",
+  "seoTitle": "Paletas heladas de matcha: receta casera con Matcha Pep-T",
+  "metaDescription": "Paletas heladas de matcha caseras con 1 sobre de Matcha Pep-T: cuántas salen, versión cremosa y con mango, trucos de textura y qué tener en cuenta.",
+  "excerpt": "Con un sobre, un poco de fruta y moldes salen tres paletas heladas de matcha para el calor de enero. Te contamos cuántas rinde, cómo evitar que queden como cubo de hielo y por qué no son para los niños.",
+  "quickAnswer": "Para hacer paletas heladas de matcha, disuelve 1 sobre de Matcha Pep-T en 180 ml de leche o bebida vegetal fría, licúalo con medio plátano o 100 g de mango, reparte la mezcla en 3 moldes y congela al menos 6 horas. Cada paleta lleva un tercio del sobre, así que resultan un postre frío y ligero.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Three homemade pale green ice pops with wooden sticks resting on a tray of crushed ice, a few mango cubes and a halved banana nearby, placed on a white tiled table on a sunny terrace near the beach south of Lima, bright summer light, blue sky softly blurred in the background, no packaging, no text, no logos, no people",
+    "alt": "Tres paletas heladas caseras de color verde claro sobre hielo picado con trozos de mango y plátano en una terraza soleada de verano"
+  },
+  "blocks": [
+    { "type": "p", "text": "En enero, cuando el sol por fin aparece sobre Lima y media ciudad baja a las playas del sur, el sonido de la corneta del heladero se vuelve banda sonora. Hacer tus propias paletas en casa tiene otra gracia: decides qué llevan, cuánto dulce tienen y de qué tamaño son." },
+    { "type": "p", "text": "Con Matcha Pep-T la receta es casi automática, porque el sobre ya trae sabor a matcha latte, crema de coco y dulzor de estevia. Solo falta darle cuerpo para que la paleta no quede como un cubo de hielo verde, y para eso la fruta es tu mejor aliada." },
+    { "type": "h2", "text": "¿Cuántas paletas heladas de matcha salen de un sobre?" },
+    { "type": "p", "text": "La etiqueta indica 1 sobre por porción en 180 ml de líquido. Si a eso le sumas medio plátano o un poco de mango licuado, la mezcla llega a unos 250 a 280 ml, suficiente para 3 moldes medianos de 80 a 90 ml cada uno." },
+    { "type": "p", "text": "Eso significa que cada paleta contiene aproximadamente un tercio del sobre. Es una forma práctica de repartir tu porción diaria en tres momentos de calor o de compartirla. Lo que no conviene es usar dos o tres sobres para una tanda más grande y comerte varias paletas el mismo día: la referencia sigue siendo 1 sobre al día." },
+    { "type": "h2", "text": "Receta base paso a paso" },
+    { "type": "steps", "items": [
+      { "name": "Disuelve el sobre", "text": "Mezcla el sobre de 15 g con 180 ml de leche o bebida vegetal fría en la licuadora durante unos segundos." },
+      { "name": "Suma la fruta", "text": "Añade medio plátano maduro o 100 g de mango en trozos y licúa hasta obtener una crema lisa." },
+      { "name": "Llena los moldes", "text": "Vierte la mezcla en 3 moldes, dejando medio centímetro libre arriba: el líquido se expande al congelarse." },
+      { "name": "Coloca los palitos a tiempo", "text": "Si tus moldes no tienen tapa con soporte, congela 1 hora, inserta los palitos cuando la mezcla ya esté semisólida y vuelve a congelar." },
+      { "name": "Congela y desmolda", "text": "Deja al menos 6 horas en el congelador. Para desmoldar, pasa el molde unos segundos bajo el chorro de agua tibia." }
+    ] },
+    { "type": "h2", "text": "Tres versiones para el verano" },
+    { "type": "h3", "text": "Cremosa con plátano" },
+    { "type": "p", "text": "Leche descremada o bebida de coco, medio plátano bien maduro y el sobre. Es la más parecida a un helado de crema y la que mejor textura logra sin añadir nada más." },
+    { "type": "h3", "text": "Mango y matcha" },
+    { "type": "p", "text": "Agua fría en lugar de leche, 100 g de mango y el sobre. Queda más refrescante, tipo marciano de fruta, y la crema de coco del producto le da suavidad." },
+    { "type": "h3", "text": "Fresa y yogur" },
+    { "type": "p", "text": "Mitad leche y mitad yogur natural sin endulzar, un puñado de fresas y el sobre. Puedes licuar todo junto o dejar trocitos de fresa enteros en el molde para un efecto vistoso." },
+    { "type": "table", "caption": "Calorías aproximadas por paleta (tanda de 3 con 1 sobre)", "headers": ["Versión", "Total de la tanda", "Por paleta"], "rows": [
+      ["Cremosa: leche descremada + medio plátano", "Unas 160 kcal", "Unas 55 kcal"],
+      ["Mango con agua", "Unas 105 kcal", "Unas 35 kcal"],
+      ["Fresa y yogur", "Entre 150 y 170 kcal, según el yogur", "Unas 50–55 kcal"]
+    ] },
+    { "type": "p", "text": "El sobre aporta 46 kcal a cada tanda. El resto de cifras se estimó con tablas de composición de alimentos y cambia según la fruta y las marcas que uses." },
+    { "type": "cta", "text": "Prepárate para el verano: revisa el precio del doypack original y ten sobres listos para tus paletas." },
+    { "type": "h2", "text": "Trucos de textura: por qué a veces quedan como cubo de hielo" },
+    { "type": "p", "text": "Los helados comerciales llevan bastante azúcar y grasa, y eso es lo que impide que se formen cristales grandes. Matcha Pep-T está endulzado con estevia y tiene muy poca azúcar, así que una paleta hecha solo con agua y el sobre tiende a quedar dura y escarchada." },
+    { "type": "ul", "items": [
+      "**Usa fruta cremosa:** el plátano y el mango aportan pulpa y fibra que suavizan el resultado.",
+      "**Prefiere leche, bebida de coco o yogur** antes que solo agua.",
+      "**Licúa bien:** cuanto más fina sea la mezcla, más homogénea queda la paleta.",
+      "**Sácala 3 a 5 minutos antes de comerla,** sobre todo si tu congelador es muy potente.",
+      "**Elige moldes de silicona,** que se desmoldan sin agua tibia y sin romper la paleta."
+    ] },
+    { "type": "p", "text": "¿No tienes moldes? Usa vasitos descartables pequeños con palitos de helado, o una cubeta de hielo para hacer mini bocados. Estos últimos también sirven para enfriar tu [frappé de Matcha Pep-T](/como-preparar-matcha-pep-t/frappe/) sin que se aguade." },
+    { "type": "callout", "variant": "aviso", "title": "No son paletas para niños", "text": "Que tengan forma de helado no las convierte en un postre infantil. El matcha contiene cafeína de forma natural, la etiqueta no declara cuánta y el producto no está pensado para niños. Guárdalas en un recipiente rotulado en el congelador para que nadie las confunda. Más detalle en [Matcha Pep-T y niños](/opiniones-matcha-pep-t/ninos-y-adolescentes/) y en [¿Matcha Pep-T tiene cafeína?](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "h2", "text": "Cómo guardarlas y cuándo comerlas" },
+    { "type": "p", "text": "Una vez desmoldadas, envuélvelas una por una en papel film o guárdalas en un táper hermético para que no absorban olores del congelador. Para disfrutar el mejor sabor y textura, consúmelas dentro de las dos semanas siguientes." },
+    { "type": "p", "text": "Funcionan muy bien a media tarde, cuando aprieta el calor y aparece el antojo de algo dulce. Por la cafeína natural del matcha, si eres sensible, mejor no dejarlas para después de la cena." },
+    { "type": "p", "text": "Para conseguir sobres originales, entra a la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/): el doypack de 14 cuesta S/ 158.00, es decir, S/ 11.29 por sobre. Y si quieres repasar la preparación básica o explorar otras recetas, visita la [guía para preparar Matcha Pep-T](/como-preparar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿El congelado cambia lo que aporta el sobre?", "a": "La etiqueta describe el producto preparado en 180 ml de agua y no ofrece datos sobre su versión congelada. Lo que sí cambia es cómo se reparte: en una tanda de 3 paletas, cada una lleva más o menos un tercio del sobre." },
+    { "q": "¿Puedo hacer helado en vasito en lugar de paletas?", "a": "Sí. Congela la mezcla en un táper bajo y ráspala con un tenedor cada 45 minutos durante unas 3 horas; obtendrás una textura tipo granizado cremoso. Otra opción es licuar plátano congelado con el sobre disuelto en muy poco líquido y comerlo al momento." },
+    { "q": "¿Las puedo endulzar más?", "a": "Puedes añadir una cucharadita de miel a la tanda, pero suma calorías y azúcar. Antes de eso, prueba con un plátano más maduro o con mango bien dulce, que endulzan y mejoran la textura a la vez." },
+    { "q": "¿Sirven para llevar a la playa?", "a": "Solo si tienes un cooler con suficiente hielo o geles fríos, porque se derriten rápido al sol. Llévalas envueltas por separado y cómelas en la primera hora." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central (composición de alimentos)", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "USDA Food Safety and Inspection Service (conservación de alimentos)", "url": "https://www.fsis.usda.gov/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/frappe/",
+    "/como-preparar-matcha-pep-t/frio-con-hielo/",
+    "/opiniones-matcha-pep-t/ninos-y-adolescentes/",
+    "/ingredientes-matcha-pep-t/tiene-cafeina/"
+  ]
+}

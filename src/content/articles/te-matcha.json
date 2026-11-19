@@ -1,0 +1,55 @@
+{
+  "slug": "te-matcha",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/te-matcha/",
+  "isPillar": false,
+  "primaryKeyword": "té matcha en Matcha Pep-T",
+  "title": "Té matcha en Matcha Pep-T: qué es, qué aporta y a qué sabe",
+  "seoTitle": "Té matcha en Matcha Pep-T: qué aporta a la bebida",
+  "metaDescription": "El té matcha en Matcha Pep-T: qué es este té verde en polvo de hoja entera, por qué se cultiva a la sombra, qué aporta al sabor y qué no declara la etiqueta.",
+  "excerpt": "El matcha le da nombre, color y sabor a la bebida. Te explicamos qué es este té verde molido, cómo se cultiva y qué aporta realmente dentro del sobre.",
+  "quickAnswer": "El té matcha en Matcha Pep-T es té verde en polvo hecho con la hoja entera, cultivada a la sombra antes de la cosecha y molida muy fina. Aporta el color, el sabor vegetal y los compuestos naturales del té. En la etiqueta forma parte del ingrediente «Mix de té matcha y chía», sin cantidad declarada.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Vibrant green matcha powder sifted into a white ceramic bowl with a bamboo whisk beside it, on a light linen tablecloth, soft diffused daylight from a window overlooking a grey sky, calm Japanese-minimal mood, no text, no logos, no packaging, no people",
+    "alt": "Polvo de té matcha verde intenso tamizado en un bol blanco junto a un batidor de bambú"
+  },
+  "blocks": [
+    { "type": "p", "text": "Hace unos años, pedir un matcha en Lima era casi una rareza. Hoy aparece en la carta de cafeterías de Barranco y Miraflores, en postres de panaderías de autor y en vasos verdes que circulan por las oficinas. Ese verde intenso, casi fosforescente, no es colorante: es clorofila de una hoja cultivada de forma muy particular." },
+    { "type": "p", "text": "En Matcha Pep-T el matcha es mucho más que un ingrediente decorativo: le da nombre al producto y define su sabor. Aquí explicamos qué es exactamente, qué aporta y qué datos no figuran en la etiqueta." },
+    { "type": "h2", "text": "Qué es el matcha y en qué se diferencia del té verde de bolsita" },
+    { "type": "p", "text": "El matcha y el té verde de toda la vida salen de la misma planta, *Camellia sinensis*. La diferencia está en el cultivo, el procesado y, sobre todo, en **qué parte de la hoja terminas tomando**." },
+    { "type": "table", "caption": "Té verde en bolsita frente a matcha", "headers": ["Característica", "Té verde en bolsita", "Matcha"], "rows": [["Cultivo", "Al sol, en general", "Sombreado las semanas previas a la cosecha"], ["Qué se consume", "Una infusión: el agua que pasó por las hojas", "La hoja entera molida, suspendida en el líquido"], ["Forma", "Hojas picadas dentro de una bolsita", "Polvo muy fino, de textura casi talco"], ["Color", "Amarillo verdoso", "Verde intenso"], ["Sabor típico", "Ligero, a veces astringente", "Vegetal, con notas umami y un amargor suave"]] },
+    { "type": "p", "text": "Ese segundo punto es el más importante. Cuando preparas una infusión, la hoja se queda en la bolsita y la botas. Con el matcha, **te tomas la hoja**: por eso el líquido es opaco y deja un leve sedimento si lo dejas reposar." },
+    { "type": "h2", "text": "El sombreado: el paso que define el sabor" },
+    { "type": "p", "text": "Unas semanas antes de la cosecha, las plantas destinadas a matcha se cubren con mallas o estructuras que bloquean buena parte de la luz solar. Con menos sol, la planta reacciona produciendo más clorofila, lo que intensifica el color, y conserva mejor algunos aminoácidos que suavizan el amargor." },
+    { "type": "p", "text": "Después de cosechar, las hojas se cocinan al vapor para detener la oxidación, se secan, se les retiran tallos y nervaduras, y se muelen hasta lograr un polvo finísimo. El matcha tradicional japonés se muele con piedra; hoy existen métodos industriales para grados destinados a cocina y bebidas." },
+    { "type": "h3", "text": "Grados de matcha" },
+    { "type": "p", "text": "Comercialmente se habla de matcha **ceremonial**, pensado para tomarse solo con agua, y de matcha **culinario** o de cocina, más robusto, usado en lattes, repostería y mezclas. La etiqueta de Matcha Pep-T no indica el grado ni el país de origen del matcha. Si te interesa comparar la bebida con un matcha puro de cafetería o de tienda especializada, revisa [Matcha Pep-T vs matcha puro](/ciencia-matcha-pep-t/vs-matcha-puro/)." },
+    { "type": "h2", "text": "Qué aporta el té matcha en Matcha Pep-T" },
+    { "type": "p", "text": "Dentro de la fórmula, el matcha cumple funciones concretas que conviene separar de las promesas que circulan en redes:" },
+    { "type": "ul", "items": ["**Identidad y color.** Es responsable del tono verde y del carácter de \"matcha latte\" que define al producto.", "**Sabor.** Aporta las notas vegetales y el ligero amargor que equilibran la dulzura de la estevia y lo cremoso del coco.", "**Compuestos naturales del té.** Como todo matcha, contiene de forma natural cafeína, L-teanina y antioxidantes llamados catequinas. Sobre estas últimas, entre ellas la EGCG, tenemos un análisis aparte en [catequinas y EGCG del matcha](/ingredientes-matcha-pep-t/catequinas-egcg/).", "**Fibra en pequeña medida.** Al consumirse la hoja entera, el matcha aporta algo de fibra, aunque los 4.9 g de fibra por porción provienen principalmente de otros ingredientes, en especial la fibra de maíz."] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que no está declarado", "text": "El matcha aparece dentro del cuarto ingrediente de la lista, «Mix de té matcha y chía». La etiqueta no indica cuántos gramos de matcha lleva cada sobre de 15 g, ni su contenido de cafeína, L-teanina o catequinas. Cualquier cifra que veas sobre esos compuestos en Matcha Pep-T es una suposición." },
+    { "type": "p", "text": "La posición en la lista también da contexto. Por delante del mix están el colágeno hidrolizado, la fibra de maíz y la crema de coco, así que el matcha no es el componente más abundante del sobre. Su protagonismo está en el sabor, no en el peso." },
+    { "type": "cta", "text": "¿Te provoca un matcha latte ligero de 46 kcal para la media mañana? Revisa el precio vigente y cómo pedir tu doypack." },
+    { "type": "h2", "text": "A qué sabe el matcha dentro de la bebida" },
+    { "type": "p", "text": "Quien prueba matcha ceremonial por primera vez suele describirlo como \"a pasto\" o \"a espinaca\", con un fondo amargo que no a todos convence. En Matcha Pep-T esa intensidad se suaviza bastante, porque comparte el vaso con otros componentes:" },
+    { "type": "ul", "items": ["la **crema de coco**, que redondea la textura;", "los **saborizantes naturales de crema caramelo y leche de coco**;", "la **estevia**, que endulza con muy poca azúcar: 0.9 g de azúcares añadidos por porción."] },
+    { "type": "p", "text": "El resultado es más cercano a un latte de cafetería que a un té japonés tradicional. Preparado frío, con hielo, el matcha se percibe más fresco y herbal, ideal para una tarde de verano en Lima. En caliente, en pleno invierno con garúa, gana protagonismo el lado cremoso. Recuerda usar agua caliente pero **sin hervir**: el agua hirviendo acentúa el amargor del té." },
+    { "type": "h2", "text": "Matcha y cafeína: una nota de prudencia" },
+    { "type": "p", "text": "El matcha contiene cafeína de forma natural, y como en el producto no está cuantificada, lo razonable es tratar la bebida como una fuente de cafeína más. Si eres sensible a ella, si estás embarazada o si la tomarías de noche, revisa nuestra guía sobre [si Matcha Pep-T tiene cafeína](/ingredientes-matcha-pep-t/tiene-cafeina/) y consulta con tu médico cuando corresponda." },
+    { "type": "p", "text": "Para ver cómo encaja el matcha con los demás ingredientes, vuelve a la guía completa de [ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Si quieres probarlo, en [comprar Matcha Pep-T](/comprar-matcha-pep-t/) tienes el precio de referencia: S/ 158.00 por 14 sobres, alrededor de S/ 11.29 por porción." }
+  ],
+  "faqs": [
+    { "q": "¿El matcha de Matcha Pep-T es japonés?", "a": "La etiqueta no declara el país de origen ni el grado del matcha. Solo lo identifica como parte del ingrediente «Mix de té matcha y chía»." },
+    { "q": "¿Puedo añadir más matcha puro a mi preparación?", "a": "Puedes, pero sumarías cafeína y cambiarías el sabor del producto. Si lo haces, empieza con una pizca y evita tomarlo cerca de la hora de dormir." },
+    { "q": "¿Por qué mi bebida deja un sedimento verde en el fondo?", "a": "Es normal: el matcha es hoja molida, no una infusión, y parte del polvo tiende a asentarse. Agitar en shaker o remover justo antes de tomar lo soluciona." },
+    { "q": "¿El matcha pierde propiedades si lo preparo con hielo?", "a": "El frío no daña el matcha; de hecho, el agua demasiado caliente es la que más altera su sabor. Puedes prepararlo frío o caliente sin hervir, siempre con 180 ml de agua por sobre." }
+  ],
+  "sources": [
+    { "label": "PubMed – investigación sobre té verde y matcha", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=matcha+green+tea" },
+    { "label": "NCCIH (NIH) – Green Tea", "url": "https://www.nccih.nih.gov/health/green-tea" },
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/catequinas-egcg/", "/ingredientes-matcha-pep-t/tiene-cafeina/", "/ciencia-matcha-pep-t/vs-matcha-puro/", "/ciencia-matcha-pep-t/l-teanina/"]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "interaccion-con-medicamentos",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/interaccion-con-medicamentos/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T medicamentos",
+  "title": "Matcha Pep-T y medicamentos: interacciones posibles y precauciones",
+  "seoTitle": "Matcha Pep-T y medicamentos: interacciones a vigilar",
+  "metaDescription": "Matcha Pep-T y medicamentos: posibles interacciones con antidiabéticos, anticoagulantes, estimulantes y análogos de GLP-1. Qué revisar con tu médico.",
+  "excerpt": "Si tomas pastillas a diario, conviene saber qué componentes de Matcha Pep-T pueden cruzarse con tu tratamiento: té verde, cafeína natural, fibra y péptidos Nextida GC.",
+  "quickAnswer": "Sobre Matcha Pep-T y medicamentos no hay estudios del producto terminado, pero sus componentes piden cuidado: el té verde puede interferir con la warfarina y algunos betabloqueadores, su cafeína natural se suma a otros estimulantes y su perfil ligado a la glucosa obliga a vigilar si usas antidiabéticos o análogos de GLP-1. Consulta antes a tu médico.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A weekly pill organizer with colorful compartments next to a glass of water and a mug of warm green matcha latte on a bedside wooden table, soft morning light filtering through linen curtains in a Lima bedroom, calm and orderly composition, realistic photography, no readable text, no logos, no packaging, no people",
+    "alt": "Pastillero semanal junto a un vaso de agua y una taza de matcha latte caliente sobre una mesa de noche"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas peruanas hay un pastillero con los días de la semana marcados: la metformina del papá, la pastilla de la tiroides de la mamá, el anticoagulante de la abuela. Cuando alguien de la familia empieza a tomar una bebida funcional, la duda aparece sola: ¿se lleva bien con lo que ya tomo?" },
+    { "type": "p", "text": "Matcha Pep-T es un alimento, no un medicamento. Pero los alimentos también pueden cruzarse con un tratamiento; el ejemplo clásico es el jugo de toronja con ciertos fármacos. Aquí revisamos componente por componente qué podría interactuar y qué conversar con tu médico." },
+    { "type": "h2", "text": "Matcha Pep-T y medicamentos: el mapa de interacciones posibles" },
+    { "type": "p", "text": "No existen estudios de interacciones hechos con Matcha Pep-T como producto terminado. Lo que sí podemos hacer es mirar sus ingredientes conocidos (té matcha, cafeína natural, fibra, péptidos de colágeno Nextida GC y cromo) y cruzarlos con lo que se sabe de cada uno:" },
+    { "type": "table", "caption": "Grupos de medicamentos y componentes de Matcha Pep-T a vigilar", "headers": ["Tipo de medicamento", "Ejemplos", "Componente a vigilar", "Qué hacer"], "rows": [
+      ["Antidiabéticos", "Metformina, glibenclamida, insulina", "Nextida GC, cromo y 7.8 g de carbohidratos", "Medir glucosa y consultar antes de empezar"],
+      ["Anticoagulantes", "Warfarina", "Té matcha (vitamina K natural de la hoja)", "Consumo constante y control del INR"],
+      ["Estimulantes o fármacos con cafeína", "Metilfenidato, descongestionantes, analgésicos con cafeína", "Cafeína natural no declarada", "No sumar estimulantes sin consultar"],
+      ["Fármacos que frenan la eliminación de la cafeína", "Ciprofloxacino, fluvoxamina", "Cafeína natural", "Preguntar al médico o farmacéutico"],
+      ["Algunos betabloqueadores", "Nadolol", "Té verde", "Comentarlo en consulta"],
+      ["Análogos de GLP-1", "Semaglutida, liraglutida, tirzepatida", "Fibra, proteína y péptidos", "Hablarlo con quien te lo recetó"],
+      ["Fármacos sensibles a la fibra", "Levotiroxina", "4.9 g de fibra por porción", "Separar las tomas según indicación médica"]
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Regla de oro", "text": "Nunca suspendas, reduzcas ni cambies el horario de un medicamento por empezar a tomar Matcha Pep-T. Si tienes dudas, lleva el envase o una foto de la etiqueta a tu médico o al químico farmacéutico de tu botica." },
+    { "type": "h2", "text": "Antidiabéticos: cuando la glucosa ya está bajo tratamiento" },
+    { "type": "p", "text": "Nextida GC, el colágeno de la fórmula, se desarrolló para apoyar el control de la glucosa. En estudios del fabricante del ingrediente (Rousselot), dosis de 5–10 g del ingrediente aislado se asociaron a un menor pico de glucosa después de comer. La dosis por sobre de Matcha Pep-T no está declarada, así que no se puede trasladar ese resultado al producto." },
+    { "type": "p", "text": "Aun así, la lógica pide prudencia: si ya tomas metformina, una sulfonilurea como la glibenclamida o insulina, cualquier cambio en tu alimentación puede mover tus cifras. El riesgo práctico más claro aparece cuando alguien usa el sobre para reemplazar una comida mientras sigue con su dosis habitual, lo que puede favorecer una hipoglucemia. Lo explicamos a fondo en [Matcha Pep-T y diabetes](/opiniones-matcha-pep-t/diabetes/)." },
+    { "type": "h2", "text": "Anticoagulantes y té verde: la clave es la constancia" },
+    { "type": "p", "text": "El matcha es hoja de té verde molida entera, por lo que conserva la vitamina K natural de la hoja. La vitamina K participa en la coagulación, y por eso quienes toman **warfarina** deben mantener un consumo estable de alimentos que la contienen. Se han descrito casos en que el consumo elevado de té verde alteró el efecto de este anticoagulante." },
+    { "type": "p", "text": "La cantidad de vitamina K por sobre no está declarada y probablemente sea modesta, pero lo importante no es tanto la cifra como los cambios bruscos: empezar a tomarlo a diario de un momento a otro, o dejarlo de golpe. Si usas warfarina, avisa a tu médico antes de empezar y en tu siguiente control del INR. Los anticoagulantes más nuevos no dependen de la vitamina K de la misma manera, pero igual vale la pena mencionarlo." },
+    { "type": "h2", "text": "Cafeína natural y estimulantes: lo que se suma" },
+    { "type": "p", "text": "El té matcha contiene cafeína de forma natural y la etiqueta no indica cuánta. Eso importa en dos escenarios. El primero es la suma de estimulantes: fármacos para el déficit de atención como el metilfenidato, descongestionantes para la gripe, analgésicos combinados con cafeína, pre-entrenos o pastillas «quemadoras». Juntos pueden traducirse en palpitaciones, nerviosismo, insomnio o subidas de presión, algo especialmente relevante si tienes [presión alta](/opiniones-matcha-pep-t/hipertension/)." },
+    { "type": "p", "text": "El segundo escenario es menos conocido: algunos medicamentos frenan la eliminación de la cafeína y hacen que su efecto dure más. Entre ellos están el antibiótico ciprofloxacino y el antidepresivo fluvoxamina. Además, estudios han observado que el té verde reduce la absorción del betabloqueador nadolol. Si tomas alguno, consúltalo." },
+    { "type": "cta", "text": "Si tu médico confirma que encaja con tu tratamiento, revisa el precio y compra Matcha Pep-T original en la tienda oficial." },
+    { "type": "h2", "text": "Matcha Pep-T con análogos de GLP-1 como Ozempic" },
+    { "type": "p", "text": "Los análogos de GLP-1, como la semaglutida (comercializada como Ozempic, entre otras marcas), la liraglutida o la tirzepatida, que actúa sobre GLP-1 y GIP, son fármacos de receta. Entre otros efectos, retrasan el vaciamiento del estómago y reducen el apetito, y es frecuente que causen náuseas o sensación de llenura al inicio." },
+    { "type": "p", "text": "No hay estudios que combinen estos fármacos con Matcha Pep-T. Lo razonable es tener en cuenta tres cosas:" },
+    { "type": "ul", "items": [
+      "**Puedes sentirte más lleno de lo esperado.** La fibra y la proteína del sobre se suman a un estómago que ya se vacía más lento; si aparecen náuseas o pesadez, coméntalo.",
+      "**No es un «potenciador» del fármaco.** Los resultados sobre GLP-1 de Nextida GC provienen de estudios del fabricante con el ingrediente aislado, y no se comparan con el efecto de un medicamento.",
+      "**No es un reemplazo para dejar el tratamiento.** Si piensas suspender tu análogo de GLP-1 y «mantenerte» con una bebida, esa decisión debe tomarla tu médico. Ampliamos estas diferencias en [Matcha Pep-T frente a Ozempic](/ciencia-matcha-pep-t/vs-ozempic/)."
+    ] },
+    { "type": "h2", "text": "Fibra y absorción de pastillas: una cuestión de horarios" },
+    { "type": "p", "text": "Cada porción aporta 4.9 g de fibra. La fibra puede reducir la absorción de algunos medicamentos cuando se toman al mismo tiempo. El caso más conocido es la levotiroxina, que suele indicarse en ayunas y separada de alimentos y suplementos de fibra. Si tomas tu pastilla de la tiroides al levantarte, no la acompañes con el sobre: pregunta a tu médico cuánto tiempo dejar entre ambos." },
+    { "type": "h2", "text": "Cómo llevar la conversación a tu consulta" },
+    { "type": "ol", "items": [
+      "Toma una foto clara de la lista de ingredientes y de la tabla nutricional del doypack.",
+      "Haz una lista de todo lo que tomas, incluidos productos naturales, vitaminas y medicamentos sin receta.",
+      "Indica a qué hora pensabas tomar el sobre y si lo combinarías con café.",
+      "Pregunta si hace falta controlar algo en particular: glucosa, presión o INR.",
+      "Si te dan luz verde, empieza con 1 sobre al día y anota cualquier cambio que notes."
+    ] },
+    { "type": "p", "text": "Para ver el panorama de seguridad completo y cómo leer lo que se dice del producto, visita nuestra guía de [opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/). Cuando tengas el visto bueno, puedes [comprar Matcha Pep-T](/comprar-matcha-pep-t/) a S/ 158.00 por 14 sobres." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar Matcha Pep-T con anticonceptivos orales?", "a": "No se conoce una interacción relevante con el producto, pero los anticonceptivos orales pueden hacer que la cafeína se elimine más lento. Si notas más nerviosismo o insomnio de lo habitual, reduce otras fuentes de cafeína y coméntalo con tu médico." },
+    { "q": "¿Y con antibióticos o analgésicos comunes?", "a": "Con la mayoría de analgésicos simples no se describe un problema, salvo los que ya incluyen cafeína en su fórmula. Con antibióticos como el ciprofloxacino, la cafeína puede durar más en tu cuerpo. Ante la duda, pregunta en tu botica." },
+    { "q": "¿El cromo del producto interactúa con algo?", "a": "Cada porción aporta 14.9 µg de cromo (45 % VD), una cantidad propia de un alimento. Por su relación con el metabolismo de los carbohidratos, si usas antidiabéticos inclúyelo en la conversación con tu médico." },
+    { "q": "Si tomo varios medicamentos, ¿es mejor no tomarlo?", "a": "No necesariamente, pero sí es mejor no decidirlo solo. Mientras más medicamentos tomes, más sentido tiene que tu médico revise la etiqueta completa antes de que empieces." }
+  ],
+  "sources": [
+    { "label": "NCCIH (NIH) – Green Tea", "url": "https://www.nccih.nih.gov/health/green-tea" },
+    { "label": "FDA – Cafeína: ¿cuánto es demasiado?", "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" },
+    { "label": "NIH Office of Dietary Supplements – Vitamin K", "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": [
+    "/opiniones-matcha-pep-t/diabetes/",
+    "/opiniones-matcha-pep-t/contraindicaciones/",
+    "/ciencia-matcha-pep-t/vs-ozempic/",
+    "/opiniones-matcha-pep-t/hipertension/"
+  ]
+}

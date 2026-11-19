@@ -1,0 +1,80 @@
+{
+  "slug": "cuanta-proteina-aporta",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T proteína",
+  "title": "Matcha Pep-T proteína: cuánta aporta y de qué tipo es",
+  "seoTitle": "Matcha Pep-T proteína: 4.7 g por sobre, explicado",
+  "metaDescription": "Matcha Pep-T proteína: cada sobre aporta 4.7 g (9 % VD), casi toda de colágeno. Qué significa, cómo se compara y cómo complementarla en tu día.",
+  "excerpt": "Cada sobre de Matcha Pep-T aporta 4.7 g de proteína. Te explicamos de dónde viene, por qué no es una proteína completa y cómo sumarla a lo que ya comes.",
+  "quickAnswer": "Matcha Pep-T aporta 4.7 g de proteína por porción (1 sobre en 180 ml de agua), el 9 % del valor diario. Proviene principalmente del colágeno hidrolizado Nextida GC, una proteína incompleta porque casi no contiene triptófano. Es un complemento útil con pocas calorías, pero no sustituye la proteína de tus comidas.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Overhead view of a simple Peruvian breakfast on a light wooden table: a boiled egg cut in half, a small bowl of cooked quinoa, a slice of fresh white cheese and a glass of pale green matcha latte, soft morning light, minimal styling, no text, no logos, no packaging, no faces",
+    "alt": "Desayuno con huevo sancochado, quinua, queso fresco y un vaso de matcha latte vistos desde arriba"
+  },
+  "blocks": [
+    { "type": "p", "text": "4.7 gramos. Es la cifra de proteína que figura en la tabla nutricional de Matcha Pep-T por cada sobre preparado, y es la que más se presta a malentendidos: hay quien la ve como poca para una bebida «con colágeno», y quien la imagina como un batido proteico con sabor a matcha. Ninguna de las dos lecturas es correcta." },
+    { "type": "p", "text": "Para entender qué significa, hay que mirarla desde tres ángulos: cuánto es frente a lo que necesitas al día, de qué tipo de proteína se trata y cómo encaja con lo que ya comes." },
+    { "type": "h2", "text": "Matcha Pep-T proteína: los números de la etiqueta" },
+    { "type": "table", "caption": "Datos de la etiqueta de Matcha Pep-T (1 sobre de 15 g en 180 ml de agua)", "headers": ["Dato", "Por 100 ml", "Por porción (180 ml)"], "rows": [
+      ["Proteína", "2.6 g", "4.7 g"],
+      ["% valor diario de proteína", "—", "9 %"],
+      ["Energía", "26 kcal", "46 kcal"],
+      ["Fibra", "2.7 g", "4.9 g"]
+    ] },
+    { "type": "p", "text": "El 9 % se calcula sobre el valor diario de referencia de 50 g de proteína para una dieta de 2,000 kcal. Un dato que suele pasar desapercibido es la densidad: 4.7 g de proteína equivalen a unas 19 kcal, así que cerca del 40 % de las 46 kcal de la porción vienen de proteína. Para una bebida tipo latte, es una proporción alta." },
+    { "type": "callout", "variant": "etiqueta", "title": "De dónde sale la proteína", "text": "El primer ingrediente de la lista es el colágeno hidrolizado (péptidos Nextida GC), y por eso es la fuente principal de proteína. La chía también aporta algo, en mucha menor medida. La cantidad exacta de Nextida GC por sobre no está declarada: solo se conoce la proteína total, 4.7 g." },
+    { "type": "h2", "text": "¿Es mucho o poco? Comparación con alimentos cotidianos" },
+    { "type": "p", "text": "Como referencia mínima, un adulto sano necesita alrededor de 0.8 g de proteína por kilo de peso al día; para una persona de 65 kg, unos 52 g. Con ese marco, un sobre cubre cerca de un 9 % del día. Estas son equivalencias aproximadas con alimentos de cualquier mesa peruana:" },
+    { "type": "table", "caption": "Valores aproximados según bases de composición de alimentos; varían por marca y preparación", "headers": ["Alimento", "Proteína aproximada"], "rows": [
+      ["1 sobre de Matcha Pep-T en 180 ml de agua", "4.7 g (dato de etiqueta)"],
+      ["1 huevo grande", "6 g"],
+      ["1 vaso de leche de vaca (240 ml)", "8 g"],
+      ["1 taza de quinua cocida", "8 g"],
+      ["1/2 taza de lentejas cocidas", "9 g"],
+      ["100 g de pechuga de pollo cocida", "31 g"],
+      ["1 medida típica de proteína de suero", "20–25 g"]
+    ] },
+    { "type": "p", "text": "La conclusión es clara: un sobre se parece más a lo que aporta un huevo que a lo que aporta un plato de fondo. No está pensado para ser tu fuente principal de proteína, y la marca tampoco lo presenta así." },
+    { "type": "h2", "text": "Proteína de colágeno frente a proteína completa" },
+    { "type": "p", "text": "Una proteína se considera **completa** cuando aporta, en cantidades suficientes, los nueve aminoácidos esenciales, aquellos que el cuerpo no fabrica y debe obtener de la dieta. El huevo, la leche, las carnes, el pescado, la soya y la quinua entran en esa categoría." },
+    { "type": "p", "text": "El colágeno no. Es muy rico en glicina, prolina e hidroxiprolina, pero prácticamente no contiene **triptófano** y es bajo en otros esenciales como la leucina y la metionina. Por eso, en las escalas de calidad proteica que utiliza la FAO, puntúa muy por debajo del huevo o del suero de leche. Su origen y su procesamiento los explicamos en [el colágeno hidrolizado de la fórmula](/ingredientes-matcha-pep-t/colageno-hidrolizado/)." },
+    { "type": "ul", "items": [
+      "**Para qué sí sirve**: suma gramos de proteína a un momento del día con muy pocas calorías y aporta los aminoácidos característicos del colágeno.",
+      "**Para qué no basta**: no cubre por sí sola tus necesidades de aminoácidos esenciales ni reemplaza la proteína de las comidas principales.",
+      "**Por qué está en la fórmula**: Nextida GC se eligió por los estudios del fabricante del ingrediente (Rousselot) sobre glucosa y GLP-1, hechos con dosis de 5–10 g del ingrediente aislado, no por ser una proteína completa. Esos resultados no corresponden al producto en sí."
+    ] },
+    { "type": "p", "text": "Si quieres ver cómo se compara con un colágeno genérico en polvo, que suele dosificarse en porciones más grandes y con otro propósito, revisa [Matcha Pep-T vs colágeno en polvo](/ciencia-matcha-pep-t/vs-colageno-en-polvo/)." },
+    { "type": "cta", "text": "¿Te interesa sumar 4.7 g de proteína con solo 46 kcal? Revisa el precio oficial: S/ 158.00 el doypack de 14 sobres." },
+    { "type": "h2", "text": "Cómo complementar la proteína en tu día" },
+    { "type": "p", "text": "La idea no es convertir Matcha Pep-T en algo que no es, sino ubicarlo dentro de un día con proteína suficiente y variada. Tres estrategias prácticas:" },
+    { "type": "h3", "text": "Acompañarlo con una fuente completa" },
+    { "type": "p", "text": "Si lo tomas a media mañana, júntalo con algo que complete el perfil de aminoácidos: un huevo sancochado, un yogur natural, un trozo de queso fresco o un pan con pollo deshilachado. Así el colágeno suma gramos y la otra fuente cubre los esenciales que faltan." },
+    { "type": "h3", "text": "Ajustar la preparación, sabiendo lo que cambias" },
+    { "type": "p", "text": "La preparación de la etiqueta es 1 sobre en 180 ml de agua. Si reemplazas parte del agua por leche o por bebida de soya, la proteína sube unos 3 g por cada 100 ml, junto con calorías extra; la bebida de almendra apenas mueve el total. Es una opción válida si buscas más proteína, siempre que tengas claro que ya no es la porción de la etiqueta." },
+    { "type": "h3", "text": "Reforzar las comidas donde suele faltar" },
+    { "type": "p", "text": "En Perú, el almuerzo suele ser la comida fuerte: un menú con segundo de pollo, pescado o menestras ya aporta buena parte de la proteína del día. Donde más falta es en desayunos de pan con mantequilla y café, o en lonches de té con galletas. Ahí, sumar huevo, lácteos, tarwi, legumbres o quinua tiene más impacto que cualquier bebida." },
+    { "type": "p", "text": "Si entrenas, tus necesidades son mayores y conviene una fuente específica después del ejercicio; lo desarrollamos en [Matcha Pep-T para personas activas](/que-es-matcha-pep-t/para-personas-activas/)." },
+    { "type": "callout", "variant": "aviso", "title": "Si tienes una condición renal o una dieta indicada", "text": "Las personas con enfermedad renal u otras condiciones que exigen controlar la proteína deben consultar a su médico o nutricionista antes de añadir bebidas o suplementos proteicos, aunque el aporte sea moderado, como en este caso." },
+    { "type": "p", "text": "El resto de datos nutricionales, con carbohidratos, sodio y cromo, está en la [tabla nutricional de Matcha Pep-T](/ingredientes-matcha-pep-t/tabla-nutricional/), y la función de cada componente en la [guía de ingredientes](/ingredientes-matcha-pep-t/). Si decides probarlo, en la [página de compra](/comprar-matcha-pep-t/) te explicamos cómo pedirlo al distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar dos sobres para duplicar la proteína?", "a": "La etiqueta indica 1 sobre por porción y pide no exceder lo recomendado. Para aumentar tu proteína es mejor recurrir a alimentos como huevos, lácteos, legumbres, pescado o carnes." },
+    { "q": "¿Sirve como proteína después de entrenar?", "a": "No es lo ideal. Tras el ejercicio se suele recomendar una porción mayor de proteína completa y rica en leucina; los 4.7 g de colágeno no cumplen ese rol, aunque pueden sumar en otro momento del día." },
+    { "q": "¿La proteína del colágeno hidrolizado se digiere bien?", "a": "Al estar hidrolizado, el colágeno llega en péptidos pequeños que se disuelven en agua y suelen digerirse con facilidad. Aun así, cada persona tolera distinto; si notas pesadez, prueba tomarlo acompañado de algún alimento." },
+    { "q": "¿Por qué la etiqueta muestra proteína por 100 ml y por porción?", "a": "Porque el producto se consume diluido: los 2.6 g por 100 ml corresponden a la bebida ya preparada, y los 4.7 g a la porción completa de 180 ml. Para comparar con otros alimentos, usa el dato por porción." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central – composición de alimentos", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "FDA – Daily Value on Nutrition Facts labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" },
+    { "label": "OMS – Organización Mundial de la Salud", "url": "https://www.who.int/" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/colageno-hidrolizado/",
+    "/ingredientes-matcha-pep-t/tabla-nutricional/",
+    "/que-es-matcha-pep-t/para-personas-activas/",
+    "/ciencia-matcha-pep-t/vs-colageno-en-polvo/"
+  ]
+}

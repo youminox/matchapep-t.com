@@ -1,0 +1,83 @@
+{
+  "slug": "envio-a-provincias",
+  "pillar": "precio-matcha-pep-t-peru",
+  "path": "/precio-matcha-pep-t-peru/envio-a-provincias/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T envío provincias",
+  "title": "Matcha Pep-T envío a provincias: cómo pedirlo desde tu ciudad",
+  "seoTitle": "Matcha Pep-T envío a provincias: guía para pedirlo",
+  "metaDescription": "Matcha Pep-T envío a provincias: cómo pedirlo desde Arequipa, Trujillo, Piura, Cusco o Chiclayo en la tienda oficial y dónde ver el costo y el plazo.",
+  "excerpt": "Vivir fuera de Lima no impide comprar Matcha Pep-T original. Así funciona el pedido a provincias en la tienda oficial y qué revisar al recibirlo.",
+  "quickAnswer": "El Matcha Pep-T con envío a provincias se pide en la tienda oficial online del distribuidor autorizado, igual que en Lima: eliges el doypack de S/ 158.00, ingresas tu dirección en Arequipa, Trujillo, Piura, Cusco, Chiclayo u otra ciudad y el sistema te muestra el costo y el plazo de entrega antes de pagar.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A sealed cardboard parcel on a rustic wooden table in a sunny courtyard house in Arequipa with white volcanic sillar stone walls, a glass of green matcha drink beside it, bright dry highland light, warm tones, no labels, no text, no logos, no people",
+    "alt": "Paquete recibido sobre una mesa rústica en una casa de sillar arequipeña, junto a un vaso de matcha"
+  },
+  "blocks": [
+    { "type": "p", "text": "Durante años, comprar ciertos productos desde fuera de Lima significaba encargárselos a un pariente que viajaba o resignarse a lo que hubiera en la tienda del barrio. Hoy el pedido se hace desde el celular, en Huancayo o en Tacna, y el paquete viaja hasta tu puerta. Con Matcha Pep-T funciona así, siempre que uses el canal correcto." },
+    { "type": "p", "text": "Aquí te contamos cómo hacer el pedido desde provincias, qué cambia según tu ciudad, dónde ver el costo y el plazo reales y qué revisar cuando llegue la caja." },
+    { "type": "h2", "text": "Matcha Pep-T envío a provincias: cómo funciona" },
+    { "type": "p", "text": "No hay un procedimiento especial para regiones. La compra se hace en la tienda oficial online del distribuidor autorizado, la misma que usan los clientes de Lima, y el despacho lo gestiona el sistema oficial de FuXion. La diferencia está en la dirección que ingresas y, por lo tanto, en el costo y el plazo que el sistema calcula." },
+    { "type": "p", "text": "El precio del producto no cambia por vivir lejos: el doypack de 14 sobres sigue costando **S/ 158.00**, como explicamos en la [guía de precio de Matcha Pep-T en Perú](/precio-matcha-pep-t-peru/). Lo único que se suma es el envío." },
+    { "type": "h2", "text": "Costo y plazo: dónde verlos sin adivinar" },
+    { "type": "p", "text": "Encontrarás en internet cifras de envío copiadas de un sitio a otro. Preferimos no repetir ninguna, porque la tarifa y el tiempo dependen de varios factores que cambian:" },
+    { "type": "ul", "items": [
+      "**Tu destino.** No es lo mismo una capital de región con conexión diaria por carretera que una localidad más alejada.",
+      "**La cantidad.** Uno o varios doypacks pueden implicar un costo distinto.",
+      "**El método disponible.** La tienda muestra las opciones de despacho habilitadas para tu dirección.",
+      "**Las condiciones vigentes.** Campañas, temporadas altas o feriados largos pueden mover los plazos."
+    ] },
+    { "type": "p", "text": "La regla es sencilla: **el costo exacto y el plazo estimado aparecen en el checkout, antes de que confirmes el pago**. Si no te convencen, puedes salir sin comprar." },
+    { "type": "callout", "variant": "tip", "title": "Haz la prueba sin compromiso", "text": "Agrega el producto al carrito, ingresa tu dirección completa y avanza hasta la pantalla de envío. Ahí verás cuánto cuesta y cuánto tarda llegar a tu ciudad. Hasta que no confirmes el pago, no se genera ningún cargo." },
+    { "type": "h2", "text": "Lo que cambia según tu ciudad" },
+    { "type": "p", "text": "El proceso es el mismo para todos, pero el clima y la geografía de cada región influyen en cómo conviene recibir y guardar el producto. Algunas pautas generales:" },
+    { "type": "table", "caption": "Consideraciones prácticas por ciudad (orientativas)", "headers": ["Ciudad", "Qué tener en cuenta"], "rows": [
+      ["Arequipa", "Sol intenso y ambiente seco: guarda el doypack lejos de ventanas y techos de calamina que se calientan al mediodía."],
+      ["Trujillo", "Clima templado y algo húmedo cerca del mar: cierra bien el doypack después de cada uso."],
+      ["Piura", "Calor fuerte buena parte del año: evita dejar el paquete en la azotea, el auto o una mototaxi esperando."],
+      ["Cusco", "Altura y noches frías: el polvo no se daña con el frío, pero sí con la condensación; no lo guardes junto a la tetera."],
+      ["Chiclayo", "Calor y viento con arena: mantén los sobres cerrados en un cajón o recipiente."],
+      ["Iquitos", "Sin conexión por carretera con el resto del país y con mucha humedad: los plazos pueden ser distintos y el almacenamiento hermético es clave."]
+    ] },
+    { "type": "p", "text": "Si vives en Huancayo, Ica, Puno, Cajamarca, Tacna u otra ciudad, aplica el mismo criterio: fresco, seco y bien cerrado. Las pautas completas de almacenamiento están en [cómo conservar los sobres de Matcha Pep-T](/como-preparar-matcha-pep-t/como-conservar-los-sobres/)." },
+    { "type": "cta", "text": "Ingresa tu dirección en la tienda oficial y mira el costo de envío a tu ciudad antes de pagar." },
+    { "type": "h2", "text": "Cómo llenar los datos para que el paquete llegue sin vueltas" },
+    { "type": "p", "text": "En provincias, un dato incompleto puede hacer que el pedido se quede esperando en una oficina. Estos pasos ayudan a evitarlo:" },
+    { "type": "steps", "items": [
+      { "name": "Escribe la dirección completa", "text": "Incluye departamento, provincia y distrito correctos, además de calle, número, urbanización o asentamiento humano, manzana y lote si aplica." },
+      { "name": "Añade una referencia útil", "text": "Una plaza, un colegio, un mercado o una iglesia conocida. En muchas ciudades la numeración no es continua y la referencia salva la entrega." },
+      { "name": "Deja un celular que contestes", "text": "El repartidor o la agencia pueden llamarte para coordinar. Si vas a estar en el trabajo, coloca un número de alguien de confianza." },
+      { "name": "Revisa el resumen antes de pagar", "text": "Comprueba la cantidad de doypacks, el costo de envío y el plazo mostrado. Corregir algo en este punto toma segundos." },
+      { "name": "Guarda la confirmación", "text": "Conserva el correo o comprobante del pedido: te servirá para hacer seguimiento o consultar cualquier incidencia." }
+    ] },
+    { "type": "p", "text": "Sobre los medios de pago, la lógica es la misma que en Lima; los detallamos en [comprar Matcha Pep-T con tarjeta o Yape](/precio-matcha-pep-t-peru/formas-de-pago/)." },
+    { "type": "h2", "text": "¿Conviene pedir varios doypacks de una vez?" },
+    { "type": "p", "text": "Desde provincias, juntar el pedido puede tener sentido: reduces la cantidad de envíos al año y te aseguras de no quedarte sin producto si el despacho tarda unos días más por un feriado largo o por lluvias en la sierra." },
+    { "type": "p", "text": "Eso sí, compra solo lo que vayas a usar antes de la fecha de vencimiento y que puedas guardar bien. Para calcular cuántos doypacks necesitas según tu frecuencia, revisa [cuánto dura y cuánto gastar al mes](/precio-matcha-pep-t-peru/presupuesto-mensual/)." },
+    { "type": "h2", "text": "Al recibir el paquete" },
+    { "type": "ul", "items": [
+      "Verifica que la caja no esté aplastada ni mojada.",
+      "Comprueba que el doypack esté cerrado y que la fecha de vencimiento sea legible.",
+      "Si algo no cuadra, toma fotos antes de abrirlo y comunícate con el distribuidor.",
+      "Guarda el producto el mismo día en un lugar fresco y seco."
+    ] },
+    { "type": "p", "text": "Cuando estés listo, entra a la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/) y haz tu pedido desde cualquier región del país." }
+  ],
+  "faqs": [
+    { "q": "¿El precio de Matcha Pep-T es más alto en provincias?", "a": "No. El producto cuesta lo mismo en todo el país, S/ 158.00 por el doypack de 14 sobres. Lo que varía es el costo de envío, que depende de tu destino y se muestra antes de pagar." },
+    { "q": "¿Llega a distritos alejados o solo a capitales de región?", "a": "La cobertura depende de las opciones de despacho habilitadas en la tienda para tu dirección. La forma más rápida de saberlo es ingresar tu dirección en el checkout y ver si aparece un método de envío disponible." },
+    { "q": "¿Puedo hacer seguimiento del pedido?", "a": "Guarda la confirmación que recibes al pagar, ya que contiene los datos de tu pedido. Si necesitas ayuda para ubicarlo, puedes escribir al distribuidor desde la página de contacto." },
+    { "q": "¿El viaje afecta la calidad del producto?", "a": "Los sobres vienen cerrados y el doypack protege el polvo durante el traslado. Lo importante es guardarlo bien desde que llega: lejos del calor, la humedad y la luz directa." }
+  ],
+  "sources": [
+    { "label": "INDECOPI – Protección al consumidor", "url": "https://www.gob.pe/indecopi" },
+    { "label": "DIGESA – Inocuidad alimentaria", "url": "https://www.digesa.minsa.gob.pe/" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/donde-comprar-original-en-lima/",
+    "/precio-matcha-pep-t-peru/presupuesto-mensual/",
+    "/precio-matcha-pep-t-peru/formas-de-pago/",
+    "/como-preparar-matcha-pep-t/como-conservar-los-sobres/"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "aditivos-goma-xantana-silice-lecitina",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/aditivos-goma-xantana-silice-lecitina/",
+  "isPillar": false,
+  "primaryKeyword": "goma xantana dióxido de silicio lecitina",
+  "title": "Goma xantana, dióxido de silicio y lecitina en Matcha Pep-T",
+  "seoTitle": "Goma xantana, dióxido de silicio y lecitina: qué hacen",
+  "metaDescription": "Goma xantana, dióxido de silicio y lecitina en Matcha Pep-T: qué hace cada aditivo, junto a la tapioca y los saborizantes, y qué se sabe de su seguridad.",
+  "excerpt": "Los nombres raros del final de la etiqueta tienen una razón de ser. Explicamos, sin alarmismo ni maquillaje, qué hacen la goma xantana, el dióxido de silicio, la lecitina de girasol, la tapioca y los saborizantes.",
+  "quickAnswer": "La goma xantana, el dióxido de silicio y la lecitina de girasol de Matcha Pep-T son aditivos tecnológicos: el primero da cuerpo a la bebida, el segundo evita que el polvo se apelmace y el tercero ayuda a que la grasa del coco se mezcle con el agua. Están al final de la lista, en cantidades pequeñas, y son aditivos autorizados y evaluados por organismos como EFSA y JECFA.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "Three small ceramic bowls with fine white powders and a spoon of pale green matcha powder on a light grey stone kitchen counter, a glass of creamy iced matcha latte beside them, soft overcast daylight from a window in a Lima apartment, minimal clean style, no text, no logos, no packaging, no people",
+    "alt": "Pequeños cuencos con polvos blancos y una cuchara de matcha junto a un vaso de matcha latte frío sobre una encimera gris"
+  },
+  "blocks": [
+    { "type": "p", "text": "Quien ha guardado leche en polvo o avena en una alacena de Lima en pleno julio conoce el problema: la humedad del invierno convierte cualquier polvo en un bloque compacto. Un sobre de bebida instantánea enfrenta el mismo reto, con una exigencia extra: tiene que disolverse en segundos dentro de un tomatodo o una taza de la oficina." },
+    { "type": "p", "text": "Ahí entran los ingredientes de nombre técnico que aparecen al final de la etiqueta de Matcha Pep-T. No son el corazón de la fórmula, pero sin ellos la bebida sería aguada, granulosa o se separaría en capas. Vamos uno por uno, con lo que se sabe de su función y de su seguridad." },
+    { "type": "h2", "text": "Dónde aparecen en la etiqueta y qué dice su posición" },
+    { "type": "p", "text": "En la lista oficial, los ingredientes se ordenan de mayor a menor cantidad. Matcha Pep-T empieza con el colágeno hidrolizado Nextida GC, la fibra de maíz y la crema de coco. La tapioca está en el sexto lugar, los saborizantes naturales en el séptimo y, a partir de ahí, vienen los aditivos que nos ocupan." },
+    { "type": "callout", "variant": "etiqueta", "title": "Así figuran en el envase", "text": "«…Tapioca, Saborizantes Naturales (Crema Caramelo y Leche de Coco), Espesante (Goma Xantana), Antiaglutinante (Dióxido de Silicio), Estevia (…), Emulsionante (Lecitina de Girasol), Cromo». Cada aditivo va precedido de su función, tal como exige la normativa de rotulado." },
+    { "type": "p", "text": "Dato útil: la lecitina aparece incluso después de la estevia, que se usa en cantidades mínimas porque endulza muchísimo. Su proporción en un sobre de 15 g es, por tanto, muy pequeña. Si quieres ver la lista completa con la función de cada componente, está en la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Goma xantana: el espesante que da cuerpo de latte" },
+    { "type": "p", "text": "La **goma xantana** (código internacional INS 415) es un polisacárido que se obtiene por fermentación: una bacteria, *Xanthomonas campestris*, transforma azúcares en una sustancia que luego se purifica y se seca como polvo. Está en aderezos, salsas y panes sin gluten." },
+    { "type": "p", "text": "Su gracia es que, con muy poca cantidad, espesa el agua. En Matcha Pep-T hace que 180 ml de agua se sientan como un latte con algo de cuerpo y no como un té ralo." },
+    { "type": "p", "text": "Técnicamente es una fibra soluble: no se digiere en el intestino delgado. En dosis altas, de varios gramos al día, puede ablandar las deposiciones o generar gases, pero las cantidades que se usan como espesante en una bebida son muy inferiores." },
+    { "type": "h2", "text": "Dióxido de silicio: contra los grumos de la humedad limeña" },
+    { "type": "p", "text": "El **dióxido de silicio** (INS 551), también llamado sílice, es un antiaglutinante. Sus partículas absorben la humedad superficial y se interponen entre los granos del polvo para que no se peguen entre sí. Es lo que permite que el sobre fluya suelto aunque lo abras en una cocina de Chorrillos con la garúa pegada a la ventana." },
+    { "type": "p", "text": "Químicamente es el mismo compuesto que forma la arena y el cuarzo, aunque la versión alimentaria es un polvo amorfo, muy fino y purificado. Se usa en sal de mesa, especias molidas, leche en polvo y suplementos. La FDA de Estados Unidos permite usarlo hasta un máximo del 2 % del peso del alimento." },
+    { "type": "h2", "text": "Lecitina de girasol: el puente entre el agua y la grasa del coco" },
+    { "type": "p", "text": "La crema de coco aporta grasa, y la grasa no se mezcla bien con el agua. La **lecitina** (INS 322) es un emulsionante: una molécula con una parte afín al agua y otra afín a la grasa, que sostiene ambas fases unidas. El resultado es una bebida homogénea, sin gotitas de aceite flotando." },
+    { "type": "p", "text": "La versión de girasol se obtiene del aceite de esa semilla. Frente a la lecitina de soya, más común en la industria, tiene una ventaja práctica: la soya es uno de los alérgenos alimentarios principales y el girasol no figura en esa lista." },
+    { "type": "cta", "text": "¿Ya entendiste qué lleva cada sobre y quieres probarlo? Revisa el precio actualizado del doypack de 14 sobres." },
+    { "type": "h2", "text": "Tapioca y saborizantes naturales: textura y sabor" },
+    { "type": "p", "text": "La **tapioca** no es un aditivo, sino un ingrediente: es el almidón extraído de la raíz de la yuca, la misma que acompaña un buen chicharrón en el desayuno dominical. En la fórmula funciona como base y aporta suavidad a la textura. Al ser almidón, suma algo de carbohidrato, que ya está incluido en los 7.8 g por porción de la tabla." },
+    { "type": "p", "text": "Los **saborizantes naturales** declarados son «crema caramelo» y «leche de coco». Que sean naturales significa que las sustancias aromáticas proceden de fuentes vegetales o animales, no de síntesis química. La etiqueta no detalla su composición exacta, algo habitual porque las fórmulas de sabor suelen ser confidenciales. Conviene aclarar que «crema caramelo» describe un perfil de sabor, no una cucharada de caramelo." },
+    { "type": "table", "caption": "Resumen de los ingredientes secundarios de Matcha Pep-T", "headers": ["Ingrediente", "Función en el sobre", "Origen", "Estado regulatorio"], "rows": [
+      ["Tapioca", "Base y textura", "Almidón de yuca", "Alimento, no aditivo"],
+      ["Saborizantes naturales", "Sabor a crema caramelo y coco", "Fuentes naturales", "Autorizados como aromatizantes"],
+      ["Goma xantana (INS 415)", "Espesante", "Fermentación bacteriana", "Reevaluada por EFSA en 2017 sin preocupación de seguridad"],
+      ["Dióxido de silicio (INS 551)", "Antiaglutinante", "Sílice amorfa purificada", "Reevaluado por EFSA en 2018; uso permitido"],
+      ["Lecitina de girasol (INS 322)", "Emulsionante", "Semilla de girasol", "Reevaluada por EFSA en 2017 sin preocupación de seguridad"]
+    ] },
+    { "type": "h2", "text": "¿Son seguros la goma xantana, el dióxido de silicio y la lecitina?" },
+    { "type": "p", "text": "Los tres están incluidos en la Norma General del Codex Alimentarius para aditivos, que es la referencia que siguen muchas autoridades sanitarias, entre ellas las de Perú. El comité mixto FAO/OMS de expertos (JECFA) los evaluó y les asignó una ingesta diaria admisible «no especificada», la categoría que se reserva para sustancias de muy baja toxicidad." },
+    { "type": "p", "text": "En Europa, la EFSA revisó de nuevo la goma xantana y la lecitina en 2017 y concluyó que no hay motivo de preocupación en los usos autorizados. Con el dióxido de silicio, la revisión de 2018 tampoco encontró indicios de toxicidad en los niveles de uso reportados, aunque pidió más datos sobre la fracción de partículas más finas. Es un pendiente científico, no una alerta." },
+    { "type": "p", "text": "Lo honesto es decir que «autorizado» no significa «imprescindible para tu salud»: estos componentes están ahí por tecnología, no por nutrición. Pero tampoco hay base para presentarlos como tóxicos, como a veces circula en redes." },
+    { "type": "h2", "text": "Cuándo sí vale la pena prestar atención" },
+    { "type": "ul", "items": [
+      "**Intestino sensible:** si notas gases con productos ricos en fibra soluble, recuerda que la goma xantana se suma a los 4.9 g de fibra de la porción. Probarlo primero en casa y no en plena reunión es una buena idea.",
+      "**Alergias:** la lecitina es de girasol, no de soya, pero la fórmula contiene coco. Revisa siempre las advertencias impresas en el envase si tienes alergias diagnosticadas.",
+      "**Embarazo, enfermedades crónicas o medicación:** los aditivos no son el punto crítico, pero sí lo es el producto en conjunto; consulta con tu médico o nutricionista."
+    ] },
+    { "type": "p", "text": "Para que la textura salga bien, también importa cómo lo mezclas: echar el polvo sobre el agua y agitar, no al revés. Lo explicamos en la guía para [preparar Matcha Pep-T en shaker sin grumos](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/). Y si te interesan los demás componentes funcionales, revisa el artículo sobre la [fibra de maíz soluble](/ingredientes-matcha-pep-t/fibra-de-maiz/), que es la principal fuente de fibra del sobre." },
+    { "type": "p", "text": "Cuando quieras pedirlo, en la página para [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) encontrarás el precio de S/ 158.00 por doypack y las opciones de envío." }
+  ],
+  "faqs": [
+    { "q": "¿La goma xantana contiene gluten?", "a": "No. Se produce por fermentación de azúcares y no proviene del trigo; de hecho, se usa mucho en panadería sin gluten. Aun así, para saber si un producto tiene trazas, hay que leer las advertencias del propio envase." },
+    { "q": "¿El dióxido de silicio es lo mismo que la silicona?", "a": "No. La silicona es un polímero sintético que se usa en moldes y selladores. El dióxido de silicio alimentario es sílice amorfa, un mineral en polvo muy fino que actúa como antiaglutinante." },
+    { "q": "¿La lecitina de girasol engorda?", "a": "Es una grasa, pero la cantidad en un sobre es tan pequeña que su aporte de energía es irrelevante. Toda la grasa de la porción suma 0.6 g, y la mayor parte viene de la crema de coco." },
+    { "q": "¿Por qué no se declara la cantidad exacta de cada aditivo?", "a": "La normativa de rotulado exige nombrarlos en orden decreciente y con su función, pero no obliga a indicar gramos. Su posición al final de la lista ya indica que están en proporciones pequeñas." }
+  ],
+  "sources": [
+    { "label": "EFSA – Aditivos alimentarios (reevaluaciones)", "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives" },
+    { "label": "Codex Alimentarius – Norma General para los Aditivos Alimentarios (GSFA)", "url": "https://www.fao.org/gsfaonline/" },
+    { "label": "FDA – Food Additive Status List", "url": "https://www.fda.gov/food/food-additives-petitions/food-additive-status-list" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/crema-de-coco/",
+    "/ingredientes-matcha-pep-t/estevia/",
+    "/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/",
+    "/ingredientes-matcha-pep-t/fibra-de-maiz/"
+  ]
+}

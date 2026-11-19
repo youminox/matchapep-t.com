@@ -1,0 +1,56 @@
+{
+  "slug": "chia",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/chia/",
+  "isPillar": false,
+  "primaryKeyword": "chía en Matcha Pep-T",
+  "title": "Chía en Matcha Pep-T: fibra, omega-3 y su aporte real",
+  "seoTitle": "Chía en Matcha Pep-T: qué aporta y en qué cantidad",
+  "metaDescription": "La chía en Matcha Pep-T: qué aporta en fibra y omega-3 vegetal, por qué va mezclada con el matcha y qué revela la tabla nutricional sobre su cantidad real.",
+  "excerpt": "La chía figura en el empaque de Matcha Pep-T junto al matcha. Analizamos qué aporta esta semilla, cuánto pesa en la fórmula y qué esperar de ella con números de la etiqueta.",
+  "quickAnswer": "La chía en Matcha Pep-T forma parte del cuarto ingrediente, «Mix de té matcha y chía». Es una semilla rica en fibra y en omega-3 vegetal (ALA), pero su aporte dentro del sobre es modesto: la fibra viene sobre todo de la fibra de maíz y la grasa total es solo 0.6 g por porción.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Small linen bowl of black and white chia seeds next to a glass jar of creamy green matcha drink on a sunlit wooden table at a Lima market stall style setting, fresh limes in soft focus, warm natural light, no text, no logos, no packaging, no people",
+    "alt": "Bol pequeño con semillas de chía junto a un frasco de bebida de matcha cremosa sobre una mesa de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas peruanas la chía llegó primero en forma de refresco: unas cucharadas en la limonada o en la chicha morada, esperando a que las semillas se hinchen y formen esas perlitas gelatinosas. Luego vinieron los pudines, los bowls y los panes integrales con semillas." },
+    { "type": "p", "text": "Por eso sorprende a algunos encontrarla en la etiqueta de un matcha latte instantáneo. La chía es uno de los cuatro atributos que destaca el empaque de Matcha Pep-T, junto a los péptidos de colágeno, la fibra y el cromo. Aquí revisamos qué aporta de verdad, usando los números de la tabla nutricional." },
+    { "type": "h2", "text": "Dónde aparece la chía en la etiqueta" },
+    { "type": "p", "text": "La chía no figura sola, sino dentro de un ingrediente compuesto: **«Mix de té matcha y chía»**, que ocupa el **cuarto lugar** de la lista. Como los ingredientes se ordenan de mayor a menor cantidad, por delante están el colágeno hidrolizado, la fibra de maíz y la crema de coco." },
+    { "type": "p", "text": "La etiqueta no indica qué proporción del mix corresponde a la chía y cuál al matcha, ni cuántos gramos del mix lleva cada sobre de 15 g. Lo que sí podemos hacer es usar la tabla nutricional para acotar su aporte, como verás más abajo." },
+    { "type": "h2", "text": "Qué es la chía y por qué tiene buena fama" },
+    { "type": "p", "text": "La chía es la semilla de *Salvia hispanica*, una planta originaria de México y Centroamérica que hoy también se cultiva en Sudamérica, Perú incluido. Su prestigio nutricional se apoya en tres rasgos bien documentados:" },
+    { "type": "ul", "items": ["**Mucha fibra.** Alrededor de un tercio de su peso es fibra dietaria, en buena parte capaz de retener agua: por eso forma gel al remojarse.", "**Omega-3 vegetal.** Es una de las fuentes vegetales más ricas en ácido alfa-linolénico (ALA), un ácido graso omega-3 esencial.", "**Proteína y minerales.** Contiene proteína vegetal y minerales como calcio, magnesio y fósforo en cantidades interesantes, siempre que se consuma en cucharadas y no en pizcas."] },
+    { "type": "p", "text": "La clave está en la última frase: los beneficios de la chía se asocian a porciones de una o dos cucharadas. Ese es el punto de comparación que conviene tener en mente." },
+    { "type": "h2", "text": "La fibra de la chía en Matcha Pep-T" },
+    { "type": "p", "text": "Una porción de Matcha Pep-T aporta **4.9 g de fibra**, el 18 % del valor diario. Es una cifra notable para una bebida de 46 kcal, pero no debes atribuírsela a la chía. La fuente principal es la **fibra de maíz**, segundo ingrediente de la lista, de la que hablamos en detalle en [fibra de maíz soluble](/ingredientes-matcha-pep-t/fibra-de-maiz/)." },
+    { "type": "p", "text": "La chía, junto con el matcha, suma una parte menor de esa fibra. Su papel aquí es complementario: aporta variedad de fuentes y refuerza el perfil de la bebida, más que cargar con el número final." },
+    { "type": "h2", "text": "Omega-3 vegetal: la cuenta que hace la etiqueta" },
+    { "type": "p", "text": "Aquí la tabla nutricional permite un razonamiento sencillo. El omega-3 de la chía es grasa insaturada. Mira los datos de grasa por porción:" },
+    { "type": "table", "caption": "Grasas por porción de Matcha Pep-T (1 sobre en 180 ml de agua)", "headers": ["Componente", "Cantidad por porción"], "rows": [["Grasa total", "0.6 g"], ["Grasa saturada", "0.5 g"], ["Grasa trans", "0.0 g"], ["Diferencia (grasas no saturadas, todas las fuentes)", "alrededor de 0.1 g"]] },
+    { "type": "p", "text": "La grasa saturada procede sobre todo de la crema de coco. Lo que queda para todas las grasas insaturadas del sobre ronda **0.1 g**, y no todo eso es omega-3 ni todo proviene de la chía. Las cifras de la etiqueta están redondeadas, pero el orden de magnitud es claro." },
+    { "type": "callout", "variant": "etiqueta", "title": "Para dimensionarlo", "text": "Las referencias de ingesta adecuada de ALA para adultos son de 1.1 g al día en mujeres y 1.6 g en hombres (NIH). Con unos 0.1 g de grasas insaturadas por porción como techo, la chía de Matcha Pep-T no es una fuente relevante de omega-3. La etiqueta no declara omega-3." },
+    { "type": "p", "text": "Esto no le quita mérito al ingrediente; simplemente lo ubica en su lugar. Si alguien te dice que esta bebida \"te da tu omega-3 del día\", la propia etiqueta lo contradice." },
+    { "type": "cta", "text": "Si buscas un matcha latte ligero con fibra, colágeno y chía en la fórmula, revisa el precio actual y cómo comprarlo." },
+    { "type": "h2", "text": "Por qué la chía va mezclada con el matcha" },
+    { "type": "p", "text": "Presentar matcha y chía como un solo ingrediente compuesto es una decisión de formulación. Ambos son componentes vegetales en polvo, de los que se usa poca cantidad, y combinarlos facilita una dosificación uniforme en cada sobre." },
+    { "type": "p", "text": "Desde el punto de vista del sabor, la chía es muy neutra: no compite con las notas vegetales del matcha ni con la crema caramelo y el coco. Y desde el marketing, suma un atributo reconocible para el consumidor peruano, que asocia la chía con alimentación natural." },
+    { "type": "h2", "text": "Si quieres más chía, súmala tú" },
+    { "type": "p", "text": "Si te gusta la chía y quieres aprovechar sus beneficios en serio, lo más directo es añadirla en cantidades de cocina. Una opción práctica es preparar un pudín: mezclas el sobre con tu bebida de base, agregas una o dos cucharadas de semillas y dejas reposar en la refrigeradora toda la noche. Tienes la receta completa en [pudín de chía con matcha](/como-preparar-matcha-pep-t/pudin-de-chia/)." },
+    { "type": "p", "text": "Ten en cuenta que cada cucharada extra suma calorías y fibra. Si no estás acostumbrado a tanta fibra, aumenta de a poco y toma suficiente agua para evitar hinchazón." },
+    { "type": "p", "text": "Para conocer el resto de componentes y su función, revisa la guía de [ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Y si ya decidiste, en [comprar Matcha Pep-T](/comprar-matcha-pep-t/) encontrarás el precio de referencia: S/ 158.00 por 14 sobres, unos S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Se ven semillas de chía en la bebida preparada?", "a": "La etiqueta no detalla en qué forma se incorpora la chía dentro del mix. Lo que notarás es una bebida de textura cremosa y homogénea, cuyo espesor viene principalmente de la crema de coco y la goma xantana." },
+    { "q": "¿La chía de Matcha Pep-T puede causar gases?", "a": "Por su cantidad pequeña, es poco probable que la chía por sí sola cause molestias. Si notas gases al inicio, se deben con más probabilidad al total de fibra de la porción, sobre todo a la fibra de maíz." },
+    { "q": "¿Puedo tomar Matcha Pep-T si soy alérgico a la chía?", "a": "No. Si tienes alergia o sensibilidad a la chía o a otras semillas, evita el producto o consulta con tu médico o alergólogo antes de probarlo." },
+    { "q": "¿Matcha Pep-T reemplaza comer chía?", "a": "No. La cantidad presente en el sobre es modesta y no equivale a una o dos cucharadas de semillas. Si quieres sus beneficios, inclúyela aparte en tu alimentación." }
+  ],
+  "sources": [
+    { "label": "NIH Office of Dietary Supplements – Omega-3 Fatty Acids", "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/" },
+    { "label": "USDA FoodData Central – composición de alimentos", "url": "https://fdc.nal.usda.gov/" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/fibra-de-maiz/", "/ingredientes-matcha-pep-t/te-matcha/", "/ingredientes-matcha-pep-t/tabla-nutricional/", "/como-preparar-matcha-pep-t/pudin-de-chia/"]
+}

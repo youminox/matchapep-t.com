@@ -1,0 +1,58 @@
+{
+  "slug": "colageno-hidrolizado",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/colageno-hidrolizado/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T colágeno hidrolizado",
+  "title": "Matcha Pep-T y su colágeno hidrolizado: origen, digestión y rol",
+  "seoTitle": "Matcha Pep-T colágeno hidrolizado: qué es y qué aporta",
+  "metaDescription": "Matcha Pep-T colágeno hidrolizado: qué es, de dónde viene, por qué se digiere fácil y cómo explica los 4.7 g de proteína por sobre. Guía clara y sin mitos.",
+  "excerpt": "El colágeno hidrolizado es el primer ingrediente de Matcha Pep-T. Te contamos qué es, de dónde sale, por qué se disuelve tan bien y qué aporta realmente a cada porción.",
+  "quickAnswer": "En Matcha Pep-T, el colágeno hidrolizado es el primer ingrediente de la etiqueta y llega en forma de péptidos Nextida GC. Es una proteína de origen animal fragmentada para que se disuelva en agua y se digiera con facilidad. Explica buena parte de los 4.7 g de proteína por porción, aunque no es una proteína completa.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A wooden spoon lifting fine collagen powder over a clear glass of water on a rustic kitchen table, a small clay pot and fresh herbs in soft focus behind, warm afternoon light in a Peruvian home kitchen, no text, no logos, no packaging, no people",
+    "alt": "Cuchara de madera con colágeno en polvo sobre un vaso de agua en una mesa de cocina rústica"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si alguna vez dejaste enfriar un caldo de patita o un sustancioso caldo de cabeza y al día siguiente lo encontraste convertido en una gelatina temblorosa, ya conoces el colágeno en acción. Esa textura viene de una proteína que abunda en la piel, los huesos y los tendones de los animales." },
+    { "type": "p", "text": "El colágeno de Matcha Pep-T es pariente directo de esa gelatina, pero procesado para comportarse de otra manera: no cuaja, se disuelve en un vaso de agua fría y aparece al inicio de la lista de ingredientes. Vamos por partes." },
+    { "type": "h2", "text": "Qué es el colágeno hidrolizado" },
+    { "type": "p", "text": "El colágeno es la proteína más abundante del cuerpo de los mamíferos. Su estructura es una triple hélice: tres cadenas largas enrolladas entre sí, muy resistentes. Esa misma resistencia hace que, tal cual, sea poco práctica como ingrediente de una bebida." },
+    { "type": "p", "text": "**Hidrolizar** significa romper esas cadenas largas en fragmentos más cortos, llamados **péptidos**, usando agua y enzimas. El resultado es un polvo que ya no forma gel, que se mezcla sin esfuerzo y que el organismo procesa como cualquier otra proteína alimentaria." },
+    { "type": "h3", "text": "Del tejido al polvo, en cuatro etapas" },
+    { "type": "ol", "items": ["**Materia prima:** se parte de tejidos ricos en colágeno, como pieles o huesos, que provienen de la industria alimentaria.", "**Extracción:** con calor y agua se obtiene primero gelatina, que es colágeno parcialmente desnaturalizado.", "**Hidrólisis enzimática:** enzimas específicas cortan la gelatina en péptidos de menor tamaño.", "**Filtrado y secado:** el líquido se purifica y se seca hasta obtener un polvo fino y soluble."] },
+    { "type": "p", "text": "En la etapa de hidrólisis es donde un fabricante puede orientar qué fragmentos predominan. Ahí está la diferencia entre un colágeno genérico y una composición específica como [Nextida GC, el péptido que lleva Matcha Pep-T](/ingredientes-matcha-pep-t/nextida-gc-que-es/)." },
+    { "type": "h2", "text": "Origen animal: lo que sabemos y lo que no" },
+    { "type": "p", "text": "Todo colágeno alimentario es de **origen animal**; no existe colágeno vegetal propiamente dicho. Los productos que se anuncian como \"colágeno vegano\" suelen contener aminoácidos sueltos o vitaminas, no colágeno." },
+    { "type": "p", "text": "Comercialmente, el colágeno hidrolizado se obtiene sobre todo de fuentes bovinas, porcinas o de pescado. La etiqueta de Matcha Pep-T menciona *\"Colágeno Hidrolizado (Péptidos de Proteína de Colágeno – Nextida® GC)\"*, pero **no especifica la especie de origen**. Si sigues una alimentación vegana o vegetariana estricta, el producto no encaja; lo explicamos en [¿Matcha Pep-T es vegano?](/ingredientes-matcha-pep-t/es-vegano/). Si tienes restricciones religiosas o alergia al pescado, consulta directamente con el distribuidor antes de comprar." },
+    { "type": "h2", "text": "Digestibilidad: por qué se disuelve y se procesa con facilidad" },
+    { "type": "p", "text": "La gran ventaja práctica del colágeno hidrolizado frente a la gelatina es su comportamiento en el vaso y en el estómago:" },
+    { "type": "ul", "items": ["**Se disuelve en agua fría o tibia.** Por eso la bebida se puede preparar con hielo en pleno verano limeño sin que queden cuajos.", "**No espesa como una gelatina.** La textura cremosa de Matcha Pep-T viene de otros ingredientes, como la crema de coco y la goma xantana.", "**Llega parcialmente \"predigerido\".** Al estar ya fragmentado, el trabajo de las enzimas digestivas es menor y los péptidos se absorben en el intestino como pequeños fragmentos y aminoácidos.", "**Sabor neutro.** Un buen colágeno hidrolizado casi no tiene sabor, lo que permite que domine el perfil de matcha latte."] },
+    { "type": "p", "text": "Algunas personas con estómago sensible notan ligera pesadez con cualquier proteína en polvo; si es tu caso, empieza tomando la bebida acompañada y observa cómo te sientes." },
+    { "type": "cta", "text": "¿Te convence una bebida de 46 kcal con colágeno hidrolizado como primer ingrediente? Mira el precio y la forma de pedirla." },
+    { "type": "h2", "text": "Matcha Pep-T colágeno hidrolizado: su papel en la fórmula" },
+    { "type": "p", "text": "En Perú, como en la mayoría de países, los ingredientes de un alimento envasado se listan **de mayor a menor cantidad**. Que el colágeno hidrolizado abra la lista de Matcha Pep-T indica que es el componente más abundante del sobre de 15 g, por delante de la fibra de maíz y la crema de coco." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice la etiqueta por porción", "text": "1 sobre (15 g) en 180 ml de agua aporta 4.7 g de proteína (9 % del valor diario), 46 kcal, 4.9 g de fibra y 0.9 g de azúcares añadidos. La cantidad exacta de colágeno o de Nextida GC por sobre no está declarada." },
+    { "type": "p", "text": "Estos números ayudan a dimensionar el ingrediente. Comparado con otras fuentes de proteína de la vida diaria, el aporte es modesto:" },
+    { "type": "table", "caption": "Proteína aproximada por porción habitual (referencial)", "headers": ["Alimento o bebida", "Porción", "Proteína aproximada"], "rows": [["Matcha Pep-T (etiqueta)", "1 sobre en 180 ml de agua", "4.7 g"], ["Huevo de gallina", "1 unidad mediana", "6 g aprox."], ["Yogur natural", "1 vaso de 200 g", "7–8 g aprox."], ["Pechuga de pollo cocida", "100 g", "30 g aprox."]] },
+    { "type": "p", "text": "En otras palabras, la función del colágeno aquí no es reemplazar una comida ni un batido proteico, sino aportar péptidos y algo de proteína en una bebida ligera. El análisis completo de esa cifra está en [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/)." },
+    { "type": "h2", "text": "Una proteína incompleta: qué implica" },
+    { "type": "p", "text": "El colágeno es rico en glicina, prolina e hidroxiprolina, pero **prácticamente no contiene triptófano**, un aminoácido esencial. Por eso se considera una proteína incompleta: no cubre por sí sola todos los aminoácidos que tu cuerpo necesita obtener de la dieta." },
+    { "type": "p", "text": "No es un defecto del producto, sino una característica del colágeno en general. En la práctica, basta con que tu alimentación incluya otras fuentes variadas, como menestras, huevos, lácteos, pescado o pollo. Un almuerzo típico de lentejas con arroz o un sudado de pescado ya cubre ese hueco." },
+    { "type": "p", "text": "¿Y la piel? Es la pregunta más común sobre cualquier colágeno. En resumen, la cantidad del producto es moderada y no está planteado como un producto de belleza; el tema completo está en [Matcha Pep-T, colágeno y piel](/que-es-matcha-pep-t/colageno-y-piel/)." },
+    { "type": "p", "text": "Para ver el resto de componentes y su función, vuelve a la guía de [ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Si ya lo tienes claro, en [comprar Matcha Pep-T](/comprar-matcha-pep-t/) verás el precio de referencia: S/ 158.00 por doypack, S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿El colágeno hidrolizado de Matcha Pep-T es de pescado o de res?", "a": "La etiqueta no lo especifica: solo indica colágeno hidrolizado con péptidos Nextida GC. Si la especie de origen es importante para ti por alergia o por motivos religiosos, consúltalo con el distribuidor antes de comprar." },
+    { "q": "¿Se pierde el colágeno si preparo la bebida con agua caliente?", "a": "El colágeno hidrolizado ya pasó por procesos con calor durante su fabricación, así que el agua caliente no lo destruye. Aun así, la recomendación es usar agua caliente sin hervir para cuidar el sabor del matcha y evitar grumos." },
+    { "q": "¿El colágeno hidrolizado engorda?", "a": "Aporta calorías como toda proteína, unas 4 kcal por gramo. Pero la porción completa de Matcha Pep-T suma 46 kcal, una cifra baja para una bebida tipo latte." },
+    { "q": "¿Puedo tomar Matcha Pep-T si ya consumo otro colágeno?", "a": "No hay una contraindicación general, pero sumarías proteína de colágeno de dos fuentes. Si tienes enfermedad renal u otra condición que requiera controlar la proteína, consulta a tu médico." }
+  ],
+  "sources": [
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "USDA FoodData Central – composición de alimentos", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/nextida-gc-que-es/", "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/", "/ingredientes-matcha-pep-t/es-vegano/", "/que-es-matcha-pep-t/colageno-y-piel/"]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "errores-al-prepararlo",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/errores-al-prepararlo/",
+  "isPillar": false,
+  "primaryKeyword": "errores al preparar Matcha Pep-T",
+  "title": "7 errores al preparar Matcha Pep-T (y cómo evitarlos)",
+  "seoTitle": "Errores al preparar Matcha Pep-T: 7 fallos comunes",
+  "metaDescription": "Los errores al preparar Matcha Pep-T más comunes: agua hirviendo, medir mal los 180 ml, grumos, añadir azúcar o tomar varios sobres. Cómo corregirlos.",
+  "excerpt": "Agua hirviendo, medidas a ojo, polvo antes que el agua o una cucharadita extra de azúcar: los fallos que arruinan tu matcha latte y cómo solucionarlos.",
+  "quickAnswer": "Los errores al preparar Matcha Pep-T más frecuentes son usar agua hirviendo, poner menos de 180 ml de agua, echar el polvo antes que el líquido, añadir azúcar y tomar más de un sobre al día. La etiqueta es simple: 1 sobre de 15 g en 180 ml de agua fría o caliente sin hervir, bien mezclado.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Overhead view of a kitchen counter in a small Lima apartment with a measuring jug of water, a ceramic mug of smooth green matcha latte, a small whisk and a stainless steel shaker bottle, soft natural window light, clean minimal style, no people, no packaging, no text, no logos",
+    "alt": "Jarra medidora con agua, taza de matcha latte sin grumos, batidor pequeño y shaker sobre una encimera de cocina"
+  },
+  "blocks": [
+    { "type": "p", "text": "Un sobre, una taza de agua, mezclar. Parece imposible equivocarse, y sin embargo es frecuente escuchar que el matcha «salió aguado», «muy dulce» o «con bolitas». Casi siempre el problema no está en el producto, sino en un detalle de la preparación." },
+    { "type": "p", "text": "Repasamos los fallos más comunes uno por uno, con la explicación de qué pasa y cómo arreglarlo. Si prefieres ir directo a la técnica correcta, la tienes completa en la guía de [cómo preparar Matcha Pep-T](/como-preparar-matcha-pep-t/)." },
+    { "type": "h2", "text": "Error 1: usar agua recién hervida" },
+    { "type": "p", "text": "Es el reflejo de cualquier casa peruana: hervir la tetera y servir. Pero la etiqueta es clara: agua fría con hielo o caliente **sin hervir**. El agua en plena ebullición tiende a formar grumos con los ingredientes en polvo, puede apagar los matices del matcha y, de paso, aumenta el riesgo de quemarte con el vaso o el shaker." },
+    { "type": "p", "text": "**Cómo evitarlo:** apaga la tetera y espera unos minutos, o mezcla el agua caliente con un poco de agua fría del caño hervida o de bidón. Una referencia práctica es que puedas sostener la taza sin incomodidad. Los detalles de temperatura para el invierno limeño están en la versión [caliente de Matcha Pep-T](/como-preparar-matcha-pep-t/caliente/)." },
+    { "type": "h2", "text": "Error 2: poner poca agua (son 180 ml, no menos)" },
+    { "type": "p", "text": "Este fallo tiene dos variantes. La primera es leer mal la etiqueta: hay quien confunde 180 con 18 y prepara una especie de pasta concentrada. La segunda, más común, es medir «a ojo» con un vaso pequeño o media taza para que «salga más intenso»." },
+    { "type": "p", "text": "Con menos líquido, la bebida queda espesa, demasiado dulce por la estevia y con una textura pesada. Además, todos los valores de la tabla nutricional (46 kcal, 4.7 g de proteína, 4.9 g de fibra) están calculados para la porción de 15 g en 180 ml." },
+    { "type": "ul", "items": ["**Sin jarra medidora:** una taza de desayuno estándar suele tener unos 240 ml; llénala hasta tres cuartos.", "**Con un vaso de vidrio típico** de 250–300 ml, deja unos dos dedos libres desde el borde.", "**Lo más fiable:** marca una vez tu shaker o tomatodo en la línea de 180 ml con un plumón y usa siempre esa referencia."] },
+    { "type": "p", "text": "El error contrario también existe: diluirlo en medio litro para «que rinda». Queda aguado y sin cuerpo. Si buscas más volumen, es mejor añadir hielo al final que más agua." },
+    { "type": "h2", "text": "Error 3: echar primero el polvo y después el agua" },
+    { "type": "p", "text": "Cuando el polvo cae a un vaso seco y luego le echas el líquido encima, se forma una capa que se apelmaza en el fondo y en las paredes. El resultado son grumos que la cuchara no rompe." },
+    { "type": "p", "text": "**Cómo evitarlo:** primero el agua, luego el sobre, y agita o bate de inmediato. Una cucharita no siempre basta; un shaker con tapa o un mini batidor eléctrico hacen la diferencia. Profundizamos en la técnica en [Matcha Pep-T sin grumos](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/)." },
+    { "type": "steps", "items": [
+      { "name": "Mide el agua", "text": "Vierte 180 ml de agua fría con hielo o caliente sin hervir en un vaso, taza o shaker." },
+      { "name": "Agrega el sobre", "text": "Añade el contenido completo de 1 sobre de 15 g sobre el agua, no al revés." },
+      { "name": "Mezcla a fondo", "text": "Agita el shaker unos 15 segundos o bate hasta que no queden restos de polvo en el fondo." },
+      { "name": "Ajusta si quieres", "text": "Para un latte más cremoso, añade un chorrito de leche o bebida vegetal de almendra, soya o coco." }
+    ] },
+    { "type": "cta", "text": "¿Se te acabaron los sobres? Mira el precio del doypack de 14 unidades y pídelo en la tienda oficial del distribuidor." },
+    { "type": "h2", "text": "Error 4: añadir azúcar «porque es té»" },
+    { "type": "p", "text": "Mucha gente asocia el té con una cucharadita de azúcar, o con leche condensada si piensa en el matcha latte de cafetería. Matcha Pep-T ya viene endulzado con estevia y con muy poca azúcar: la etiqueta declara **0.9 g de azúcares añadidos** por porción." },
+    { "type": "p", "text": "Una sola cucharadita de azúcar blanca suma alrededor de 4 g, varias veces lo que ya trae el sobre. Si lo encuentras poco dulce, prueba primero a reducir el hielo o a añadir un chorrito de bebida de coco. Aclaramos de dónde vienen esos azúcares en [¿Matcha Pep-T tiene azúcar?](/ingredientes-matcha-pep-t/tiene-azucar/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el envase", "text": "Porción: 1 sobre (15 g) en 1 taza de agua (180 ml). Por porción: 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y cromo al 45 % del valor diario. La etiqueta indica no exceder lo recomendado." },
+    { "type": "h2", "text": "Error 5: tomar varios sobres seguidos" },
+    { "type": "p", "text": "Si uno ayuda, ¿dos ayudan el doble? No. La etiqueta indica 1 sobre como porción y pide no exceder lo recomendado. Duplicar también duplica el cromo (pasarías del 45 % al 90 % del valor diario solo con esta bebida), la fibra que puede dar gases y la cafeína natural del matcha, cuya cantidad no está declarada." },
+    { "type": "p", "text": "Además, cada sobre cuesta S/ 11.29, así que tomar dos al día acorta el doypack de 14 sobres a una semana. Explicamos la lógica completa en [cuántos Matcha Pep-T al día](/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/)." },
+    { "type": "h2", "text": "Otros dos descuidos que pasan desapercibidos" },
+    { "type": "h3", "text": "Error 6: prepararlo horas antes" },
+    { "type": "p", "text": "Dejarlo listo a las 7 a. m. para tomarlo a las 11 en la oficina de San Isidro no es buena idea: con el tiempo los ingredientes se asientan y la textura cambia. Lleva el sobre cerrado y prepáralo en el momento con agua del dispensador." },
+    { "type": "h3", "text": "Error 7: dejar sobres sueltos en la cocina" },
+    { "type": "p", "text": "Un sobre abierto y guardado «para después», o el doypack sin cerrar junto a la cocina, absorbe la humedad del ambiente. Con la humedad limeña, eso termina en polvo apelmazado. Revisa cómo evitarlo en [cómo conservar Matcha Pep-T](/como-preparar-matcha-pep-t/como-conservar-los-sobres/)." },
+    { "type": "h2", "text": "Resumen de errores al preparar Matcha Pep-T" },
+    { "type": "table", "caption": "Errores frecuentes, qué provocan y la corrección", "headers": ["Error", "Qué provoca", "Corrección"], "rows": [["Agua hirviendo", "Grumos, sabor apagado, riesgo de quemaduras", "Agua caliente sin hervir o fría con hielo"], ["Menos de 180 ml", "Bebida espesa y demasiado dulce", "Medir 180 ml exactos"], ["Polvo antes que agua", "Grumos en el fondo", "Primero agua, luego el sobre y agitar"], ["Añadir azúcar", "Más azúcar de la que trae el producto", "Ajustar con hielo o bebida vegetal"], ["Varios sobres al día", "Exceso de cromo, fibra y cafeína natural", "1 sobre diario"], ["Prepararlo con horas de anticipación", "Textura asentada", "Preparar en el momento"]] },
+    { "type": "p", "text": "Si recién vas a comprar tu primer doypack, revisa la página de [compra de Matcha Pep-T](/comprar-matcha-pep-t/) para ver el precio y los canales oficiales." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo prepararlo con leche en lugar de agua?", "a": "La etiqueta indica agua como base. Lo que sí sugiere es añadir un chorrito de leche o bebida vegetal para un resultado más cremoso. Si reemplazas toda el agua por leche, ten en cuenta que las calorías suben bastante." },
+    { "q": "¿Qué hago si ya me salieron grumos?", "a": "Tapa el vaso o pásalo a un shaker y agita con fuerza unos segundos más. Si usaste agua muy caliente, espera a que baje un poco la temperatura antes de volver a agitar con la tapa bien cerrada." },
+    { "q": "¿Puedo usar medio sobre para que me dure más?", "a": "Puedes, pero entonces debes reducir también el agua a la mitad para mantener la proporción, y el sobre abierto no se guarda bien. Lo más práctico es tomar la porción completa." },
+    { "q": "¿Es malo calentarlo en el microondas?", "a": "No es lo que indica la etiqueta. Es mejor calentar solo el agua, dejar que baje del hervor y luego añadir el polvo, para evitar que se formen grumos o que hierva en la taza." }
+  ],
+  "sources": [
+    { "label": "FDA – How to Understand and Use the Nutrition Facts Label", "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label" },
+    { "label": "Organización Mundial de la Salud – Ingesta de azúcares", "url": "https://www.who.int/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/receta-clasica-180-ml/",
+    "/como-preparar-matcha-pep-t/en-shaker-sin-grumos/",
+    "/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/",
+    "/ingredientes-matcha-pep-t/tiene-azucar/"
+  ]
+}

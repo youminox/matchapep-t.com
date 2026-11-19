@@ -1,0 +1,84 @@
+{
+  "slug": "gluten-lactosa-alergenos",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T gluten lactosa",
+  "title": "Matcha Pep-T, gluten y lactosa: guía de alérgenos de la etiqueta",
+  "seoTitle": "Matcha Pep-T gluten lactosa: revisión de alérgenos",
+  "metaDescription": "Matcha Pep-T, gluten y lactosa: qué dice su lista de ingredientes sobre trigo, lácteos, soya y coco, y qué advertencias revisar en tu envase.",
+  "excerpt": "Revisamos uno por uno los ingredientes de Matcha Pep-T frente a los alérgenos más comunes: gluten, lactosa, soya, coco y más, y te decimos qué mirar en el envase.",
+  "quickAnswer": "En Matcha Pep-T, gluten y lactosa no aparecen como ingredientes: la etiqueta no lista trigo, cebada ni lácteos, y la cremosidad viene de la crema de coco. Aun así, revisa la advertencia de alérgenos del envase por posibles trazas, y ten presente que el coco y el colágeno de origen animal pueden importar si tienes alergias.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Close-up of hands holding a magnifying glass over a blurred, unreadable ingredient list on a plain paper sheet, next to a glass of pale green iced latte and a halved coconut on a white marble kitchen counter, soft daylight from a window in a Lima apartment, no text, no logos, no packaging, no faces",
+    "alt": "Lupa sobre una hoja con lista de ingredientes junto a un vaso de latte verde y un coco partido"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas familias peruanas hay alguien que voltea el empaque antes de probar cualquier cosa: la tía celíaca que ya sabe qué panaderías de Surquillo le sirven, el primo que no tolera la leche, la compañera de oficina con alergia a los frutos secos. Si tú eres esa persona, o compras para ella, esta revisión es para ti." },
+    { "type": "p", "text": "Vamos a recorrer la lista de ingredientes de Matcha Pep-T frente a los alérgenos más comunes, separando tres cosas que suelen mezclarse: lo que dice la lista de ingredientes, lo que podría decir la advertencia de alérgenos del envase y lo que simplemente no está declarado. La ficha de cada componente está en nuestra [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Lo que dice la lista de ingredientes, uno por uno" },
+    { "type": "p", "text": "La etiqueta enumera, en este orden: colágeno hidrolizado (péptidos Nextida GC), fibra de maíz, crema de coco, mix de té matcha y chía, isomaltulosa obtenida de la betarraga, tapioca, saborizantes naturales (crema caramelo y leche de coco), goma xantana, dióxido de silicio, estevia, lecitina de girasol y cromo. Así se ve frente a los alérgenos que más preguntan nuestros lectores:" },
+    { "type": "table", "caption": "Alérgenos comunes frente a la lista de ingredientes de Matcha Pep-T", "headers": ["Alérgeno común", "¿Aparece en los ingredientes?", "Comentario"], "rows": [
+      ["Trigo, cebada, centeno (gluten)", "No", "Los carbohidratos vienen de maíz, tapioca y betarraga, fuentes sin gluten por naturaleza"],
+      ["Leche y derivados (lactosa)", "No", "La textura cremosa la aporta la crema de coco"],
+      ["Soya", "No", "El emulsionante es lecitina de girasol, no de soya"],
+      ["Huevo", "No", "Ningún ingrediente derivado del huevo"],
+      ["Maní y frutos de cáscara", "No como tales", "Contiene coco, cuya clasificación como alérgeno varía según el país"],
+      ["Pescado y mariscos", "No declarados", "El colágeno es animal, pero la etiqueta no indica la especie de origen"],
+      ["Sésamo", "No", "Contiene chía, otra semilla, con alergia poco frecuente"]
+    ] },
+    { "type": "p", "text": "Con esa lectura, el panorama es favorable para quien evita gluten o lactosa. Pero una lista de ingredientes describe lo que se pone a propósito en la fórmula; no siempre cuenta lo que pudo cruzarse en la planta de producción." },
+    { "type": "h2", "text": "Matcha Pep-T, gluten y lactosa: por qué igual debes mirar el envase" },
+    { "type": "p", "text": "En Perú, el rotulado de alimentos envasados sigue normas basadas en el Codex Alimentarius, que piden señalar los alérgenos de declaración obligatoria. Muchos fabricantes añaden además frases como «puede contener trazas de…» o «elaborado en una línea que también procesa…» cuando en la misma planta se manipulan otros productos." },
+    { "type": "p", "text": "Esa frase, si existe, no forma parte de la lista de ingredientes y suele ir en letra pequeña, cerca del lote o del registro sanitario. Por eso no la reproducimos aquí: depende del envase que tengas en la mano, y es ahí donde debes leerla. Si quieres ubicar los demás datos legales del empaque, revisa cómo verificar el [registro sanitario de Matcha Pep-T](/opiniones-matcha-pep-t/registro-sanitario/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Qué revisar en tu doypack", "text": "Busca tres cosas: la lista de ingredientes (que coincida con la descrita aquí), cualquier frase que empiece por «Contiene» o «Puede contener» y el número de lote. Si tienes una alergia severa y no encuentras la advertencia, consulta al distribuidor antes de abrir el producto." },
+    { "type": "h3", "text": "Si eres celíaco" },
+    { "type": "p", "text": "El maíz, la tapioca y la betarraga no contienen gluten, y no hay trigo, cebada, centeno ni avena en la fórmula. Sin embargo, la información disponible de Matcha Pep-T no incluye un sello o declaración certificada de «libre de gluten». Para una persona con enfermedad celíaca, donde incluso pequeñas trazas cuentan, esa diferencia pesa: guíate por lo que indique el envase y, ante la duda, por tu gastroenterólogo." },
+    { "type": "p", "text": "Si solo reduces el gluten por preferencia o por una sensibilidad leve, la lista de ingredientes probablemente sea suficiente para decidir." },
+    { "type": "h3", "text": "Si tienes intolerancia a la lactosa" },
+    { "type": "p", "text": "No hay leche, suero ni caseína en la lista. La palabra «leche» aparece solo en «leche de coco», dentro de los saborizantes naturales. «Crema caramelo» describe un perfil de sabor; la etiqueta no indica que contenga lácteos, aunque tampoco detalla el origen del saborizante. Si lo tuyo es alergia a la proteína de la leche, y no solo intolerancia, ese es otro motivo para leer la advertencia del envase." },
+    { "type": "p", "text": "Ojo con lo que tú añades. La preparación base es 1 sobre (15 g) en 180 ml de agua; si le das un toque con leche de vaca, la lactosa entra por ahí. Las bebidas de almendra, soya o coco son la opción natural para mantenerlo libre de lácteos." },
+    { "type": "cta", "text": "¿Revisaste tu caso y Matcha Pep-T encaja? Mira el precio oficial de S/ 158.00 por 14 sobres en la tienda del distribuidor." },
+    { "type": "h2", "text": "El coco: un alérgeno potencial que pocos miran" },
+    { "type": "p", "text": "La crema de coco es el tercer ingrediente de la lista y, además, hay saborizante de leche de coco. La alergia al coco es poco frecuente, pero existe, y puede manifestarse en la piel, la boca o el sistema digestivo." },
+    { "type": "p", "text": "Su clasificación cambia según la normativa: durante años la FDA de Estados Unidos lo incluyó entre los frutos de cáscara para fines de etiquetado, mientras que en la Unión Europea no figura en la lista de alérgenos obligatorios. Botánicamente es una drupa, y muchas personas alérgicas a las nueces lo toleran sin problema, aunque no todas." },
+    { "type": "p", "text": "Si ya te diagnosticaron alergia al coco, este producto no es para ti. Si eres alérgico a nueces o almendras y nunca has comido coco, conversa con tu alergólogo antes de probarlo. Para entender por qué se eligió este ingrediente, lee el artículo sobre la [crema de coco en Matcha Pep-T](/ingredientes-matcha-pep-t/crema-de-coco/)." },
+    { "type": "h2", "text": "Otros ingredientes a tener en cuenta si tienes alergias" },
+    { "type": "ul", "items": [
+      "**Colágeno hidrolizado**: es de origen animal y la etiqueta no especifica si proviene de bovino, cerdo o pescado. Si tienes alergia al pescado, pide confirmación antes de tomarlo.",
+      "**Chía**: las reacciones son raras, pero se han descrito, sobre todo en personas con alergia a otras semillas.",
+      "**Lecitina de girasol**: buena noticia para quienes evitan la soya; la alergia al girasol es poco común.",
+      "**Goma xantana y dióxido de silicio**: aditivos de uso muy extendido y bien estudiados; el detalle está en la guía de [aditivos: goma xantana, sílice y lecitina](/ingredientes-matcha-pep-t/aditivos-goma-xantana-silice-lecitina/).",
+      "**Estevia**: no es un alérgeno reconocido, aunque algunas personas sensibles a plantas de la familia de las margaritas prefieren evitarla."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Ante una reacción, suspende", "text": "Si notas ronchas, picazón en la boca, hinchazón de labios o dificultad para respirar tras tomarlo, deja de consumirlo y busca atención médica de inmediato. Este artículo es una revisión de etiqueta, no un diagnóstico: las alergias deben evaluarse con un profesional de salud." },
+    { "type": "p", "text": "Las molestias leves que no son alergia, como los gases que a veces produce la fibra al inicio, las explicamos en [efectos secundarios de Matcha Pep-T](/opiniones-matcha-pep-t/efectos-secundarios/)." },
+    { "type": "h2", "text": "Una forma práctica de decidir" },
+    { "type": "ol", "items": [
+      "Compara la lista de ingredientes del envase con la de este artículo; si algo no coincide, manda la del envase.",
+      "Busca la advertencia de alérgenos y trazas, normalmente junto al lote o al registro sanitario.",
+      "Cruza esa información con tu diagnóstico: no es lo mismo una intolerancia que una alergia.",
+      "Si tu alergia es severa, consulta antes con tu médico o alergólogo, con el envase en la mano.",
+      "Si decides probarlo, empieza con un sobre en 180 ml de agua, sin añadir otros ingredientes, para identificar con claridad cualquier reacción."
+    ] },
+    { "type": "p", "text": "Compra solo en canales autorizados para tener la etiqueta original, completa y legible. En la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/) te explicamos cómo hacerlo con el distribuidor." }
+  ],
+  "faqs": [
+    { "q": "¿Matcha Pep-T tiene sello «sin gluten»?", "a": "La información de producto disponible no menciona un sello ni una certificación de libre de gluten. Sus ingredientes no incluyen cereales con gluten, pero si eres celíaco revisa el envase y evalúa el riesgo de trazas con tu médico." },
+    { "q": "¿Puedo prepararlo con leche deslactosada?", "a": "Sí, es una opción si toleras la proteína de la leche y solo evitas la lactosa. Ten en cuenta que añadir leche suma calorías y proteína a las 46 kcal de la porción base preparada con agua." },
+    { "q": "¿Contiene soya?", "a": "La lista de ingredientes no incluye soya: el emulsionante es lecitina de girasol. Como con cualquier alérgeno, confirma que la advertencia del envase no mencione trazas." },
+    { "q": "¿Lo pueden tomar niños con alergias?", "a": "Matcha Pep-T no está pensado para niños, con o sin alergias, entre otras razones porque el matcha aporta cafeína natural cuya cantidad no está declarada. Si se trata de un adolescente, consulta antes con su pediatra." }
+  ],
+  "sources": [
+    { "label": "Codex Alimentarius – FAO/OMS", "url": "https://www.fao.org/fao-who-codexalimentarius/" },
+    { "label": "FDA – Food Allergies", "url": "https://www.fda.gov/food/food-labeling-nutrition/food-allergies" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental", "url": "https://www.digesa.minsa.gob.pe/" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/crema-de-coco/",
+    "/ingredientes-matcha-pep-t/es-vegano/",
+    "/opiniones-matcha-pep-t/efectos-secundarios/",
+    "/opiniones-matcha-pep-t/contraindicaciones/"
+  ]
+}

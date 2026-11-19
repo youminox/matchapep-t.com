@@ -1,0 +1,78 @@
+{
+  "slug": "ninos-y-adolescentes",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/ninos-y-adolescentes/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T niños",
+  "title": "Matcha Pep-T y niños: no es para ellos; adolescentes, con supervisión",
+  "seoTitle": "Matcha Pep-T niños y adolescentes: ¿es adecuado?",
+  "metaDescription": "Matcha Pep-T no está pensado para niños: tiene cafeína natural no declarada y un enfoque para adultos. Qué hacer con adolescentes y por qué supervisar.",
+  "excerpt": "Matcha Pep-T es una bebida pensada para adultos. Te explicamos por qué no conviene darlo a niños, qué matices hay con los adolescentes y qué poner en la lonchera.",
+  "quickAnswer": "Matcha Pep-T no está pensado para niños: contiene cafeína natural del matcha en cantidad no declarada y su propuesta (saciedad y control de porciones) es para adultos. En adolescentes, solo de forma ocasional, con supervisión de los padres y orientación médica, vigilando la cafeína total del día y el motivo de uso.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "An open children's lunchbox with a mandarin, a small whole-grain sandwich and a reusable water bottle on a kitchen table, while an adult's glass of iced matcha latte sits apart on a higher wooden shelf in the background, bright morning light in a Lima home, warm realistic photography, no readable text, no logos, no packaging, no people",
+    "alt": "Lonchera escolar con mandarina, sánguche y agua, y al fondo un vaso de matcha latte de adulto en una repisa alta"
+  },
+  "blocks": [
+    { "type": "p", "text": "Pasa en muchas casas: mamá o papá prepara su Matcha Pep-T frío a media mañana y el hijo de nueve años pide «un poquito», atraído por el color verde y el aroma a latte con coco. O el adolescente que va a la academia preuniversitaria descubre los sobres en la alacena y empieza a llevarse uno en la mochila para aguantar las clases de la tarde." },
+    { "type": "p", "text": "Las dos escenas merecen respuestas distintas. Aquí te explicamos por qué Matcha Pep-T no está pensado para niños, qué matices hay con los adolescentes y qué papel juega la cafeína en todo esto." },
+    { "type": "h2", "text": "¿Matcha Pep-T es para niños? La respuesta corta" },
+    { "type": "p", "text": "No. Matcha Pep-T es una bebida funcional formulada y comunicada para adultos. Su propuesta gira en torno a la saciedad, el control de porciones y los péptidos de colágeno Nextida GC, que el fabricante del ingrediente estudió en personas sanas y con prediabetes, no en niños. Ninguno de esos objetivos corresponde a la alimentación de un niño sano que está creciendo." },
+    { "type": "p", "text": "Además, la propia etiqueta da tres razones concretas:" },
+    { "type": "ul", "items": [
+      "**Cafeína natural no declarada.** El matcha contiene cafeína y la etiqueta no indica cuánta, así que no puedes calcular cuánto recibiría tu hijo.",
+      "**Cromo al 45 % del valor diario.** Cada porción aporta 14.9 µg, con valores de referencia de una dieta de 2,000 kcal. En un niño, los minerales deben venir de su alimentación habitual, no de un producto funcional para adultos.",
+      "**Un objetivo de control del apetito.** La fibra (4.9 g), la proteína (4.7 g) y los péptidos buscan que un adulto se sienta satisfecho y ordene sus porciones. En un niño en crecimiento, lo que se busca es justo lo contrario: que coma suficiente y variado."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Si tu hijo tomó un poco por accidente", "text": "Unos sorbos ocasionales no suelen ser motivo de alarma en un niño sano. Observa si aparece inquietud, dificultad para dormir, dolor de barriga o palpitaciones y, ante cualquier duda o si tiene alguna condición de salud, consulta con su pediatra. Guarda el doypack fuera de su alcance." },
+    { "type": "h2", "text": "La cafeína en niños: por qué la prudencia es mayor" },
+    { "type": "p", "text": "Los niños pesan menos y suelen ser más sensibles a la cafeína que los adultos. Una cantidad que a ti apenas te despierta puede causarle a un escolar nerviosismo, irritabilidad, dolor de cabeza o problemas para conciliar el sueño. Y el sueño es clave para su crecimiento, su ánimo y su rendimiento en el colegio." },
+    { "type": "p", "text": "La Autoridad Europea de Seguridad Alimentaria (EFSA) considera que en niños y adolescentes un consumo de hasta unos 3 mg por kilo de peso al día no plantea problemas de seguridad, y la Academia Americana de Pediatría recomienda evitarla en los niños. Con Matcha Pep-T no puedes hacer esa cuenta, porque la cafeína del sobre no está declarada. Lo detallamos en [la cafeína del matcha en Matcha Pep-T](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "p", "text": "Recuerda también que la cafeína se acumula a lo largo del día: la gaseosa de cola del almuerzo, el chocolate, el té helado embotellado. Sumarle una bebida a base de matcha no le aporta nada a un niño." },
+    { "type": "h2", "text": "Matcha Pep-T en adolescentes: solo con supervisión" },
+    { "type": "p", "text": "La adolescencia es una zona gris. Un chico de 16 años que juega vóley tres veces por semana tiene un cuerpo distinto al de una chica de 12 que recién empieza la secundaria. Aun así, el criterio general es claro: si un adolescente quiere tomar Matcha Pep-T, la decisión debería pasar por sus padres y, de preferencia, por su pediatra o médico de cabecera." },
+    { "type": "table", "caption": "Criterio orientativo por edad (no reemplaza la indicación médica)", "headers": ["Edad", "Recomendación", "Por qué"], "rows": [
+      ["Menores de 12 años", "No ofrecerlo", "Cafeína no declarada, mayor sensibilidad y una propuesta pensada para adultos"],
+      ["12 a 15 años", "Evitarlo como hábito; solo ocasional y con aval del pediatra", "Etapa de crecimiento rápido; el sueño y la alimentación completa son prioridad"],
+      ["16 a 17 años", "Ocasional, con supervisión adulta y orientación médica", "Vigilar la cafeína total del día, los horarios y el motivo de uso"],
+      ["Adultos", "1 sobre al día, como indica la etiqueta", "Es el público al que va dirigido el producto"]
+    ] },
+    { "type": "h3", "text": "Señales de alerta que conviene mirar" },
+    { "type": "p", "text": "Más que la bebida en sí, preocupa el motivo. Presta atención si tu hijo o hija:" },
+    { "type": "ul", "items": [
+      "Quiere tomarlo para «no comer» o para saltarse el almuerzo del colegio.",
+      "Lo usa para bajar de peso sin orientación profesional o habla todo el tiempo de dietas y calorías.",
+      "Lo combina con café, bebidas energéticas o pastillas «quemadoras» para estudiar o entrenar.",
+      "Duerme mal, está irritable o tiene palpitaciones desde que empezó a tomarlo."
+    ] },
+    { "type": "p", "text": "Restringir comidas en la adolescencia puede afectar el crecimiento y, en algunos casos, ser la antesala de un trastorno de la conducta alimentaria. Si notas alguna de estas señales, conversa con calma y busca apoyo profesional. Matcha Pep-T no reemplaza una comida para nadie, y menos para un adolescente; lo explicamos en [por qué no es un sustituto de comida](/que-es-matcha-pep-t/es-sustituto-de-comida/)." },
+    { "type": "cta", "text": "Si eres adulto y quieres incorporarlo a tu rutina, consulta el precio y compra el doypack original de 14 sobres." },
+    { "type": "h2", "text": "Mejores opciones para la lonchera y la etapa de estudios" },
+    { "type": "p", "text": "Si lo que tu hijo busca es una bebida rica o un empujón para estudiar, hay alternativas más adecuadas para su edad:" },
+    { "type": "ul", "items": [
+      "**Para la lonchera:** agua, refrescos caseros con poca azúcar (chicha morada, limonada, emoliente tibio en invierno), leche o yogur natural, y fruta entera como mandarina, plátano o granadilla.",
+      "**Para la tarde de estudio:** una merienda de verdad, como pan integral con palta, huevo sancochado o fruta con un puñado de maní, y pausas para moverse.",
+      "**Para la época de exámenes:** dormir bien la noche anterior rinde más que cualquier bebida con cafeína."
+    ] },
+    { "type": "p", "text": "Si en casa hay adultos que toman Matcha Pep-T, un buen hábito es guardarlo en una repisa alta y dejar claro que es «la bebida de los grandes», igual que el café." },
+    { "type": "p", "text": "Para revisar el panorama completo de quiénes deben tener precaución, consulta las [contraindicaciones de Matcha Pep-T](/opiniones-matcha-pep-t/contraindicaciones/) y nuestra guía general de [opiniones y seguridad de Matcha Pep-T](/opiniones-matcha-pep-t/). Si el producto es para ti, puedes [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) en la tienda oficial del distribuidor." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo prepararle a mi hijo medio sobre?", "a": "No es recomendable. Reducir la porción baja la cafeína, pero no la elimina, y sigues sin saber cuánta recibe. Además, el producto no responde a ninguna necesidad nutricional de un niño." },
+    { "q": "Mi hijo adolescente entrena fútbol y quiere más proteína, ¿le sirve?", "a": "Los 4.7 g de proteína por sobre son un aporte modesto. En un deportista joven, la proteína debe venir de comidas completas como huevo, pescado, pollo, menestras o lácteos. Un nutricionista deportivo puede orientarlo mejor que cualquier bebida funcional." },
+    { "q": "¿El colágeno es malo para los niños?", "a": "El colágeno hidrolizado es una proteína de origen animal y no es peligroso en sí mismo. La razón para no darles Matcha Pep-T es el conjunto: cafeína no declarada y un producto con un propósito pensado para adultos." },
+    { "q": "¿Desde qué edad se puede tomar sin consultar?", "a": "Revisa las advertencias impresas en tu envase, que son la referencia oficial. Como criterio prudente, lo consideramos un producto para adultos: antes de los 18 años, la decisión deberían tomarla los padres con orientación médica." }
+  ],
+  "sources": [
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" },
+    { "label": "HealthyChildren.org (Academia Americana de Pediatría)", "url": "https://www.healthychildren.org/" },
+    { "label": "NIH Office of Dietary Supplements – Chromium", "url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/" }
+  ],
+  "related": [
+    "/opiniones-matcha-pep-t/contraindicaciones/",
+    "/opiniones-matcha-pep-t/embarazo-y-lactancia/",
+    "/ingredientes-matcha-pep-t/tiene-cafeina/",
+    "/que-es-matcha-pep-t/es-sustituto-de-comida/"
+  ]
+}

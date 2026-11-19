@@ -1,0 +1,78 @@
+{
+  "slug": "es-sustituto-de-comida",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/es-sustituto-de-comida/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T reemplaza comida",
+  "title": "¿Matcha Pep-T reemplaza comida? Por qué no y cómo usarlo bien",
+  "seoTitle": "¿Matcha Pep-T reemplaza comida? La respuesta con números",
+  "metaDescription": "¿Matcha Pep-T reemplaza comida? No: aporta 46 kcal por sobre. Mira cómo combinarlo con comidas reales y qué riesgos tiene saltarse el almuerzo o la cena.",
+  "excerpt": "Con 46 kcal por sobre, Matcha Pep-T no puede ocupar el lugar de un almuerzo. Te mostramos los números, dónde sí encaja en tu día y por qué saltarse comidas suele salir caro.",
+  "quickAnswer": "No, Matcha Pep-T no reemplaza una comida. Un sobre preparado en 180 ml de agua aporta 46 kcal, 4.7 g de proteína y 4.9 g de fibra, apenas el 2 % de la energía diaria de referencia. Funciona como complemento entre comidas o antes de ellas, nunca como sustituto del desayuno, el almuerzo o la cena.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A simple home lunch table in Lima with a plate of quinoa, grilled chicken and steamed vegetables beside a tall glass of iced green matcha latte, natural daylight from a window, ceramic dishes on a linen tablecloth, overhead three-quarter view, no packaging, no text, no logos, no people",
+    "alt": "Plato de almuerzo con quinua, pollo a la plancha y verduras junto a un vaso de matcha latte frío sobre un mantel de lino"
+  },
+  "blocks": [
+    { "type": "p", "text": "Es la 1:40 p. m., la cola del menú da la vuelta a la esquina y en la mochila tienes un sobre de Matcha Pep-T. La idea aparece sola: «me lo preparo y me ahorro el almuerzo». Es una tentación comprensible en una ciudad donde el tráfico y las jornadas largas se comen el tiempo de sentarse a comer." },
+    { "type": "p", "text": "Antes de hacerlo, conviene mirar la tabla nutricional con calma. Este artículo responde de forma directa si la bebida puede ocupar el lugar de una comida y, sobre todo, cómo aprovecharla sin descuidar lo que comes. Si buscas la visión general del producto, la tienes en [qué es Matcha Pep-T y para qué sirve](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "¿Matcha Pep-T reemplaza comida? Los números lo descartan" },
+    { "type": "p", "text": "La etiqueta usa como referencia una dieta de 2,000 kcal. Frente a esa base, esto es lo que aporta un sobre de 15 g disuelto en 180 ml de agua:" },
+    { "type": "table", "caption": "Aporte de una porción de Matcha Pep-T según la etiqueta", "headers": ["Nutriente", "Por porción", "% del valor diario", "Lectura práctica"], "rows": [
+      ["Energía", "46 kcal", "2 %", "Una comida principal suele representar varios cientos de kcal"],
+      ["Proteína", "4.7 g", "9 %", "Útil como extra, insuficiente como fuente principal del día"],
+      ["Fibra", "4.9 g", "18 %", "Su aporte más destacado"],
+      ["Carbohidratos", "7.8 g", "3 %", "Muy por debajo de un plato con arroz, papa o pan"],
+      ["Azúcares añadidos", "0.9 g", "—", "Endulzado con estevia y con muy poca azúcar"],
+      ["Cromo", "14.9 µg", "45 %", "Mineral declarado; no hay otras vitaminas listadas"]
+    ] },
+    { "type": "p", "text": "La conclusión es aritmética: si cambias un almuerzo por un sobre, tu cuerpo recibe una fracción mínima de la energía y los nutrientes que necesita a esa hora. Los batidos que sí se formulan como sustitutos de comida parten de 200 kcal o más y llevan un perfil de vitaminas completo; la diferencia está explicada en [Matcha Pep-T frente a los batidos sustitutos](/ciencia-matcha-pep-t/vs-batidos-sustitutos/)." },
+    { "type": "h2", "text": "Lo que le falta para ser una comida de verdad" },
+    { "type": "p", "text": "Más allá de las calorías, una comida cumple funciones que una bebida ligera no puede cubrir:" },
+    { "type": "ul", "items": [
+      "**Proteína completa y suficiente.** La proteína del sobre viene del colágeno, que no aporta todos los aminoácidos esenciales en buena proporción. El detalle está en [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/).",
+      "**Variedad de micronutrientes.** Hierro, calcio, vitaminas del grupo B o vitamina C llegan de las menestras, el pescado, las verduras y la fruta, no de esta fórmula.",
+      "**Grasas de calidad.** Palta, aceite de oliva, frutos secos o pescados como el bonito aportan grasas que aquí apenas están (0.6 g por porción).",
+      "**Masticar y sentarse.** Comer despacio un plato sólido también participa en la sensación de haber comido, algo que un vaso que se toma en dos minutos no reproduce."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Riesgos de saltarse comidas", "text": "Saltarse comidas de forma habitual puede llevar a hambre intensa más tarde, atracones nocturnos, menor ingesta de proteína y cansancio. Si tienes diabetes y usas medicación, saltar comidas puede provocar bajadas de glucosa: consulta con tu médico antes de cambiar tus horarios. Matcha Pep-T no es un medicamento ni un sustituto de alimentación." },
+    { "type": "h2", "text": "Qué pasa cuando cambias el almuerzo por un sobre" },
+    { "type": "p", "text": "El patrón es conocido por cualquiera que lo haya intentado. A media tarde llega un hambre que no negocia, el camino de regreso a casa pasa por una sanguchería o una carretilla de salchipapas, y la cena termina siendo más abundante que el almuerzo que te saltaste. El ahorro de calorías del mediodía se devuelve con intereses por la noche." },
+    { "type": "p", "text": "A largo plazo, comer poco y desordenado también pasa factura a la masa muscular, sobre todo si la proteína diaria queda corta. Y cuando falta energía, se nota en el ánimo, en la concentración y en las ganas de moverte, justo lo contrario de lo que buscas al cuidar tu alimentación." },
+    { "type": "cta", "text": "Si quieres incorporarlo como complemento de tus comidas, revisa el precio oficial: S/ 158.00 por 14 sobres, S/ 11.29 cada uno." },
+    { "type": "h2", "text": "Cómo integrarlo junto a comidas reales" },
+    { "type": "p", "text": "La forma sensata de usarlo es sumarlo a un día con comidas completas, ocupando el espacio que antes llenaban la galleta, el pan con algo o la gaseosa. Algunas combinaciones prácticas:" },
+    { "type": "table", "caption": "Ejemplos de uso junto a comidas completas", "headers": ["Momento", "Comida real", "Dónde entra el sobre"], "rows": [
+      ["Desayuno", "Pan integral con huevo y palta, o avena con fruta", "No lo reemplaza; si desayunas temprano, puede ir a media mañana"],
+      ["Antes del almuerzo", "Menú con entrada y segundo, o tu táper de casa", "Unos 30 minutos antes, para llegar al plato con menos ansiedad"],
+      ["Lonche", "Fruta, yogur natural o un puñado de maní", "En lugar del paquete de galletas o el queque de la tienda"],
+      ["Cena", "Plato ligero con proteína y verduras", "No es necesario sumarlo a esta hora por su cafeína natural"]
+    ] },
+    { "type": "p", "text": "La idea de tomarlo antes de una comida principal se relaciona con la lógica de la fibra y la proteína para llegar con menos hambre a la mesa; lo desarrollamos en [cómo puede ayudarte con la saciedad](/que-es-matcha-pep-t/saciedad-control-apetito/). La referencia de la etiqueta es **1 sobre al día**, así que no hay motivo para tomar varios intentando completar una comida." },
+    { "type": "h2", "text": "Señales de que lo estás usando como sustituto sin darte cuenta" },
+    { "type": "ul", "items": [
+      "Te saltas una comida completa al menos tres veces por semana y la cubres con el sobre.",
+      "Llegas a la noche con un hambre difícil de controlar.",
+      "Tu plato principal del día es pequeño porque sientes que «ya tomaste algo».",
+      "Preparas dos o más sobres para sentirte lleno."
+    ] },
+    { "type": "p", "text": "Si te reconoces en alguno de estos puntos, vuelve al esquema básico: tres comidas reales y el sobre como apoyo. Cuando tengas claro dónde encaja, puedes hacer tu pedido en [la página de compra de Matcha Pep-T](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomarlo en lugar del lonche?", "a": "Si tu lonche es un refrigerio de media tarde, sí puede ocupar ese espacio en vez de galletas o pasteles. Si en tu casa el lonche hace las veces de cena, no: en ese caso necesitas una comida completa." },
+    { "q": "¿Y si lo preparo con leche y avena, ya cuenta como comida?", "a": "Al añadir leche o bebida vegetal y avena sube la energía y se parece más a un desayuno ligero, pero ya es una receta distinta y sus valores dependen de lo que agregues. La etiqueta indica prepararlo con 180 ml de agua." },
+    { "q": "¿Sirve para hacer una dieta solo de líquidos?", "a": "No. Matcha Pep-T no está formulado para cubrir las necesidades nutricionales del día. Cualquier plan muy restrictivo debería hacerse bajo supervisión de un profesional de la nutrición." },
+    { "q": "¿Tomar más de un sobre compensa la comida que me salté?", "a": "No. La referencia de la etiqueta es 1 porción al día, e incluso varios sobres seguirían sin aportar proteína completa, grasas de calidad ni la variedad de vitaminas de un plato real." }
+  ],
+  "sources": [
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "FDA – Daily Value on the Nutrition and Supplement Facts Labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" }
+  ],
+  "related": [
+    "/ciencia-matcha-pep-t/vs-batidos-sustitutos/",
+    "/que-es-matcha-pep-t/saciedad-control-apetito/",
+    "/que-es-matcha-pep-t/para-bajar-de-peso/",
+    "/ingredientes-matcha-pep-t/calorias/"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "hipertension",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/hipertension/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T presión alta",
+  "title": "Matcha Pep-T y presión alta: sodio, cafeína y cuándo ser prudente",
+  "seoTitle": "Matcha Pep-T y presión alta: sodio y cafeína",
+  "metaDescription": "¿Matcha Pep-T con presión alta? Revisa sus 28 mg de sodio, la cafeína natural no declarada del matcha y cómo probarlo con prudencia y control médico.",
+  "excerpt": "El sodio de Matcha Pep-T es mínimo, pero su cafeína natural no está declarada. Te explicamos qué mirar si tienes hipertensión y cómo probarlo con control.",
+  "quickAnswer": "Matcha Pep-T aporta solo 28 mg de sodio por porción (1 % VD), así que la sal no es el problema si tienes presión alta. El punto a vigilar es la cafeína natural del matcha, cuya cantidad no está declarada. Si eres hipertenso, consulta a tu médico, empieza con 1 sobre y controla tu presión.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A digital blood pressure monitor with its cuff neatly coiled beside a glass of pale green matcha latte on a white kitchen counter, a small notebook and pencil next to it, soft overcast morning light from a window in a Lima apartment, calm minimal composition, realistic photography, no readable text, no logos, no packaging, no people",
+    "alt": "Tensiómetro digital junto a un vaso de matcha latte y una libreta de anotaciones sobre el mesón de la cocina"
+  },
+  "blocks": [
+    { "type": "p", "text": "La presión alta suele descubrirse de casualidad: en la toma rápida de una farmacia de barrio, en el examen médico ocupacional o cuando el tensiómetro de la casa de tus papás marca un número que no esperabas. Desde ese día, todo lo nuevo que vayas a tomar pasa por la misma pregunta: ¿me la subirá?" },
+    { "type": "p", "text": "Con Matcha Pep-T esa pregunta tiene dos partes que conviene separar. Una es el sodio, que la etiqueta declara y es muy poco. La otra es la cafeína, que la etiqueta no cuantifica y es justamente lo que pide prudencia. Aquí revisamos ambas con números reales y sin alarmismo." },
+    { "type": "h2", "text": "Matcha Pep-T y presión alta: lo que dice la etiqueta" },
+    { "type": "p", "text": "Cada porción se prepara con 1 sobre de 15 g en 180 ml de agua. Estos son los valores que más le interesan a alguien que vigila su presión arterial:" },
+    { "type": "table", "caption": "Valores por porción relevantes para personas con hipertensión", "headers": ["Componente", "Por porción (180 ml)", "Lectura si tienes presión alta"], "rows": [
+      ["Sodio", "28 mg (1 % VD)", "Aporte muy bajo; no es la sal que debe preocuparte en tu día"],
+      ["Cafeína", "No declarada", "El matcha la contiene de forma natural; la cantidad exacta se desconoce"],
+      ["Grasa saturada", "0.5 g", "Cantidad pequeña; la fórmula incluye crema de coco"],
+      ["Azúcares añadidos", "0.9 g", "Endulzado con estevia y con muy poca azúcar"],
+      ["Energía", "46 kcal", "Encaja en un plan para cuidar el peso, factor clave en la presión"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Dato de etiqueta", "text": "Sodio por porción: 28 mg, equivalente al 1 % del valor diario de referencia (16 mg por cada 100 ml de bebida preparada). La etiqueta no declara la cantidad de cafeína." },
+    { "type": "h2", "text": "¿El sodio de Matcha Pep-T es un problema para el hipertenso?" },
+    { "type": "p", "text": "En términos prácticos, no. La Organización Mundial de la Salud recomienda que los adultos consuman menos de 2,000 mg de sodio al día, lo que equivale a unos 5 g de sal. Un sobre aporta 28 mg, es decir, alrededor del 1.4 % de ese límite." },
+    { "type": "p", "text": "Para ponerlo en perspectiva: el sodio que complica la presión en el Perú rara vez viene de una bebida. Está en el pan de la mañana, los embutidos del sánguche, la cancha salada, los cubitos y sazonadores del almuerzo, el sillao y las salsas del chifa, y el caldo del menú. Si tu médico te pidió bajar la sal, ahí está el trabajo de verdad." },
+    { "type": "p", "text": "Dicho de otra forma: cambiar un pan con jamonada o un paquete de galletas saladas de media tarde por un vaso de Matcha Pep-T no suma sal a tu día. Pero tampoco la resta por arte de magia; lo que reduce tu ingesta de sodio es lo que dejas de comer." },
+    { "type": "h2", "text": "La cafeína natural del matcha: el punto que pide prudencia" },
+    { "type": "p", "text": "El matcha es té verde en polvo de hoja entera y, como todo té verde, contiene cafeína de forma natural. La etiqueta de Matcha Pep-T no declara cuánta, así que nadie puede darte con honestidad una cifra exacta por sobre. Lo explicamos con más detalle en [cuánta cafeína tiene Matcha Pep-T](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "p", "text": "¿Por qué importa en la hipertensión? La cafeína puede elevar la presión de forma transitoria, sobre todo en personas que no la consumen habitualmente. En quienes toman café a diario el cuerpo suele adaptarse y el efecto se atenúa, aunque la respuesta varía mucho de una persona a otra. Extrema la prudencia si:" },
+    { "type": "ul", "items": [
+      "Tu hipertensión no está controlada o es reciente y tu médico aún está ajustando el tratamiento.",
+      "Ya tomas varias tazas de café, té o bebidas energéticas al día: la cafeína se suma.",
+      "El café te provoca palpitaciones, nerviosismo o insomnio.",
+      "Tienes arritmias u otra enfermedad cardiovascular diagnosticada.",
+      "Tomas medicamentos para la presión u otros fármacos de uso diario."
+    ] },
+    { "type": "cta", "text": "¿Tu médico te dio luz verde? Revisa el precio del doypack de 14 sobres y compra en la tienda oficial." },
+    { "type": "h2", "text": "Cómo probarlo con prudencia si tienes la presión alta" },
+    { "type": "p", "text": "Si tu médico no ve inconveniente, una prueba ordenada te dará información sobre tu propio cuerpo, que vale más que cualquier comentario genérico en redes. Esta es una forma sencilla de hacerlo:" },
+    { "type": "steps", "items": [
+      { "name": "Consulta primero", "text": "Lleva a tu control una foto de la lista de ingredientes y de la tabla nutricional. Así tu médico decide con datos y no con suposiciones." },
+      { "name": "Mide tu presión en reposo", "text": "Siéntate cinco minutos con la espalda apoyada y el brazo a la altura del corazón, y anota el valor antes de prepararlo." },
+      { "name": "Prepara solo 1 sobre", "text": "Un sobre de 15 g en 180 ml de agua, como indica la etiqueta. No dupliques la porción para «probar mejor»." },
+      { "name": "Vuelve a medir", "text": "Repite la toma entre 30 y 60 minutos después y anota cómo te sentiste: palpitaciones, dolor de cabeza, inquietud." },
+      { "name": "Repite y comparte el registro", "text": "Haz lo mismo varios días, a la misma hora, y muestra tus anotaciones en la siguiente consulta." }
+    ] },
+    { "type": "p", "text": "Un detalle práctico: prefiere tomarlo en la mañana o a media mañana. La cafeína de la tarde-noche puede empeorar el sueño, y dormir mal también juega en contra de la presión." },
+    { "type": "h2", "text": "Lo que Matcha Pep-T no hace por tu presión" },
+    { "type": "p", "text": "Conviene decirlo claro: Matcha Pep-T es una mezcla en polvo para preparar una bebida, no un antihipertensivo. No baja la presión, no la controla y no sustituye ninguna pastilla, ni siquiera «por unos días». El tratamiento y el seguimiento los define tu médico." },
+    { "type": "p", "text": "Donde sí puede tener un papel modesto es en el orden de tus hábitos. Con 46 kcal, 4.9 g de fibra y 4.7 g de proteína por porción, puede ocupar el lugar de un snack más salado o más calórico a media tarde. Mantener un peso adecuado, moverte a diario y reducir la sal son medidas con respaldo; una bebida solo puede acompañar esas decisiones." },
+    { "type": "p", "text": "Para una visión más amplia de quiénes deben consultar antes de tomarlo, revisa las [contraindicaciones de Matcha Pep-T](/opiniones-matcha-pep-t/contraindicaciones/). Si tomas pastillas a diario, lee también cómo [puede interactuar con medicamentos](/opiniones-matcha-pep-t/interaccion-con-medicamentos/)." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo buscar atención", "text": "Si después de tomar cualquier bebida con cafeína tienes dolor de pecho, dolor de cabeza intenso, visión borrosa, mareo fuerte o una presión muy por encima de tus valores habituales, suspende y acude a un servicio de salud. No esperes a que pase solo." },
+    { "type": "p", "text": "Si quieres entender cómo leer lo que se dice del producto, separando experiencias verificables de mensajes comerciales, empieza por nuestra guía de [opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/). Y para comprarlo original, entra a [comprar Matcha Pep-T en la tienda oficial](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar Matcha Pep-T si tomo pastillas para la presión?", "a": "Puede ser compatible, pero la decisión corresponde a tu médico, que conoce tu tratamiento. Algunos estudios observaron que el té verde reduce la absorción de ciertos betabloqueadores, como el nadolol, así que vale la pena mencionarlo en consulta." },
+    { "q": "¿Tiene menos cafeína que un café pasado?", "a": "No se puede afirmar con precisión porque la etiqueta no declara la cafeína del sobre. Si eres sensible, trátalo como una bebida con cafeína y no lo sumes a tus tazas de café sin haberlo conversado con tu médico." },
+    { "q": "¿Lo puedo tomar de noche si soy hipertenso?", "a": "No es lo más recomendable. Su cafeína natural puede dificultar el sueño en personas sensibles, y descansar mal afecta la presión. Es mejor tomarlo en la mañana o a media mañana." },
+    { "q": "¿Un adulto mayor con presión alta puede tomarlo?", "a": "Muchos adultos mayores tienen hipertensión junto con otros diagnósticos y varios medicamentos. En ese caso la consulta previa es imprescindible, y conviene empezar con 1 sobre y control de presión en casa." },
+    { "q": "Si mi presión ya está controlada, ¿puedo despreocuparme?", "a": "Una presión bien controlada reduce el riesgo, pero no elimina la prudencia con la cafeína. Coméntalo en tu próximo control y observa cómo responde tu cuerpo durante los primeros días." }
+  ],
+  "sources": [
+    { "label": "Organización Mundial de la Salud – Reducción del consumo de sal", "url": "https://www.who.int/es/news-room/fact-sheets/detail/salt-reduction" },
+    { "label": "FDA – Cafeína: ¿cuánto es demasiado?", "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" },
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" },
+    { "label": "PubMed – Té verde y absorción de nadolol", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=green+tea+nadolol" }
+  ],
+  "related": [
+    "/opiniones-matcha-pep-t/contraindicaciones/",
+    "/ingredientes-matcha-pep-t/tiene-cafeina/",
+    "/opiniones-matcha-pep-t/interaccion-con-medicamentos/",
+    "/opiniones-matcha-pep-t/efectos-secundarios/"
+  ]
+}

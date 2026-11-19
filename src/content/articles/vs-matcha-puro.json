@@ -1,0 +1,75 @@
+{
+  "slug": "vs-matcha-puro",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/vs-matcha-puro/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs matcha puro",
+  "title": "Matcha Pep-T vs matcha puro: ventajas, desventajas y precio",
+  "seoTitle": "Matcha Pep-T vs matcha puro: cuál conviene y cuánto cuesta",
+  "metaDescription": "Matcha Pep-T vs matcha puro: diferencias entre el matcha ceremonial y una mezcla funcional, pros y contras de cada uno y cuánto cuesta la taza en Perú.",
+  "excerpt": "El matcha ceremonial y Matcha Pep-T parecen primos, pero uno es un ingrediente único y el otro una fórmula completa. Comparamos sabor, nutrientes, practicidad y costo real por taza.",
+  "quickAnswer": "Matcha Pep-T vs matcha puro se resume así: el matcha ceremonial es solo hoja de té molida, ideal si buscas sabor intenso y un ritual; Matcha Pep-T es una mezcla instantánea que suma colágeno Nextida GC, fibra, crema de coco y cromo. Cuesta S/ 11.29 por sobre y aporta 46 kcal, 4.7 g de proteína y 4.9 g de fibra.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A small tin of bright green powdered tea opened next to a bamboo whisk, a ceramic chawan bowl with frothy matcha and a sifter, beside a glass of creamy pale green latte, on a dark wooden shelf in a cozy Barranco cafe, warm afternoon light, minimal composition, no text, no logos, no branded packaging, no people",
+    "alt": "Lata abierta de matcha en polvo con batidor de bambú y cuenco junto a un vaso de matcha latte cremoso"
+  },
+  "blocks": [
+    { "type": "p", "text": "Es una historia frecuente: compras una latita de matcha ceremonial en una tienda especializada de Barranco, te animas con el batidor de bambú y durante dos semanas preparas tu cuenco cada mañana. Luego llega una semana de cierre en el trabajo, el ritual se queda para el fin de semana y la lata termina olvidada en la alacena, perdiendo color." },
+    { "type": "p", "text": "Esa escena resume la diferencia de fondo. El matcha puro es un producto para disfrutar con tiempo; una mezcla funcional como Matcha Pep-T está pensada para resolver un momento concreto del día con poco esfuerzo. Ninguno es mejor en abstracto: depende de qué esperas de tu taza." },
+    { "type": "h2", "text": "Matcha ceremonial y mezcla funcional: qué es cada uno" },
+    { "type": "p", "text": "El **matcha puro** es té verde de hojas cultivadas a la sombra, al que se le retiran tallos y nervaduras antes de molerlo en piedra o en molinos finos. Se vende en grados: el llamado «ceremonial», pensado para tomarse solo con agua, y el «culinario», más económico y amargo, para lattes y repostería. Ojo: no existe una norma internacional obligatoria que defina qué es «ceremonial», así que la etiqueta depende de cada marca." },
+    { "type": "p", "text": "**Matcha Pep-T** es una mezcla en polvo para bebida instantánea. Su primer ingrediente es colágeno hidrolizado (Nextida GC), seguido de fibra de maíz, crema de coco, un mix de matcha y chía, isomaltulosa, tapioca, saborizantes naturales, estevia y cromo, entre otros. El detalle de cada componente está en la página de [ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Matcha Pep-T vs matcha puro: tabla de diferencias" },
+    { "type": "table", "caption": "Matcha ceremonial puro frente a Matcha Pep-T", "headers": ["Criterio", "Matcha ceremonial puro", "Matcha Pep-T"], "rows": [
+      ["Ingredientes", "Solo té verde molido", "Colágeno, fibra, crema de coco, matcha y chía, isomaltulosa, estevia, cromo y otros"],
+      ["Preparación", "Tamizar, agua a 70–80 °C, batir con chasen", "1 sobre en 180 ml de agua y mezclar o agitar"],
+      ["Tiempo", "3–5 minutos con práctica", "Alrededor de 1 minuto"],
+      ["Sabor", "Vegetal, umami, con amargor según calidad", "Latte dulce y cremoso, coco y crema caramelo"],
+      ["Energía por taza", "Muy baja si se toma solo con agua", "46 kcal"],
+      ["Proteína y fibra", "Mínimas", "4.7 g de proteína y 4.9 g de fibra"],
+      ["Cantidad de matcha", "Tú decides cuánto usas", "No declarada"],
+      ["Cafeína", "Natural, depende de la dosis que uses", "Natural del matcha, no declarada"],
+      ["Apto para veganos", "Sí", "No (contiene colágeno de origen animal)"],
+      ["Precio", "Muy variable según grado, origen y marca", "S/ 158.00 por 14 sobres (S/ 11.29 por sobre)"]
+    ] },
+    { "type": "h2", "text": "Ventajas y desventajas del matcha puro" },
+    { "type": "ul", "items": [
+      "**A favor:** un solo ingrediente, control total de la dosis, sabor auténtico y versatilidad en cocina (desde un latte hasta un queque).",
+      "**A favor:** al tomar la hoja completa, recibes todo lo que el té ofrece; la cantidad depende de ti.",
+      "**En contra:** requiere utensilios y algo de técnica; con agua demasiado caliente se vuelve amargo y si no se tamiza aparecen grumos.",
+      "**En contra:** se oxida rápido una vez abierto, sobre todo con la humedad limeña, y pierde color y aroma en pocas semanas.",
+      "**En contra:** solo no aporta proteína ni fibra que ayuden a sentirte satisfecho; si le agregas leche entera y azúcar para suavizarlo, las calorías suben."
+    ] },
+    { "type": "h2", "text": "Ventajas y desventajas de Matcha Pep-T" },
+    { "type": "ul", "items": [
+      "**A favor:** porción ya medida en sobres individuales, fácil de llevar en la mochila o dejar en el cajón del escritorio.",
+      "**A favor:** suma proteína y fibra en solo 46 kcal, con muy poca azúcar (0.9 g añadidos) y estevia como edulcorante.",
+      "**A favor:** incluye el colágeno Nextida GC, un ingrediente con estudios propios del fabricante sobre glucosa y saciedad.",
+      "**En contra:** no sabes cuánto matcha ni cuánta cafeína tiene cada sobre, porque la etiqueta no lo declara.",
+      "**En contra:** el sabor es el de un latte endulzado; si eres purista del matcha, puede parecerte poco «té».",
+      "**En contra:** no es apto para veganos y su precio por taza es mayor que el de un matcha culinario básico."
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica el fabricante del ingrediente", "text": "Rousselot informa que, en sus estudios con 5–10 g de Nextida GC aislado tomados unos 30 minutos antes de comer, se observó mayor liberación de GLP-1 y menores picos de glucosa. Son datos del ingrediente, no del producto terminado, y la dosis de Nextida por sobre no está declarada." },
+    { "type": "cta", "text": "Compara tú mismo: mira el precio actual del doypack de 14 sobres y lo que trae cada porción." },
+    { "type": "h2", "text": "Precio: cuánto cuesta realmente cada taza" },
+    { "type": "p", "text": "Comparar el precio por gramo es engañoso, porque en un caso compras un ingrediente y en el otro una fórmula. Es más justo calcular el costo por taza preparada. Para el matcha puro, la cuenta es: precio de la lata ÷ gramos ÷ gramos que usas por taza (para un cuenco ligero se suele usar alrededor de 2 g)." },
+    { "type": "p", "text": "Un ejemplo hipotético: si una lata de 30 g te costara S/ 90, obtendrías unas 15 tazas a S/ 6 cada una. Si luego la conviertes en latte con leche y un poco de miel, el costo y las calorías suben. En Matcha Pep-T el número es fijo: S/ 158.00 entre 14 sobres da S/ 11.29 por porción, ya con proteína, fibra, cremosidad y endulzante incluidos. Desglosamos ese cálculo en [cuánto cuesta un sobre de Matcha Pep-T](/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/)." },
+    { "type": "p", "text": "También conviene sumar los costos ocultos del matcha puro: el batidor, el cuenco, el tamiz y el producto que se desperdicia cuando la lata se oxida antes de terminarla." },
+    { "type": "h2", "text": "¿Para quién tiene más sentido cada opción?" },
+    { "type": "p", "text": "El matcha ceremonial encaja mejor si disfrutas el sabor del té, quieres controlar la dosis, sigues una alimentación vegana o te gusta cocinar con él. Es la opción del ritual de domingo, con calma y buena luz." },
+    { "type": "p", "text": "Matcha Pep-T tiene más sentido si tu problema es práctico: llegas con hambre a media tarde, quieres algo dulce que no sea una galleta de la tiendita, o necesitas una bebida que se prepare con el agua del dispensador entre dos reuniones. Para entender qué lo hace distinto desde la ciencia, revisa nuestra guía principal sobre [Matcha Pep-T y GLP-1](/ciencia-matcha-pep-t/)." },
+    { "type": "p", "text": "Si ya tomas matcha puro y estás pensando en sumar el otro, hazlo en momentos distintos del día y vigila la cafeína total. Cuando lo tengas claro, en la página para [comprar Matcha Pep-T](/comprar-matcha-pep-t/) tienes el enlace a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo agregar matcha puro a Matcha Pep-T para que sepa más a té?", "a": "Técnicamente puedes, pero estarías sumando cafeína a una porción cuya cantidad ya no está declarada. Si quieres un sabor más intenso, es preferible probar la versión caliente o con menos hielo antes de añadir más matcha." },
+    { "q": "¿El matcha culinario sirve para preparar un latte casero equivalente?", "a": "Sirve para un latte con buen sabor, pero no será equivalente: no tendrá el colágeno Nextida GC, la fibra ni el cromo, y la energía final dependerá de la leche y el endulzante que uses." },
+    { "q": "¿Cómo sé si un matcha puro es de buena calidad?", "a": "Busca un verde brillante (no amarillento), textura muy fina, origen indicado y fecha de envasado reciente. Guárdalo bien cerrado, lejos de la luz y la humedad, y úsalo en pocas semanas después de abrirlo." },
+    { "q": "¿Matcha Pep-T reemplaza la ceremonia del té?", "a": "No es su propósito. Es una bebida funcional práctica para el día a día; quien valora la ceremonia del té seguirá prefiriendo el matcha puro preparado con su batidor." }
+  ],
+  "sources": [
+    { "label": "NCCIH (NIH) – Green Tea", "url": "https://www.nccih.nih.gov/health/green-tea" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/vs-te-verde/", "/ingredientes-matcha-pep-t/te-matcha/", "/precio-matcha-pep-t-peru/precio-vs-matcha-latte-de-cafeteria/", "/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/"]
+}

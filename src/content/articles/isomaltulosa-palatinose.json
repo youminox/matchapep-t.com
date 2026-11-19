@@ -1,0 +1,66 @@
+{
+  "slug": "isomaltulosa-palatinose",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/isomaltulosa-palatinose/",
+  "isPillar": false,
+  "primaryKeyword": "isomaltulosa Palatinose",
+  "title": "Isomaltulosa Palatinose en Matcha Pep-T: el carbohidrato lento",
+  "seoTitle": "Isomaltulosa Palatinose: qué es y qué hace en Matcha Pep-T",
+  "metaDescription": "Isomaltulosa Palatinose: el disacárido de betarraga que se absorbe lento y tiene bajo índice glucémico. Qué hace en Matcha Pep-T y por qué cuenta como azúcar.",
+  "excerpt": "Se obtiene del azúcar de betarraga, se digiere despacio y aun así cuenta como azúcar en la etiqueta. Así funciona la isomaltulosa dentro de Matcha Pep-T.",
+  "quickAnswer": "La isomaltulosa Palatinose es un disacárido de glucosa y fructosa obtenido del azúcar de betarraga. Su enlace se rompe lentamente en el intestino, por eso libera glucosa de forma gradual y tiene un índice glucémico bajo (alrededor de 32). Aun así es un azúcar: aporta 4 kcal por gramo y figura dentro de los azúcares de la etiqueta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Fresh red beetroots with green leaves on a wooden cutting board at a Lima market stall, a small bowl of fine white crystalline powder beside them, soft daylight, earthy tones, shallow depth of field, no text, no logos, no packaging, no people",
+    "alt": "Betarragas frescas con hojas sobre una tabla de madera junto a un cuenco con cristales blancos finos"
+  },
+  "blocks": [
+    { "type": "p", "text": "La betarraga está en la ensalada rusa del almuerzo dominical, en los jugos de los mercados y, desde hace unos años, en muchos platos de cocina saludable. Lo que pocos saben es que de ella también se extrae azúcar, y que a partir de ese azúcar se fabrica un ingrediente con propiedades bastante distintas." },
+    { "type": "p", "text": "En la etiqueta de Matcha Pep-T aparece como **«Isomaltulosa (Disacáridos obtenidos de la Betarraga – Palatinose™)»**, en el quinto lugar de la lista. En esta guía explicamos qué es, por qué se digiere más despacio que el azúcar común y por qué, pese a eso, sigue contando como azúcar. El resto de componentes está en la [guía completa de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Qué es la isomaltulosa Palatinose" },
+    { "type": "p", "text": "La isomaltulosa es un **disacárido**: una molécula formada por una glucosa y una fructosa unidas. Exactamente los mismos dos componentes que tiene el azúcar de mesa (sacarosa). La diferencia está en **cómo están unidos**: en la sacarosa el enlace es de un tipo que el intestino rompe en segundos; en la isomaltulosa la unión es más estable y cuesta más separarla." },
+    { "type": "p", "text": "Existe en la naturaleza en cantidades muy pequeñas, por ejemplo en la miel y en el jugo de caña. Para uso industrial se produce a partir de sacarosa de betarraga, a la que se aplica un proceso enzimático que reorganiza el enlace entre ambas moléculas." },
+    { "type": "p", "text": "**Palatinose™** es simplemente la marca comercial con la que la empresa alemana BENEO vende su isomaltulosa. Que la etiqueta mencione la marca indica qué proveedor se usa, igual que ocurre con el colágeno Nextida® GC." },
+    { "type": "h2", "text": "Por qué se absorbe más despacio" },
+    { "type": "p", "text": "Cuando tomas azúcar común, la sacarosa se separa casi de inmediato al inicio del intestino delgado y la glucosa pasa a la sangre en poco tiempo. Con la isomaltulosa, las enzimas trabajan más lento y la digestión se reparte a lo largo de todo el intestino delgado. El resultado es una **subida de glucosa más baja y más prolongada**." },
+    { "type": "table", "caption": "Sacarosa frente a isomaltulosa (datos generales del ingrediente)", "headers": ["Característica", "Azúcar de mesa (sacarosa)", "Isomaltulosa"], "rows": [
+      ["Composición", "Glucosa + fructosa", "Glucosa + fructosa"],
+      ["Velocidad de digestión", "Rápida", "Lenta y sostenida"],
+      ["Índice glucémico aproximado", "Alrededor de 65", "Alrededor de 32"],
+      ["Energía", "4 kcal por gramo", "4 kcal por gramo"],
+      ["Dulzor relativo", "100 %", "Aproximadamente la mitad"],
+      ["¿Cuenta como azúcar en la etiqueta?", "Sí", "Sí"]
+    ] },
+    { "type": "p", "text": "Dos detalles de la tabla merecen atención. Primero, **absorción lenta no significa menos calorías**: la isomaltulosa se digiere por completo y aporta la misma energía que el azúcar. Segundo, endulza bastante menos, por lo que rara vez se usa sola para dar dulzor." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica el fabricante del ingrediente", "text": "BENEO presenta Palatinose™ como un carbohidrato de liberación lenta que proporciona energía de forma más sostenida y con menor respuesta de glucosa e insulina que los azúcares convencionales. En la Unión Europea, la EFSA aceptó que consumir alimentos con isomaltulosa **en lugar de azúcar** produce una menor subida de glucosa en sangre. Son datos del ingrediente, no estudios hechos con Matcha Pep-T." },
+    { "type": "cta", "text": "Mira el precio vigente del doypack (S/ 158.00) y las opciones para pedirlo en Perú." },
+    { "type": "h2", "text": "La isomaltulosa cuenta como azúcar en la etiqueta" },
+    { "type": "p", "text": "Aquí está el punto que más confusión genera. Las normas de etiquetado consideran «azúcares» a todos los monosacáridos y disacáridos, sin importar su velocidad de absorción. La isomaltulosa es un disacárido añadido durante la fabricación, así que **entra en el cálculo de azúcares y de azúcares añadidos**." },
+    { "type": "p", "text": "Por eso no tiene sentido decir que un producto con isomaltulosa no tiene azúcar. En Matcha Pep-T la etiqueta declara, por sobre preparado en 180 ml de agua, **2.0 g de azúcares totales, de los cuales 0.9 g son añadidos**. La etiqueta no desglosa cuánto de esa cifra corresponde exactamente a la isomaltulosa." },
+    { "type": "p", "text": "Si quieres el análisis completo del azúcar del producto, comparado con otras bebidas, lo tienes en [cuánta azúcar tiene Matcha Pep-T](/ingredientes-matcha-pep-t/tiene-azucar/). Aquí basta con saber que la cantidad es pequeña y que la isomaltulosa forma parte de ella." },
+    { "type": "h2", "text": "Qué papel cumple dentro de un sobre de 15 g" },
+    { "type": "p", "text": "Con 7.8 g de carbohidratos por porción, de los cuales 4.9 g son fibra, el margen para azúcares es reducido. En ese espacio, la isomaltulosa aporta:" },
+    { "type": "ul", "items": [
+      "**Un dulzor suave y limpio**, sin regusto, que complementa a la estevia. La estevia da la mayor parte del dulzor y la isomaltulosa redondea el sabor. Lo explicamos en [el papel de la estevia en Matcha Pep-T](/ingredientes-matcha-pep-t/estevia/).",
+      "**Cuerpo**, porque un azúcar real da una sensación en boca que los edulcorantes solos no logran.",
+      "**Una fuente de carbohidrato de liberación gradual**, coherente con el planteamiento general de la fórmula."
+    ] },
+    { "type": "p", "text": "Conviene no sobredimensionarlo: en las cantidades de un sobre, la isomaltulosa no es la que define cómo responde tu glucosa a la bebida. Para entender qué se sabe del producto completo en ese terreno, revisa [Matcha Pep-T y la glucosa](/que-es-matcha-pep-t/y-la-glucosa/)." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo evitarla o consultar antes", "text": "La isomaltulosa libera fructosa al digerirse, por lo que no es apta para personas con **intolerancia hereditaria a la fructosa**. Si tienes diabetes, usas insulina o medicamentos para la glucosa, consulta con tu médico y revisa nuestra página sobre [Matcha Pep-T y la diabetes](/opiniones-matcha-pep-t/diabetes/). Matcha Pep-T no es un medicamento." },
+    { "type": "h2", "text": "Cómo leer este ingrediente sin exagerar" },
+    { "type": "p", "text": "La isomaltulosa es una buena elección técnica para una bebida que busca poco azúcar y energía estable: endulza un poco, da cuerpo y se absorbe despacio. Pero sigue siendo azúcar, aporta las mismas calorías por gramo y su presencia no convierte a la bebida en un tratamiento para nada." },
+    { "type": "p", "text": "Si te convence la fórmula, en la página para [pedir Matcha Pep-T original](/comprar-matcha-pep-t/) tienes el precio actualizado: S/ 158.00 por 14 sobres, unos S/ 11.29 por porción." }
+  ],
+  "faqs": [
+    { "q": "¿La isomaltulosa es un edulcorante artificial?", "a": "No. Es un azúcar, un disacárido de glucosa y fructosa obtenido de la sacarosa de betarraga mediante un proceso enzimático. A diferencia de los edulcorantes sin calorías, se digiere por completo y aporta energía." },
+    { "q": "¿Le da sabor o color de betarraga a la bebida?", "a": "No. La isomaltulosa es un polvo cristalino blanco sin el pigmento ni el sabor terroso de la betarraga. La raíz solo es la materia prima de la que se extrae el azúcar original." },
+    { "q": "¿La isomaltulosa produce caries?", "a": "Las bacterias de la boca la fermentan mucho menos que al azúcar común, por eso en Europa se le reconoce un menor impacto en la desmineralización dental. Aun así, la higiene bucal habitual sigue siendo necesaria." },
+    { "q": "¿Es compatible con una dieta keto?", "a": "Al ser un azúcar, suma carbohidratos, aunque en un sobre la cantidad es pequeña. Si sigues una dieta cetogénica estricta, conviene revisar los 7.8 g de carbohidratos totales por porción dentro de tu límite diario." }
+  ],
+  "sources": [
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "BENEO – Palatinose", "url": "https://www.beneo.com/" },
+    { "label": "Glycemic Index Database – University of Sydney", "url": "https://glycemicindex.com/" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/tiene-azucar/", "/ingredientes-matcha-pep-t/estevia/", "/que-es-matcha-pep-t/y-la-glucosa/", "/ingredientes-matcha-pep-t/es-keto-low-carb/"]
+}

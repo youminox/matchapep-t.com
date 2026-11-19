@@ -1,0 +1,471 @@
+{
+  "slug": "ciencia-matcha-pep-t",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/",
+  "isPillar": true,
+  "primaryKeyword": "Matcha Pep-T GLP-1",
+  "title": "Matcha Pep-T y GLP-1: qué dice la ciencia y qué no",
+  "seoTitle": "Matcha Pep-T GLP-1: lo que dicen los estudios",
+  "metaDescription": "Matcha Pep-T y GLP-1 explicado con honestidad: qué es la hormona, qué hallaron los estudios de Nextida GC y qué puedes esperar realmente del sobre.",
+  "excerpt": "La guía central sobre la ciencia detrás de Matcha Pep-T: qué es el GLP-1, qué se estudió con Nextida GC, qué no se puede afirmar y cómo se compara con otras bebidas y suplementos.",
+  "quickAnswer": "La relación entre Matcha Pep-T y GLP-1 viene de su primer ingrediente, los péptidos de colágeno Nextida GC. En estudios del fabricante del ingrediente (Rousselot), 5–10 g del ingrediente aislado tomados antes de comer se asociaron a más GLP-1 y menor pico de glucosa. Esos resultados no son del producto, que no es un medicamento ni equivale a fármacos GLP-1.",
+  "readingMinutes": 13,
+  "image": {
+    "prompt": "A glass of iced green matcha latte on a white laboratory-style marble counter beside an open science notebook with hand-drawn molecular sketches and a pair of reading glasses, soft overcast Lima daylight from a large window, calm editorial style, shallow depth of field. NO packaging, NO text, NO logos, NO visible faces.",
+    "alt": "Vaso de matcha latte helado junto a un cuaderno abierto con dibujos de moléculas sobre una mesa de mármol, con luz nublada de Lima"
+  },
+  "blocks": [
+    {
+      "type": "p",
+      "text": "En Lima, la palabra GLP-1 pasó en poco tiempo de los consultorios de endocrinología a las sobremesas familiares. La escuchas en el grupo de WhatsApp del trabajo, en la cola de la farmacia y en videos que prometen «activar tu hormona de la saciedad» con cualquier cosa. En medio de ese ruido apareció **Matcha Pep-T**, y con él la pregunta lógica: ¿qué tiene que ver un matcha latte con el GLP-1?"
+    },
+    {
+      "type": "p",
+      "text": "Esta página es el centro de toda la sección científica del sitio. Aquí no vas a encontrar promesas de kilos ni comparaciones tramposas con medicamentos. Vas a encontrar tres capas bien separadas: lo que se sabe en general sobre el GLP-1, lo que reportan los estudios del ingrediente Nextida GC y lo que todo eso significa —y no significa— para el sobre que preparas con 180 ml de agua."
+    },
+    {
+      "type": "h2",
+      "text": "Matcha Pep-T y GLP-1: la respuesta corta"
+    },
+    {
+      "type": "p",
+      "text": "Matcha Pep-T no contiene GLP-1 ni ningún fármaco que imite esa hormona. Lo que contiene, como primer ingrediente de la etiqueta, es **colágeno hidrolizado en forma de péptidos Nextida GC**, una composición desarrollada por la empresa Rousselot. Las siglas GC vienen de *glucose control*, es decir, el ingrediente fue diseñado y estudiado pensando en la respuesta de la glucosa después de comer."
+    },
+    {
+      "type": "p",
+      "text": "En esos estudios, financiados o realizados por el fabricante del ingrediente, tomar Nextida GC unos 30 minutos antes de una comida se asoció a una mayor liberación natural de GLP-1 y a picos de glucosa más bajos. Es un hallazgo interesante, pero tiene límites claros: se usó el ingrediente aislado, en dosis de 5 y 10 g, en grupos pequeños. No se probó Matcha Pep-T como producto terminado."
+    },
+    {
+      "type": "h2",
+      "text": "Qué es el GLP-1, en palabras simples"
+    },
+    {
+      "type": "p",
+      "text": "El GLP-1 (péptido similar al glucagón tipo 1) es una hormona que tu propio intestino produce cuando comes. La liberan unas células especializadas, llamadas células L, que están sobre todo en la parte final del intestino delgado y en el colon. Pertenece al grupo de las **incretinas**, hormonas que avisan al cuerpo de que está llegando comida."
+    },
+    {
+      "type": "p",
+      "text": "Una vez liberado, el GLP-1 cumple varias funciones que trabajan en conjunto:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Ayuda al páncreas a liberar insulina**, pero solo cuando la glucosa está subiendo, lo que la convierte en una señal bastante fina.",
+        "**Frena la liberación de glucagón**, la hormona que hace que el hígado suelte más glucosa a la sangre.",
+        "**Hace más lento el vaciamiento del estómago**, de modo que la comida pasa al intestino de forma más gradual.",
+        "**Envía señales de saciedad al cerebro**, contribuyendo a que dejes de sentir hambre."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Un detalle que casi nunca se menciona en redes: el GLP-1 que produce tu cuerpo dura muy poco en la sangre, apenas un par de minutos, porque una enzima llamada DPP-4 lo degrada rápidamente. Esa es justamente la razón por la que los medicamentos de esta familia se diseñaron como moléculas modificadas que duran días. Si quieres la explicación completa, paso a paso, lee [qué es el GLP-1 y cómo actúa en el cuerpo](/ciencia-matcha-pep-t/que-es-glp-1/)."
+    },
+    {
+      "type": "p",
+      "text": "El GLP-1 tampoco trabaja solo. Comparte el escenario con el PYY, la colecistoquinina, la grelina y la leptina, cada una con su propio papel en el hambre y la saciedad. Lo repasamos en la guía sobre [las hormonas de la saciedad y cómo influyen la proteína y la fibra](/ciencia-matcha-pep-t/hormonas-de-la-saciedad/)."
+    },
+    {
+      "type": "h2",
+      "text": "De dónde sale la conexión: los péptidos Nextida GC"
+    },
+    {
+      "type": "p",
+      "text": "El colágeno hidrolizado es colágeno que se ha cortado en fragmentos pequeños mediante un proceso llamado hidrólisis. Esos fragmentos son **péptidos**: cadenas cortas de aminoácidos. Algunos péptidos, además de aportar proteína, parecen tener efectos específicos en el organismo; a esos se les llama péptidos bioactivos."
+    },
+    {
+      "type": "p",
+      "text": "La propuesta de Rousselot con Nextida GC es que una mezcla concreta de péptidos de colágeno, obtenida con un proceso controlado, puede interactuar con el intestino de una forma que favorece la liberación de incretinas. No es colágeno genérico con otro nombre: el fabricante lo presenta como una composición específica, distinta del colágeno en polvo que se vende para piel o articulaciones."
+    },
+    {
+      "type": "p",
+      "text": "Si te interesa entender cómo se obtienen estos fragmentos y qué otros ejemplos existen en la nutrición, revisa nuestro artículo sobre [qué son los péptidos bioactivos](/ciencia-matcha-pep-t/peptidos-bioactivos/). Y si lo que buscas es la ficha del ingrediente en sí, está en [Nextida GC: qué es y quién lo desarrolla](/ingredientes-matcha-pep-t/nextida-gc-que-es/)."
+    },
+    {
+      "type": "h2",
+      "text": "Qué encontraron los estudios del fabricante"
+    },
+    {
+      "type": "p",
+      "text": "La investigación sobre Nextida GC incluye estudios preclínicos en ratones y ensayos piloto en personas sanas y con prediabetes. Esto es lo que se midió y con qué dosis:"
+    },
+    {
+      "type": "table",
+      "caption": "Resumen de lo que comunica Rousselot sobre Nextida GC (ingrediente aislado)",
+      "headers": [
+        "Aspecto",
+        "Lo reportado por el fabricante del ingrediente"
+      ],
+      "rows": [
+        [
+          "Tipo de estudios",
+          "Preclínicos en ratones y ensayos piloto en humanos sanos y con prediabetes"
+        ],
+        [
+          "Dosis probadas",
+          "5 g y 10 g del ingrediente aislado"
+        ],
+        [
+          "Momento de toma",
+          "Unos 30 minutos antes de una comida"
+        ],
+        [
+          "GLP-1 en personas sanas",
+          "Aumento significativo con 10 g"
+        ],
+        [
+          "GLP-1 en prediabetes",
+          "Aumento observado también con 5 g"
+        ],
+        [
+          "Otras incretinas",
+          "Mayor liberación de GIP"
+        ],
+        [
+          "Glucosa después de comer",
+          "Reducciones promedio del pico de hasta 42 %, según Rousselot"
+        ],
+        [
+          "Vaciamiento gástrico",
+          "Retraso observado en personas con prediabetes"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "title": "Lo que comunica el fabricante del ingrediente",
+      "text": "Todos los datos de la tabla provienen de estudios del fabricante del ingrediente (Rousselot) con dosis de 5–10 g del ingrediente aislado. Son resultados de Nextida GC por sí solo, no de Matcha Pep-T como producto terminado."
+    },
+    {
+      "type": "h2",
+      "text": "Lo que esos estudios no permiten afirmar"
+    },
+    {
+      "type": "p",
+      "text": "Leer bien un estudio es tan importante como leerlo (el detalle de cada uno está en [los estudios de Nextida GC uno por uno](/ingredientes-matcha-pep-t/nextida-gc-estudios/)). Con la información disponible, hay varias conclusiones que circulan en internet y que no se sostienen:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Que Nextida GC haga bajar de peso.** Los estudios midieron hormonas y glucosa en ventanas de pocas horas, no cambios de peso a lo largo de meses.",
+        "**Que funcione igual en todas las personas.** Los ensayos piloto tuvieron pocos participantes y perfiles concretos.",
+        "**Que el efecto sea comparable al de un medicamento.** Un aumento natural y pasajero de GLP-1 no se parece, en magnitud ni en duración, a lo que logra un fármaco diseñado para ese fin.",
+        "**Que esté demostrado de forma independiente y a gran escala.** Por ahora, la evidencia es preliminar y proviene principalmente del propio fabricante.",
+        "**Que el producto terminado reproduzca esos resultados.** Ningún estudio citado evaluó Matcha Pep-T."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Qué significa todo esto para tu sobre de Matcha Pep-T"
+    },
+    {
+      "type": "p",
+      "text": "Aquí está la parte que más importa si estás pensando en comprarlo. Hay tres diferencias concretas entre las condiciones de los estudios y la forma en que vas a tomar Matcha Pep-T en tu casa o en la oficina."
+    },
+    {
+      "type": "h3",
+      "text": "1. La dosis no está declarada"
+    },
+    {
+      "type": "p",
+      "text": "La etiqueta lista Nextida GC como primer ingrediente, lo que indica que es el componente de mayor peso en la mezcla, pero **no declara cuántos gramos lleva cada sobre**. Lo que sí sabemos es que la proteína total por porción es de 4.7 g. Como el colágeno es básicamente proteína, un sobre no tiene espacio para los 10 g usados en la dosis alta de los estudios. Si la cantidad se acerca a los 5 g, simplemente no lo podemos confirmar."
+    },
+    {
+      "type": "h3",
+      "text": "2. El momento de la toma"
+    },
+    {
+      "type": "p",
+      "text": "En los ensayos, el ingrediente se tomó unos 30 minutos antes de comer. Mucha gente toma su matcha latte a media tarde, sin una comida programada después, o junto con el desayuno. Ninguna de esas costumbres es incorrecta, pero son condiciones distintas a las estudiadas."
+    },
+    {
+      "type": "h3",
+      "text": "3. La mezcla es diferente"
+    },
+    {
+      "type": "p",
+      "text": "En Matcha Pep-T, los péptidos vienen acompañados de fibra de maíz, crema de coco, matcha, chía, isomaltulosa y tapioca. Nadie ha medido si esa combinación cambia la respuesta hormonal observada con el ingrediente aislado. Si tu interés principal es la glucosa, lee [Matcha Pep-T y la glucosa](/que-es-matcha-pep-t/y-la-glucosa/)."
+    },
+    {
+      "type": "callout",
+      "variant": "etiqueta",
+      "title": "Lo que sí dice la etiqueta por porción",
+      "text": "1 sobre de 15 g en 180 ml de agua aporta 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y cromo equivalente al 45 % del valor diario. No están declaradas la cantidad de Nextida GC, la cafeína ni la L-teanina o las catequinas."
+    },
+    {
+      "type": "cta",
+      "text": "¿Quieres ver el precio actualizado del doypack de 14 sobres y cómo hacer tu pedido en Perú?"
+    },
+    {
+      "type": "h2",
+      "text": "Matcha Pep-T no es un fármaco GLP-1"
+    },
+    {
+      "type": "p",
+      "text": "Es la comparación que más se busca y la que más se distorsiona. La semaglutida, conocida comercialmente como Ozempic, es un **agonista del receptor de GLP-1**: una molécula fabricada para imitar a la hormona y mantenerse activa durante días. Se aplica por inyección, requiere receta y seguimiento médico, y tiene efectos secundarios y contraindicaciones que un profesional debe evaluar."
+    },
+    {
+      "type": "p",
+      "text": "Matcha Pep-T, en cambio, es un alimento en polvo cuyo ingrediente principal se ha estudiado por favorecer, de forma breve y modesta, la liberación de la hormona que tu cuerpo ya produce. No son versiones fuerte y suave de lo mismo: son categorías distintas."
+    },
+    {
+      "type": "table",
+      "caption": "Diferencias de fondo entre un fármaco GLP-1 y Matcha Pep-T",
+      "headers": [
+        "Característica",
+        "Semaglutida (fármaco)",
+        "Matcha Pep-T (alimento)"
+      ],
+      "rows": [
+        [
+          "Qué es",
+          "Medicamento agonista del receptor de GLP-1",
+          "Mezcla instantánea de matcha latte con péptidos de colágeno"
+        ],
+        [
+          "Cómo actúa",
+          "Imita a la hormona y dura días",
+          "Su ingrediente se asoció en estudios a liberación natural y breve de GLP-1"
+        ],
+        [
+          "Acceso",
+          "Con receta médica",
+          "Venta libre como alimento"
+        ],
+        [
+          "Evidencia",
+          "Ensayos clínicos grandes con el propio fármaco",
+          "Estudios piloto del ingrediente aislado, no del producto"
+        ],
+        [
+          "¿Sustituye al otro?",
+          "No",
+          "No"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Si alguien te ofrece cualquier bebida o cápsula como reemplazo de un tratamiento indicado por tu médico, desconfía. Ampliamos estas diferencias en [Matcha Pep-T frente a Ozempic: por qué no son equivalentes](/ciencia-matcha-pep-t/vs-ozempic/)."
+    },
+    {
+      "type": "h2",
+      "text": "Lo que sí aporta, más allá del GLP-1"
+    },
+    {
+      "type": "p",
+      "text": "Quitar la exageración no deja la bebida vacía. Aun ignorando la investigación sobre Nextida GC, la etiqueta describe un perfil útil:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Fibra: 4.9 g por sobre**, equivalente al 18 % del valor diario. La fibra soluble es uno de los factores con más respaldo en la sensación de saciedad. Lo revisamos en [qué dice la evidencia sobre fibra y saciedad](/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/).",
+        "**Proteína: 4.7 g por sobre.** No es una cantidad alta, pero suma en una bebida de solo 46 kcal.",
+        "**Cromo: 45 % del valor diario**, un mineral que participa en el metabolismo normal de los carbohidratos.",
+        "**Matcha**, que de forma natural contiene compuestos como la L-teanina; la etiqueta no declara su cantidad. Lo que se sabe de este aminoácido está en [L-teanina del matcha y alerta tranquila](/ciencia-matcha-pep-t/l-teanina/)."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Dicho de forma práctica: si a las cinco de la tarde, después de un día largo en una oficina de San Isidro, tu alternativa habitual es un café con tres cucharaditas de azúcar y un alfajor, un vaso de Matcha Pep-T es una opción con menos azúcar y más fibra. Ese es un beneficio real y verificable, aunque menos espectacular que lo que promete un anuncio."
+    },
+    {
+      "type": "h2",
+      "text": "Resumen de las comparativas"
+    },
+    {
+      "type": "p",
+      "text": "Buena parte de esta sección compara Matcha Pep-T con lo que la gente ya toma o se plantea tomar. Esta tabla resume la idea central de cada comparación; los detalles están en cada artículo."
+    },
+    {
+      "type": "table",
+      "caption": "Cómo se diferencia Matcha Pep-T de otras opciones frecuentes",
+      "headers": [
+        "Frente a",
+        "Diferencia principal",
+        "Cuándo tiene más sentido cada uno"
+      ],
+      "rows": [
+        [
+          "Café pasado o americano",
+          "El café aporta casi nada de proteína y fibra; Matcha Pep-T añade ambas",
+          "Café si buscas sabor y ritual puro; Matcha Pep-T si quieres algo más completo"
+        ],
+        [
+          "Té verde en bolsita",
+          "La bolsita es una infusión casi sin calorías; Matcha Pep-T es un latte con nutrientes añadidos",
+          "Té verde para hidratarte; Matcha Pep-T como colación ligera"
+        ],
+        [
+          "Matcha puro",
+          "El matcha puro es solo hoja molida; Matcha Pep-T es una mezcla funcional",
+          "Matcha puro si te gusta prepararlo tradicional; la mezcla si priorizas practicidad"
+        ],
+        [
+          "Colágeno en polvo genérico",
+          "Porciones habituales de alrededor de 10 g, pensadas para piel y articulaciones; Nextida GC tiene otro enfoque",
+          "Depende de tu objetivo, no de cuál es mejor"
+        ],
+        [
+          "Batidos sustitutos de comida",
+          "Suelen superar las 200 kcal y reemplazan una comida; Matcha Pep-T tiene 46 kcal",
+          "El batido reemplaza; Matcha Pep-T acompaña"
+        ],
+        [
+          "Quemadores termogénicos",
+          "Altas dosis de estimulantes frente a un enfoque de saciedad",
+          "Los quemadores tienen riesgos que conviene evaluar con un profesional"
+        ],
+        [
+          "Café con colágeno",
+          "Colágeno genérico en base de café frente a péptidos específicos en base de matcha",
+          "Según prefieras café o matcha y qué tipo de colágeno buscas"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sobre el precio: el doypack cuesta S/ 158.00 por 14 sobres, es decir, S/ 11.29 por sobre; al compararlo con un pote de colágeno o una lata de matcha, recuerda que son formatos y objetivos distintos."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo evaluar cualquier claim de «GLP-1 natural»"
+    },
+    {
+      "type": "p",
+      "text": "En el mercado peruano ya circulan probióticos, fibras, cápsulas y bebidas que usan el GLP-1 como gancho. Antes de pagar por cualquiera, incluido Matcha Pep-T, hazte estas preguntas:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "**¿Qué ingrediente concreto se estudió?** Si el vendedor no puede nombrarlo, la afirmación es humo.",
+        "**¿Se estudió el ingrediente o el producto?** Casi siempre es lo primero; dilo así y sabrás qué esperar.",
+        "**¿Qué dosis se usó y cuánto trae el envase?** Si la etiqueta no lo declara, tenlo en cuenta como una incógnita.",
+        "**¿Quién hizo el estudio y con cuántas personas?** Ensayos pequeños del propio fabricante son un punto de partida, no una prueba definitiva.",
+        "**¿Se promete pérdida de peso con plazos?** Esa es la señal de alarma más clara.",
+        "**¿Tiene registro sanitario y se vende por canales autorizados?** Lo básico para evitar productos adulterados."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Desarrollamos este análisis, sin mencionar marcas competidoras, en [el panorama de suplementos GLP-1 en Perú y cómo leer sus promesas](/ciencia-matcha-pep-t/suplementos-glp-1-en-peru/)."
+    },
+    {
+      "type": "h2",
+      "text": "Antes de tomarlo: cuándo consultar a un profesional"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "title": "Salud primero",
+      "text": "Matcha Pep-T no es un medicamento: no trata ni previene enfermedades y no reemplaza ningún tratamiento. Si tienes diabetes o prediabetes, usas medicación para la glucosa o un fármaco GLP-1, estás embarazada o dando de lactar, o tienes alguna condición crónica, consulta con tu médico o nutricionista antes de incorporarlo."
+    },
+    {
+      "type": "p",
+      "text": "Si ya usas semaglutida u otro fármaco similar, sumar alimentos que influyen en la saciedad debe conversarse con quien te lleva el control. Revisa también [Matcha Pep-T y la diabetes](/opiniones-matcha-pep-t/diabetes/) y [posibles interacciones con medicamentos](/opiniones-matcha-pep-t/interaccion-con-medicamentos/)."
+    },
+    {
+      "type": "h2",
+      "text": "Todos los artículos de la sección de ciencia y comparativas"
+    },
+    {
+      "type": "p",
+      "text": "Estos son los 14 artículos de esta sección, agrupados por tema."
+    },
+    {
+      "type": "h3",
+      "text": "Fisiología y mecanismos"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "[Qué es el GLP-1](/ciencia-matcha-pep-t/que-es-glp-1/): la hormona explicada para no médicos, desde el intestino hasta la sensación de saciedad.",
+        "[Hormonas de la saciedad](/ciencia-matcha-pep-t/hormonas-de-la-saciedad/): GLP-1, PYY, colecistoquinina, grelina y leptina, y cómo las influyen la proteína y la fibra.",
+        "[Péptidos bioactivos](/ciencia-matcha-pep-t/peptidos-bioactivos/): qué son, cómo se obtienen por hidrólisis y qué tan sólida es la evidencia.",
+        "[Fibra y saciedad: lo que dicen los estudios](/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/): el papel de la fibra soluble en el apetito y el peso, sin exagerar.",
+        "[L-teanina del matcha](/ciencia-matcha-pep-t/l-teanina/): el aminoácido asociado a la alerta tranquila y por qué la etiqueta no lo cuantifica."
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Comparativas con medicamentos y suplementos"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "[Matcha Pep-T vs Ozempic](/ciencia-matcha-pep-t/vs-ozempic/): por qué un fármaco con receta y un alimento no son equivalentes ni sustitutos.",
+        "[Suplementos GLP-1 en Perú](/ciencia-matcha-pep-t/suplementos-glp-1-en-peru/): probióticos, fibras y péptidos que usan el término, y cómo evaluar sus promesas.",
+        "[Matcha Pep-T vs quemadores de grasa](/ciencia-matcha-pep-t/vs-quemadores-termogenicos/): estimulantes en dosis altas frente a un enfoque de saciedad, y los riesgos de los termogénicos.",
+        "[Matcha Pep-T vs batidos sustitutos de comida](/ciencia-matcha-pep-t/vs-batidos-sustitutos/): una bebida de 46 kcal frente a batidos que reemplazan una comida completa.",
+        "[Matcha Pep-T vs colágeno en polvo](/ciencia-matcha-pep-t/vs-colageno-en-polvo/): colágeno genérico frente a péptidos específicos, con propósitos diferentes."
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Comparativas con bebidas del día a día"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "[Matcha Pep-T vs café](/ciencia-matcha-pep-t/vs-cafe/): tabla nutricional y de experiencia frente al café pasado o americano de todos los días.",
+        "[Matcha Pep-T vs café con colágeno](/ciencia-matcha-pep-t/vs-cafe-con-colageno/): dos bebidas con colágeno que se parecen menos de lo que sugiere el nombre.",
+        "[Matcha Pep-T vs té verde](/ciencia-matcha-pep-t/vs-te-verde/): té en bolsita, matcha y mezcla funcional, lado a lado.",
+        "[Matcha Pep-T vs matcha puro](/ciencia-matcha-pep-t/vs-matcha-puro/): ventajas, desventajas y precio frente al matcha ceremonial sin mezclas."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "En conclusión: interés científico, expectativas realistas"
+    },
+    {
+      "type": "p",
+      "text": "La conexión entre Matcha Pep-T y el GLP-1 existe, pero es indirecta: pasa por un ingrediente con estudios preliminares del fabricante, en dosis y condiciones que no son exactamente las de tu sobre diario. Lo que sí puedes comprobar por ti mismo es lo que está impreso en la etiqueta: una bebida de 46 kcal con fibra, algo de proteína, cromo y muy poca azúcar."
+    },
+    {
+      "type": "p",
+      "text": "Si quieres probarlo dentro de una rutina ordenada, con comidas reales y actividad física, revisa [cómo comprar Matcha Pep-T original en Perú](/comprar-matcha-pep-t/) con un distribuidor autorizado. Y ante dudas sobre tu caso, tu médico vale más que cualquier página web, incluida esta."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Cuánto Nextida GC trae cada sobre de Matcha Pep-T?",
+      "a": "La etiqueta no lo declara. Sabemos que es el primer ingrediente de la lista y que la proteína total por sobre es de 4.7 g, por lo que no puede llegar a los 10 g usados en la dosis alta de los estudios. Cualquier cifra exacta que veas circular no proviene de la etiqueta."
+    },
+    {
+      "q": "¿Puedo tomar Matcha Pep-T si ya me aplico semaglutida?",
+      "a": "Es una decisión que debes tomar con tu médico. Ambos influyen en la saciedad y el vaciamiento gástrico por vías distintas, y quien te sigue el tratamiento es quien puede evaluar si conviene. En ningún caso Matcha Pep-T reemplaza la medicación indicada."
+    },
+    {
+      "q": "¿Tomarlo media hora antes del almuerzo cambia algo?",
+      "a": "En los estudios del ingrediente aislado se usó ese esquema, unos 30 minutos antes de comer. Sin embargo, no hay estudios con Matcha Pep-T que demuestren que el horario modifique el resultado. Si te acomoda tomarlo así, no hay problema, pero no lo veas como una fórmula garantizada."
+    },
+    {
+      "q": "¿Los resultados de los estudios se aplican a personas con diabetes?",
+      "a": "Los ensayos piloto que comunica Rousselot incluyeron personas sanas y con prediabetes, no pacientes con diabetes en tratamiento. Por eso no se pueden extrapolar. Si tienes diabetes, consulta a tu endocrinólogo antes de sumar cualquier producto a tu rutina."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Rousselot – Nextida GC",
+      "url": "https://www.rousselot.com/nextida/nextida-gc"
+    },
+    {
+      "label": "PubMed – estudios sobre péptidos de colágeno Nextida y glucosa",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Nextida+collagen+peptide+glucose"
+    },
+    {
+      "label": "PubMed – revisiones sobre fisiología del GLP-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=GLP-1+physiology+review"
+    },
+    {
+      "label": "OMS – Alimentación sana",
+      "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet"
+    }
+  ],
+  "related": [
+    "/ciencia-matcha-pep-t/que-es-glp-1/",
+    "/ciencia-matcha-pep-t/vs-ozempic/",
+    "/ingredientes-matcha-pep-t/nextida-gc-estudios/",
+    "/que-es-matcha-pep-t/y-la-glucosa/"
+  ]
+}

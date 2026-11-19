@@ -1,0 +1,74 @@
+{
+  "slug": "catequinas-egcg",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/catequinas-egcg/",
+  "isPillar": false,
+  "primaryKeyword": "matcha catequinas EGCG",
+  "title": "Matcha, catequinas y EGCG: qué son y qué dice la ciencia",
+  "seoTitle": "Matcha catequinas EGCG: qué dice la ciencia",
+  "metaDescription": "Matcha, catequinas y EGCG: qué son estos antioxidantes del té verde, qué muestran los estudios, sus límites de seguridad y qué se sabe en Matcha Pep-T.",
+  "excerpt": "El EGCG es la catequina estrella del matcha. Te explicamos qué es, qué evidencia hay de verdad, cuándo merece precaución y por qué su cantidad en Matcha Pep-T no está declarada.",
+  "quickAnswer": "Las catequinas del matcha, sobre todo el EGCG (galato de epigalocatequina), son los polifenoles antioxidantes más estudiados del té verde. La investigación es prometedora en laboratorio y en estudios de población, pero menos concluyente en ensayos con personas. En Matcha Pep-T, la cantidad de EGCG no está declarada en la etiqueta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Rows of shaded green tea bushes under black netting on a misty hillside, with a small ceramic bowl of vivid green matcha powder and a bamboo whisk resting on a flat stone in the foreground, soft diffused light, calm natural atmosphere, no text, no logos, no packaging, no people",
+    "alt": "Cultivo de té bajo mallas de sombra con un cuenco de matcha en polvo y un batidor de bambú en primer plano"
+  },
+  "blocks": [
+    { "type": "p", "text": "En los campos de té de Uji, cerca de Kioto, las plantas destinadas a matcha pasan sus últimas semanas antes de la cosecha bajo mallas que les quitan buena parte del sol. Ese detalle agrícola cambia la química de la hoja: más clorofila, más aminoácidos y un perfil de catequinas algo más moderado que el del té verde cultivado a pleno sol." },
+    { "type": "p", "text": "Hoy ese polvo verde está en las cartas de cafeterías de Miraflores, Barranco y San Isidro, y con él llega una sigla que se repite en etiquetas y redes: EGCG. Aquí explicamos qué es, qué se sabe con rigor y qué se puede decir, y qué no, en el caso de Matcha Pep-T." },
+    { "type": "h2", "text": "Qué son las catequinas del matcha" },
+    { "type": "p", "text": "Las catequinas son **polifenoles** del grupo de los flavanoles, muy abundantes en la planta del té (*Camellia sinensis*). Las principales son cuatro:" },
+    { "type": "ul", "items": [
+      "**EGCG** (galato de epigalocatequina): la más abundante y la más investigada.",
+      "**EGC** (epigalocatequina).",
+      "**ECG** (galato de epicatequina).",
+      "**EC** (epicatequina), presente también en el cacao y en algunas frutas."
+    ] },
+    { "type": "p", "text": "Su fama viene de su capacidad antioxidante: en el laboratorio neutralizan radicales libres, moléculas reactivas asociadas al daño celular. También son responsables de buena parte del amargor y la astringencia que reconoces en un té verde cargado." },
+    { "type": "h3", "text": "Por qué el matcha se diferencia de un té en bolsita" },
+    { "type": "p", "text": "Con un té verde en bolsita solo bebes lo que pasa al agua durante la infusión, y la hoja termina en el tacho. Con el matcha consumes la hoja entera molida, así que ingieres todo lo que contiene. Por eso, gramo a gramo de hoja, el matcha suele aportar más catequinas que una infusión, aunque las cifras varían mucho según la calidad, la cosecha y la cantidad de polvo. La comparación completa está en [Matcha Pep-T vs té verde](/ciencia-matcha-pep-t/vs-te-verde/)." },
+    { "type": "h2", "text": "Matcha, catequinas y EGCG: qué dice la ciencia" },
+    { "type": "p", "text": "La investigación sobre el EGCG es abundante, pero conviene separar el tipo de evidencia, porque no todas pesan igual." },
+    { "type": "table", "caption": "Tipos de evidencia sobre catequinas y EGCG", "headers": ["Tipo de estudio", "Qué muestra", "Cuánto pesa"], "rows": [
+      ["Laboratorio (células, tubos de ensayo)", "Fuerte actividad antioxidante y antiinflamatoria del EGCG aislado", "Bajo: no reproduce lo que pasa en el cuerpo"],
+      ["Estudios en animales", "Efectos sobre metabolismo, peso e inflamación, a menudo con dosis altas", "Limitado: dosis y biología distintas"],
+      ["Estudios de población", "En Japón, beber varias tazas de té verde al día se asocia con menor riesgo cardiovascular", "Moderado: muestra asociación, no causa"],
+      ["Ensayos clínicos en personas", "Resultados mixtos y modestos en colesterol, presión arterial y peso", "El más relevante, pero no concluyente"]
+    ] },
+    { "type": "p", "text": "Un punto clave es la **biodisponibilidad**: el EGCG se absorbe poco y se metaboliza rápido, de modo que lo que funciona en una placa de laboratorio no se traslada tal cual a una taza. Eso explica parte de la distancia entre los titulares llamativos y los ensayos reales." },
+    { "type": "p", "text": "Las autoridades sanitarias son prudentes. En la Unión Europea, la EFSA evaluó declaraciones de salud sobre catequinas de té verde, incluida la protección antioxidante, y no las consideró suficientemente demostradas. El NCCIH de Estados Unidos resume que el té verde es seguro como bebida en cantidades moderadas, pero que la evidencia sobre muchos de sus usos populares es limitada." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que no declara la etiqueta de Matcha Pep-T", "text": "El matcha llega dentro del «mix de té matcha y chía», cuarto ingrediente de la lista. La etiqueta no declara cuánto matcha contiene cada sobre, ni la cantidad de catequinas o EGCG, ni la de cafeína o L-teanina. Cualquier cifra de EGCG atribuida a este producto sería una estimación sin respaldo en la etiqueta." },
+    { "type": "cta", "text": "Si te atrae un matcha latte práctico con colágeno y fibra, consulta el precio de Matcha Pep-T: S/ 158.00 por 14 sobres." },
+    { "type": "h2", "text": "Seguridad: cuándo el EGCG merece atención" },
+    { "type": "p", "text": "El té verde y el matcha como bebida tienen un largo historial de consumo seguro. Las alertas aparecen con los **extractos concentrados** en cápsulas, muy populares en productos para adelgazar." },
+    { "type": "p", "text": "En 2018, la EFSA concluyó que dosis de EGCG iguales o superiores a 800 mg al día procedentes de suplementos se asociaban con elevación de enzimas hepáticas, una señal de posible daño al hígado. En las infusiones tradicionales, consumidas de forma habitual, no identificó ese problema. La diferencia está en la dosis y en el formato; tomar extractos en ayunas, además, parece aumentar la exposición." },
+    { "type": "ul", "items": [
+      "**Si tomas anticoagulantes u otros medicamentos**: el té verde puede interactuar con algunos fármacos; revisa nuestra guía de [interacciones con medicamentos](/opiniones-matcha-pep-t/interaccion-con-medicamentos/).",
+      "**Si estás embarazada o das de lactar**: consulta con tu obstetra, porque el matcha también aporta cafeína natural y en este producto su cantidad no está declarada.",
+      "**Si ya usas suplementos**: evita sumar varios productos con extracto de té verde sin supervisión profesional."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "No es un tratamiento", "text": "Matcha Pep-T es un alimento en polvo para preparar una bebida, no un suplemento antioxidante ni un medicamento. No previene ni trata enfermedades. Si tienes una condición de salud, consulta a tu médico antes de incorporar cualquier producto con té verde." },
+    { "type": "h2", "text": "Qué esperar realmente del matcha en Matcha Pep-T" },
+    { "type": "p", "text": "Con la información disponible, lo honesto es esto: el producto contiene matcha, y el matcha contiene catequinas de forma natural. No se puede afirmar cuánto EGCG hay en un sobre ni atribuirle los efectos de los estudios, que suelen trabajar con cantidades definidas de té o de extractos." },
+    { "type": "p", "text": "Lo que sí aporta el matcha a la fórmula es el sabor vegetal característico y el color, junto con sus componentes naturales. Si te interesa el ingrediente en sí, cómo se cultiva, cómo sabe y qué papel cumple en la mezcla, lo explicamos en [el té matcha de Matcha Pep-T](/ingredientes-matcha-pep-t/te-matcha/). El otro compuesto famoso del matcha tiene su propio análisis en [matcha y L-teanina](/ciencia-matcha-pep-t/l-teanina/)." },
+    { "type": "p", "text": "Si para ti las catequinas son la prioridad, un matcha puro de buena calidad preparado en casa te da control sobre la cantidad de polvo. Si buscas una bebida práctica con colágeno, fibra y cromo, con el matcha como base de sabor, revisa la [lista completa de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/) y la [página para comprar Matcha Pep-T](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿El agua muy caliente afecta a las catequinas?", "a": "Las catequinas pueden transformarse parcialmente con temperaturas muy altas y tiempos largos, y el agua hirviendo además acentúa el amargor del matcha. Para Matcha Pep-T se indica agua fría o caliente sin hervir, 180 ml por sobre." },
+    { "q": "¿Agregar leche reduce los antioxidantes?", "a": "Algunos estudios sugieren que las proteínas de la leche podrían unirse a las catequinas y reducir su absorción, pero la evidencia es contradictoria. No hay datos específicos para Matcha Pep-T." },
+    { "q": "¿Cuántas catequinas tiene una taza de matcha?", "a": "Depende del grado, la cosecha y los gramos de polvo; los análisis publicados muestran rangos muy amplios. Desconfía de cifras exactas sin fuente, y recuerda que en Matcha Pep-T la etiqueta no declara ni la cantidad de matcha ni la de EGCG." },
+    { "q": "¿El EGCG ayuda a quemar grasa?", "a": "Algunos estudios con extractos de té verde combinados con cafeína han mostrado efectos pequeños sobre el gasto energético, sin resultados consistentes en pérdida de peso. Matcha Pep-T no se presenta como quemador de grasa y no conviene usarlo con esa expectativa." }
+  ],
+  "sources": [
+    { "label": "EFSA – Scientific opinion on the safety of green tea catechins (2018)", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5239" },
+    { "label": "NCCIH – Green Tea", "url": "https://www.nccih.nih.gov/health/green-tea" },
+    { "label": "PubMed – estudios sobre catequinas y EGCG del matcha", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=matcha+catechins+EGCG" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/te-matcha/",
+    "/ciencia-matcha-pep-t/l-teanina/",
+    "/ciencia-matcha-pep-t/vs-te-verde/",
+    "/opiniones-matcha-pep-t/interaccion-con-medicamentos/"
+  ]
+}

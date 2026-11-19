@@ -1,0 +1,78 @@
+{
+  "slug": "vs-batidos-sustitutos",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/vs-batidos-sustitutos/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs batidos sustitutos de comida",
+  "title": "Matcha Pep-T vs batidos sustitutos de comida: usos distintos",
+  "seoTitle": "Matcha Pep-T vs batidos sustitutos de comida: diferencias",
+  "metaDescription": "Matcha Pep-T vs batidos sustitutos de comida: uno aporta 46 kcal y el otro más de 200. Descubre por qué no se reemplazan entre sí y cuándo usar cada uno.",
+  "excerpt": "Un batido sustituto está diseñado para ocupar el lugar de una comida; Matcha Pep-T es una bebida ligera de 46 kcal. Te explicamos la diferencia con números y un día de ejemplo en Lima.",
+  "quickAnswer": "Matcha Pep-T vs batidos sustitutos de comida: no cumplen la misma función. Un batido sustituto aporta normalmente más de 200 kcal, bastante proteína y un perfil amplio de vitaminas para reemplazar una comida. Matcha Pep-T aporta 46 kcal, 4.7 g de proteína y 4.9 g de fibra: es una bebida para acompañar o anticipar comidas, no para saltárselas.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Early morning kitchen counter in a Lima apartment with a shaker bottle filled with a beige protein shake on one side and a tall glass of iced pale green matcha latte on the other, a plate with whole grain bread, avocado and a boiled egg in the background, grey overcast light through the window, realistic lifestyle photo, no text, no logos, no packaging, no people",
+    "alt": "Shaker con batido beige y vaso de matcha latte frío junto a un desayuno de pan con palta y huevo"
+  },
+  "blocks": [
+    { "type": "p", "text": "Son las 6:40 a. m., la combi pasa en diez minutos y no hay tiempo para sentarse a desayunar. En ese escenario, tan común para quien vive en Lima Norte o en Ate y trabaja en Miraflores, aparecen dos tentaciones: agitar un batido sustituto en el shaker o preparar algo rápido como un Matcha Pep-T y salir corriendo." },
+    { "type": "p", "text": "Las dos opciones se ven parecidas, polvo más líquido en un vaso, pero nutricionalmente están en ligas diferentes. Elegir mal no es grave un día, pero repetido todas las mañanas sí cambia cómo llegas al almuerzo." },
+    { "type": "h2", "text": "Qué es exactamente un batido sustituto de comida" },
+    { "type": "p", "text": "Un sustituto de comida es un producto formulado para ocupar el lugar de una comida completa. Por eso combina proteína, carbohidratos y grasas en proporciones pensadas, y suele añadir un abanico amplio de vitaminas y minerales. Una porción preparada aporta por lo general más de 200 kcal." },
+    { "type": "p", "text": "En algunos mercados existen reglas concretas. En la Unión Europea, por ejemplo, para que un producto se presente como sustituto de una comida dentro de una dieta de control de peso debe aportar entre 200 y 250 kcal por porción y cumplir mínimos de proteína y micronutrientes. Esa definición ayuda a entender la escala: un sustituto es una comida en formato líquido." },
+    { "type": "h2", "text": "Matcha Pep-T vs batidos sustitutos de comida: los números" },
+    { "type": "table", "caption": "Valores de Matcha Pep-T según etiqueta; los del batido sustituto son rangos habituales que varían por marca", "headers": ["Aspecto", "Batido sustituto de comida", "Matcha Pep-T"], "rows": [
+      ["Energía por porción", "Más de 200 kcal (a menudo 200–250)", "46 kcal"],
+      ["Proteína", "Generalmente entre 15 y 25 g", "4.7 g"],
+      ["Fibra", "Variable según fórmula", "4.9 g (18 % VD)"],
+      ["Vitaminas y minerales", "Perfil amplio añadido", "Cromo 14.9 µg (45 % VD); no declara otros"],
+      ["Azúcares añadidos", "Variable", "0.9 g"],
+      ["Función", "Reemplazar una comida", "Acompañar o anticipar comidas; colación ligera"],
+      ["Ingrediente distintivo", "Mezcla de proteínas (suero, soya u otras)", "Colágeno Nextida GC, matcha y chía"],
+      ["Preparación", "Leche o agua en shaker, porción mayor", "1 sobre de 15 g en 180 ml de agua"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "La porción oficial de Matcha Pep-T", "text": "1 sobre de 15 g disuelto en 180 ml de agua aporta 46 kcal (2 % del valor diario), 4.7 g de proteína, 7.8 g de carbohidratos, 4.9 g de fibra, 0.6 g de grasa, 28 mg de sodio y 14.9 µg de cromo. Con esa energía, no puede ni pretende reemplazar una comida." },
+    { "type": "h2", "text": "El error más frecuente: usarlo como desayuno" },
+    { "type": "p", "text": "Tomar solo un Matcha Pep-T en lugar del desayuno parece una forma fácil de «comer menos», pero 46 kcal no sostienen una mañana de trabajo o de clases. Lo más probable es que llegues a las 11 con hambre real y termines comprando lo primero que encuentres. Lo desarrollamos en el artículo sobre si [Matcha Pep-T reemplaza una comida](/que-es-matcha-pep-t/es-sustituto-de-comida/)." },
+    { "type": "p", "text": "El batido sustituto, en cambio, sí está pensado para esa mañana sin tiempo. No es igual que una comida de verdad con alimentos frescos, pero cubre energía y proteína de forma razonable cuando no hay otra opción." },
+    { "type": "cta", "text": "Si lo que buscas es una bebida ligera para la media tarde o antes de comer, mira el precio y la presentación de 14 sobres." },
+    { "type": "h2", "text": "Cuándo tiene sentido cada uno" },
+    { "type": "h3", "text": "Batido sustituto" },
+    { "type": "ul", "items": [
+      "Mañanas puntuales en las que, de verdad, no hay forma de desayunar.",
+      "Planes de alimentación supervisados por un nutricionista que lo indique para una comida concreta.",
+      "Viajes largos o turnos en los que no hay acceso a comida decente."
+    ] },
+    { "type": "h3", "text": "Matcha Pep-T" },
+    { "type": "ul", "items": [
+      "Unos 30 minutos antes del almuerzo o la cena, siguiendo la lógica de los estudios del ingrediente Nextida GC.",
+      "A media tarde, cuando aparece el antojo de algo dulce y falta mucho para la cena.",
+      "Como reemplazo de una bebida azucarada o de un postre de la tiendita de la esquina, no de un plato de comida."
+    ] },
+    { "type": "p", "text": "La lógica de Matcha Pep-T es la saciedad entre comidas: fibra y proteína en poco volumen calórico. Si quieres profundizar en ese uso, revisa nuestra guía sobre [saciedad y control del apetito](/que-es-matcha-pep-t/saciedad-control-apetito/)." },
+    { "type": "h2", "text": "Un día de ejemplo en Lima con cada estrategia" },
+    { "type": "p", "text": "Veamos cómo se ordena una jornada laboral típica usando cada producto en su lugar, sin reemplazos forzados:" },
+    { "type": "ol", "items": [
+      "**Desayuno (7:00 a. m.):** pan integral con palta y huevo, o avena con fruta. Si ese día es imposible, ahí sí cabe un batido sustituto.",
+      "**Media mañana:** una fruta de estación del mercado, como mandarina o granadilla.",
+      "**12:30 p. m.:** Matcha Pep-T preparado con el agua del dispensador de la oficina, unos 30 minutos antes de salir a almorzar.",
+      "**Almuerzo:** el menú de siempre, intentando que la mitad del plato sean verduras y sin repetir el arroz.",
+      "**Cena:** algo ligero en casa; si el tráfico te retrasa y aprieta el hambre a las 5 p. m., ese es otro buen momento para el sobre del día."
+    ] },
+    { "type": "p", "text": "Fíjate que en ningún caso se usan los dos productos para la misma función. Recuerda además que la referencia de la etiqueta es 1 sobre de Matcha Pep-T al día." },
+    { "type": "callout", "variant": "aviso", "title": "Dietas con sustitutos: mejor con supervisión", "text": "Reemplazar varias comidas al día con batidos, o combinarlos con otros productos para bajar de peso, debería hacerse con la guía de un profesional de salud. Esto es aún más importante si tienes diabetes, estás embarazada o tomas medicación." },
+    { "type": "p", "text": "Para ver cómo encaja Matcha Pep-T en el panorama científico y en el resto de comparativas, visita la guía de [Matcha Pep-T y GLP-1](/ciencia-matcha-pep-t/). Si ya lo tienes claro, en [comprar Matcha Pep-T](/comprar-matcha-pep-t/) encontrarás el doypack de 14 sobres a S/ 158.00, es decir, S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo convertir Matcha Pep-T en una comida añadiéndole leche y avena?", "a": "Puedes hacer un desayuno más completo con él, por ejemplo con avena remojada o una bebida vegetal, y la energía subirá. Aun así, revisa que ese desayuno tenga suficiente proteína y otros alimentos; el sobre solo aporta 4.7 g de proteína." },
+    { "q": "¿Un batido sustituto hace bajar de peso más rápido que Matcha Pep-T?", "a": "Ninguno de los dos hace bajar de peso por sí mismo. El resultado depende del balance total de tu alimentación, la actividad física y el descanso. Desconfía de cualquier producto que prometa kilos en un plazo determinado." },
+    { "q": "¿Puedo tomar un batido sustituto y Matcha Pep-T el mismo día?", "a": "Sí, siempre que cada uno cumpla su papel: el batido en lugar de una comida puntual y Matcha Pep-T como bebida entre comidas. Si estás en un plan para bajar de peso, coméntalo con tu nutricionista." },
+    { "q": "¿Matcha Pep-T sirve para personas que no tienen tiempo de cocinar?", "a": "Ayuda en los momentos entre comidas, pero no resuelve la falta de comidas. Para esos días conviene tener a mano opciones simples y completas: huevos sancochados, fruta, yogur natural o menestras ya cocidas." }
+  ],
+  "sources": [
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "NIH Office of Dietary Supplements – Dietary Supplements for Weight Loss", "url": "https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional/" }
+  ],
+  "related": ["/que-es-matcha-pep-t/es-sustituto-de-comida/", "/ingredientes-matcha-pep-t/calorias/", "/que-es-matcha-pep-t/saciedad-control-apetito/", "/ciencia-matcha-pep-t/vs-colageno-en-polvo/"]
+}

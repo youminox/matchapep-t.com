@@ -1,0 +1,884 @@
+[
+ {
+  "slug": "que-es-matcha-pep-t",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": true,
+  "primaryKeyword": "qué es Matcha Pep-T y para qué sirve",
+  "cover": "Definición completa (mezcla instantánea de matcha latte con colágeno Nextida GC, fibra, chía, cromo), para qué sirve y beneficios declarados vs. lo que no promete, para quién es, qué esperar. Hub que enlaza a los 16 artículos A.",
+  "avoid": "No profundizar precio (B), recetas (D) ni estudios (F).",
+  "path": "/que-es-matcha-pep-t/"
+ },
+ {
+  "slug": "precio-matcha-pep-t-peru",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": true,
+  "primaryKeyword": "Matcha Pep-T precio Perú",
+  "cover": "Precio oficial S/ 158.00, contenido (14 sobres), S/ 11.29 por sobre, puntos, qué incluye, cómo comprar paso a paso en la tienda oficial, envío Lima/provincias en términos generales, garantía de originalidad. Hub de los 10 artículos B.",
+  "avoid": "No detallar ingredientes ni recetas.",
+  "path": "/precio-matcha-pep-t-peru/"
+ },
+ {
+  "slug": "ingredientes-matcha-pep-t",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": true,
+  "primaryKeyword": "Matcha Pep-T ingredientes",
+  "cover": "Lista completa de la etiqueta en orden, función de cada ingrediente, tabla nutricional resumida, lo que no está declarado (cafeína, dosis de Nextida). Hub de los 20 artículos C.",
+  "avoid": "No profundizar estudios de GLP-1 (F).",
+  "path": "/ingredientes-matcha-pep-t/"
+ },
+ {
+  "slug": "como-preparar-matcha-pep-t",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": true,
+  "primaryKeyword": "cómo preparar Matcha Pep-T",
+  "cover": "Receta oficial 1 sobre + 180 ml, frío vs caliente, utensilios, horario sugerido, variantes con leche vegetal, resumen de recetas. HowTo. Hub de los 18 artículos D.",
+  "avoid": "No repetir en detalle cada receta, enlazar.",
+  "path": "/como-preparar-matcha-pep-t/"
+ },
+ {
+  "slug": "opiniones-matcha-pep-t",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": true,
+  "primaryKeyword": "Matcha Pep-T opiniones",
+  "cover": "Cómo evaluar opiniones: testimonio verificable vs afirmación comercial; qué dice FuXion (marcado como comercial), qué dice la etiqueta, qué preguntan los usuarios; FAQ amplia de seguridad. Formulario para que clientes reales dejen su opinión. NO inventar testimonios. Hub de los 14 artículos E.",
+  "avoid": "Sin testimonios inventados ni ratings falsos.",
+  "path": "/opiniones-matcha-pep-t/"
+ },
+ {
+  "slug": "ciencia-matcha-pep-t",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": true,
+  "primaryKeyword": "Matcha Pep-T GLP-1",
+  "cover": "Qué es GLP-1, qué hace Nextida GC según estudios del fabricante (dosis 5-10 g, ingrediente aislado), qué significa para Matcha Pep-T con honestidad, resumen de comparativas. Hub de los 14 artículos F.",
+  "avoid": "No prometer pérdida de peso ni comparar con fármacos como equivalentes.",
+  "path": "/ciencia-matcha-pep-t/"
+ },
+ {
+  "slug": "para-bajar-de-peso",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T para bajar de peso",
+  "cover": "Qué puede aportar (46 kcal, 4.9 g fibra, 4.7 g proteína, saciedad) dentro de un déficit calórico y hábitos; qué NO hace (no quema grasa sola). Expectativas realistas.",
+  "avoid": "Mecanismo GLP-1 detallado -> F/que-es-glp-1",
+  "path": "/que-es-matcha-pep-t/para-bajar-de-peso/"
+ },
+ {
+  "slug": "saciedad-control-apetito",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T saciedad",
+  "cover": "Cómo fibra + proteína + péptidos ayudan a sentirse satisfecho entre comidas; momento de toma antes de comidas; ejemplos de día típico en Lima.",
+  "avoid": "Evidencia científica de hormonas -> F/hormonas-de-la-saciedad",
+  "path": "/que-es-matcha-pep-t/saciedad-control-apetito/"
+ },
+ {
+  "slug": "para-mamas-ocupadas",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T para mamás",
+  "cover": "Uso práctico para mamás con poco tiempo: preparación en 1 minuto, media mañana, reemplazar snack dulce; advertencia embarazo/lactancia enlazando a E.",
+  "avoid": "Embarazo en detalle -> E/embarazo-y-lactancia",
+  "path": "/que-es-matcha-pep-t/para-mamas-ocupadas/"
+ },
+ {
+  "slug": "ansiedad-por-dulce-en-la-tarde",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T antojos de dulce",
+  "cover": "El antojo de las 4-5 pm; sabor latte con estevia como alternativa a galletas/postres; estrategia de uso.",
+  "avoid": "Azúcar del producto -> C/tiene-azucar",
+  "path": "/que-es-matcha-pep-t/ansiedad-por-dulce-en-la-tarde/"
+ },
+ {
+  "slug": "en-la-menopausia",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T menopausia",
+  "cover": "Cambios metabólicos y de apetito en la menopausia; rol de proteína, fibra y colágeno; consultar médico; sin promesas hormonales.",
+  "avoid": "",
+  "path": "/que-es-matcha-pep-t/en-la-menopausia/"
+ },
+ {
+  "slug": "para-hombres",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T para hombres",
+  "cover": "Uso en hombres: control de barriga/porciones, alternativa al café, combinar con entrenamiento; sin promesas de testosterona.",
+  "avoid": "",
+  "path": "/que-es-matcha-pep-t/para-hombres/"
+ },
+ {
+  "slug": "para-personas-activas",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T deportistas",
+  "cover": "Personas que entrenan/caminan/corren: aporte de proteína modesto (4.7 g), no reemplaza proteína post-entreno; cuándo tomarlo.",
+  "avoid": "Timing entrenamiento -> D/antes-o-despues-de-entrenar",
+  "path": "/que-es-matcha-pep-t/para-personas-activas/"
+ },
+ {
+  "slug": "en-la-oficina-y-teletrabajo",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T en la oficina",
+  "cover": "Llevar sobres al trabajo, preparación con agua del dispensador, evitar picoteo, reuniones largas.",
+  "avoid": "",
+  "path": "/que-es-matcha-pep-t/en-la-oficina-y-teletrabajo/"
+ },
+ {
+  "slug": "y-la-glucosa",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T glucosa",
+  "cover": "Qué dicen los estudios del ingrediente sobre picos de glucosa post comida (fabricante), cromo 45% VD, isomaltulosa de liberación lenta; no reemplaza tratamiento; diabéticos consultar.",
+  "avoid": "Diabetes y seguridad -> E/diabetes",
+  "path": "/que-es-matcha-pep-t/y-la-glucosa/"
+ },
+ {
+  "slug": "colageno-y-piel",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T colágeno piel",
+  "cover": "El colágeno hidrolizado del producto y la piel: qué se sabe del colágeno en general, cantidad modesta; no es un producto de belleza específico.",
+  "avoid": "Ingrediente técnico -> C/colageno-hidrolizado",
+  "path": "/que-es-matcha-pep-t/colageno-y-piel/"
+ },
+ {
+  "slug": "fibra-y-digestion",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T digestión",
+  "cover": "4.9 g de fibra (18% VD) y tránsito intestinal, tomar agua, posibles gases al inicio.",
+  "avoid": "Fibra de maíz técnica -> C/fibra-de-maiz",
+  "path": "/que-es-matcha-pep-t/fibra-y-digestion/"
+ },
+ {
+  "slug": "quien-fabrica-matcha-pep-t",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "quién fabrica Matcha Pep-T",
+  "cover": "FuXion (empresa peruana de bebidas funcionales, presencia internacional), el rol del distribuidor independiente, Rousselot como proveedor de Nextida. Incluir 1 enlace a https://fuxion.site/ como catálogo completo FuXion.",
+  "avoid": "",
+  "path": "/que-es-matcha-pep-t/quien-fabrica-matcha-pep-t/"
+ },
+ {
+  "slug": "es-sustituto-de-comida",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T reemplaza comida",
+  "cover": "No es sustituto de comida (46 kcal); cómo integrarlo junto a comidas reales; riesgos de saltarse comidas.",
+  "avoid": "",
+  "path": "/que-es-matcha-pep-t/es-sustituto-de-comida/"
+ },
+ {
+  "slug": "para-estudiantes-y-concentracion",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T para estudiar",
+  "cover": "Época de exámenes, universidad, preuniversitario: matcha como alternativa al café/energizantes, rutina de estudio, sueño. Ángulo estudio (no oficina).",
+  "avoid": "Ciencia L-teanina -> F/l-teanina",
+  "path": "/que-es-matcha-pep-t/para-estudiantes-y-concentracion/"
+ },
+ {
+  "slug": "despues-de-los-40",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T después de los 40",
+  "cover": "Metabolismo después de los 40, pérdida muscular, apetito; cómo encaja; actividad física.",
+  "avoid": "Menopausia -> A/en-la-menopausia",
+  "path": "/que-es-matcha-pep-t/despues-de-los-40/"
+ },
+ {
+  "slug": "novedades-y-lanzamiento",
+  "pillar": "que-es-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T nuevo FuXion",
+  "cover": "Qué trae de nuevo frente a otros productos: primer matcha latte de FuXion con Nextida GC; tendencia GLP-1 en 2025-2026; por qué llama la atención.",
+  "avoid": "",
+  "path": "/que-es-matcha-pep-t/novedades-y-lanzamiento/"
+ },
+ {
+  "slug": "cuanto-cuesta-un-sobre",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T precio por sobre",
+  "cover": "S/ 158 / 14 = S/ 11.29 por sobre; comparación con un snack o bebida típica; costo por gramo de proteína y fibra.",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/"
+ },
+ {
+  "slug": "donde-comprar-original-en-lima",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "dónde comprar Matcha Pep-T en Lima",
+  "cover": "Canales oficiales: tienda oficial online del distribuidor; por qué evitar revendedores; cómo es la compra; entrega en Lima.",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/donde-comprar-original-en-lima/"
+ },
+ {
+  "slug": "envio-a-provincias",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T envío provincias",
+  "cover": "Comprar desde Arequipa, Trujillo, Piura, Cusco, Chiclayo, etc. vía tienda oficial; tiempos y costos según la tienda (no inventar cifras exactas, indicar que se ven al pagar).",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/envio-a-provincias/"
+ },
+ {
+  "slug": "original-vs-falsificado",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T original",
+  "cover": "Señales de producto original: sobre sellado, lote y vencimiento, registro, texto de la etiqueta (ingredientes exactos), precio sospechosamente bajo.",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/original-vs-falsificado/"
+ },
+ {
+  "slug": "precio-vs-matcha-latte-de-cafeteria",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs matcha latte cafetería precio",
+  "cover": "Un matcha latte en cafetería de Lima cuesta aprox. S/ 14-20 (indicar rango aproximado) vs S/ 11.29 por sobre; diferencias nutricionales (azúcar, calorías).",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/precio-vs-matcha-latte-de-cafeteria/"
+ },
+ {
+  "slug": "presupuesto-mensual",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T cuánto dura y cuánto gastar al mes",
+  "cover": "Escenarios: 1 sobre diario = ~2 doypacks/mes (S/ 316); 5 días a la semana; cálculo por semana.",
+  "avoid": "Duración del doypack -> E/cuanto-dura-un-doypack",
+  "path": "/precio-matcha-pep-t-peru/presupuesto-mensual/"
+ },
+ {
+  "slug": "riesgos-de-comprar-en-marketplaces",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T Mercado Libre",
+  "cover": "Riesgos de comprar en marketplaces/redes: vencidos, mal almacenados, falsificados, sin garantía; preferir tienda oficial.",
+  "avoid": "Señales de originalidad -> B/original-vs-falsificado",
+  "path": "/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/"
+ },
+ {
+  "slug": "formas-de-pago",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "comprar Matcha Pep-T con tarjeta o Yape",
+  "cover": "Medios de pago habituales en la tienda oficial FuXion (indicar que se confirman al pagar), paso a paso del checkout.",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/formas-de-pago/"
+ },
+ {
+  "slug": "precio-socio-vs-cliente",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T precio socio",
+  "cover": "Diferencia entre comprar como cliente y registrarse como afiliado/socio FuXion (precio preferente, puntos 24); sin promesas de ingresos.",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/precio-socio-vs-cliente/"
+ },
+ {
+  "slug": "ofertas-y-promociones",
+  "pillar": "precio-matcha-pep-t-peru",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T oferta",
+  "cover": "Cómo funcionan las promociones de FuXion, cuándo suelen aparecer, desconfiar de 'ofertas' demasiado bajas; el precio de referencia S/ 158.",
+  "avoid": "",
+  "path": "/precio-matcha-pep-t-peru/ofertas-y-promociones/"
+ },
+ {
+  "slug": "nextida-gc-que-es",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Nextida GC qué es",
+  "cover": "Qué es Nextida GC (Rousselot), péptidos de colágeno específicos, para qué fue diseñado (glucose control), por qué está en Matcha Pep-T.",
+  "avoid": "Estudios detallados -> C/nextida-gc-estudios",
+  "path": "/ingredientes-matcha-pep-t/nextida-gc-que-es/"
+ },
+ {
+  "slug": "nextida-gc-estudios",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Nextida GC estudios",
+  "cover": "Resumen de estudios del fabricante: preclínico en ratones, pilotos en humanos, dosis 5 y 10 g, 30 min antes de comer, GLP-1/GIP, pico de glucosa; limitaciones y que la dosis por sobre no está declarada.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/nextida-gc-estudios/"
+ },
+ {
+  "slug": "colageno-hidrolizado",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T colágeno hidrolizado",
+  "cover": "Qué es el colágeno hidrolizado, origen animal, digestibilidad, rol en la fórmula (primer ingrediente), proteína total 4.7 g.",
+  "avoid": "Piel -> A/colageno-y-piel",
+  "path": "/ingredientes-matcha-pep-t/colageno-hidrolizado/"
+ },
+ {
+  "slug": "te-matcha",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "té matcha en Matcha Pep-T",
+  "cover": "Qué es el matcha (té verde en polvo de hoja entera, sombreado), qué aporta, sabor; cantidad no declarada.",
+  "avoid": "Catequinas -> C/catequinas-egcg",
+  "path": "/ingredientes-matcha-pep-t/te-matcha/"
+ },
+ {
+  "slug": "chia",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "chía en Matcha Pep-T",
+  "cover": "Chía: fibra, omega-3 vegetal, en mezcla con el matcha; aporte modesto.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/chia/"
+ },
+ {
+  "slug": "fibra-de-maiz",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "fibra de maíz soluble",
+  "cover": "Fibra de maíz (dextrina/fibra soluble) qué es, tolerancia, aporte a los 4.9 g de fibra.",
+  "avoid": "Digestión práctica -> A/fibra-y-digestion",
+  "path": "/ingredientes-matcha-pep-t/fibra-de-maiz/"
+ },
+ {
+  "slug": "crema-de-coco",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "crema de coco en Matcha Pep-T",
+  "cover": "Por qué crema de coco: cremosidad sin lácteos, grasa saturada 0.5 g, sabor.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/crema-de-coco/"
+ },
+ {
+  "slug": "isomaltulosa-palatinose",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "isomaltulosa Palatinose",
+  "cover": "Isomaltulosa de betarraga: carbohidrato de absorción lenta, bajo índice glucémico, cuenta como azúcar en la etiqueta.",
+  "avoid": "Azúcar total -> C/tiene-azucar",
+  "path": "/ingredientes-matcha-pep-t/isomaltulosa-palatinose/"
+ },
+ {
+  "slug": "cromo",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T cromo",
+  "cover": "Cromo 14.9 µg (45% VD): qué es, rol en metabolismo de carbohidratos, límites seguros.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/cromo/"
+ },
+ {
+  "slug": "estevia",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T estevia",
+  "cover": "Estevia como edulcorante: glicósidos de esteviol, sin calorías, sabor, seguridad.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/estevia/"
+ },
+ {
+  "slug": "aditivos-goma-xantana-silice-lecitina",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "goma xantana dióxido de silicio lecitina",
+  "cover": "Explicación honesta de los aditivos: goma xantana, dióxido de silicio, lecitina de girasol, tapioca, saborizantes naturales; por qué están, seguridad.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/aditivos-goma-xantana-silice-lecitina/"
+ },
+ {
+  "slug": "tabla-nutricional",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T tabla nutricional",
+  "cover": "La tabla completa por 100 ml y por porción de 180 ml con %VD y cómo leerla.",
+  "avoid": "Calorías -> C/calorias",
+  "path": "/ingredientes-matcha-pep-t/tabla-nutricional/"
+ },
+ {
+  "slug": "calorias",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T calorías",
+  "cover": "46 kcal por porción, 26 kcal/100 ml; comparación con otras bebidas; con leche agregada cuánto sube.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/calorias/"
+ },
+ {
+  "slug": "tiene-cafeina",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T tiene cafeína",
+  "cover": "El matcha contiene cafeína de forma natural, pero la cantidad no está declarada; orientación para sensibles, embarazadas y de noche.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/tiene-cafeina/"
+ },
+ {
+  "slug": "tiene-azucar",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T tiene azúcar",
+  "cover": "Azúcares totales 2.0 g y añadidos 0.9 g por porción (de la isomaltulosa); endulzado principalmente con estevia; aclarar el mito de 'cero azúcar'.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/tiene-azucar/"
+ },
+ {
+  "slug": "es-keto-low-carb",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T keto",
+  "cover": "7.8 g carbohidratos totales, 4.9 g fibra -> ~2.9 g netos; encaje en low carb/keto con matices.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/es-keto-low-carb/"
+ },
+ {
+  "slug": "gluten-lactosa-alergenos",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T gluten lactosa",
+  "cover": "Revisión de ingredientes frente a alérgenos comunes: no lista lácteos ni trigo en ingredientes, pero revisar advertencias del envase; coco como alérgeno potencial.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/"
+ },
+ {
+  "slug": "es-vegano",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vegano",
+  "cover": "No es vegano: colágeno de origen animal; alternativas de uso para vegetarianos; cómo leer la etiqueta.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/es-vegano/"
+ },
+ {
+  "slug": "cuanta-proteina-aporta",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T proteína",
+  "cover": "4.7 g de proteína por porción (9% VD), de colágeno; diferencia con proteína completa; cómo complementar.",
+  "avoid": "",
+  "path": "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/"
+ },
+ {
+  "slug": "catequinas-egcg",
+  "pillar": "ingredientes-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "matcha catequinas EGCG",
+  "cover": "Antioxidantes del matcha (EGCG) en general, qué dice la ciencia, que la dosis en el producto no está declarada.",
+  "avoid": "L-teanina -> F/l-teanina",
+  "path": "/ingredientes-matcha-pep-t/catequinas-egcg/"
+ },
+ {
+  "slug": "receta-clasica-180-ml",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "receta Matcha Pep-T",
+  "cover": "Receta base paso a paso con imágenes: 1 sobre + 180 ml, vaso o shaker, resultado; trucos de textura. Formato HowTo.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/receta-clasica-180-ml/"
+ },
+ {
+  "slug": "frio-con-hielo",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T frío",
+  "cover": "Iced matcha latte con hielo, en verano limeño, en botella para llevar.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/frio-con-hielo/"
+ },
+ {
+  "slug": "caliente",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T caliente",
+  "cover": "Versión caliente para invierno limeño: temperatura sin hervir (~70-80 °C), cómo evitar grumos.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/caliente/"
+ },
+ {
+  "slug": "latte-con-leche-de-almendra",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T con leche de almendra",
+  "cover": "Receta con bebida de almendra, calorías extra, sabor.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/"
+ },
+ {
+  "slug": "latte-con-avena",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T con leche de avena",
+  "cover": "Receta con bebida de avena, cremosidad, carbohidratos extra.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/latte-con-avena/"
+ },
+ {
+  "slug": "frappe",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "frappé de Matcha Pep-T",
+  "cover": "Frappé en licuadora con hielo, opcional plátano congelado.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/frappe/"
+ },
+ {
+  "slug": "smoothie-con-platano",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "smoothie de Matcha Pep-T",
+  "cover": "Smoothie con plátano/espinaca/fruta peruana (aguaymanto, mango); calorías.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/smoothie-con-platano/"
+ },
+ {
+  "slug": "overnight-oats",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "overnight oats con matcha",
+  "cover": "Avena remojada en refrigerador con 1 sobre; desayuno para llevar.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/overnight-oats/"
+ },
+ {
+  "slug": "pudin-de-chia",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "pudín de chía con matcha",
+  "cover": "Pudín de chía con Matcha Pep-T, proporciones, toppings.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/pudin-de-chia/"
+ },
+ {
+  "slug": "paletas-heladas",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "paletas heladas de matcha",
+  "cover": "Paletas/helado casero con Matcha Pep-T, ideal verano.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/paletas-heladas/"
+ },
+ {
+  "slug": "en-shaker-sin-grumos",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T sin grumos",
+  "cover": "Técnica con shaker, orden de agua primero, temperatura, batidor eléctrico.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/en-shaker-sin-grumos/"
+ },
+ {
+  "slug": "como-hacer-espuma",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "espuma matcha latte casera",
+  "cover": "Espuma tipo barista con espumador de mano o prensa francesa.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/como-hacer-espuma/"
+ },
+ {
+  "slug": "mejor-hora-para-tomarlo",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "a qué hora tomar Matcha Pep-T",
+  "cover": "Horario: 30 min antes de una comida principal (lógica de los estudios), media mañana/tarde, evitar de noche por cafeína natural.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/"
+ },
+ {
+  "slug": "cuantos-sobres-al-dia",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "cuántos Matcha Pep-T al día",
+  "cover": "1 sobre al día como referencia de la etiqueta (1 porción); no exceder; por qué más no es mejor.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/"
+ },
+ {
+  "slug": "en-ayunas",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T en ayunas",
+  "cover": "Tomarlo en ayunas: tolerancia gástrica, alternativas.",
+  "avoid": "Ayuno intermitente -> E/rompe-el-ayuno",
+  "path": "/como-preparar-matcha-pep-t/en-ayunas/"
+ },
+ {
+  "slug": "antes-o-despues-de-entrenar",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T antes de entrenar",
+  "cover": "Pre-entreno vs post-entreno, hidratación.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/antes-o-despues-de-entrenar/"
+ },
+ {
+  "slug": "errores-al-prepararlo",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "errores al preparar Matcha Pep-T",
+  "cover": "Agua hirviendo, poca agua (no 18 ml: son 180 ml), mezclar mal, añadir azúcar, tomar varios.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/errores-al-prepararlo/"
+ },
+ {
+  "slug": "como-conservar-los-sobres",
+  "pillar": "como-preparar-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "cómo conservar Matcha Pep-T",
+  "cover": "Lugar fresco y seco, humedad de Lima, cerrar el doypack, vencimiento, no refrigerar polvo.",
+  "avoid": "",
+  "path": "/como-preparar-matcha-pep-t/como-conservar-los-sobres/"
+ },
+ {
+  "slug": "funciona",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T funciona",
+  "cover": "Qué esperar realistamente, en qué plazo, de qué depende; distinguir lo que promete el marketing de lo que respalda la evidencia.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/funciona/"
+ },
+ {
+  "slug": "efectos-secundarios",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T efectos secundarios",
+  "cover": "Posibles molestias: gases por fibra, sensibilidad a cafeína, alergia al coco/colágeno; cuándo suspender.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/efectos-secundarios/"
+ },
+ {
+  "slug": "contraindicaciones",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T contraindicaciones",
+  "cover": "Quiénes deben consultar antes: embarazo, lactancia, niños, enfermedades renales, medicación, alergias.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/contraindicaciones/"
+ },
+ {
+  "slug": "embarazo-y-lactancia",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T embarazo",
+  "cover": "Embarazo y lactancia: cafeína natural no declarada, consultar obstetra; enfoque prudente.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/embarazo-y-lactancia/"
+ },
+ {
+  "slug": "diabetes",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T diabetes",
+  "cover": "Personas con diabetes o prediabetes: lo que se sabe del ingrediente, carbohidratos 7.8 g, nunca reemplazar medicación, monitoreo.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/diabetes/"
+ },
+ {
+  "slug": "hipertension",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T presión alta",
+  "cover": "Sodio 28 mg, cafeína natural; prudencia con hipertensión.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/hipertension/"
+ },
+ {
+  "slug": "ninos-y-adolescentes",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T niños",
+  "cover": "No está pensado para niños; adolescentes con supervisión; cafeína.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/ninos-y-adolescentes/"
+ },
+ {
+  "slug": "registro-sanitario",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T registro sanitario DIGESA",
+  "cover": "Qué es el registro sanitario en Perú, dónde verificarlo en el envase, por qué importa.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/registro-sanitario/"
+ },
+ {
+  "slug": "rompe-el-ayuno",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T rompe el ayuno",
+  "cover": "Ayuno intermitente: 46 kcal y proteína rompen el ayuno estricto; cómo usarlo en la ventana de alimentación.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/rompe-el-ayuno/"
+ },
+ {
+  "slug": "interaccion-con-medicamentos",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T medicamentos",
+  "cover": "Interacciones posibles (antidiabéticos, anticoagulantes por té verde, estimulantes); consultar médico. Mencionar análogos GLP-1.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/interaccion-con-medicamentos/"
+ },
+ {
+  "slug": "cuanto-dura-un-doypack",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "cuánto dura Matcha Pep-T",
+  "cover": "14 sobres = 14 días a 1 diario; vida útil cerrada/abierta según envase.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/cuanto-dura-un-doypack/"
+ },
+ {
+  "slug": "garantia-y-devoluciones",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T devolución",
+  "cover": "Políticas de la tienda oficial, qué hacer si llega dañado, conservar comprobante.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/garantia-y-devoluciones/"
+ },
+ {
+  "slug": "como-dejar-tu-opinion",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "opinar sobre Matcha Pep-T",
+  "cover": "Invitación a clientes reales a dejar su experiencia mediante formulario moderado; cómo verificamos; por qué no publicamos testimonios sin verificar.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/como-dejar-tu-opinion/"
+ },
+ {
+  "slug": "sabor-y-textura",
+  "pillar": "opiniones-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T sabor",
+  "cover": "Descripción objetiva del sabor declarado (matcha latte, crema caramelo, coco, estevia), textura, cómo ajustarlo.",
+  "avoid": "",
+  "path": "/opiniones-matcha-pep-t/sabor-y-textura/"
+ },
+ {
+  "slug": "que-es-glp-1",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "qué es GLP-1",
+  "cover": "Hormona GLP-1 explicada para no médicos: intestino, saciedad, insulina, vaciamiento gástrico.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/que-es-glp-1/"
+ },
+ {
+  "slug": "vs-ozempic",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs Ozempic",
+  "cover": "Diferencias de fondo: semaglutida es un fármaco agonista de GLP-1 con receta; Matcha Pep-T es un alimento con péptidos que estimulan liberación natural en estudios; no son equivalentes ni sustitutos.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-ozempic/"
+ },
+ {
+  "slug": "peptidos-bioactivos",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "péptidos bioactivos qué son",
+  "cover": "Qué son los péptidos bioactivos, cómo se obtienen por hidrólisis, ejemplos y evidencia.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/peptidos-bioactivos/"
+ },
+ {
+  "slug": "hormonas-de-la-saciedad",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "hormonas de la saciedad",
+  "cover": "GLP-1, PYY, CCK, grelina, leptina; cómo influyen proteína y fibra.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/hormonas-de-la-saciedad/"
+ },
+ {
+  "slug": "vs-cafe",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs café",
+  "cover": "Comparativa nutricional y de experiencia vs café pasado/americano; tabla.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-cafe/"
+ },
+ {
+  "slug": "vs-te-verde",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs té verde",
+  "cover": "Té verde en bolsita vs matcha vs Matcha Pep-T; tabla.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-te-verde/"
+ },
+ {
+  "slug": "vs-matcha-puro",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs matcha puro",
+  "cover": "Matcha ceremonial puro vs mezcla funcional; ventajas y desventajas, precio.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-matcha-puro/"
+ },
+ {
+  "slug": "vs-colageno-en-polvo",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs colágeno en polvo",
+  "cover": "Colágeno genérico (10 g típicos) vs Nextida específico; propósito distinto.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-colageno-en-polvo/"
+ },
+ {
+  "slug": "vs-batidos-sustitutos",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs batidos sustitutos de comida",
+  "cover": "Batidos sustitutos (200+ kcal) vs bebida de 46 kcal; uso distinto.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-batidos-sustitutos/"
+ },
+ {
+  "slug": "vs-quemadores-termogenicos",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs quemadores de grasa",
+  "cover": "Termogénicos con altas dosis de estimulantes vs enfoque de saciedad; riesgos de quemadores.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-quemadores-termogenicos/"
+ },
+ {
+  "slug": "l-teanina",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "matcha L-teanina",
+  "cover": "L-teanina natural del matcha y estado de alerta calmada: evidencia; no declarada en etiqueta.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/l-teanina/"
+ },
+ {
+  "slug": "fibra-y-saciedad-evidencia",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "fibra y saciedad estudios",
+  "cover": "Qué dice la evidencia sobre fibra soluble y saciedad/peso.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/"
+ },
+ {
+  "slug": "vs-cafe-con-colageno",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs café con colágeno",
+  "cover": "Café con colágeno genérico vs Matcha Pep-T.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/vs-cafe-con-colageno/"
+ },
+ {
+  "slug": "suplementos-glp-1-en-peru",
+  "pillar": "ciencia-matcha-pep-t",
+  "isPillar": false,
+  "primaryKeyword": "suplementos GLP-1 Perú",
+  "cover": "Panorama de productos 'GLP-1 natural' en Perú (probióticos, fibras, péptidos) sin marcas competidoras específicas; cómo evaluar claims; dónde encaja Matcha Pep-T.",
+  "avoid": "",
+  "path": "/ciencia-matcha-pep-t/suplementos-glp-1-en-peru/"
+ }
+]

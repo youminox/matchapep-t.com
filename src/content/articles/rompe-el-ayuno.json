@@ -1,0 +1,84 @@
+{
+  "slug": "rompe-el-ayuno",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/rompe-el-ayuno/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T rompe el ayuno",
+  "title": "¿Matcha Pep-T rompe el ayuno? Cómo usarlo en el ayuno intermitente",
+  "seoTitle": "¿Matcha Pep-T rompe el ayuno? Respuesta y cómo usarlo",
+  "metaDescription": "Matcha Pep-T rompe el ayuno estricto: aporta 46 kcal y 4.7 g de proteína. Te explicamos por qué y cómo encajarlo en tu ventana de alimentación 16:8.",
+  "excerpt": "Un sobre de Matcha Pep-T tiene calorías, proteína y carbohidratos, así que rompe el ayuno estricto. Te mostramos en qué momento de tu ventana de alimentación conviene tomarlo.",
+  "quickAnswer": "Sí, Matcha Pep-T rompe el ayuno estricto: cada sobre aporta 46 kcal, 4.7 g de proteína y 7.8 g de carbohidratos, suficiente para interrumpir un ayuno de solo agua, café negro o té sin azúcar. Lo recomendable es tomarlo dentro de tu ventana de alimentación, por ejemplo como apertura antes de tu primera comida o a media tarde.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A round analog wall clock showing noon above a minimalist dining table set with a glass of iced green matcha latte and an empty ceramic plate with cutlery, bright midday light in a modern Lima apartment, clean Scandinavian style, realistic photography, no readable text, no logos, no packaging, no people",
+    "alt": "Reloj de pared marcando el mediodía sobre una mesa con un vaso de matcha latte helado y un plato listo para almorzar"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si haces ayuno intermitente, conoces la tentación: son las diez de la mañana, tu ventana abre a mediodía, el tráfico de la Javier Prado te tiene todavía en el carro y piensas que un vasito de matcha «casi no tiene nada»." },
+    { "type": "p", "text": "La respuesta honesta es que sí tiene algo, y ese algo basta para romper un ayuno estricto. Eso no lo vuelve incompatible con tu protocolo: solo cambia el momento en que conviene tomarlo." },
+    { "type": "h2", "text": "¿Matcha Pep-T rompe el ayuno? Sí, y estos son los números" },
+    { "type": "p", "text": "En el ayuno estricto, durante las horas de ayuno solo se aceptan agua, café negro, té o infusiones sin azúcar ni leche: bebidas con aporte calórico prácticamente nulo. Una porción de Matcha Pep-T (1 sobre de 15 g en 180 ml de agua) aporta:" },
+    { "type": "ul", "items": [
+      "**46 kcal**, que no son muchas, pero no son cero.",
+      "**4.7 g de proteína**, procedente principalmente del colágeno hidrolizado. La proteína desencadena la respuesta digestiva y hormonal propia de haber comido.",
+      "**7.8 g de carbohidratos**, de los cuales 4.9 g son fibra y 2.0 g son azúcares (0.9 g añadidos), con isomaltulosa entre sus ingredientes.",
+      "**0.6 g de grasa**, aportada en parte por la crema de coco."
+    ] },
+    { "type": "p", "text": "Cualquiera de estos componentes basta para que tu cuerpo salga del estado de ayuno en sentido estricto. La fibra y la proteína, además, son precisamente las que dan sensación de saciedad: el producto está pensado para que tu cuerpo «note» que algo llegó." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice la etiqueta", "text": "Por porción de 180 ml: 46 kcal, 4.7 g de proteína, 7.8 g de carbohidratos (4.9 g de fibra), 2.0 g de azúcares totales, 0.9 g de azúcares añadidos y 0.6 g de grasa. Si le agregas leche o bebida vegetal, el aporte sube." },
+    { "type": "h2", "text": "Depende del tipo de ayuno que hagas" },
+    { "type": "p", "text": "No todas las personas que dicen «hago ayuno» buscan lo mismo. El impacto de un sobre cambia según tu objetivo:" },
+    { "type": "table", "caption": "Matcha Pep-T según el tipo de ayuno", "headers": ["Tu enfoque", "¿Lo rompe?", "Qué hacer"], "rows": [
+      ["Ayuno estricto (solo agua, café o té sin nada)", "Sí", "Tomarlo solo dentro de la ventana de alimentación"],
+      ["Ayuno antes de un análisis de sangre o procedimiento", "Sí", "No tomarlo; sigue las indicaciones del laboratorio o del médico"],
+      ["Ayuno flexible para reducir calorías y ordenar horarios", "Técnicamente sí, con bajo impacto calórico", "Mejor dentro de la ventana, para no desdibujar tu protocolo"],
+      ["Ayuno de 24 horas o prolongado", "Sí", "Este tipo de ayuno debería contar con supervisión profesional"]
+    ] },
+    { "type": "p", "text": "Circula en redes la idea de que «menos de 50 calorías no rompen el ayuno». No es una regla con respaldo científico sólido, sino una convención popular. Y aun si la aceptaras, Matcha Pep-T queda muy cerca del límite con 46 kcal, y lo supera en cuanto le agregas un chorrito de leche." },
+    { "type": "h2", "text": "Cómo usar Matcha Pep-T en tu ventana de alimentación" },
+    { "type": "p", "text": "La buena noticia es que dentro de la ventana tiene un lugar lógico. Estas son tres formas de encajarlo en un esquema 16:8 típico, con ventana de 12:00 a 20:00:" },
+    { "type": "table", "caption": "Ejemplo de uso en un ayuno 16:8 (ventana de 12:00 a 20:00)", "headers": ["Momento", "Hora de ejemplo", "Por qué funciona"], "rows": [
+      ["Apertura de la ventana", "12:00, unos 30 minutos antes del almuerzo", "Llegas al primer plato con algo en el estómago y comes con más calma"],
+      ["Media tarde", "16:00 o 17:00", "Ocupa el lugar del snack dulce de la oficina y te ayuda a llegar a la cena sin ansiedad"],
+      ["Antes de la última comida", "19:00", "Opción si cenas tarde; evítalo si la cafeína natural del matcha te quita el sueño"]
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que dicen los estudios del ingrediente", "text": "En estudios del fabricante del ingrediente (Rousselot), tomar Nextida GC unos 30 minutos antes de una comida se asoció a un menor pico de glucosa y a mayor liberación de GLP-1. Esos estudios usaron dosis de 5–10 g del ingrediente aislado, no Matcha Pep-T, cuya cantidad de Nextida GC por sobre no está declarada." },
+    { "type": "p", "text": "Para más ideas de horario fuera del contexto del ayuno, revisa [a qué hora tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "cta", "text": "¿Ya tienes clara tu ventana? Consulta el precio del doypack y pide tus 14 sobres en la tienda oficial." },
+    { "type": "h2", "text": "Errores frecuentes al combinarlo con el ayuno" },
+    { "type": "ul", "items": [
+      "**Tomarlo a las 7 a. m. «porque son pocas calorías»** y seguir contando horas de ayuno como si nada hubiera pasado.",
+      "**Usarlo para estirar el ayuno.** No es un sustituto de comida: abrir la ventana solo con un sobre y llegar a la noche sin comer suele terminar en atracón.",
+      "**Agregarle leche, miel o azúcar** y seguir llamándolo «ayuno».",
+      "**Preparar más de un sobre a la vez** para «aguantar más». La etiqueta indica 1 sobre en 180 ml; más no es mejor.",
+      "**Tomarlo con el estómago muy vacío si eres sensible.** Algunas personas sienten molestias con la cafeína natural del matcha sin comida; te contamos cómo tolerarlo mejor en [Matcha Pep-T en ayunas](/como-preparar-matcha-pep-t/en-ayunas/)."
+    ] },
+    { "type": "h2", "text": "Quién debe consultar antes de combinar ayuno y Matcha Pep-T" },
+    { "type": "p", "text": "El ayuno intermitente no es para todos, y sumarle una bebida funcional no cambia eso. Habla con un profesional de salud antes si:" },
+    { "type": "ul", "items": [
+      "Tienes diabetes o tomas medicamentos que bajan la glucosa: los ayunos pueden provocar hipoglucemias y cualquier cambio de horario debe ajustarse con tu médico. Revisa nuestra guía sobre [Matcha Pep-T y diabetes](/opiniones-matcha-pep-t/diabetes/).",
+      "Estás embarazada, das de lactar o tienes antecedentes de trastornos de la conducta alimentaria.",
+      "Tienes gastritis o reflujo y notas molestias con las bebidas que contienen cafeína.",
+      "Eres menor de 18 años."
+    ] },
+    { "type": "p", "text": "Si estás evaluando el producto más allá del ayuno, nuestra página de [opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/) reúne las dudas de seguridad más frecuentes. Y si decides incorporarlo, puedes [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) a S/ 158.00 el doypack, unos S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Y si preparo solo medio sobre durante el ayuno?", "a": "Reduces el aporte a la mitad, pero sigue habiendo proteína, carbohidratos y calorías. Para un ayuno estricto, sigue contando como ingesta. Además, la porción que indica la etiqueta es 1 sobre en 180 ml." },
+    { "q": "¿El café negro o el té verde puro sí se pueden tomar en el ayuno?", "a": "En la mayoría de protocolos de ayuno intermitente, sí: el café negro y el té sin azúcar ni leche tienen un aporte calórico prácticamente nulo. Esa es la diferencia clave con una mezcla funcional como Matcha Pep-T." },
+    { "q": "¿Tomarlo dentro de la ventana me hará bajar de peso más rápido?", "a": "No hay forma honesta de prometer eso. Puede ayudarte a organizar el apetito gracias a su fibra y proteína, pero el resultado depende de tu alimentación total, tu actividad y tu descanso." },
+    { "q": "¿Sirve para abrir la ventana de forma suave?", "a": "Puede ser una apertura amable: es líquido, ligero y aporta fibra y proteína. Úsalo como antesala de una comida real, no como la comida en sí." }
+  ],
+  "sources": [
+    { "label": "National Institute on Aging – Research on intermittent fasting", "url": "https://www.nia.nih.gov/news/research-intermittent-fasting-shows-health-benefits" },
+    { "label": "Johns Hopkins Medicine – Intermittent fasting", "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/en-ayunas/",
+    "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/",
+    "/ingredientes-matcha-pep-t/calorias/",
+    "/que-es-matcha-pep-t/es-sustituto-de-comida/"
+  ]
+}

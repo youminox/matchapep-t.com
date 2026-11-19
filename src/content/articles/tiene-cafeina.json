@@ -1,0 +1,72 @@
+{
+  "slug": "tiene-cafeina",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/tiene-cafeina/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T tiene cafeína",
+  "title": "¿Matcha Pep-T tiene cafeína? Lo que se sabe y lo que no",
+  "seoTitle": "¿Matcha Pep-T tiene cafeína? Respuesta clara y consejos",
+  "metaDescription": "¿Matcha Pep-T tiene cafeína? Sí, la aporta el matcha de forma natural, pero la cantidad no está declarada. Guía para sensibles, embarazo y uso nocturno.",
+  "excerpt": "El matcha es té verde, y el té verde tiene cafeína. Lo que la etiqueta no dice es cuánta. Te explicamos qué implica eso y cómo organizarte si eres sensible, estás embarazada o quieres tomarlo de noche.",
+  "quickAnswer": "Sí, Matcha Pep-T tiene cafeína, porque uno de sus ingredientes es té matcha, que la contiene de forma natural. Sin embargo, la etiqueta no declara la cantidad por sobre, así que no se puede dar una cifra exacta. Si eres sensible a la cafeína, estás embarazada o duermes mal, conviene tomarlo temprano y consultar a tu médico.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic cup of warm green matcha latte on a bedside table next to an analog alarm clock and a folded wool blanket, early morning blue light through sheer curtains in a Lima bedroom, cozy and calm atmosphere, no text, no logos, no packaging, no people",
+    "alt": "Taza de matcha latte caliente sobre una mesa de noche junto a un reloj despertador al amanecer"
+  },
+  "blocks": [
+    { "type": "p", "text": "Hay quienes revisan la cafeína de todo lo que toman: el cafecito de las once en la oficina, el té de la tarde, la gaseosa del almuerzo. A veces por el sueño, a veces por palpitaciones, a veces porque el obstetra pidió moderarla. Si es tu caso, esta pregunta no es un detalle." },
+    { "type": "h2", "text": "¿Matcha Pep-T tiene cafeína? La respuesta corta" },
+    { "type": "p", "text": "**Sí.** Matcha Pep-T contiene té matcha en su fórmula, y el matcha es té verde molido, una planta (*Camellia sinensis*) que produce cafeína de forma natural. No existe un matcha libre de cafeína salvo que haya pasado por un proceso de descafeinado, y la etiqueta no menciona nada de eso." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice y lo que no dice el envase", "text": "El matcha figura dentro del cuarto ingrediente, «Mix de Té Matcha y Chía». La tabla nutricional no incluye la cafeína y la etiqueta no indica cuántos miligramos aporta cada sobre. Tampoco se declaran la L-teanina ni las catequinas." },
+    { "type": "h2", "text": "Por qué no podemos darte una cifra exacta" },
+    { "type": "p", "text": "Sería fácil copiar un número de internet, pero no sería honesto. La cafeína del matcha varía mucho según la variedad de la planta, la edad de las hojas, el tiempo de sombreado y el grado de molienda. Además, en este producto el matcha va mezclado con chía, y no sabemos la proporción de cada uno." },
+    { "type": "p", "text": "Lo que sí podemos deducir es el contexto: el mix de matcha y chía está por detrás del colágeno, la fibra de maíz y la crema de coco en la lista de ingredientes, que se ordena de mayor a menor peso. Eso indica que el matcha no es el componente principal del sobre de 15 g, pero no permite calcular su cafeína." },
+    { "type": "p", "text": "Si alguien te asegura un valor concreto para Matcha Pep-T, pregúntale de dónde lo saca. A la fecha, no figura en el envase. Más contexto sobre el ingrediente en el artículo dedicado al [té matcha en Matcha Pep-T](/ingredientes-matcha-pep-t/te-matcha/)." },
+    { "type": "h2", "text": "Cafeína y L-teanina: por qué el matcha se siente distinto al café" },
+    { "type": "p", "text": "Mucha gente describe la energía del matcha como más «suave» que la del café. Una explicación frecuente es la L-teanina, un aminoácido propio del té que se estudia por su posible efecto relajante en combinación con la cafeína. Es una línea de investigación interesante, pero en este producto su cantidad tampoco está declarada." },
+    { "type": "p", "text": "Por eso conviene no dar por hecho que Matcha Pep-T no te va a quitar el sueño solo porque es té. Si quieres profundizar en esa comparación, revisa [Matcha Pep-T frente al café](/ciencia-matcha-pep-t/vs-cafe/)." },
+    { "type": "cta", "text": "Si la cafeína no es un problema para ti, revisa el precio del doypack y pide tus 14 sobres." },
+    { "type": "h2", "text": "Orientación según tu situación" },
+    { "type": "h3", "text": "Si eres sensible a la cafeína" },
+    { "type": "ul", "items": [
+      "Haz la primera prueba por la mañana y un día sin otras fuentes de cafeína, para observar cómo te sienta.",
+      "No lo sumes al café, al té o a las bebidas energizantes del mismo día si notas nerviosismo, temblor o taquicardia.",
+      "Respeta la porción de la etiqueta: 1 sobre en 180 ml de agua, sin exceder lo recomendado.",
+      "Si tienes arritmias, ansiedad diagnosticada o presión alta, consúltalo antes con tu médico."
+    ] },
+    { "type": "h3", "text": "Si estás embarazada o dando de lactar" },
+    { "type": "p", "text": "La EFSA considera que, durante el embarazo y la lactancia, una ingesta de cafeína de hasta 200 mg al día de todas las fuentes no plantea riesgos para el bebé. Como no sabemos cuánto aporta este sobre, no puedes hacer esa cuenta con precisión." },
+    { "type": "p", "text": "Por esa razón, y porque el producto contiene otros ingredientes funcionales, lo prudente es que lo converses con tu obstetra o médico tratante antes de tomarlo. Lo desarrollamos con más detalle en [Matcha Pep-T en el embarazo y la lactancia](/opiniones-matcha-pep-t/embarazo-y-lactancia/)." },
+    { "type": "h3", "text": "Si piensas tomarlo de noche" },
+    { "type": "p", "text": "La cafeína tiene una vida media de alrededor de cinco horas en adultos sanos, aunque varía mucho entre personas. Si después de una jornada larga y el tráfico de la Javier Prado llegas a casa a las ocho y lo tomas como «cena ligera», puede que parte de esa cafeína siga activa a la hora de dormir." },
+    { "type": "p", "text": "Si duermes bien con un té después de cenar, quizá no notes nada. Si eres de sueño ligero, muévelo a la mañana o a media tarde. En la guía sobre [la mejor hora para tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/) encontrarás horarios según tu rutina." },
+    { "type": "h3", "text": "Niños y adolescentes" },
+    { "type": "p", "text": "Los menores son más sensibles a la cafeína y este producto está formulado para adultos. No lo ofrezcas como bebida para la lonchera escolar sin consultar antes con el pediatra." },
+    { "type": "h2", "text": "Cómo controlar tu cafeína total del día" },
+    { "type": "p", "text": "Para adultos sanos, la EFSA sitúa en hasta 400 mg diarios el consumo habitual que no genera preocupación. Como la cafeína de Matcha Pep-T no está cuantificada, lo práctico es pensar en términos de fuentes:" },
+    { "type": "ol", "items": [
+      "Haz la lista de lo que tomas en un día normal: café, té, gaseosas cola, energizantes, chocolate.",
+      "Si Matcha Pep-T va a reemplazar uno de esos, probablemente tu total no cambie mucho.",
+      "Si se va a sumar a todo lo anterior, observa tu sueño y tu ritmo cardíaco durante la primera semana.",
+      "Ante cualquier duda por medicación o enfermedad, pregunta a tu médico; algunas medicinas interactúan con la cafeína."
+    ] },
+    { "type": "p", "text": "La información de todos los componentes, incluido lo que no está declarado, está reunida en la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Y si decides incorporarlo, puedes [comprar Matcha Pep-T a un distribuidor autorizado](/comprar-matcha-pep-t/) por S/ 158.00 el doypack de 14 sobres." }
+  ],
+  "faqs": [
+    { "q": "¿Existe una versión descafeinada de Matcha Pep-T?", "a": "La etiqueta no menciona ninguna versión descafeinada. La fórmula que se comercializa en Perú incluye té matcha, que aporta cafeína de forma natural." },
+    { "q": "¿Tiene más cafeína que un café?", "a": "No se puede afirmar ni negar, porque la cafeína del sobre no está declarada. Lo que sí se sabe es que el matcha no es el ingrediente principal de la mezcla, que empieza con colágeno y fibra." },
+    { "q": "¿La cafeína puede afectar la absorción del colágeno?", "a": "No hay evidencia sólida de que la cafeína de una bebida interfiera con la digestión de los péptidos de colágeno. El colágeno hidrolizado se digiere como cualquier otra proteína." },
+    { "q": "¿Puedo tomarlo si estoy dejando el café?", "a": "Puede ser una transición más suave, pero no es una bebida sin cafeína. Si tu objetivo es eliminarla por completo, por indicación médica, Matcha Pep-T no es la opción adecuada." }
+  ],
+  "sources": [
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" },
+    { "label": "FDA – Spilling the Beans: How Much Caffeine is Too Much?", "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/te-matcha/",
+    "/ciencia-matcha-pep-t/l-teanina/",
+    "/opiniones-matcha-pep-t/embarazo-y-lactancia/",
+    "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/"
+  ]
+}

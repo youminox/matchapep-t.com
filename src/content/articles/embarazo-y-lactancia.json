@@ -1,0 +1,67 @@
+{
+  "slug": "embarazo-y-lactancia",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/embarazo-y-lactancia/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T embarazo",
+  "title": "Matcha Pep-T en el embarazo y la lactancia: un enfoque prudente",
+  "seoTitle": "Matcha Pep-T embarazo y lactancia: qué saber antes",
+  "metaDescription": "Matcha Pep-T embarazo y lactancia: cafeína natural no declarada, ingrediente sin estudios en gestantes y por qué conviene hablarlo antes con tu obstetra.",
+  "excerpt": "Durante el embarazo y la lactancia, lo que no está declarado en una etiqueta importa tanto como lo que sí. Te explicamos los puntos ciegos de esta bebida y cómo plantearlo en tu control prenatal.",
+  "quickAnswer": "Sobre Matcha Pep-T en el embarazo, lo prudente es no empezar a tomarlo sin consultar a tu obstetra. El matcha aporta cafeína natural en cantidad no declarada y su ingrediente principal, Nextida GC, no se ha estudiado en gestantes. En la lactancia aplica la misma cautela, porque la cafeína pasa a la leche materna.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A cozy reading corner with a knitted baby blanket folded on an armchair, a cup of warm herbal tea and a small potted plant on a side table, soft morning light through linen curtains in a Lima apartment, gentle pastel tones, realistic photography, no text, no logos, no packaging, no people",
+    "alt": "Rincón acogedor con una mantita de bebé tejida sobre un sillón y una taza caliente en una mesita"
+  },
+  "blocks": [
+    { "type": "p", "text": "Al llegar el embarazo, muchas mujeres empiezan a revisar con lupa lo que antes tomaban sin pensar: el café de la mañana, la infusión de la noche, el suplemento que les recomendó una amiga. Es una reacción sana. Y si Matcha Pep-T ya formaba parte de tu rutina, o pensabas incorporarlo para manejar los antojos, es lógico que te preguntes si puedes seguir." },
+    { "type": "p", "text": "La respuesta corta no es «sí» ni «no»: es «todavía no, sin hablarlo antes con tu obstetra». A continuación te explicamos por qué, con datos de la etiqueta y sin alarmismo." },
+    { "type": "h2", "text": "Matcha Pep-T y embarazo: tres datos que faltan" },
+    { "type": "p", "text": "Una decisión segura en la gestación necesita información completa. En este producto hay tres huecos importantes." },
+    { "type": "ol", "items": [
+      "**La cafeína no está declarada.** El matcha es té verde y contiene cafeína de forma natural, pero la etiqueta no dice cuánta aporta cada sobre.",
+      "**La dosis de Nextida GC tampoco.** Sabemos que la proteína total es 4.7 g por porción, pero no qué parte corresponde a los péptidos.",
+      "**No hay estudios en gestantes.** Las investigaciones del fabricante del ingrediente, Rousselot, se hicieron en ratones y en adultos sanos o con prediabetes, con 5–10 g del ingrediente aislado. Las embarazadas no formaron parte de esos ensayos."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que sí declara cada sobre", "text": "Una porción (1 sobre de 15 g en 180 ml de agua) aporta 46 kcal, 7.8 g de carbohidratos, 2.0 g de azúcares (0.9 g añadidos), 4.9 g de fibra, 4.7 g de proteína y 14.9 µg de cromo (45 % VD). Contiene té matcha, crema de coco, colágeno hidrolizado y chía, entre otros ingredientes." },
+    { "type": "h2", "text": "¿Por qué la cafeína importa tanto en la gestación?" },
+    { "type": "p", "text": "Durante el embarazo, el cuerpo elimina la cafeína más despacio, y esta atraviesa la placenta. Por eso organismos como la Autoridad Europea de Seguridad Alimentaria (EFSA) y el Colegio Americano de Obstetras y Ginecólogos (ACOG) aconsejan que las gestantes **limiten la cafeína a unos 200 mg al día**, sumando todas las fuentes." },
+    { "type": "p", "text": "El punto clave es *sumando todas las fuentes*: café pasado, té, mate, gaseosas de cola, chocolate y algunas bebidas energéticas. Si no sabes cuánta aporta tu vaso de matcha, no puedes hacer bien la cuenta del día. Explicamos este vacío con más detalle en [¿Matcha Pep-T tiene cafeína?](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "h2", "text": "Diabetes gestacional: no es una herramienta de control" },
+    { "type": "p", "text": "Como el ingrediente Nextida GC se ha estudiado por su relación con la glucosa, algunas futuras mamás con diabetes gestacional se preguntan si podría ayudarles. La respuesta es que **no debe usarse para manejar la glucosa en el embarazo**." },
+    { "type": "p", "text": "El control de la diabetes gestacional lo definen tu obstetra, endocrinólogo y nutricionista, con dieta, monitoreo y, si hace falta, medicación. Si tienes este diagnóstico, revisa también nuestra página sobre [Matcha Pep-T y la diabetes](/opiniones-matcha-pep-t/diabetes/), y no añadas ningún producto sin su visto bueno." },
+    { "type": "cta", "text": "Si ya hablaste con tu obstetra o pediatra y te dieron el visto bueno, consulta aquí el precio y cómo pedirlo." },
+    { "type": "h2", "text": "Matcha Pep-T durante la lactancia" },
+    { "type": "p", "text": "Tras el parto, el cansancio aprieta y es tentador buscar algo práctico para media mañana. En esta etapa la principal consideración vuelve a ser la cafeína: una parte pasa a la leche materna, y los recién nacidos, sobre todo los prematuros, la eliminan muy lentamente." },
+    { "type": "ul", "items": [
+      "Si tu pediatra lo autoriza, tómalo en un horario fijo y obsérvalo con calma.",
+      "Fíjate si el bebé está más irritable, duerme peor o le cuesta calmarse los días en que lo tomas.",
+      "Cuenta la bebida dentro de tu cafeína diaria total, junto con el café o el té.",
+      "Recuerda que no reemplaza las comidas ni la hidratación que la lactancia exige."
+    ] },
+    { "type": "p", "text": "Si estás en el posparto y lo que buscas es una pausa rápida en días de mucha demanda, en nuestra guía de [Matcha Pep-T para mamás ocupadas](/que-es-matcha-pep-t/para-mamas-ocupadas/) encontrarás ideas prácticas, siempre después de tener la aprobación médica." },
+    { "type": "h2", "text": "Cómo plantearlo en tu control prenatal" },
+    { "type": "p", "text": "Los controles en el centro de salud, en EsSalud o en la clínica suelen ser rápidos y cargados de temas. Llevar la pregunta preparada ayuda a obtener una respuesta concreta." },
+    { "type": "steps", "items": [
+      { "name": "Fotografía la etiqueta", "text": "Toma una foto nítida de la lista de ingredientes y de la tabla nutricional del doypack." },
+      { "name": "Explica tu consumo actual", "text": "Cuéntale a tu obstetra cuántas tazas de café, té o gaseosa tomas al día, para que evalúe la cafeína total." },
+      { "name": "Di para qué lo quieres", "text": "Antojos de dulce, hambre entre comidas, cansancio: cada motivo puede tener una solución distinta." },
+      { "name": "Pregunta por alternativas", "text": "Si te recomienda evitarlo por ahora, pide opciones para ese mismo momento del día que encajen con tu embarazo." }
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Ante la duda, mejor esperar", "text": "No hay ningún beneficio de Matcha Pep-T que justifique asumir riesgos durante el embarazo o la lactancia. Pausarlo unos meses no te hace perder nada, y siempre podrás retomarlo con el visto bueno de tu médico." },
+    { "type": "p", "text": "Para conocer los demás grupos que deben consultar antes, revisa las [contraindicaciones de Matcha Pep-T](/opiniones-matcha-pep-t/contraindicaciones/), y para el resto de dudas, la sección de [opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/). Cuando tengas la autorización, puedes adquirirlo desde la [página de compra del distribuidor autorizado](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "Lo tomé antes de saber que estaba embarazada, ¿es grave?", "a": "Es una situación muy común con el café y el té, y por lo general no es motivo de alarma. Suspéndelo por ahora y coméntalo en tu próximo control prenatal para que tu obstetra lo registre y te oriente." },
+    { "q": "¿Y si estoy buscando quedar embarazada?", "a": "Si planificas un embarazo, es buen momento para revisar con tu médico toda tu ingesta de cafeína y suplementos. Él podrá decirte si conviene mantener, reducir o pausar esta bebida mientras lo intentas." },
+    { "q": "¿El colágeno es peligroso en el embarazo?", "a": "El colágeno hidrolizado es una proteína alimentaria, pero los péptidos específicos de Nextida GC no se han estudiado en gestantes y su dosis por sobre no está declarada. Por eso la recomendación sigue siendo consultar antes." },
+    { "q": "¿Puedo preparárselo a mi bebé o a mi hijo pequeño?", "a": "No. Es una bebida formulada para adultos, con cafeína natural, y no está pensada para bebés ni niños pequeños." }
+  ],
+  "sources": [
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" },
+    { "label": "ACOG – American College of Obstetricians and Gynecologists", "url": "https://www.acog.org/" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": ["/opiniones-matcha-pep-t/contraindicaciones/", "/ingredientes-matcha-pep-t/tiene-cafeina/", "/que-es-matcha-pep-t/para-mamas-ocupadas/", "/opiniones-matcha-pep-t/diabetes/"]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "precio-vs-matcha-latte-de-cafeteria",
+  "pillar": "precio-matcha-pep-t-peru",
+  "path": "/precio-matcha-pep-t-peru/precio-vs-matcha-latte-de-cafeteria/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs matcha latte cafetería precio",
+  "title": "Matcha Pep-T vs matcha latte de cafetería: precio y nutrición",
+  "seoTitle": "Matcha Pep-T vs matcha latte de cafetería: precio",
+  "metaDescription": "Matcha Pep-T vs matcha latte de cafetería: precio por taza en Lima, gasto semanal y diferencias en azúcar y calorías, con números claros y honestos.",
+  "excerpt": "Un matcha latte de cafetería en Lima ronda los S/ 14 a 20; un sobre de Matcha Pep-T sale S/ 11.29. Comparamos precio, azúcar y calorías sin exagerar.",
+  "quickAnswer": "En la comparación Matcha Pep-T vs matcha latte de cafetería, el precio favorece al sobre: S/ 11.29 frente a unos S/ 14 a 20 por taza en Lima. Además, el vaso de 180 ml aporta 46 kcal y 0.9 g de azúcares añadidos, mientras que un latte de cafetería suele tener bastante más azúcar y calorías.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two glasses of iced green matcha latte side by side on a marble counter of a cozy specialty coffee shop in Barranco, Lima, one tall cafe glass and one simple home tumbler, soft afternoon light, plants and exposed brick in the blurred background, no packaging, no text, no logos, no people",
+    "alt": "Dos vasos de matcha latte helado sobre una barra de mármol en una cafetería de Barranco"
+  },
+  "blocks": [
+    { "type": "p", "text": "El matcha latte se volvió parte del paisaje de Lima. Lo ves en la carta de las cafeterías de especialidad de Barranco, en las cadenas de los centros comerciales y hasta en los puestos de bebidas cerca de las universidades. Es rico, es fotogénico y, hay que decirlo, no es barato." },
+    { "type": "p", "text": "Si ese vasito verde ya forma parte de tu semana, es lógico preguntarse si prepararlo en casa con Matcha Pep-T sale más a cuenta. Aquí comparamos las dos opciones con números: precio por taza, gasto semanal y lo que trae cada vaso en azúcar y calorías." },
+    { "type": "h2", "text": "Matcha Pep-T vs matcha latte de cafetería: precio por taza" },
+    { "type": "p", "text": "Un matcha latte en una cafetería de Lima cuesta **aproximadamente entre S/ 14 y S/ 20**, según el local, el distrito, el tamaño y si eliges leche vegetal o algún extra. Es un rango orientativo: hay lugares por debajo y otros bastante por encima." },
+    { "type": "p", "text": "Un sobre de Matcha Pep-T cuesta **S/ 11.29**, que es lo que resulta de dividir los S/ 158.00 del doypack entre sus 14 sobres. El cálculo completo lo tienes en [cuánto cuesta un sobre de Matcha Pep-T](/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/)." },
+    { "type": "table", "caption": "Diferencia de precio por taza (rango de cafetería aproximado)", "headers": ["Escenario", "Cafetería", "Matcha Pep-T", "Diferencia por taza"], "rows": [
+      ["Cafetería económica", "S/ 14", "S/ 11.29", "S/ 2.71"],
+      ["Cafetería de precio medio", "S/ 17", "S/ 11.29", "S/ 5.71"],
+      ["Cafetería de especialidad", "S/ 20", "S/ 11.29", "S/ 8.71"]
+    ] },
+    { "type": "p", "text": "Hay un matiz importante: la taza de cafetería suele ser más grande, de unos 350 a 470 ml, mientras que la porción de Matcha Pep-T es de **180 ml**. No estás comparando el mismo volumen, sino una bebida de cafetería con una porción funcional más concentrada en nutrientes y más ligera en calorías." },
+    { "type": "h2", "text": "La cuenta en una semana de oficina" },
+    { "type": "p", "text": "Imagina que tomas un matcha latte cada día laboral, de lunes a viernes, camino a la oficina o en la pausa de la tarde. En cinco días el gasto queda así:" },
+    { "type": "ul", "items": [
+      "**Cafetería:** entre S/ 70 y S/ 100 a la semana, según dónde lo compres.",
+      "**Matcha Pep-T:** unos S/ 56 por cinco sobres.",
+      "**Diferencia aproximada:** entre S/ 14 y S/ 44 por semana a favor del sobre."
+    ] },
+    { "type": "p", "text": "A eso súmale lo que no aparece en la boleta: el desvío para pasar por el local, la cola de las ocho de la mañana o el delivery con recargo cuando la garúa no invita a salir. Para proyectar el gasto mensual según tu frecuencia, revisa [cuánto gastar al mes en Matcha Pep-T](/precio-matcha-pep-t-peru/presupuesto-mensual/)." },
+    { "type": "h2", "text": "Azúcar y calorías: lo que hay dentro de cada vaso" },
+    { "type": "p", "text": "El precio es solo la mitad de la historia. La otra mitad está en el vaso. Un matcha latte de cafetería se prepara con matcha (a veces en una mezcla ya endulzada), bastante leche y, con frecuencia, jarabe. Matcha Pep-T está formulado para prepararse con agua y endulzado con estevia." },
+    { "type": "table", "caption": "Comparación nutricional orientativa por vaso", "headers": ["Aspecto", "Matcha latte de cafetería (aprox.)", "Matcha Pep-T (etiqueta)"], "rows": [
+      ["Volumen", "350 a 470 ml", "180 ml"],
+      ["Calorías", "Entre 180 y 300 kcal, según leche y endulzante", "46 kcal"],
+      ["Azúcares totales", "Entre 20 y 35 g, de la leche y del endulzante", "2.0 g"],
+      ["Azúcares añadidos", "Variable; depende del jarabe o de la mezcla", "0.9 g"],
+      ["Proteína", "Mayor por la leche, entre 8 y 12 g aprox.", "4.7 g"],
+      ["Fibra", "Muy poca", "4.9 g"],
+      ["Otros componentes", "Calcio de la leche", "Péptidos de colágeno Nextida® GC, chía, cromo (45 % VD)"]
+    ] },
+    { "type": "p", "text": "Los valores de cafetería son rangos orientativos para una taza mediana con leche entera y endulzante; cada local tiene su receta y algunos publican su información nutricional, que vale la pena consultar. Como referencia, solo un vaso de 250 ml de leche entera aporta unos 12 g de azúcar natural (lactosa) y alrededor de 150 kcal antes de añadir nada más." },
+    { "type": "callout", "variant": "etiqueta", "title": "Matcha Pep-T según su etiqueta", "text": "1 sobre de 15 g en 180 ml de agua: 46 kcal, 2.0 g de azúcares totales (0.9 g añadidos), 4.7 g de proteína, 4.9 g de fibra y 14.9 µg de cromo (45 % VD). Endulzado con estevia y con muy poca azúcar. Si le agregas leche o bebida vegetal, estos valores cambian." },
+    { "type": "h3", "text": "Por qué importa el azúcar" },
+    { "type": "p", "text": "La Organización Mundial de la Salud recomienda limitar los azúcares libres a menos del 10 % de la energía diaria y sugiere que bajar al 5 %, unos 25 g en una dieta de 2000 kcal, aporta beneficios adicionales. Un latte con jarabe puede ocupar buena parte de ese margen en una sola bebida; un sobre de Matcha Pep-T aporta 0.9 g de azúcares añadidos. El detalle está en [cuánta azúcar tiene Matcha Pep-T](/ingredientes-matcha-pep-t/tiene-azucar/)." },
+    { "type": "cta", "text": "Prepara tu matcha latte en casa por S/ 11.29 el vaso: revisa el precio del doypack en la tienda oficial." },
+    { "type": "h3", "text": "Lo que sí gana la cafetería" },
+    { "type": "p", "text": "Ser justos también es parte de comparar. El latte de cafetería tiene más proteína gracias a la leche, una espuma hecha con vaporizador profesional, un tamaño más generoso y algo que ningún sobre reemplaza: la pausa con amigos o la reunión informal en un local agradable. Si lo disfrutas como un gusto ocasional, no hay nada que corregir." },
+    { "type": "h2", "text": "¿Cuál conviene según tu caso?" },
+    { "type": "ul", "items": [
+      "**Si tomas matcha casi a diario**, el sobre reduce tu gasto semanal y la carga de azúcar y calorías de forma notable.",
+      "**Si buscas un gusto de fin de semana**, la cafetería sigue siendo una gran opción; puedes reservarla para esos momentos.",
+      "**Si quieres textura de cafetería en casa**, puedes preparar el sobre bien frío con hielo y un chorrito de bebida vegetal, sabiendo que eso suma calorías. Ideas en [Matcha Pep-T frío con hielo](/como-preparar-matcha-pep-t/frio-con-hielo/).",
+      "**Si controlas tu glucosa o tienes alguna condición de salud**, consulta con tu médico o nutricionista antes de incorporar cualquiera de las dos bebidas a tu rutina."
+    ] },
+    { "type": "p", "text": "Para ver todos los detalles de precio, contenido y canales, vuelve a la [guía de precio de Matcha Pep-T en Perú](/precio-matcha-pep-t-peru/). Y si ya hiciste la cuenta, puedes [comprar Matcha Pep-T en la tienda oficial](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Matcha Pep-T sabe igual que un matcha latte de cafetería?", "a": "No es idéntico. Su sabor declarado es matcha latte natural, con notas de crema de coco y caramelo, y una textura cremosa por la crema de coco. Un latte de cafetería con leche entera y espuma tiene otro cuerpo y suele ser más dulce." },
+    { "q": "¿Puedo pedir en la cafetería un matcha latte con menos azúcar?", "a": "En muchos locales sí: puedes pedirlo sin jarabe o con leche descremada o vegetal sin azúcar. Aun así, la mezcla de matcha que usan puede venir endulzada, así que conviene preguntar." },
+    { "q": "¿Tiene la misma cantidad de matcha que una taza de cafetería?", "a": "No se puede comparar con exactitud. La etiqueta de Matcha Pep-T no declara los gramos de matcha por sobre ni su contenido de cafeína, y cada cafetería usa una dosis distinta." },
+    { "q": "¿Si le agrego leche al sobre, sigue siendo más barato?", "a": "Por lo general sí, porque un chorrito de leche o bebida vegetal cuesta poco frente a la diferencia de precio con la cafetería. Ten en cuenta que suma calorías y cambia los valores de la etiqueta." }
+  ],
+  "sources": [
+    { "label": "OMS – Directriz: ingesta de azúcares para adultos y niños", "url": "https://www.who.int/publications/i/item/9789241549028" },
+    { "label": "USDA FoodData Central – Leche entera", "url": "https://fdc.nal.usda.gov/" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/",
+    "/ingredientes-matcha-pep-t/tiene-azucar/",
+    "/ingredientes-matcha-pep-t/calorias/",
+    "/ciencia-matcha-pep-t/vs-matcha-puro/"
+  ]
+}

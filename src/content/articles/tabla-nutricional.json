@@ -1,0 +1,94 @@
+{
+  "slug": "tabla-nutricional",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/tabla-nutricional/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T tabla nutricional",
+  "title": "Matcha Pep-T: tabla nutricional completa y cómo leerla",
+  "seoTitle": "Matcha Pep-T tabla nutricional: por 100 ml y por porción",
+  "metaDescription": "Matcha Pep-T tabla nutricional completa: valores por 100 ml y por porción de 180 ml, %VD de cada nutriente y una guía práctica para leer la etiqueta.",
+  "excerpt": "Todos los números del panel nutricional de Matcha Pep-T, ordenados en una sola tabla, y una explicación clara de qué significa cada columna y cada porcentaje.",
+  "quickAnswer": "La tabla nutricional de Matcha Pep-T indica, por porción (1 sobre de 15 g en 180 ml de agua): 46 kcal, 4.7 g de proteína, 7.8 g de carbohidratos, 4.9 g de fibra, 2.0 g de azúcares totales (0.9 g añadidos), 0.6 g de grasa, 28 mg de sodio y 14.9 µg de cromo, que equivale al 45 % del valor diario.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "Overhead view of a notebook with handwritten numbers, a pencil, reading glasses and a cup of hot green matcha latte on a wooden dining table, grey overcast Lima morning light through a window, calm minimal composition, no text visible, no logos, no packaging, no people",
+    "alt": "Cuaderno con anotaciones, lápiz y anteojos junto a una taza de matcha latte caliente sobre una mesa de comedor"
+  },
+  "blocks": [
+    { "type": "p", "text": "El panel de información nutricional es la parte del envase que casi nadie lee completa. Se mira de reojo en el pasillo del supermercado, se busca un número suelto y se devuelve el producto a la góndola. Con un suplemento que vas a tomar a diario, vale la pena dedicarle cinco minutos." },
+    { "type": "p", "text": "Aquí tienes la tabla de Matcha Pep-T transcrita tal cual figura en la etiqueta, con las dos columnas de cantidades y la de porcentajes, y después una lectura guiada para que sepas qué mirar y qué no sobreinterpretar." },
+    { "type": "h2", "text": "Matcha Pep-T: tabla nutricional completa" },
+    { "type": "p", "text": "La porción de referencia es **1 sobre de 15 g disuelto en 180 ml de agua**. Un doypack trae 14 porciones. Los valores por 100 ml se refieren a la bebida ya preparada, no al polvo." },
+    { "type": "table", "caption": "Información nutricional de Matcha Pep-T según la etiqueta", "headers": ["Nutriente", "Por 100 ml", "Por porción (180 ml)", "% VD por porción"], "rows": [
+      ["Energía", "26 kcal (106 kJ)", "46 kcal (191 kJ)", "2 %"],
+      ["Grasa total", "0.3 g", "0.6 g", "1 %"],
+      ["Grasa saturada", "0.3 g", "0.5 g", "3 %"],
+      ["Grasa trans", "0 g", "0 g", "—"],
+      ["Colesterol", "0 mg", "0 mg", "0 %"],
+      ["Sodio", "16 mg", "28 mg", "1 %"],
+      ["Carbohidratos totales", "4.3 g", "7.8 g", "3 %"],
+      ["Fibra dietaria", "2.7 g", "4.9 g", "18 %"],
+      ["Azúcares totales", "1.1 g", "2.0 g", "2 %"],
+      ["Azúcares añadidos", "0.5 g", "0.9 g", "—"],
+      ["Proteína", "2.6 g", "4.7 g", "9 %"],
+      ["Cromo", "8.3 µg", "14.9 µg", "45 %"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Base de los porcentajes", "text": "La etiqueta indica que los valores diarios se basan en una dieta de 2000 kcal (8380 kJ) para mayores de 4 años, según los criterios del Codex y la FDA. Donde la tabla muestra una raya, la etiqueta no asigna porcentaje." },
+    { "type": "h2", "text": "Por qué hay dos columnas: por 100 ml y por porción" },
+    { "type": "p", "text": "Cada columna sirve para algo distinto. La de **por porción** te dice lo que realmente tomas con un sobre. La de **por 100 ml** sirve para comparar con otras bebidas en igualdad de condiciones, porque cada marca define porciones diferentes: una gaseosa personal, una cajita de jugo y un vaso de chicha no miden lo mismo." },
+    { "type": "p", "text": "Si multiplicas la columna de 100 ml por 1.8 obtienes, con pequeñas diferencias de redondeo, la de la porción. Por ejemplo, 2.6 g de proteína por 100 ml dan unos 4.7 g en 180 ml." },
+    { "type": "h3", "text": "Las aparentes rarezas del redondeo" },
+    { "type": "p", "text": "En la columna de 100 ml la grasa total y la saturada marcan ambas 0.3 g. No significa que toda la grasa sea saturada; con cantidades tan pequeñas, el redondeo a un decimal iguala cifras que en realidad difieren por centésimas. En la porción ya se ve la diferencia: 0.6 g frente a 0.5 g." },
+    { "type": "h2", "text": "Cómo leer el %VD sin complicarte" },
+    { "type": "p", "text": "El porcentaje de valor diario indica qué fracción de la referencia de un día cubre una porción. Una regla práctica que difunde la FDA: **5 % o menos es poco** y **20 % o más es mucho**. Con eso basta para leer este panel de un vistazo." },
+    { "type": "ul", "items": [
+      "**Sodio, grasa y colesterol (0–3 %):** aportes mínimos. Si cuidas la sal por indicación médica, este sobre casi no suma.",
+      "**Fibra (18 %):** cerca del umbral de «mucho». Es uno de los atributos centrales de la fórmula y proviene sobre todo de la fibra de maíz.",
+      "**Proteína (9 %):** aporte moderado, casi todo de colágeno hidrolizado.",
+      "**Cromo (45 %):** el valor más alto del panel. Se calcula sobre una referencia de 35 µg diarios."
+    ] },
+    { "type": "p", "text": "Recuerda que la referencia de 2000 kcal es un promedio. Un universitario que entrena fútbol tres veces por semana y una persona mayor sedentaria tienen necesidades distintas, así que los porcentajes son una guía, no una prescripción." },
+    { "type": "cta", "text": "Con la etiqueta clara, revisa el precio y la disponibilidad del doypack de 14 sobres." },
+    { "type": "h2", "text": "Lo que conviene mirar línea por línea" },
+    { "type": "h3", "text": "Carbohidratos y fibra" },
+    { "type": "p", "text": "Los 7.8 g de carbohidratos totales incluyen los 4.9 g de fibra. Restando, quedan unos 2.9 g de carbohidratos disponibles por porción, un dato que interesa a quienes siguen dietas bajas en carbohidratos. El análisis completo está en el artículo sobre si [Matcha Pep-T es keto o low carb](/ingredientes-matcha-pep-t/es-keto-low-carb/)." },
+    { "type": "h3", "text": "Azúcares totales frente a añadidos" },
+    { "type": "p", "text": "La tabla distingue 2.0 g de azúcares totales y, dentro de ellos, 0.9 g de azúcares añadidos. Los añadidos provienen de la isomaltulosa; el resto procede de otros ingredientes de la fórmula. Si quieres el detalle y por qué no es correcto decir que no lleva nada de azúcar, lee [cuánta azúcar tiene Matcha Pep-T](/ingredientes-matcha-pep-t/tiene-azucar/)." },
+    { "type": "h3", "text": "Energía" },
+    { "type": "p", "text": "La fila de energía es la más buscada, pero aquí solo la registramos. Cómo se compara con otras bebidas y cuánto cambia si le agregas leche lo explicamos en el artículo dedicado a las [calorías de Matcha Pep-T](/ingredientes-matcha-pep-t/calorias/)." },
+    { "type": "h3", "text": "Proteína" },
+    { "type": "p", "text": "Los 4.7 g por porción vienen principalmente del colágeno. Es una proteína útil, pero incompleta en aminoácidos, así que no reemplaza al huevo, el pescado o las menestras del almuerzo." },
+    { "type": "h2", "text": "Lo que la tabla nutricional no muestra" },
+    { "type": "p", "text": "Un panel nutricional solo recoge los nutrientes obligatorios y los que el fabricante decide declarar. En el caso de Matcha Pep-T no figuran:" },
+    { "type": "ul", "items": [
+      "La cantidad de **Nextida GC** por sobre: solo sabemos que el colágeno es el primer ingrediente y que la proteína total es 4.7 g.",
+      "El contenido de **cafeína** del matcha.",
+      "Las cantidades de **L-teanina** y de **catequinas (EGCG)**."
+    ] },
+    { "type": "p", "text": "Cualquier cifra que veas en redes sobre esos compuestos para este producto no sale de la etiqueta. La lista de ingredientes completa, con la función de cada uno, está en la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Tres usos prácticos de esta tabla" },
+    { "type": "ol", "items": [
+      "**Sumar tu día:** si llevas un registro de comidas en una app, carga los valores por porción, no los de 100 ml.",
+      "**Ajustar si cambias la receta:** la tabla vale para el sobre con 180 ml de agua. Si agregas leche o fruta, súmales sus propios valores.",
+      "**Compartirla con tu profesional de salud:** si tienes diabetes, enfermedad renal o tomas medicación, muéstrale este panel a tu médico o nutricionista antes de incorporarlo."
+    ] },
+    { "type": "p", "text": "Cuando tengas todo claro, puedes [comprar Matcha Pep-T con envío en Lima y provincias](/comprar-matcha-pep-t/) a S/ 158.00 el doypack, que equivale a S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Los valores por 100 ml son del polvo o de la bebida?", "a": "De la bebida ya preparada. La etiqueta toma como referencia 1 sobre de 15 g en 180 ml de agua, y la columna de 100 ml es esa misma bebida expresada en una base estándar." },
+    { "q": "¿Por qué la grasa trans y los azúcares añadidos no tienen %VD en la tabla?", "a": "Para la grasa trans no existe un valor diario de referencia, y en este caso la etiqueta tampoco asigna porcentaje a los azúcares añadidos. Por eso se muestran solo en gramos." },
+    { "q": "¿Dónde encuentro la tabla en el envase?", "a": "En el panel posterior del doypack, junto a la lista de ingredientes y el modo de preparación. Si tu envase muestra cifras distintas, confirma que sea un producto original comprado a un distribuidor autorizado." },
+    { "q": "¿La tabla cambia si lo preparo con agua caliente?", "a": "No. La temperatura no altera los nutrientes declarados. Lo único que modifica los valores es añadir otros ingredientes, como leche, fruta o azúcar." }
+  ],
+  "sources": [
+    { "label": "FDA – Daily Value on the Nutrition and Supplement Facts Labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" },
+    { "label": "Codex Alimentarius – Directrices sobre etiquetado nutricional", "url": "https://www.fao.org/fao-who-codexalimentarius/" },
+    { "label": "NIH ODS – Chromium Fact Sheet", "url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/calorias/",
+    "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/",
+    "/ingredientes-matcha-pep-t/cromo/",
+    "/ingredientes-matcha-pep-t/tiene-azucar/"
+  ]
+}

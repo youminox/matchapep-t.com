@@ -1,0 +1,91 @@
+{
+  "slug": "es-keto-low-carb",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/es-keto-low-carb/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T keto",
+  "title": "Matcha Pep-T keto: carbohidratos netos y encaje en low carb",
+  "seoTitle": "Matcha Pep-T keto: ¿encaja en tu dieta low carb?",
+  "metaDescription": "¿Matcha Pep-T keto? Cada sobre aporta 7.8 g de carbohidratos y 4.9 g de fibra: unos 2.9 g netos. Te explicamos cuándo encaja en low carb y cuándo no.",
+  "excerpt": "Hicimos las cuentas con la etiqueta: unos 2.9 g de carbohidratos netos por sobre. Te contamos en qué casos entra en una dieta keto o low carb y qué matices conviene tener en cuenta.",
+  "quickAnswer": "Matcha Pep-T keto es posible con matices: cada sobre preparado en 180 ml de agua aporta 7.8 g de carbohidratos totales y 4.9 g de fibra, lo que deja alrededor de 2.9 g netos. Entra sin problema en una dieta low carb y, en keto estricta, cabe si lo cuentas dentro de tu límite diario y lo preparas sin leche de vaca.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A glass of pale green matcha latte with ice cubes on a white marble kitchen counter next to a bowl of sliced avocado, boiled eggs and a small notebook with handwritten numbers, soft overcast morning light from a window in a Lima apartment, minimal clean style, no packaging, no text, no logos, no faces",
+    "alt": "Vaso de matcha latte frío junto a palta en tajadas y huevos sancochados sobre un mesón de mármol"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si llevas unas semanas en keto, seguramente ya tienes la costumbre: antes de comprar cualquier cosa en el súper, volteas el paquete y buscas la línea de carbohidratos. Con una bebida tipo latte la sospecha es inmediata, porque la mayoría de matcha lattes de cafetería en Lima vienen cargados de azúcar y leche. Aquí revisamos la etiqueta de Matcha Pep-T con lupa para que decidas con datos y no con intuición." },
+    { "type": "h2", "text": "Matcha Pep-T keto: la respuesta corta en números" },
+    { "type": "p", "text": "La porción oficial es **1 sobre de 15 g disuelto en 180 ml de agua**. Con esa preparación, la tabla nutricional declara lo siguiente:" },
+    { "type": "table", "caption": "Datos por porción (1 sobre en 180 ml de agua) según la etiqueta", "headers": ["Nutriente", "Por porción", "Lectura para low carb"], "rows": [
+      ["Carbohidratos totales", "7.8 g", "Incluyen la fibra"],
+      ["Fibra dietaria", "4.9 g (18 % VD)", "Se resta para obtener netos"],
+      ["Carbohidratos netos (cálculo)", "~2.9 g", "7.8 − 4.9"],
+      ["Azúcares totales", "2.0 g", "De ellos, 0.9 g añadidos"],
+      ["Proteína", "4.7 g", "Procede sobre todo del colágeno"],
+      ["Grasa total", "0.6 g", "Muy baja para un perfil keto"],
+      ["Energía", "46 kcal", "Bebida ligera"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Cómo calculamos los netos", "text": "En la tabla de Matcha Pep-T la fibra figura como subcategoría dentro de los carbohidratos, igual que en el formato FDA. Por eso es razonable restarla: 7.8 g − 4.9 g = unos 2.9 g de carbohidratos netos por sobre. Si prefieres el escenario más conservador, cuenta los 7.8 g completos; aun así es una cifra baja para una bebida dulce." },
+    { "type": "h2", "text": "¿De dónde salen los carbohidratos de cada sobre?" },
+    { "type": "p", "text": "Saber qué ingredientes aportan los carbohidratos te ayuda a entender por qué no todos pesan igual en una dieta cetogénica. Según el orden de la lista de ingredientes, estos son los principales responsables:" },
+    { "type": "ul", "items": [
+      "**Fibra de maíz**: es el segundo ingrediente y explica buena parte de los 4.9 g de fibra. Es la razón principal por la que los netos quedan tan bajos.",
+      "**Isomaltulosa (Palatinose™)**: un disacárido obtenido de la betarraga que se digiere de forma lenta. Se absorbe, así que sí cuenta como carbohidrato neto aunque no produzca un pico brusco. Lo explicamos en detalle en [qué es la isomaltulosa y cómo se comporta](/ingredientes-matcha-pep-t/isomaltulosa-palatinose/).",
+      "**Tapioca**: almidón que da cuerpo al polvo. Aporta carbohidrato digerible en pequeña cantidad.",
+      "**Crema de coco, matcha y chía**: suman poco en carbohidratos y más en textura y sabor.",
+      "**Estevia**: endulza sin aportar carbohidratos relevantes. Gracias a ella el producto queda dulce con muy poca azúcar."
+    ] },
+    { "type": "h2", "text": "Cómo entra en tu presupuesto diario de carbohidratos" },
+    { "type": "p", "text": "Las dietas cetogénicas suelen limitar los carbohidratos netos a un rango aproximado de 20 a 50 g al día, según el enfoque y la persona. Las dietas low carb moderadas son más flexibles y muchas trabajan con 50 a 130 g diarios." },
+    { "type": "table", "caption": "Peso de 1 sobre (~2.9 g netos) según tu límite diario", "headers": ["Tipo de plan", "Límite diario de netos", "Lo que ocupa 1 sobre"], "rows": [
+      ["Keto estricta", "20 g", "Alrededor de 15 %"],
+      ["Keto flexible", "50 g", "Alrededor de 6 %"],
+      ["Low carb moderada", "100 g", "Menos de 3 %"]
+    ] },
+    { "type": "p", "text": "Un ejemplo realista de día keto en Lima: huevos revueltos con palta en el desayuno, un sobre de Matcha Pep-T a media mañana en la oficina, almuerzo de pollo a la plancha con ensalada de pepino y aceite de oliva, y cena de pescado con brócoli. En ese esquema, los 2.9 g del sobre son un gasto pequeño frente a lo que suman las verduras del día." },
+    { "type": "cta", "text": "¿Quieres sumarlo a tu plan bajo en carbohidratos? Revisa el precio oficial de S/ 158.00 por 14 sobres (S/ 11.29 por sobre)." },
+    { "type": "h2", "text": "Los matices: por qué no es un producto keto de manual" },
+    { "type": "p", "text": "Que los números encajen no significa que el producto se haya formulado para la cetosis. Conviene tener claros estos puntos antes de adoptarlo como bebida fija:" },
+    { "type": "ul", "items": [
+      "**No es alto en grasa.** Con 0.6 g de grasa por porción, no ayuda a cubrir la proporción de grasas que pide una keto clásica. Funciona más como una bebida de proteína y fibra.",
+      "**La isomaltulosa es azúcar digerible.** Se libera despacio, pero sigue siendo carbohidrato que tu cuerpo absorbe. En planes muy estrictos, ese detalle importa.",
+      "**La fibra no se comporta igual en todos.** Parte de algunas fibras solubles se fermenta en el colon y la respuesta varía entre personas. Si mides cetonas, observa tu propio resultado.",
+      "**El envase no dice keto.** Las declaraciones del empaque se centran en péptidos de colágeno, fibra, chía y cromo. La lectura keto es nuestra, a partir de la tabla.",
+      "**La dosis cuenta.** La etiqueta indica 1 sobre por porción. Tomar varios al día multiplica los carbohidratos y no está recomendado."
+    ] },
+    { "type": "h2", "text": "Cómo prepararlo sin sumar carbohidratos de más" },
+    { "type": "p", "text": "El punto débil no suele ser el sobre, sino lo que se le agrega. Con agua fría o caliente (sin hervir) mantienes los 2.9 g netos. Si buscas una textura más cremosa, elige bien el acompañamiento:" },
+    { "type": "table", "caption": "Impacto aproximado de lo que añades (revisa siempre la etiqueta de tu marca)", "headers": ["Añadido", "Efecto en carbohidratos", "¿Apto para keto?"], "rows": [
+      ["Solo agua (180 ml)", "Sin cambio", "Sí"],
+      ["Chorrito de bebida de almendra sin azúcar", "Mínimo", "Sí"],
+      ["Bebida de coco de caja sin azúcar", "Bajo", "Sí, en poca cantidad"],
+      ["Leche de vaca", "Unos 4–5 g por cada 100 ml (lactosa)", "Solo un chorrito"],
+      ["Bebida de avena", "Alto", "Mejor evitarla"]
+    ] },
+    { "type": "p", "text": "Si te gusta la versión con bebida vegetal, en nuestra [receta de Matcha Pep-T con leche de almendra](/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/) verás cómo dosificarla sin perder el control de las cifras." },
+    { "type": "h2", "text": "¿Y si combinas keto con ayuno intermitente?" },
+    { "type": "p", "text": "Muchas personas en Perú unen keto y ayuno 16:8. En ese caso, recuerda que 46 kcal y 4.7 g de proteína sí interrumpen un ayuno estricto, aunque los carbohidratos netos sean bajos. Lo lógico es tomarlo dentro de tu ventana de alimentación; lo desarrollamos en [si Matcha Pep-T rompe el ayuno](/opiniones-matcha-pep-t/rompe-el-ayuno/)." },
+    { "type": "callout", "variant": "aviso", "title": "Antes de combinarlo con una dieta cetogénica", "text": "Matcha Pep-T es un alimento, no un medicamento: no trata ni previene enfermedades. Si tienes diabetes, tomas medicación para la glucosa o la presión, tienes enfermedad renal, estás embarazada o das de lactar, consulta con tu médico o nutricionista antes de seguir una dieta keto o sumar suplementos." },
+    { "type": "h2", "text": "Veredicto para quien cuenta carbohidratos" },
+    { "type": "p", "text": "Para una dieta low carb, Matcha Pep-T encaja con holgura. Para keto, puede entrar como tu bebida dulce del día si la registras en tu app, la preparas con agua o una bebida vegetal sin azúcar y no pasas de un sobre. Si quieres ver el resto de la fórmula, revisa la [lista completa de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/), y cuando lo tengas claro puedes [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) en la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿La estevia del producto puede sacarme de cetosis?", "a": "Los glicósidos de esteviol no aportan carbohidratos relevantes, por eso se usan con frecuencia en planes bajos en carbohidratos. Lo que más pesa en el sobre son la isomaltulosa y la tapioca, que ya están incluidas en los 2.9 g netos." },
+    { "q": "¿Puedo usarlo como reemplazo de una comida keto?", "a": "No es lo ideal. Con 46 kcal, 0.6 g de grasa y 4.7 g de proteína, se queda corto para sustituir un desayuno o un almuerzo. Úsalo como bebida entre comidas o como complemento." },
+    { "q": "¿Sirve para alguien con diabetes que sigue una dieta baja en carbohidratos?", "a": "Los números son bajos, pero cada caso es distinto y depende de la medicación. Antes de incorporarlo, coméntalo con tu médico y revisa nuestra guía sobre [Matcha Pep-T y diabetes](/opiniones-matcha-pep-t/diabetes/)." },
+    { "q": "¿Cuántos carbohidratos tiene por cada 100 ml?", "a": "La etiqueta declara 4.3 g de carbohidratos y 2.7 g de fibra por cada 100 ml de bebida preparada. Ese dato sirve si preparas una cantidad distinta, aunque lo recomendado es mantener la proporción de 1 sobre en 180 ml." }
+  ],
+  "sources": [
+    { "label": "NCBI Bookshelf – Ketogenic Diet (StatPearls)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK499830/" },
+    { "label": "FDA – Dietary Fiber en la etiqueta nutricional", "url": "https://www.fda.gov/food/nutrition-facts-label/dietary-fiber" },
+    { "label": "EFSA – Steviol glycosides", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/tiene-azucar/",
+    "/ingredientes-matcha-pep-t/fibra-de-maiz/",
+    "/ingredientes-matcha-pep-t/tabla-nutricional/",
+    "/ingredientes-matcha-pep-t/calorias/"
+  ]
+}

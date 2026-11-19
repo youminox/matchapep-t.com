@@ -1,0 +1,69 @@
+{
+  "slug": "vs-cafe",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/vs-cafe/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs café",
+  "title": "Matcha Pep-T vs café: comparativa nutricional y de experiencia",
+  "seoTitle": "Matcha Pep-T vs café: cuál te conviene en tu rutina",
+  "metaDescription": "Matcha Pep-T vs café pasado o americano: comparamos calorías, proteína, fibra, cafeína, sabor y precio por taza para que elijas según tu rutina diaria.",
+  "excerpt": "El café pasado es casi un ritual en las casas peruanas. Lo ponemos frente a Matcha Pep-T con una tabla nutricional clara y una comparación honesta de sabor, energía y practicidad.",
+  "quickAnswer": "Matcha Pep-T vs café es una comparación entre dos bebidas con propósitos distintos. Un café pasado o americano sin azúcar casi no aporta calorías y su fuerte es la cafeína. Matcha Pep-T aporta 46 kcal, 4.7 g de proteína y 4.9 g de fibra por porción; su cafeína, que proviene del matcha, no está declarada en la etiqueta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two drinks side by side on a wooden breakfast table: a cup of black filtered coffee with a traditional cloth coffee filter next to it, and a tall glass of creamy green matcha latte, soft morning window light, cozy Peruvian home kitchen, no packaging, no text, no logos, no people",
+    "alt": "Taza de café pasado con filtro de tela junto a un vaso de matcha latte cremoso sobre una mesa de desayuno"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas peruanas el día empieza con el sonido del agua cayendo sobre el filtro de tela o la cafetera de goteo. Algunas familias todavía guardan la esencia de café en una botellita y la mezclan con agua caliente; otras prefieren el americano que compran camino al trabajo." },
+    { "type": "p", "text": "Cambiar esa taza, o sumarle otra bebida, por un matcha latte instantáneo es una decisión que vale la pena tomar con datos y no por moda. Aquí ponemos frente a frente a Matcha Pep-T y al café de todos los días: nutrición, energía, sabor, estómago y bolsillo." },
+    { "type": "h2", "text": "Matcha Pep-T vs café: la tabla nutricional lado a lado" },
+    { "type": "p", "text": "Los valores de Matcha Pep-T salen de su etiqueta. Los del café son aproximados y generales para una taza de unos 240 ml, porque varían según el grano, la molienda y el método de preparación." },
+    { "type": "table", "caption": "Comparativa por taza: Matcha Pep-T frente a café pasado o americano", "headers": ["Por taza", "Matcha Pep-T (1 sobre + 180 ml de agua)", "Café pasado o americano sin azúcar", "Americano con 2 cucharaditas de azúcar"], "rows": [
+      ["Calorías", "46 kcal", "2–5 kcal aprox.", "35–40 kcal aprox."],
+      ["Proteína", "4.7 g", "Menos de 0.5 g", "Menos de 0.5 g"],
+      ["Fibra", "4.9 g", "0 g", "0 g"],
+      ["Carbohidratos totales", "7.8 g", "Menos de 1 g", "Unos 8–9 g"],
+      ["Azúcares añadidos", "0.9 g", "0 g", "Unos 8 g"],
+      ["Cafeína", "No declarada (contiene matcha)", "Entre 80 y 100 mg aprox., según la FDA", "Entre 80 y 100 mg aprox., según la FDA"],
+      ["Dato destacado", "Cromo: 45 % del valor diario", "Polifenoles del café", "Polifenoles del café"],
+      ["Costo por taza", "S/ 11.29 por sobre", "Bajo si lo preparas en casa", "Variable según cafetería"]
+    ] },
+    { "type": "p", "text": "La lectura rápida: el café negro gana en calorías y en costo si lo preparas en casa. Matcha Pep-T gana en proteína y fibra, dos nutrientes que el café prácticamente no tiene. Frente a un café con dos cucharaditas de azúcar, las calorías se parecen, pero los azúcares añadidos son muy distintos." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que declara la etiqueta de Matcha Pep-T", "text": "Porción: 1 sobre de 15 g en 180 ml de agua. Aporta 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 2.0 g de azúcares totales (de ellos, 0.9 g añadidos) y 14.9 µg de cromo (45 % VD). La cafeína, la L-teanina y las catequinas no están declaradas." },
+    { "type": "h2", "text": "Cafeína y energía: qué se puede comparar y qué no" },
+    { "type": "p", "text": "La cafeína del café está bien estudiada. La FDA estima que una taza de 8 onzas, unos 240 ml, aporta aproximadamente entre 80 y 100 mg, y considera que hasta 400 mg diarios no suelen asociarse a efectos negativos en adultos sanos. Embarazadas, personas con hipertensión o muy sensibles necesitan otros límites." },
+    { "type": "p", "text": "El matcha también contiene cafeína de forma natural, además de L-teanina, un aminoácido que se estudia por su relación con un estado de alerta más calmado. El problema es que la etiqueta de Matcha Pep-T **no declara** ni la cafeína ni la L-teanina, así que no es correcto afirmar que tenga «menos cafeína que el café»." },
+    { "type": "p", "text": "Si eres sensible, trátalo como una bebida con cafeína y evita tomarlo de noche. Más detalles en [¿Matcha Pep-T tiene cafeína?](/ingredientes-matcha-pep-t/tiene-cafeina/) y en [la L-teanina del matcha](/ciencia-matcha-pep-t/l-teanina/)." },
+    { "type": "cta", "text": "¿Quieres probar una alternativa con proteína y fibra a tu taza de media mañana? Revisa el precio y la forma de compra de Matcha Pep-T." },
+    { "type": "h2", "text": "La experiencia: sabor, ritual y estómago" },
+    { "type": "ul", "items": [
+      "**Sabor.** El café pasado ofrece amargor, acidez y notas tostadas que cambian según el origen: Chanchamayo, Villa Rica, Cusco o Cajamarca. Matcha Pep-T tiene sabor a matcha latte con notas de crema caramelo y leche de coco, endulzado con estevia y con muy poca azúcar.",
+      "**Textura.** El café es ligero. Matcha Pep-T es más cremoso gracias a la crema de coco y la goma xantana, más cercano a un latte que a un filtrado.",
+      "**Temperatura.** El café se toma casi siempre caliente. Matcha Pep-T funciona frío con hielo en pleno verano limeño o caliente, sin hervir, en las mañanas de garúa.",
+      "**Estómago.** Hay quienes notan acidez con el café negro en ayunas. Con Matcha Pep-T, lo que algunas personas pueden notar al inicio son gases por la fibra; tomar suficiente agua ayuda.",
+      "**Practicidad.** Pasar café requiere filtro, agua caliente y unos minutos. Un sobre se disuelve en el agua del dispensador de la oficina o en un shaker, incluso en la universidad.",
+      "**Saciedad.** El café negro no aporta proteína ni fibra; Matcha Pep-T sí, en cantidades modestas, lo que puede ayudarte a llegar con menos hambre al almuerzo."
+    ] },
+    { "type": "h2", "text": "¿Cuál elegir según tu momento del día?" },
+    { "type": "ul", "items": [
+      "Si solo buscas despertar y disfrutas el sabor tostado, un café pasado sin azúcar cumple y casi no suma calorías.",
+      "Si tu reto es el hambre de media mañana o el picoteo de galletas, Matcha Pep-T aporta proteína y fibra que el café no tiene.",
+      "Si tu café habitual lleva varias cucharaditas de azúcar o leche condensada, el cambio puede reducir bastante los azúcares añadidos: Matcha Pep-T trae 0.9 g por porción.",
+      "Si no quieres renunciar a ninguno, una opción razonable es alternar: café temprano y Matcha Pep-T a media mañana o a media tarde, nunca muy cerca de la hora de dormir."
+    ] },
+    { "type": "p", "text": "Si dudas entre esta bebida y un café al que le agregas colágeno, esa comparación tiene matices propios que revisamos en [Matcha Pep-T frente al café con colágeno](/ciencia-matcha-pep-t/vs-cafe-con-colageno/). Para el resto de comparativas y el contexto científico, visita [la guía de ciencia de Matcha Pep-T](/ciencia-matcha-pep-t/)." },
+    { "type": "p", "text": "Y si decides incluirlo en tu rutina, en [la página para comprar Matcha Pep-T](/comprar-matcha-pep-t/) encontrarás el doypack de 14 sobres a S/ 158.00." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar café y Matcha Pep-T el mismo día?", "a": "Un adulto sano generalmente puede, con moderación. Recuerda que ambos aportan cafeína y que la del Matcha Pep-T no está declarada, así que conviene espaciarlos y evitar la tarde-noche. Si estás embarazada, tienes hipertensión o eres sensible a la cafeína, consúltalo con tu médico." },
+    { "q": "¿Se puede mezclar Matcha Pep-T con café?", "a": "La preparación indicada en la etiqueta es 1 sobre en 180 ml de agua. Mezclarlo con café es posible como gusto personal, pero sumarás la cafeína de ambos y el sabor a matcha quedará opacado. No es una receta recomendada por la marca." },
+    { "q": "¿Engorda más el café o Matcha Pep-T?", "a": "Ninguna bebida engorda por sí sola; cuenta el total de tu día. Un café negro aporta menos calorías que Matcha Pep-T, pero un café con azúcar, leche entera o crema puede superarlo con facilidad. Revisa qué le agregas a cada uno." },
+    { "q": "¿Matcha Pep-T puede reemplazar mi desayuno de café con pan?", "a": "No está pensado como sustituto de comida: aporta 46 kcal por porción. Puede acompañar un desayuno con alimentos sólidos o servir como bebida entre comidas, pero no reemplaza una comida completa." }
+  ],
+  "sources": [
+    { "label": "FDA – Spilling the Beans: How Much Caffeine Is Too Much?", "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" },
+    { "label": "USDA FoodData Central", "url": "https://fdc.nal.usda.gov/" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/vs-cafe-con-colageno/", "/ciencia-matcha-pep-t/vs-te-verde/", "/ingredientes-matcha-pep-t/tiene-cafeina/", "/ingredientes-matcha-pep-t/calorias/"]
+}

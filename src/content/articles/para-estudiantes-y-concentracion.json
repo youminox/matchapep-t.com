@@ -1,0 +1,66 @@
+{
+  "slug": "para-estudiantes-y-concentracion",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/para-estudiantes-y-concentracion/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T para estudiar",
+  "title": "Matcha Pep-T para estudiar: rutina de exámenes sin abusar del café",
+  "seoTitle": "Matcha Pep-T para estudiar: guía para época de exámenes",
+  "metaDescription": "Matcha Pep-T para estudiar: cómo usarlo en parciales, finales o la pre como alternativa al café cargado y los energizantes, sin sacrificar horas de sueño.",
+  "excerpt": "Parciales, finales o simulacros de la pre: cómo encaja un matcha latte en tu rutina de estudio, qué ventajas tiene frente al café y los energizantes, y por qué el sueño sigue mandando.",
+  "quickAnswer": "Matcha Pep-T para estudiar puede ser una alternativa más ordenada al café cargado o a las bebidas energizantes: es un matcha latte con 46 kcal, 4.7 g de proteína y 4.9 g de fibra. Tiene cafeína natural del matcha, aunque la cantidad no está declarada, así que conviene tomarlo temprano y nunca a costa del sueño.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A student desk in the early morning in a small Lima apartment with open textbooks, highlighted notes, a scientific calculator and a tall glass of iced green matcha latte, soft early daylight from a window, cozy and tidy atmosphere, no people, no packaging, no text, no logos",
+    "alt": "Escritorio de estudio con libros abiertos, apuntes resaltados, una calculadora y un vaso de matcha latte frío a la luz de la mañana"
+  },
+  "blocks": [
+    { "type": "p", "text": "Semana de parciales. La biblioteca de la facultad cierra a las 10 p. m., el grupo de estudio sigue por videollamada y en la bodega de la esquina las latas de energizante se venden de dos en dos. Si estás en la pre, el escenario es parecido: clases de mañana, simulacro el domingo y cuadernillos de problemas que no se acaban." },
+    { "type": "p", "text": "En ese contexto, muchos estudiantes buscan algo que acompañe las horas de estudio sin el bajón de la gaseosa ni los nervios de un tercer café. Aquí revisamos con honestidad qué puede aportar Matcha Pep-T y qué no. Para conocer la fórmula completa, consulta [qué es Matcha Pep-T y para qué sirve](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "Por qué tantos buscan Matcha Pep-T para estudiar" },
+    { "type": "p", "text": "El matcha se ganó fama entre estudiantes por una razón sencilla: es té verde en polvo de hoja entera y contiene cafeína de forma natural, junto con otros compuestos propios del té. Mucha gente describe su efecto como más «parejo» que el del café, aunque esa percepción varía de persona a persona." },
+    { "type": "p", "text": "A eso Matcha Pep-T le suma formato práctico y algo de nutrición: un sobre de 15 g se prepara en 180 ml de agua, aporta fibra y proteína de colágeno y tiene apenas 0.9 g de azúcares añadidos, ya que se endulza con estevia. Eso lo diferencia de las bebidas cargadas de azúcar que suelen circular en época de exámenes." },
+    { "type": "p", "text": "Un punto importante: **no es un suplemento para la memoria ni mejora tus notas por sí solo**. Sobre la L-teanina, un aminoácido natural del té asociado a un estado de alerta tranquila, la cantidad en el sobre no está declarada; la evidencia general la resumimos en [qué se sabe de la L-teanina del matcha](/ciencia-matcha-pep-t/l-teanina/)." },
+    { "type": "h2", "text": "Matcha latte frente al café y los energizantes en exámenes" },
+    { "type": "table", "caption": "Comparación orientativa para épocas de estudio", "headers": ["Bebida", "Cafeína", "Azúcar", "Qué aporta además"], "rows": [
+      ["Café pasado o americano", "Variable según preparación y tamaño", "Depende de cuánta le agregues", "Prácticamente nada más si es negro"],
+      ["Bebida energizante", "Declarada en la lata; muchas presentaciones son altas", "Muchas versiones llevan bastante azúcar", "Suele incluir otros estimulantes y vitaminas añadidas"],
+      ["Matcha Pep-T", "Natural del matcha, cantidad no declarada", "0.9 g de azúcares añadidos por porción", "46 kcal, 4.7 g de proteína, 4.9 g de fibra, cromo 45 % VD"]
+    ] },
+    { "type": "p", "text": "La comparación nutricional detallada con el café está en [Matcha Pep-T frente al café](/ciencia-matcha-pep-t/vs-cafe/). Para estudiar, lo práctico es esto: si cambias el segundo café o la lata de energizante por un sobre, reduces azúcar y sumas fibra; lo que no conviene es apilarlo encima de todo lo demás." },
+    { "type": "callout", "variant": "aviso", "title": "Si estás en la pre o eres sensible a la cafeína", "text": "Muchos postulantes a la universidad todavía son menores de edad. Matcha Pep-T no está pensado para niños y, en adolescentes, su uso debería ser supervisado por un adulto o profesional de salud, como explicamos en la guía para [niños y adolescentes](/opiniones-matcha-pep-t/ninos-y-adolescentes/). Si notas palpitaciones, ansiedad o insomnio con la cafeína, revisa primero [si Matcha Pep-T tiene cafeína](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "h2", "text": "Una rutina de estudio donde el sobre encaja" },
+    { "type": "p", "text": "No hace falta reorganizar tu vida. Un esquema realista para un día de estudio intenso podría ser este:" },
+    { "type": "ol", "items": [
+      "**Mañana (8:00–12:00):** desayuno completo y el bloque más exigente del día, como los cursos de números o el temario más denso. Agua a la mano.",
+      "**Almuerzo:** comida real, sin saltarla aunque estés apurado. Estudiar con hambre suele terminar en distracción y antojos.",
+      "**Media tarde (15:00–16:00):** el momento típico del bajón. Aquí puede entrar el sobre de Matcha Pep-T, preparado frío o caliente, en lugar de galletas o una lata.",
+      "**Pausas cortas:** cada 45–50 minutos, levántate, estira las piernas o sube y baja una escalera. Cinco minutos bastan.",
+      "**Noche:** repaso ligero, sin nuevos estimulantes. Cena sencilla y pantalla apagada un rato antes de dormir."
+    ] },
+    { "type": "p", "text": "Si estudias en la biblioteca o en la universidad, lleva el sobre en la mochila y un tomatodo con tapa: se agita con agua fría y listo. La referencia de la etiqueta es **1 sobre al día**, así que no lo uses como bebida de toda la jornada." },
+    { "type": "cta", "text": "¿Quieres tenerlo listo para tu próxima semana de exámenes? Mira el precio oficial: S/ 158.00 por 14 sobres." },
+    { "type": "h2", "text": "El sueño también es parte de estudiar" },
+    { "type": "p", "text": "La amanecida antes del examen es casi una tradición universitaria, pero dormir no es tiempo perdido. Durante el sueño el cerebro consolida lo que aprendiste en el día, y la falta de descanso se asocia con peor atención, memoria y estado de ánimo. Los adultos jóvenes necesitan en general siete horas o más, y los adolescentes, algo más." },
+    { "type": "p", "text": "Como el matcha tiene cafeína natural cuya cantidad no está declarada, lo prudente es **no tomarlo por la noche** ni usarlo para quedarte despierto. Si un sobre a las 4 p. m. te cuesta el sueño, adelántalo o déjalo para los días sin clases en la tarde." },
+    { "type": "h2", "text": "Cuánto cuesta mantenerlo con presupuesto de estudiante" },
+    { "type": "p", "text": "El doypack trae 14 sobres a S/ 158.00, lo que equivale a S/ 11.29 por sobre. Para quien estudia con presupuesto ajustado, una opción es reservarlo para las dos semanas más exigentes del ciclo, como parciales o finales, en lugar de tomarlo todo el semestre. Los pasos para pedirlo están en [cómo comprar Matcha Pep-T](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Es buena idea probarlo por primera vez el día del examen?", "a": "No es lo ideal. Pruébalo antes en un día normal de estudio para ver cómo te sienta la cafeína natural y la fibra. El día del examen conviene no cambiar nada de tu rutina." },
+    { "q": "¿Me sirve para amanecerme estudiando?", "a": "No está pensado para eso. Tomarlo de noche puede alterar tu descanso, y dormir poco suele perjudicar más el rendimiento que cualquier hora extra de repaso." },
+    { "q": "¿Puedo mezclarlo con café para que me active más?", "a": "No es recomendable. Sumarías la cafeína del café a la del matcha, que no está declarada, y aumentarías el riesgo de nervios o insomnio. La preparación indicada es 1 sobre en 180 ml de agua." },
+    { "q": "¿Lo puedo tomar si estoy en la academia preuniversitaria y tengo 16 años?", "a": "En adolescentes conviene que la decisión la tome la familia con orientación de un profesional de salud, por la cafeína natural del matcha. Un buen desayuno y horas de sueño suficientes son la base en esa etapa." }
+  ],
+  "sources": [
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" },
+    { "label": "NHLBI (NIH) – Sleep Deprivation and Deficiency", "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation" },
+    { "label": "CDC – Sleep", "url": "https://www.cdc.gov/sleep/" }
+  ],
+  "related": [
+    "/ciencia-matcha-pep-t/l-teanina/",
+    "/ciencia-matcha-pep-t/vs-cafe/",
+    "/ingredientes-matcha-pep-t/tiene-cafeina/",
+    "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/"
+  ]
+}

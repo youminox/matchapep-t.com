@@ -1,0 +1,143 @@
+{
+  "slug": "como-preparar-matcha-pep-t",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/",
+  "isPillar": true,
+  "primaryKeyword": "cómo preparar Matcha Pep-T",
+  "title": "Cómo preparar Matcha Pep-T: receta oficial, frío, caliente y variantes",
+  "seoTitle": "Cómo preparar Matcha Pep-T: guía completa y recetas",
+  "metaDescription": "Cómo preparar Matcha Pep-T bien: 1 sobre en 180 ml, frío o caliente, utensilios, mejor horario y variantes con leche vegetal. Guía práctica para Perú.",
+  "excerpt": "La guía central de preparación: la receta de la etiqueta, cuándo conviene frío o caliente, qué utensilios bastan, en qué momento del día encaja y todas las recetas derivadas.",
+  "quickAnswer": "Cómo preparar Matcha Pep-T según la etiqueta: vierte 180 ml de agua fría con hielo o caliente sin hervir en un vaso o shaker, agrega 1 sobre de 15 g y mezcla hasta disolver por completo. Si lo quieres más cremoso, añade un chorrito de bebida vegetal. La referencia es 1 sobre por porción, sin exceder lo recomendado.",
+  "readingMinutes": 12,
+  "image": {
+    "prompt": "Bright kitchen counter in a Lima apartment with two glasses of green matcha latte side by side, one iced with condensation and one hot in a ceramic mug with gentle steam, a small measuring jug, a handheld milk frother and a steel shaker bottle, soft morning window light, warm neutral tones, minimal style, no packaging, no text, no logos, no people",
+    "alt": "Un matcha latte frío con hielo y otro caliente en taza de cerámica junto a una jarra medidora, un espumador de mano y un shaker en una cocina iluminada"
+  },
+  "blocks": [
+    { "type": "p", "text": "Son las 7:20 de la mañana, la garúa todavía no se decide y tienes diez minutos antes de salir a tomar el corredor rumbo a la oficina. En ese margen cabe perfectamente un vaso de Matcha Pep-T bien hecho, siempre que sepas tres cosas: cuánta agua usar, a qué temperatura y en qué orden mezclar." },
+    { "type": "p", "text": "Esta página es la base de toda la sección de preparación. Aquí tienes la receta tal como la indica la etiqueta, los criterios para elegir entre frío y caliente, los utensilios que de verdad sirven, el horario que tiene más sentido y cómo usar bebidas vegetales sin desvirtuar la porción. Las recetas especiales (frappé, pudín, paletas y otras) las resumimos y enlazamos a su guía propia, para que encuentres el detalle donde corresponde." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que indica el empaque", "text": "Porción: 1 sobre de 15 g diluido en 1 taza de agua (180 ml). El doypack trae 14 sobres. La etiqueta pide no exceder lo recomendado. Por porción declara 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y 14.9 µg de cromo (45 % del valor diario)." },
+    { "type": "h2", "text": "Cómo preparar Matcha Pep-T paso a paso: la receta oficial" },
+    { "type": "p", "text": "La receta oficial no tiene secretos, pero sí un detalle que marca la diferencia: el líquido va primero. Si echas el polvo en un vaso vacío y luego el agua encima, el polvo se compacta en el fondo y aparecen las famosas bolitas verdes." },
+    { "type": "steps", "items": [
+      { "name": "Mide 180 ml de agua", "text": "Usa una jarra medidora o un vaso que ya hayas marcado a la altura de 180 ml. Puede ser agua fría con hielo o agua caliente que no esté hirviendo." },
+      { "name": "Vierte el agua en el recipiente", "text": "Un vaso alto, una taza o un shaker. Si vas a usar hielo, ponlo después de mezclar para que no estorbe al disolver." },
+      { "name": "Agrega 1 sobre de 15 g", "text": "Abre el sobre por la muesca y vacíalo completo sobre el agua. Un sobre equivale a una porción; no hace falta medir con cuchara." },
+      { "name": "Mezcla hasta disolver", "text": "Agita el shaker unos 15 a 20 segundos con la tapa bien cerrada, o bate con un espumador de mano o un batidor pequeño hasta que no queden grumos." },
+      { "name": "Ajusta la textura si quieres", "text": "Para un latte más cremoso, agrega un chorrito de bebida vegetal (almendra, soya, coco o avena). Sirve y tómalo recién preparado." }
+    ] },
+    { "type": "p", "text": "Si quieres ver la receta base con más trucos de textura y el aspecto que debería tener el resultado, revisa la [receta clásica de Matcha Pep-T con 180 ml](/como-preparar-matcha-pep-t/receta-clasica-180-ml/)." },
+    { "type": "h3", "text": "Por qué respetar los 180 ml" },
+    { "type": "p", "text": "Los valores nutricionales corresponden a un sobre, sin importar cuánta agua uses. Lo que cambia con la cantidad de líquido es la experiencia: con menos agua la bebida queda espesa y empalagosa, porque la fibra de maíz, la goma xantana y la crema de coco se concentran; con mucha más agua se pierde el cuerpo de latte y el sabor queda aguado. Los 180 ml son el punto en el que el producto fue pensado para disolverse y saber como debe." },
+    { "type": "p", "text": "Un truco práctico: mide una sola vez los 180 ml con una jarra, viértelos en el vaso que usas a diario y haz una marquita discreta con un plumón indeleble o fíjate en una referencia del diseño. Desde ese día preparas al ojo, pero con precisión." },
+    { "type": "table", "caption": "Lo que aporta una porción preparada (1 sobre en 180 ml de agua), según la etiqueta", "headers": ["Nutriente", "Por porción", "% VD"], "rows": [
+      ["Energía", "46 kcal", "2 %"],
+      ["Proteína", "4.7 g", "9 %"],
+      ["Fibra dietaria", "4.9 g", "18 %"],
+      ["Azúcares totales", "2.0 g", "2 %"],
+      ["Azúcares añadidos", "0.9 g", "—"],
+      ["Sodio", "28 mg", "1 %"],
+      ["Cromo", "14.9 µg", "45 %"]
+    ] },
+    { "type": "p", "text": "Para el desglose completo, incluyendo grasas y valores por 100 ml, consulta la [tabla nutricional de Matcha Pep-T](/ingredientes-matcha-pep-t/tabla-nutricional/)." },
+    { "type": "h2", "text": "¿Frío o caliente? Cómo elegir según el clima de Lima" },
+    { "type": "p", "text": "La etiqueta acepta las dos versiones, así que la elección depende de la estación, del momento del día y de cuánto tiempo vas a tardar en tomártelo. En Lima, donde pasamos de un verano pegajoso a un invierno húmedo y gris, lo normal es alternar." },
+    { "type": "table", "caption": "Comparación práctica entre la versión fría y la caliente", "headers": ["Aspecto", "Frío con hielo", "Caliente sin hervir"], "rows": [
+      ["Mejor época", "Diciembre a abril, días de sol", "Junio a setiembre, garúa y humedad"],
+      ["Sensación", "Refrescante, tipo iced latte", "Reconfortante, tipo latte de taza"],
+      ["Disolución", "Necesita agitar más tiempo", "Se integra más rápido"],
+      ["Para llevar", "Ideal en botella o tomatodo", "Mejor en termo o taza con tapa"],
+      ["Riesgo típico", "Grumos si el agua está helada y no agitas", "Grumos y sabor apagado si el agua hierve"]
+    ] },
+    { "type": "p", "text": "En la versión fría, el truco es mezclar primero con el agua a temperatura de caño filtrada o embotellada y luego sumar los cubos de hielo. La guía de [Matcha Pep-T frío con hielo](/como-preparar-matcha-pep-t/frio-con-hielo/) explica cómo llevarlo en botella sin que se separe durante el trayecto." },
+    { "type": "p", "text": "En la versión caliente, evita el agua en plena ebullición. Si usas tetera eléctrica, espera un par de minutos después de que se apague; buscas agua muy caliente pero no burbujeante, aproximadamente entre 70 y 80 °C. Todo el detalle está en la guía de [Matcha Pep-T caliente para el invierno](/como-preparar-matcha-pep-t/caliente/)." },
+    { "type": "h2", "text": "Utensilios: lo mínimo y lo que suma" },
+    { "type": "p", "text": "No necesitas un chasen de bambú ni equipo de cafetería. El polvo está formulado para disolverse con herramientas comunes, y la mayoría ya las tienes en casa." },
+    { "type": "ul", "items": [
+      "**Jarra medidora o vaso marcado**: lo único realmente imprescindible, porque asegura los 180 ml.",
+      "**Shaker con tapa hermética**: la opción más rápida y la que menos grumos deja. Útil también para llevar a la oficina o a la universidad.",
+      "**Espumador de mano a pilas**: cuesta poco en cualquier tienda de menaje del Centro de Lima o de un centro comercial, y deja una textura suave en segundos.",
+      "**Batidor pequeño o tenedor**: plan B aceptable si no tienes lo anterior; requiere más paciencia.",
+      "**Licuadora**: solo para recetas como el frappé o el smoothie.",
+      "**Termo o tomatodo**: si lo preparas en casa y lo tomas más tarde."
+    ] },
+    { "type": "p", "text": "Si siempre te quedan restos sin disolver, revisa la técnica de [Matcha Pep-T sin grumos con shaker](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/). Y si te gusta la capa cremosa de las cafeterías, aprende a lograr una [espuma de matcha latte casera](/como-preparar-matcha-pep-t/como-hacer-espuma/) con espumador o prensa francesa." },
+    { "type": "cta", "text": "¿Todavía no tienes tu doypack? Son 14 sobres por S/ 158.00, es decir, S/ 11.29 por sobre. Revisa disponibilidad y envío con el distribuidor autorizado." },
+    { "type": "h2", "text": "Horario sugerido: en qué momento del día encaja mejor" },
+    { "type": "p", "text": "La etiqueta no fija una hora, así que el horario es una decisión práctica. Hay tres momentos que suelen funcionar bien en una rutina limeña: la media mañana, antes del almuerzo y la media tarde." },
+    { "type": "ul", "items": [
+      "**Media mañana**: entre el desayuno temprano y el almuerzo, cuando el estómago empieza a pedir algo y la tentación es la galleta de la máquina expendedora.",
+      "**Unos 30 minutos antes del almuerzo**: es el momento que replica la lógica de los estudios del ingrediente principal, explicada en el recuadro de abajo.",
+      "**Media tarde**: el clásico bajón de las 4 p. m. en la oficina, como alternativa a otra taza de café."
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Por qué se habla de tomarlo antes de comer", "text": "Rousselot, fabricante del ingrediente Nextida GC, comunica que en sus estudios (en ratones y ensayos piloto en humanos sanos y con prediabetes) tomar 5 a 10 g del ingrediente aislado unos 30 minutos antes de una comida se asoció a un menor pico de glucosa y a mayor liberación de GLP-1. Son resultados del ingrediente, no de Matcha Pep-T, y la cantidad de Nextida GC por sobre no está declarada." },
+    { "type": "p", "text": "Hay un horario que conviene evitar: la noche. El matcha contiene cafeína de forma natural y la etiqueta no declara cuánta, así que si eres sensible es mejor no tomarlo después de las 5 o 6 p. m. Encuentras más criterios en la guía sobre [a qué hora tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "p", "text": "Tres dudas relacionadas tienen su propia página: si conviene [tomar Matcha Pep-T en ayunas](/como-preparar-matcha-pep-t/en-ayunas/) cuando tu estómago es delicado, si es mejor [antes o después de entrenar](/como-preparar-matcha-pep-t/antes-o-despues-de-entrenar/), y [cuántos Matcha Pep-T al día](/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/) tiene sentido tomar según la etiqueta (la referencia es una porción)." },
+    { "type": "h2", "text": "Variantes con leche vegetal: más cremoso sin perder la porción" },
+    { "type": "p", "text": "La etiqueta contempla añadir un chorrito de leche o bebida vegetal. La clave está en la palabra chorrito: mantén la base de 180 ml de agua para que el sobre se disuelva bien y suma la bebida vegetal al final, solo para afinar textura y sabor. Reemplazar toda el agua por leche cambia el perfil nutricional y lo vuelve otra bebida." },
+    { "type": "table", "caption": "Bebidas vegetales más comunes en supermercados peruanos y qué aportan al latte", "headers": ["Bebida", "Qué cambia en el sabor", "A tener en cuenta"], "rows": [
+      ["Almendra", "Notas tostadas, cuerpo ligero", "Suele ser de las opciones con menos calorías; elige la versión sin azúcar"],
+      ["Avena", "La más cremosa, dulzor natural", "Suma carbohidratos; revisa la etiqueta de la marca"],
+      ["Soya", "Sabor neutro, buena espuma", "Aporta algo más de proteína que otras bebidas vegetales"],
+      ["Coco", "Refuerza la crema de coco del polvo", "Algunas versiones tienen más grasa; usa poca cantidad"]
+    ] },
+    { "type": "p", "text": "Cualquier bebida que agregues suma sus propias calorías y azúcares a los 46 kcal del sobre. Mira siempre la tabla nutricional de la caja que compras en el supermercado o la bodega, porque varía mucho entre marcas y entre versiones originales y sin azúcar." },
+    { "type": "p", "text": "Las dos combinaciones más pedidas tienen receta propia: el [Matcha Pep-T con leche de almendra](/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/), más ligero, y el [Matcha Pep-T con leche de avena](/como-preparar-matcha-pep-t/latte-con-avena/), el más cremoso de todos." },
+    { "type": "h2", "text": "Resumen de recetas: del vaso al bowl y al congelador" },
+    { "type": "p", "text": "Una vez que dominas la versión de la etiqueta, el sobre también puede ir en preparaciones más elaboradas. La regla que no cambia: un sobre es una porción, así que cada receta debería usar un sobre por persona y no sumarse a otro vaso el mismo día." },
+    { "type": "table", "caption": "Recetas derivadas y cuándo tienen sentido", "headers": ["Receta", "Momento ideal", "Qué necesitas además del sobre"], "rows": [
+      ["Frappé", "Tardes de verano", "Licuadora, hielo y opcionalmente plátano congelado"],
+      ["Smoothie", "Desayuno rápido", "Fruta (plátano, mango, aguaymanto) y licuadora"],
+      ["Overnight oats", "Desayuno para llevar", "Avena, frasco con tapa y una noche en la refrigeradora"],
+      ["Pudín de chía", "Snack o postre ligero", "Semillas de chía, bebida vegetal y unas horas de reposo"],
+      ["Paletas heladas", "Fines de semana de calor", "Moldes para paletas y congelador"]
+    ] },
+    { "type": "p", "text": "Ten en cuenta que en las recetas con fruta, avena o bebidas vegetales las calorías totales ya no son las 46 kcal del sobre solo: dependen de lo que agregues. Cada guía detalla proporciones y variantes." },
+    { "type": "h2", "text": "Errores frecuentes y cómo guardar los sobres" },
+    { "type": "p", "text": "Casi todos los problemas de sabor o textura vienen de cuatro descuidos: agua hirviendo, menos agua de la indicada, el polvo antes que el líquido o añadir azúcar por costumbre. El producto ya viene endulzado con estevia y con muy poca azúcar, así que endulzarlo más suele arruinar el equilibrio. Los repasamos uno por uno en la guía de [errores al preparar Matcha Pep-T](/como-preparar-matcha-pep-t/errores-al-prepararlo/)." },
+    { "type": "p", "text": "La conservación también influye. Lima tiene una humedad ambiental alta casi todo el año, y un sobre abierto o un doypack mal cerrado absorbe humedad y se apelmaza. Guarda los sobres en un lugar fresco y seco, lejos de la cocina y del sol directo; el detalle está en la guía sobre [cómo conservar Matcha Pep-T](/como-preparar-matcha-pep-t/como-conservar-los-sobres/)." },
+    { "type": "callout", "variant": "aviso", "title": "Antes de incorporarlo a tu rutina", "text": "Matcha Pep-T es un alimento en polvo, no un medicamento: no trata ni previene enfermedades. Si estás embarazada o dando de lactar, tienes diabetes, tomas medicación o eres sensible a la cafeína, consulta primero con tu médico o nutricionista." },
+    { "type": "h2", "text": "Todas las guías para preparar Matcha Pep-T" },
+    { "type": "p", "text": "Este es el índice completo de la sección. Cada guía resuelve una duda concreta, así que puedes ir directo a la que necesitas." },
+    { "type": "ul", "items": [
+      "[Receta clásica con 180 ml](/como-preparar-matcha-pep-t/receta-clasica-180-ml/): la preparación base explicada en detalle, con trucos de textura y el resultado esperado.",
+      "[Versión fría con hielo](/como-preparar-matcha-pep-t/frio-con-hielo/): el iced latte para el verano limeño y cómo llevarlo en botella.",
+      "[Versión caliente](/como-preparar-matcha-pep-t/caliente/): temperatura correcta del agua y cómo evitar grumos en invierno.",
+      "[Latte con bebida de almendra](/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/): proporciones, sabor resultante y calorías adicionales.",
+      "[Latte con bebida de avena](/como-preparar-matcha-pep-t/latte-con-avena/): la variante más cremosa y los carbohidratos que suma.",
+      "[Frappé en licuadora](/como-preparar-matcha-pep-t/frappe/): textura granizada con hielo y opción con plátano congelado.",
+      "[Smoothie con fruta](/como-preparar-matcha-pep-t/smoothie-con-platano/): combinaciones con plátano, espinaca, mango o aguaymanto.",
+      "[Overnight oats](/como-preparar-matcha-pep-t/overnight-oats/): avena remojada desde la noche anterior para un desayuno que se lleva en frasco.",
+      "[Pudín de chía](/como-preparar-matcha-pep-t/pudin-de-chia/): proporciones de semillas y líquido, reposo y toppings.",
+      "[Paletas heladas](/como-preparar-matcha-pep-t/paletas-heladas/): una versión congelada para los días de más calor.",
+      "[Sin grumos con shaker](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/): orden de los ingredientes, temperatura y uso del batidor eléctrico.",
+      "[Espuma casera](/como-preparar-matcha-pep-t/como-hacer-espuma/): capa cremosa tipo barista con espumador de mano o prensa francesa.",
+      "[Mejor hora para tomarlo](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/): media mañana, antes de comer o media tarde, y por qué evitar la noche.",
+      "[Cuántos sobres al día](/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/): la referencia de la etiqueta y por qué tomar más no es mejor.",
+      "[En ayunas](/como-preparar-matcha-pep-t/en-ayunas/): tolerancia del estómago y alternativas si te cae pesado.",
+      "[Antes o después de entrenar](/como-preparar-matcha-pep-t/antes-o-despues-de-entrenar/): cómo encaja con el gimnasio o el running y la hidratación.",
+      "[Errores al prepararlo](/como-preparar-matcha-pep-t/errores-al-prepararlo/): los fallos más comunes y la forma de corregirlos.",
+      "[Cómo conservar los sobres](/como-preparar-matcha-pep-t/como-conservar-los-sobres/): humedad, cierre del doypack y fecha de vencimiento."
+    ] },
+    { "type": "p", "text": "Si ya tienes clara la preparación y quieres empezar, en la página para [comprar Matcha Pep-T original en Perú](/comprar-matcha-pep-t/) encuentras el precio vigente, las formas de pago y el envío a Lima y provincias. También puedes pedirlo directamente en la [tienda del distribuidor autorizado](https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo dejarlo preparado en la refrigeradora para el día siguiente?", "a": "Lo ideal es tomarlo recién hecho, porque la fibra y la goma xantana siguen espesando la bebida con las horas y el matcha pierde frescura. Si necesitas adelantarte, prepáralo en la mañana y tómalo dentro del mismo día, bien tapado y frío. Antes de servir, agita de nuevo." },
+    { "q": "¿Qué agua uso en casa: de caño, hervida o embotellada?", "a": "Usa agua apta para beber: hervida y enfriada, filtrada o embotellada. Para la versión fría, el agua hervida debe estar ya a temperatura ambiente o de refrigeradora; para la caliente, deja que baje un poco después del hervor." },
+    { "q": "¿Puedo mezclar dos sobres en un vaso más grande para que rinda?", "a": "No es recomendable. La etiqueta indica 1 sobre por porción y pide no exceder lo recomendado, así que duplicar en un solo vaso equivale a tomar dos porciones a la vez. Si quieres una bebida más grande, añade hielo o un chorrito de bebida vegetal a la porción de siempre." },
+    { "q": "¿Puedo agregarle canela, cacao o vainilla?", "a": "Sí, una pizca de canela o unas gotas de esencia de vainilla combinan bien con el sabor a matcha latte y casi no suman calorías. El cacao en polvo amargo también funciona en poca cantidad. Evita jarabes y azúcar, que alteran el equilibrio del producto." },
+    { "q": "¿Cómo lo preparo si estoy fuera de casa y no tengo jarra medidora?", "a": "Muchas botellas de agua personales y tomatodos traen marcas de volumen; úsalas como guía para los 180 ml. Otra opción es llevar tu shaker con la línea ya marcada y el sobre cerrado, y mezclar en el momento con agua del bidón de la oficina." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "FDA – Cómo entender la etiqueta de información nutricional", "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/receta-clasica-180-ml/",
+    "/como-preparar-matcha-pep-t/frio-con-hielo/",
+    "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/",
+    "/ingredientes-matcha-pep-t/tabla-nutricional/"
+  ]
+}

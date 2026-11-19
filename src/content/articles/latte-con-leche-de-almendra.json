@@ -1,0 +1,79 @@
+{
+  "slug": "latte-con-leche-de-almendra",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T con leche de almendra",
+  "title": "Matcha Pep-T con leche de almendra: receta, sabor y calorías",
+  "seoTitle": "Matcha Pep-T con leche de almendra: receta y calorías",
+  "metaDescription": "Matcha Pep-T con leche de almendra: dos recetas, cuántas calorías extra suma la bebida de almendra, cómo cambia el sabor y cuál elegir en el supermercado.",
+  "excerpt": "La bebida de almendra es la forma más ligera de convertir tu sobre en un latte más suave. Recetas, calorías extra aproximadas y cómo elegirla en el súper.",
+  "quickAnswer": "Para preparar Matcha Pep-T con leche de almendra, disuelve 1 sobre de 15 g en 180 ml de agua y añade un chorrito de 30–60 ml de bebida de almendra sin endulzar. Ganas suavidad y un toque a fruto seco sumando, aproximadamente, entre 4 y 15 kcal a las 46 kcal de la porción.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass of pale green matcha latte being topped with a swirl of almond milk creating soft white marbling, a small ceramic pitcher and a handful of whole raw almonds scattered on a light linen cloth, on a wooden breakfast table in a bright Lima apartment, gentle morning light, no packaging, no cartons, no text, no logos, no people",
+    "alt": "Vaso de matcha latte verde con un remolino de bebida de almendra, jarrita de cerámica y almendras enteras sobre un mantel claro"
+  },
+  "blocks": [
+    { "type": "p", "text": "En los anaqueles de cualquier supermercado de Lima, las bebidas vegetales ya ocupan casi tanto espacio como la leche evaporada. La de almendra es, de todas, la más ligera: poca energía, sabor discreto y una textura que suaviza sin volver pesada la bebida." },
+    { "type": "p", "text": "Por eso es una buena compañera del sobre de matcha cuando lo que buscas es un latte un poco más redondo, sin alejarte demasiado de los valores de la etiqueta. La propia marca menciona la almendra como una de las opciones para un latte más cremoso. Veamos cómo hacerlo bien y qué cambia realmente." },
+    { "type": "h2", "text": "Dos formas de preparar Matcha Pep-T con leche de almendra" },
+    { "type": "p", "text": "La preparación oficial es 1 sobre en 180 ml de agua. A partir de ahí, puedes sumar la bebida de almendra de dos maneras: como un chorrito adicional o reemplazando una parte del agua. La primera respeta la dilución de la etiqueta; la segunda es una adaptación personal para quien prefiere más cuerpo." },
+    { "type": "h3", "text": "Receta A: base de la etiqueta + chorrito de almendra" },
+    { "type": "steps", "items": [
+      { "name": "Prepara la base", "text": "Sirve 180 ml de agua fría o caliente sin hervir en un vaso o taza y agrega el contenido de 1 sobre de 15 g." },
+      { "name": "Disuelve por completo", "text": "Mezcla o bate durante 20 a 30 segundos hasta que no queden grumos. Es importante hacerlo antes de añadir la bebida vegetal." },
+      { "name": "Añade la almendra", "text": "Vierte entre 30 y 60 ml de bebida de almendra sin endulzar. Si la versión es fría, úsala directamente de la refrigeradora; si es caliente, entíbiala antes." },
+      { "name": "Integra y sirve", "text": "Remueve con suavidad unos segundos. Si quieres ese efecto marmoleado de cafetería, vierte la almendra despacio sobre la bebida ya servida y no mezcles." }
+    ] },
+    { "type": "h3", "text": "Receta B: más cremosa, mismo volumen" },
+    { "type": "p", "text": "Disuelve el sobre en 120 ml de agua y completa con 60 ml de bebida de almendra, de modo que el total siga siendo 180 ml. Queda más sedosa y con más sabor a fruto seco. Ten en cuenta que los valores nutricionales de la etiqueta están calculados con agua, así que en ambas recetas debes sumar el aporte de la bebida que uses." },
+    { "type": "callout", "variant": "etiqueta", "title": "Punto de partida: la porción con agua", "text": "1 sobre de 15 g en 180 ml de agua aporta 46 kcal, 7.8 g de carbohidratos, 4.7 g de proteína, 4.9 g de fibra y 0.9 g de azúcares añadidos. Todo lo que añadas se suma a estos valores." },
+    { "type": "h2", "text": "¿Cuántas calorías extra suma la bebida de almendra?" },
+    { "type": "p", "text": "Depende de la marca y, sobre todo, de si está endulzada. Las versiones sin endulzar suelen moverse entre 13 y 25 kcal por cada 100 ml; las «originales» o saborizadas pueden duplicar esa cifra por el azúcar agregado. La tabla usa rangos aproximados; la referencia exacta siempre es la etiqueta de tu envase." },
+    { "type": "table", "caption": "Calorías aproximadas de la bebida según cantidad añadida", "headers": ["Cantidad añadida", "Almendra sin endulzar", "Almendra endulzada", "Total aproximado con el sobre"], "rows": [
+      ["30 ml", "4–8 kcal", "8–12 kcal", "50–58 kcal"],
+      ["60 ml", "8–15 kcal", "15–24 kcal", "54–70 kcal"],
+      ["90 ml", "12–23 kcal", "23–36 kcal", "58–82 kcal"]
+    ] },
+    { "type": "p", "text": "Como ves, con una bebida sin endulzar el cambio es pequeño. Si llevas un registro detallado de lo que comes, la diferencia entre la versión con agua y la versión con un chorrito de almendra es mínima. Para entender mejor de dónde salen las 46 kcal de base, revisa el desglose de [calorías de Matcha Pep-T](/ingredientes-matcha-pep-t/calorias/)." },
+    { "type": "p", "text": "Un detalle que a veces pasa desapercibido: la bebida de almendra aporta muy poca proteína, normalmente menos de 1 g por cada 100 ml. No esperes que suba de forma notable los 4.7 g del sobre." },
+    { "type": "cta", "text": "¿Quieres probar tu propio latte de almendra? Revisa el precio oficial del doypack de 14 sobres y cómpralo con el distribuidor autorizado." },
+    { "type": "h2", "text": "Cómo cambia el sabor y la textura" },
+    { "type": "p", "text": "El sobre ya trae crema de coco y saborizantes naturales de crema caramelo y leche de coco. La almendra no compite con esos sabores: los acompaña con una nota tostada, ligeramente a nuez, que redondea el final herbal del matcha." },
+    { "type": "ul", "items": [
+      "**Dulzor:** con almendra sin endulzar, el dulzor se percibe un poco más suave, porque la estevia queda algo más diluida.",
+      "**Cuerpo:** aumenta ligeramente, pero menos que con bebida de avena o de soya. Es una cremosidad ligera, no espesa.",
+      "**En frío:** es donde mejor luce; la combinación con hielo resulta fresca y limpia.",
+      "**En caliente:** funciona bien si la entibias sin hervir. Algunas marcas se separan cuando se calientan demasiado, formando pequeños flóculos; no es dañino, pero afecta el aspecto."
+    ] },
+    { "type": "p", "text": "Si lo que buscas es una textura claramente más densa, parecida a la de un latte de cafetería, la bebida de avena es mejor opción; lo comparamos en el [Matcha Pep-T con leche de avena](/como-preparar-matcha-pep-t/latte-con-avena/)." },
+    { "type": "h2", "text": "Cómo elegir la bebida de almendra en el supermercado" },
+    { "type": "p", "text": "En Wong, Plaza Vea, Tottus, Metro o en las bodegas naturistas encontrarás varias presentaciones. Para esta receta, conviene fijarse en:" },
+    { "type": "ol", "items": [
+      "**Que diga «sin endulzar».** Es la que menos altera el perfil de la bebida y la que menos calorías suma.",
+      "**Lista de ingredientes corta.** Agua, almendra, algún estabilizante y, si acaso, calcio añadido. Cuanto más simple, mejor se integra.",
+      "**Sin sabor a vainilla o chocolate.** Esos saborizantes chocan con el matcha y suelen venir con azúcar.",
+      "**El porcentaje de almendra.** Muchas bebidas tienen un porcentaje bajo de almendra; uno algo mayor suele dar más sabor y cuerpo.",
+      "**Formato pequeño si la usas poco.** Una vez abierta, la caja debe refrigerarse y consumirse en los días que indique el envase."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Alergias a frutos secos", "text": "La almendra es un fruto seco y uno de los alérgenos alimentarios más comunes. Si tienes alergia a frutos secos, evita esta receta. Recuerda además que el sobre contiene crema de coco y colágeno de origen animal; revisa los posibles alérgenos en la guía de [gluten, lactosa y alérgenos](/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/) y consulta con tu médico si tienes dudas." },
+    { "type": "p", "text": "Con estas dos recetas tienes una variante ligera para el día a día. Para el resto de formas de prepararlo, vuelve a la guía de [cómo preparar Matcha Pep-T](/como-preparar-matcha-pep-t/), y cuando necesites reponer, puedes [comprar Matcha Pep-T](/comprar-matcha-pep-t/) a S/ 158.00 el doypack, equivalente a S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Con leche de almendra el Matcha Pep-T se vuelve vegano?", "a": "No. El primer ingrediente del sobre es colágeno hidrolizado, que es de origen animal. La bebida de almendra solo reemplaza la parte láctea que podrías añadir, pero no cambia la composición del polvo." },
+    { "q": "¿Puedo hacer mi propia bebida de almendra en casa?", "a": "Sí: almendras remojadas, licuadas con agua y coladas. El sabor suele ser más intenso que el de caja, pero sus calorías varían según cuánta almendra uses. Consérvala refrigerada y consúmela en pocos días." },
+    { "q": "¿Es lo mismo usar leche de vaca?", "a": "Funciona en la preparación, pero aporta más calorías y lactosa que una bebida de almendra sin endulzar. Si eliges leche de vaca, opta por un chorrito y suma su aporte al de la etiqueta." },
+    { "q": "¿Puedo licuarlo con la bebida de almendra?", "a": "Sí, la licuadora integra muy bien la mezcla y le da algo de espuma. Si además agregas hielo y fruta, ya estarías en el terreno de un batido, con más calorías que la receta base." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central – valores nutricionales de alimentos", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "FDA – Alimentos y etiquetado", "url": "https://www.fda.gov/food" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/latte-con-avena/",
+    "/ingredientes-matcha-pep-t/calorias/",
+    "/ingredientes-matcha-pep-t/es-vegano/",
+    "/como-preparar-matcha-pep-t/receta-clasica-180-ml/"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "registro-sanitario",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/registro-sanitario/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T registro sanitario DIGESA",
+  "title": "Matcha Pep-T: registro sanitario DIGESA y cómo verificarlo",
+  "seoTitle": "Matcha Pep-T registro sanitario DIGESA: cómo verificarlo",
+  "metaDescription": "Qué es el registro sanitario DIGESA, dónde encontrarlo en el envase de Matcha Pep-T y cómo verificarlo para asegurarte de comprar un producto original.",
+  "excerpt": "El registro sanitario es el código que permite vender un alimento envasado en el Perú. Te mostramos dónde buscarlo en el doypack de Matcha Pep-T, cómo verificarlo y qué significa realmente.",
+  "quickAnswer": "El registro sanitario DIGESA de Matcha Pep-T es el código que autoriza su venta como alimento envasado en el Perú y debe figurar impreso en el doypack, junto a los datos del fabricante, el lote y el vencimiento. Puedes verificarlo en el portal de DIGESA comparando nombre y titular. No es un aval de eficacia, sino de control sanitario.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Still life: a magnifying glass resting on a wooden table next to a small paper receipt, a smartphone lying face down and a ceramic cup of green matcha latte, soft natural light from a window on a grey Lima morning, shallow depth of field, realistic photography, no readable text, no logos, no packaging, no people",
+    "alt": "Lupa sobre una mesa de madera junto a un comprobante, un celular y una taza de matcha latte, evocando la revisión de un envase"
+  },
+  "blocks": [
+    { "type": "p", "text": "Imagina que alguien ofrece en un grupo de Facebook «Matcha Pep-T a precio de remate», con entrega en un paradero de la avenida Arequipa. La foto se ve bien y el precio tienta. Antes de pensar en si te conviene, hay una pregunta más básica: ¿ese producto pasó por el control sanitario que exige la ley peruana?" },
+    { "type": "p", "text": "La respuesta está, en buena parte, en un código pequeño que casi nadie lee: el registro sanitario. En esta guía te explicamos qué es, dónde ubicarlo en el envase, cómo comprobarlo y, sobre todo, qué significa y qué no." },
+    { "type": "h2", "text": "¿Qué es el registro sanitario en el Perú?" },
+    { "type": "p", "text": "Es la autorización que otorga la autoridad de salud para que un alimento o bebida industrializada pueda fabricarse, importarse y venderse en el país. En el caso de los alimentos envasados, la entidad responsable es la **DIGESA** (Dirección General de Salud Ambiental e Inocuidad Alimentaria), que forma parte del Ministerio de Salud." },
+    { "type": "p", "text": "Para obtenerlo, el titular presenta información del producto, como su composición, el rotulado y los análisis que lo respaldan. Si cumple, DIGESA le asigna un código alfanumérico que debe aparecer en la etiqueta y que tiene una vigencia determinada, tras la cual debe renovarse." },
+    { "type": "p", "text": "Matcha Pep-T se presenta como una mezcla en polvo para preparar una bebida instantánea, es decir, como un alimento. Por eso la referencia natural es el registro de DIGESA y no el de medicamentos, que corresponde a otra dirección del ministerio." },
+    { "type": "h2", "text": "Matcha Pep-T registro sanitario DIGESA: dónde verlo en el envase" },
+    { "type": "p", "text": "No reproducimos aquí un número de registro de memoria: la referencia válida es la que viene impresa en el producto que tienes en la mano. Para ubicarla, revisa el doypack con calma:" },
+    { "type": "ol", "items": [
+      "Gira el envase y busca la cara posterior o los laterales, donde suelen agruparse los datos legales.",
+      "Ubica el bloque con el nombre y la dirección del fabricante o titular; el código suele estar cerca, precedido de «R.S.», «Reg. San.» o «Registro Sanitario».",
+      "Muy cerca deberías encontrar el número de lote y la fecha de vencimiento, impresos de forma legible.",
+      "Si solo tienes sobres sueltos, ten en cuenta que pueden traer información reducida: la referencia completa está en el doypack."
+    ] },
+    { "type": "p", "text": "Además del registro, el rótulo de un alimento envasado en el Perú debe estar en español y contener datos básicos que también te ayudan a detectar un producto dudoso:" },
+    { "type": "table", "caption": "Qué revisar en el rótulo y para qué te sirve", "headers": ["Dato del envase", "Para qué te sirve"], "rows": [
+      ["Registro sanitario", "Confirma que el producto pasó por el control de DIGESA"],
+      ["Lote y fecha de vencimiento", "Permiten rastrear la fabricación y saber si aún es apto"],
+      ["Fabricante o titular", "Te dice quién responde por el producto"],
+      ["Lista de ingredientes", "Debe coincidir con la fórmula conocida, que empieza con colágeno hidrolizado Nextida GC"],
+      ["Contenido neto", "210 g en total: 14 sobres de 15 g cada uno"],
+      ["Tabla nutricional", "Por porción de 180 ml: 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y cromo al 45 % VD"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Compara con la etiqueta real", "text": "Si la lista de ingredientes, la porción (1 sobre en 180 ml de agua) o la tabla nutricional de tu envase no coinciden con estos datos, desconfía. Puedes revisar la lista completa en nuestra guía de [ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Cómo verificar el código en el portal de DIGESA" },
+    { "type": "p", "text": "DIGESA pone a disposición del público una consulta en línea de registros sanitarios de alimentos. La ubicación del buscador dentro de su web puede cambiar, pero el proceso suele ser este:" },
+    { "type": "steps", "items": [
+      { "name": "Anota el código", "text": "Copia el registro sanitario tal como aparece en el doypack, respetando letras y números." },
+      { "name": "Entra al portal oficial", "text": "Ingresa a digesa.minsa.gob.pe y busca la sección de consulta de registros sanitarios de alimentos y bebidas." },
+      { "name": "Busca el producto", "text": "Consulta por número de registro o por nombre del producto, según lo permita el buscador." },
+      { "name": "Compara los datos", "text": "Verifica que el nombre del producto, el titular y la vigencia coincidan con lo que dice tu envase." },
+      { "name": "Actúa si algo no cuadra", "text": "Si el código no existe, está vencido o corresponde a otro producto, no lo consumas y guarda el envase y el comprobante." }
+    ] },
+    { "type": "cta", "text": "La forma más simple de evitar dudas es comprar en la tienda oficial: precio de referencia S/ 158.00 por 14 sobres." },
+    { "type": "h2", "text": "Por qué importa el registro sanitario (y lo que no significa)" },
+    { "type": "p", "text": "El registro importa por tres motivos prácticos. Primero, indica que el producto fue evaluado por la autoridad sanitaria antes de llegar al mercado. Segundo, junto con el lote, permite rastrear un problema si algo sale mal. Y tercero, te da un respaldo si necesitas presentar un reclamo." },
+    { "type": "p", "text": "Pero conviene no sobredimensionarlo. Un registro sanitario de alimento **no** significa que DIGESA haya aprobado beneficios para la salud, ni que el producto adelgace o regule la glucosa. Tampoco lo convierte en un medicamento. Lo que dice FuXion sobre saciedad o sobre Nextida GC es comunicación de la marca; los estudios de GLP-1 y glucosa son del fabricante del ingrediente (Rousselot), con 5–10 g del ingrediente aislado, no del producto terminado." },
+    { "type": "p", "text": "Un detalle más: un falsificador puede copiar un código real en una etiqueta impresa en casa. Por eso el registro es una pieza del rompecabezas, no la prueba definitiva. Súmale el sellado del envase, la calidad de impresión, el precio y, sobre todo, el canal de compra. Lo desarrollamos en [cómo distinguir un Matcha Pep-T original de uno falsificado](/precio-matcha-pep-t-peru/original-vs-falsificado/)." },
+    { "type": "callout", "variant": "aviso", "title": "Si sospechas de un producto", "text": "No lo consumas. Conserva el envase, el comprobante y las conversaciones con el vendedor. Puedes reportar productos dudosos a DIGESA y, si hubo una venta engañosa, presentar un reclamo ante INDECOPI o en el libro de reclamaciones del establecimiento." },
+    { "type": "h2", "text": "Dónde comprar para no tener que hacer de detective" },
+    { "type": "p", "text": "Revisar el registro es útil, pero lo ideal es no depender de ello. Los productos que se venden en marketplaces o por redes pueden estar vencidos, mal almacenados en la humedad limeña o directamente adulterados; te contamos más en [los riesgos de comprar en marketplaces](/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/)." },
+    { "type": "p", "text": "Si estás evaluando el producto en general, nuestra guía de [opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/) te ayuda a separar lo verificable de lo comercial. Y cuando decidas, puedes [comprar Matcha Pep-T en la tienda oficial](/comprar-matcha-pep-t/) del distribuidor autorizado, con envío a Lima y provincias." }
+  ],
+  "faqs": [
+    { "q": "¿El registro sanitario está en cada sobre?", "a": "No necesariamente. Los sobres individuales pueden llevar información reducida, mientras que el doypack concentra el rotulado completo. Por eso conviene conservar el envase mientras consumes los 14 sobres." },
+    { "q": "¿Tener registro sanitario significa que Matcha Pep-T es seguro para todos?", "a": "Significa que el producto cumple los requisitos sanitarios para venderse como alimento. No reemplaza la consulta médica en casos como embarazo, diabetes, hipertensión o uso de medicamentos." },
+    { "q": "¿Qué hago si el código de mi envase no aparece en la consulta?", "a": "Revisa primero que lo hayas escrito bien y prueba buscando por nombre del producto. Si aun así no aparece o no coincide, no lo consumas, guarda el envase y el comprobante, y comunícate con el vendedor o con la autoridad." },
+    { "q": "¿Un precio muy bajo puede ser señal de un producto sin registro?", "a": "Puede serlo. El precio de referencia es S/ 158.00 por 14 sobres, es decir, S/ 11.29 por sobre. Una oferta muy por debajo, de un vendedor sin respaldo, merece una revisión más cuidadosa del envase." }
+  ],
+  "sources": [
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "INDECOPI – Protección al consumidor", "url": "https://www.gob.pe/indecopi" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/original-vs-falsificado/",
+    "/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/",
+    "/precio-matcha-pep-t-peru/donde-comprar-original-en-lima/",
+    "/opiniones-matcha-pep-t/garantia-y-devoluciones/"
+  ]
+}

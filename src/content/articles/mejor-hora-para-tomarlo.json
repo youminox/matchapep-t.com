@@ -1,0 +1,69 @@
+{
+  "slug": "mejor-hora-para-tomarlo",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/",
+  "isPillar": false,
+  "primaryKeyword": "a qué hora tomar Matcha Pep-T",
+  "title": "¿A qué hora tomar Matcha Pep-T? Horarios que tienen sentido",
+  "seoTitle": "A qué hora tomar Matcha Pep-T: antes del almuerzo y más",
+  "metaDescription": "A qué hora tomar Matcha Pep-T: 30 minutos antes del almuerzo, a media mañana o en la tarde, y por qué conviene evitarlo de noche por su cafeína natural.",
+  "excerpt": "El mejor momento depende de tu objetivo y de tu rutina. Te explicamos la lógica de tomarlo antes de una comida principal, las alternativas de media mañana y tarde, y por qué no es buena idea de noche.",
+  "quickAnswer": "Si te preguntas a qué hora tomar Matcha Pep-T, la referencia más útil es unos 30 minutos antes de una comida principal, que en Perú suele ser el almuerzo. También funciona a media mañana o a media tarde como reemplazo del snack. Conviene evitarlo en la noche, porque el matcha contiene cafeína de forma natural.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A glass of iced matcha latte on an office desk next to a wall clock showing half past twelve, a closed lunch box and a notebook, large window with a view of modern buildings in San Isidro Lima under a soft overcast sky, clean bright corporate interior, no packaging, no text, no logos, no people",
+    "alt": "Vaso de matcha latte frío en un escritorio de oficina junto a un reloj que marca las doce y media y una lonchera cerrada"
+  },
+  "blocks": [
+    { "type": "p", "text": "La etiqueta de Matcha Pep-T dice cuánto preparar, pero no a qué hora. Esa libertad es cómoda, aunque deja una duda razonable: ¿da igual tomarlo a las 8 de la mañana que a las 9 de la noche? No da igual, y hay al menos dos razones concretas para elegir bien el momento." },
+    { "type": "p", "text": "La primera tiene que ver con cómo se estudió su ingrediente principal, el colágeno Nextida GC. La segunda, con la cafeína que el matcha trae de forma natural. Con esas dos ideas claras, armar tu horario en función de tu jornada en Lima o en provincia es sencillo." },
+    { "type": "h2", "text": "A qué hora tomar Matcha Pep-T según la lógica de los estudios" },
+    { "type": "p", "text": "Nextida GC es un ingrediente de péptidos de colágeno desarrollado por Rousselot. En los estudios del propio fabricante, el ingrediente se tomaba **unos 30 minutos antes de una comida**, y en ese contexto se asoció a un menor pico de glucosa después de comer y a una mayor liberación de GLP-1 y GIP, dos hormonas relacionadas con la saciedad y la respuesta a la insulina." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que conviene saber de esos estudios", "text": "Son estudios del fabricante del ingrediente (Rousselot), con dosis de 5–10 g de Nextida GC aislado, en ratones y en grupos pequeños de personas sanas o con prediabetes. No se hicieron con Matcha Pep-T, y la cantidad de Nextida GC por sobre no está declarada en la etiqueta. Por eso el horario de 30 minutos antes es una referencia lógica, no una garantía de efecto." },
+    { "type": "p", "text": "Aun con esas limitaciones, tomarlo antes de comer tiene sentido práctico por otro motivo: cada sobre aporta **4.9 g de fibra** y **4.7 g de proteína**, dos nutrientes que contribuyen a sentirte más satisfecho. Llegar a la mesa con algo en el estómago ayuda a que no te sirvas con hambre acumulada. Si quieres profundizar en los ensayos, revisa el resumen de los [estudios de Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-estudios/)." },
+    { "type": "h3", "text": "¿Antes de qué comida?" },
+    { "type": "p", "text": "En la mayoría de hogares peruanos la comida fuerte es el **almuerzo**: el menú de la oficina, el lomo saltado de los domingos o el arroz con pollo del día. Por eso, para mucha gente la opción más lógica es tomarlo entre las 12:00 y las 12:30 si almuerzas a la una. Quien cena más abundante que almuerza puede trasladar la misma lógica a la tarde, sin acercarse demasiado a la hora de dormir." },
+    { "type": "h2", "text": "Horarios posibles según tu rutina" },
+    { "type": "p", "text": "Como la referencia de la etiqueta es **1 sobre al día**, se trata de elegir un momento, no de repartir varios. Estos ejemplos te pueden orientar:" },
+    { "type": "table", "caption": "Ejemplos de horario con un solo sobre al día", "headers": ["Rutina", "Momento sugerido", "Por qué"], "rows": [
+      ["Oficina, almuerzo a la 1:00 p. m.", "12:15–12:30 p. m.", "Coincide con la lógica de 30 minutos antes de la comida principal"],
+      ["Teletrabajo con reuniones largas", "10:30–11:00 a. m.", "Cubre el bache de media mañana y evita el picoteo frente a la pantalla"],
+      ["Universitario con clases en la tarde", "3:30–4:30 p. m.", "Reemplaza la galleta o el dulce del quiosco antes de la última clase"],
+      ["Turno de madrugada (5:00 a. m. – 1:00 p. m.)", "A mitad del turno", "Se adapta a tu propio reloj: lo importante es la distancia con tu sueño"],
+      ["Entrenas al salir del trabajo", "Media tarde", "Te acompaña hasta la cena sin llegar con hambre voraz"]
+    ] },
+    { "type": "p", "text": "Si haces deporte y dudas si conviene tomarlo antes o después de la sesión, tenemos una guía específica sobre [Matcha Pep-T antes o después de entrenar](/como-preparar-matcha-pep-t/antes-o-despues-de-entrenar/)." },
+    { "type": "h2", "text": "Media mañana o media tarde: la opción del snack" },
+    { "type": "p", "text": "No todos buscan el efecto antes de comer. Muchas personas lo usan simplemente como pausa: el momento en que antes caía un pan con algo, un café con azúcar o un paquete de galletas. Con **46 kcal** por porción preparada en agua, es una alternativa ligera para esos intervalos." },
+    { "type": "ul", "items": [
+      "**Media mañana (10:00–11:00):** útil si desayunas temprano, por ejemplo antes de enfrentar el tráfico de la Javier Prado, y llegas al almuerzo con mucha hambre.",
+      "**Media tarde (16:00–17:00):** la hora clásica del antojo dulce. El sabor a latte endulzado con estevia ayuda a cubrir ese deseo con muy poca azúcar (0.9 g de azúcares añadidos por porción).",
+      "**Evita juntarlo con el café:** si ya tomas café en la mañana, sumar el matcha en el mismo momento acumula estimulantes. Sepáralos varias horas."
+    ] },
+    { "type": "cta", "text": "Arma tu rutina con un doypack de 14 sobres: revisa el precio y las opciones de compra." },
+    { "type": "h2", "text": "Por qué evitarlo en la noche" },
+    { "type": "p", "text": "El matcha es té verde en polvo de hoja entera y, como todo té verde, contiene **cafeína de forma natural**. La etiqueta de Matcha Pep-T no declara la cantidad, así que no podemos decirte cuánta tiene un sobre. Lo prudente es tratarlo como cualquier bebida con cafeína." },
+    { "type": "p", "text": "La cafeína puede seguir activa varias horas después de tomarla, y la sensibilidad cambia mucho de una persona a otra. Una regla práctica es no tomarlo en las **6 horas previas a dormir**. Si te acuestas a las 11 de la noche, intenta que tu sobre quede antes de las 5 de la tarde. Si eres especialmente sensible, adelántalo aún más. Encuentras más detalles en el artículo sobre si [Matcha Pep-T tiene cafeína](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "callout", "variant": "aviso", "title": "Consulta antes si tomas medicación", "text": "Si tienes diabetes, usas medicamentos para la glucosa, estás embarazada, das de lactar o tienes indicaciones médicas sobre la cafeína, habla con tu médico antes de decidir cuándo y si tomarlo. Matcha Pep-T es un alimento, no un medicamento." },
+    { "type": "h2", "text": "¿Y en ayunas, apenas te levantas?" },
+    { "type": "p", "text": "Es una pregunta frecuente y tiene sus propios matices de tolerancia digestiva. La tratamos por separado en la guía sobre [Matcha Pep-T en ayunas](/como-preparar-matcha-pep-t/en-ayunas/). En corto: si tu estómago es sensible, suele ir mejor después de haber comido algo ligero." },
+    { "type": "p", "text": "Elige un horario y mantenlo unos días para ver cómo te sienta; la constancia te dirá más que cualquier regla general. Para el resto de recetas y variantes, vuelve a la [guía completa de preparación](/como-preparar-matcha-pep-t/), y si necesitas reponer sobres, encuentras el precio vigente en la [página de compra](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomarlo junto con el almuerzo en lugar de antes?", "a": "Puedes, no hay una prohibición en la etiqueta. Solo ten en cuenta que la referencia de los estudios del ingrediente es tomarlo unos 30 minutos antes de comer, así que tomarlo durante la comida se aleja de esa lógica." },
+    { "q": "¿Si me olvido de mi horario, lo tomo más tarde?", "a": "Sí, siempre que no sea cerca de la hora de dormir. Si ya es de noche, es mejor saltarte ese día que afectar tu descanso. No compenses tomando dos sobres al día siguiente." },
+    { "q": "¿Da lo mismo frío que caliente según la hora?", "a": "La temperatura no cambia el horario recomendado. Muchas personas prefieren la versión caliente en las mañanas de invierno con garúa y la fría con hielo en las tardes de verano, pero es una cuestión de gusto." },
+    { "q": "¿Sirve tomarlo los fines de semana a otra hora?", "a": "Sí. Si el sábado almuerzas a las 3 de la tarde, desplaza tu sobre a las 2:30. Lo importante es la relación con tu comida principal y la distancia con tu hora de dormir." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "FDA – Spilling the Beans: How Much Caffeine is Too Much?", "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" },
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/",
+    "/como-preparar-matcha-pep-t/en-ayunas/",
+    "/ingredientes-matcha-pep-t/tiene-cafeina/",
+    "/que-es-matcha-pep-t/saciedad-control-apetito/"
+  ]
+}

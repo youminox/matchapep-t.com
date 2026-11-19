@@ -1,0 +1,70 @@
+{
+  "slug": "tiene-azucar",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/tiene-azucar/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T tiene azúcar",
+  "title": "¿Matcha Pep-T tiene azúcar? Los gramos exactos de la etiqueta",
+  "seoTitle": "¿Matcha Pep-T tiene azúcar? 2.0 g totales y 0.9 g añadidos",
+  "metaDescription": "¿Matcha Pep-T tiene azúcar? Sí, poca: 2.0 g totales y 0.9 g añadidos por porción, de la isomaltulosa. Endulzado sobre todo con estevia. Aclaramos el mito.",
+  "excerpt": "Matcha Pep-T sabe dulce y casi no tiene azúcar, pero «casi» no es «nada». Revisamos los gramos de la etiqueta, de dónde salen y por qué no es correcto venderlo como libre de azúcar.",
+  "quickAnswer": "Sí, Matcha Pep-T tiene azúcar, aunque en poca cantidad: 2.0 g de azúcares totales por porción, de los cuales 0.9 g son añadidos y provienen de la isomaltulosa (Palatinose™). El dulzor principal lo aporta la estevia, un edulcorante sin calorías. Por eso es correcto decir que tiene muy poca azúcar, pero no que no tiene nada.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A small glass of iced matcha latte on a rustic table beside a few fresh green stevia leaves and a tiny ceramic dish with a single sugar cube, soft morning light in a sunny Lima kitchen, minimalist natural style, no text, no logos, no packaging, no people",
+    "alt": "Vaso de matcha latte frío junto a hojas frescas de estevia y un cubito de azúcar en un platito"
+  },
+  "blocks": [
+    { "type": "p", "text": "El primer sorbo suele generar la misma duda: «si sabe dulce, algo de azúcar tendrá». Y es una sospecha razonable. En el otro extremo, hay vendedores en redes que lo anuncian como bebida «sin azúcar» para atraer a quienes cuidan la glucosa. Ninguna de las dos impresiones reemplaza a la etiqueta." },
+    { "type": "p", "text": "Vamos a los números exactos, a su origen y a lo que significan en tu día, comparados con cosas que tomas o ves todos los días en Perú." },
+    { "type": "h2", "text": "¿Matcha Pep-T tiene azúcar? Sí, y estos son los gramos" },
+    { "type": "callout", "variant": "etiqueta", "title": "Azúcares declarados en la tabla nutricional", "text": "Por porción (1 sobre de 15 g en 180 ml de agua): azúcares totales 2.0 g (2 % VD) y azúcares añadidos 0.9 g. Por 100 ml de bebida preparada: azúcares totales 1.1 g y azúcares añadidos 0.5 g." },
+    { "type": "table", "caption": "Desglose de azúcares de Matcha Pep-T", "headers": ["Concepto", "Por porción (180 ml)", "Por 100 ml", "Origen principal"], "rows": [
+      ["Azúcares totales", "2.0 g", "1.1 g", "Suma de todos los azúcares de la fórmula"],
+      ["Azúcares añadidos", "0.9 g", "0.5 g", "Isomaltulosa (Palatinose™)"],
+      ["Resto de azúcares", "≈ 1.1 g", "≈ 0.6 g", "Otros ingredientes de la fórmula"]
+    ] },
+    { "type": "p", "text": "Los azúcares totales incluyen todo lo que químicamente cuenta como azúcar, venga de donde venga. Los **añadidos** son los que se incorporan como ingrediente durante la fabricación. La diferencia entre ambas cifras corresponde a azúcares presentes en otros componentes del sobre." },
+    { "type": "h2", "text": "De dónde vienen los 0.9 g de azúcares añadidos" },
+    { "type": "p", "text": "La fuente es la **isomaltulosa**, que la etiqueta describe como disacáridos obtenidos de la betarraga, con la marca Palatinose™. Es un azúcar formado por glucosa y fructosa, igual que el azúcar de mesa, pero unidas de otra forma. Esa unión se rompe más despacio en el intestino, por lo que su absorción es más gradual." },
+    { "type": "p", "text": "Aun así, a efectos de etiquetado, la isomaltulosa es un azúcar: aporta energía y se declara como tal. Tiene su propio análisis en el artículo sobre la [isomaltulosa Palatinose](/ingredientes-matcha-pep-t/isomaltulosa-palatinose/), donde explicamos su índice glucémico y por qué se usa en fórmulas como esta." },
+    { "type": "h2", "text": "Si tiene tan poca azúcar, ¿por qué sabe dulce?" },
+    { "type": "p", "text": "Por la **estevia**. Los glicósidos de esteviol, extraídos de la hoja de *Stevia rebaudiana*, endulzan cientos de veces más que el azúcar, así que basta una cantidad minúscula para dar sabor. No aportan calorías ni cuentan como azúcares en la tabla. A eso se suman los saborizantes naturales de crema caramelo y leche de coco, que refuerzan la sensación de postre." },
+    { "type": "p", "text": "La estevia tiene un sabor característico que algunas personas notan al final del sorbo. Si quieres saber más sobre su seguridad y su perfil de sabor, revisa [la estevia en Matcha Pep-T](/ingredientes-matcha-pep-t/estevia/)." },
+    { "type": "cta", "text": "¿Buscas un latte dulce con muy poca azúcar? Mira el precio del doypack de 14 sobres." },
+    { "type": "h2", "text": "El mito de que no tiene nada de azúcar" },
+    { "type": "p", "text": "Es frecuente leer en publicaciones que Matcha Pep-T es «azúcar cero» o «sin azúcar». La etiqueta lo desmiente: hay 2.0 g de azúcares totales y 0.9 g añadidos por porción. Lo correcto es decir que está **endulzado con estevia y tiene muy poca azúcar**." },
+    { "type": "p", "text": "No es solo una cuestión de precisión. Según las directrices del Codex Alimentarius, que sirven de referencia a muchos países, un alimento solo puede declararse «sin azúcares» si contiene como máximo 0.5 g por cada 100 g o 100 ml. Matcha Pep-T tiene 1.1 g por 100 ml de bebida preparada, más del doble de ese límite." },
+    { "type": "p", "text": "¿Por qué circula el mito? Probablemente porque se confunden dos ideas: «endulzado con estevia» y «sin azúcar». También porque 0.9 g parece despreciable. Puede serlo para muchas personas, pero quien cuenta gramos por indicación médica necesita el dato real, no un redondeo comercial." },
+    { "type": "h2", "text": "Cuánto es 0.9 g en la práctica" },
+    { "type": "p", "text": "Algunas referencias aproximadas para dimensionarlo:" },
+    { "type": "ul", "items": [
+      "Una cucharadita rasa de azúcar blanca pesa alrededor de 4 g; los azúcares añadidos del sobre equivalen a menos de un cuarto de cucharadita.",
+      "Una gaseosa regular de 500 ml puede superar los 50 g de azúcar, más de cincuenta veces los añadidos de una porción.",
+      "Un emoliente o una chicha morada de la esquina varían mucho según quién los prepare, pero lo habitual es que lleven varias cucharaditas de azúcar por vaso.",
+      "La OMS recomienda que los azúcares libres no superen el 10 % de la energía diaria, y sugiere idealmente bajar al 5 %, unos 25 g en una dieta de 2000 kcal. Un sobre aporta 0.9 g de esos azúcares añadidos."
+    ] },
+    { "type": "p", "text": "Visto así, sustituir un refresco azucarado de media tarde por un sobre de Matcha Pep-T reduce de forma notable el azúcar de ese momento. Eso no lo convierte en un producto terapéutico, solo en una opción con poca azúcar." },
+    { "type": "h2", "text": "Si tienes diabetes, prediabetes o resistencia a la insulina" },
+    { "type": "p", "text": "Los gramos de azúcar son bajos, pero la decisión no debería basarse solo en ese dato. La bebida aporta 7.8 g de carbohidratos totales por porción, con 4.9 g de fibra, y contiene otros ingredientes funcionales como el colágeno Nextida GC y el cromo." },
+    { "type": "callout", "variant": "aviso", "title": "Consulta antes con tu médico", "text": "Matcha Pep-T no es un medicamento y no reemplaza ningún tratamiento. Si tienes diabetes o tomas fármacos para la glucosa, conversa con tu endocrinólogo o nutricionista antes de incorporarlo y vigila tus controles." },
+    { "type": "p", "text": "Ampliamos estas precauciones en [Matcha Pep-T y la diabetes](/opiniones-matcha-pep-t/diabetes/). La lista completa de componentes, con la posición de cada uno, está en la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Y si ya lo tienes claro, puedes [pedir Matcha Pep-T original](/comprar-matcha-pep-t/) a S/ 158.00 el doypack, es decir, S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Agregarle leche aumenta el azúcar?", "a": "Sí. La leche de vaca contiene lactosa, que es un azúcar natural, y muchas bebidas vegetales llevan azúcar añadida. Si quieres mantener los valores de la etiqueta, prepáralo con agua o con una bebida vegetal sin azúcar." },
+    { "q": "¿La isomaltulosa es lo mismo que un edulcorante?", "a": "No. La isomaltulosa es un azúcar que aporta energía y se declara como azúcar añadido. La estevia, en cambio, es un edulcorante sin calorías que no suma a los azúcares de la tabla." },
+    { "q": "¿Puedo endulzarlo más si me parece poco dulce?", "a": "Puedes, pero cada cucharadita de azúcar suma unos 4 g, más de cuatro veces los añadidos del sobre. Si quieres más dulzor, una gota de estevia líquida altera menos los números." },
+    { "q": "¿Los 2.0 g de azúcares totales incluyen la fibra?", "a": "No. La fibra se declara en una línea aparte (4.9 g por porción) y no cuenta como azúcar. Ambas forman parte de los 7.8 g de carbohidratos totales." }
+  ],
+  "sources": [
+    { "label": "OMS – Directriz: ingesta de azúcares para adultos y niños", "url": "https://www.who.int/publications/i/item/9789241549028" },
+    { "label": "Codex Alimentarius – Directrices para el uso de declaraciones nutricionales y saludables (CXG 23-1997)", "url": "https://www.fao.org/fao-who-codexalimentarius/" },
+    { "label": "EFSA – Sugars", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/isomaltulosa-palatinose/",
+    "/ingredientes-matcha-pep-t/estevia/",
+    "/ingredientes-matcha-pep-t/calorias/",
+    "/opiniones-matcha-pep-t/diabetes/"
+  ]
+}

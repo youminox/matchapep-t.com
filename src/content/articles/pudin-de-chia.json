@@ -1,0 +1,83 @@
+{
+  "slug": "pudin-de-chia",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/pudin-de-chia/",
+  "isPillar": false,
+  "primaryKeyword": "pudín de chía con matcha",
+  "title": "Pudín de chía con matcha: proporciones y toppings con Matcha Pep-T",
+  "seoTitle": "Pudín de chía con matcha: receta con Matcha Pep-T",
+  "metaDescription": "Pudín de chía con matcha con 1 sobre de Matcha Pep-T: proporción de chía y líquido según la textura, tiempos de reposo y toppings peruanos que combinan.",
+  "excerpt": "La chía ya forma parte de la fórmula de Matcha Pep-T; en esta receta pasa a ser la protagonista. Proporciones para tres texturas, el truco para que no se apelmace y toppings que sí combinan.",
+  "quickAnswer": "Para un pudín de chía con matcha, disuelve 1 sobre de Matcha Pep-T en 180 ml de leche o bebida vegetal y añade 2½ cucharadas de chía (unos 30 g). Remueve, espera 10 minutos, vuelve a remover y refrigera al menos 4 horas o toda la noche. Termina con fruta, kiwicha pop o coco rallado.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A small glass cup of layered pale green chia seed pudding topped with fresh golden physalis berries, passion fruit pulp and puffed amaranth, a wooden spoon resting beside it on a linen napkin, overcast soft light by a window on a grey Lima winter morning, calm muted tones, no packaging, no text, no logos, no people",
+    "alt": "Vaso pequeño de pudín de chía verde claro cubierto con aguaymantos, pulpa de granadilla y kiwicha pop junto a una cuchara de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Pocas semillas tienen un comportamiento tan curioso como la chía: echas una cucharada en un líquido, esperas un rato y aparece un gel que transforma un vaso de leche en algo que se come con cuchara. Ese fenómeno es toda la base del pudín." },
+    { "type": "p", "text": "Hay un detalle simpático en esta receta. La chía ya figura en la lista de ingredientes de Matcha Pep-T, dentro del mix de té matcha y chía, aunque en una cantidad que la etiqueta no detalla por separado. Aquí la llevamos al primer plano. Si te interesa qué hace la semilla dentro de la fórmula, lo explicamos en la página sobre la [chía en Matcha Pep-T](/ingredientes-matcha-pep-t/chia/)." },
+    { "type": "h2", "text": "Proporciones del pudín de chía con matcha según la textura" },
+    { "type": "p", "text": "La regla general es simple: más chía, pudín más firme. Con 180 ml de líquido, que es la medida de un sobre según la etiqueta, estas son las tres texturas más comunes." },
+    { "type": "table", "caption": "Cantidad de chía para 180 ml de líquido con 1 sobre de Matcha Pep-T", "headers": ["Textura", "Chía", "Resultado"], "rows": [
+      ["Suave, tipo bebible", "2 cucharadas (unos 24 g)", "Espeso pero fluido; se puede tomar del vaso"],
+      ["Clásica", "2½ cucharadas (unos 30 g)", "Consistencia de pudín que se sostiene en la cuchara"],
+      ["Firme", "3 cucharadas (unos 36 g)", "Compacto, ideal para capas o para desmoldar en vasito"]
+    ] },
+    { "type": "p", "text": "Si es tu primera vez, empieza por la clásica. Ten en cuenta que las cucharadas varían según la vajilla de cada casa; si tienes una balanza de cocina, pesar la chía da resultados mucho más parejos." },
+    { "type": "h2", "text": "Receta paso a paso" },
+    { "type": "steps", "items": [
+      { "name": "Disuelve el sobre", "text": "Mezcla el sobre de 15 g con 180 ml de leche o bebida vegetal fría en un shaker o con un batidor de mano, hasta que no quede polvo." },
+      { "name": "Incorpora la chía", "text": "Vierte la mezcla en un vaso o frasco, añade la chía y remueve con energía durante medio minuto." },
+      { "name": "Espera y vuelve a remover", "text": "Deja reposar 10 minutos y remueve otra vez, raspando el fondo. Este segundo removido es el que evita los grumos." },
+      { "name": "Refrigera", "text": "Tapa y lleva a la refrigeradora un mínimo de 4 horas. Toda la noche es lo ideal para una textura uniforme." },
+      { "name": "Decora y sirve", "text": "Antes de comer, remueve una última vez y coloca los toppings encima." }
+    ] },
+    { "type": "h2", "text": "El error que arruina el pudín: no remover dos veces" },
+    { "type": "p", "text": "Las semillas de chía tienden a hundirse y pegarse entre sí apenas tocan el líquido. Si solo remueves al inicio, a la mañana siguiente encontrarás una capa de líquido arriba y un bloque compacto de semillas en el fondo." },
+    { "type": "p", "text": "Ese segundo removido, a los 10 minutos, separa las semillas cuando el gel ya empezó a formarse y las deja repartidas de manera uniforme. Si se te olvidó y ya tienes el bloque, rompe la masa con un tenedor, añade un chorrito de leche y deja reposar una hora más." },
+    { "type": "cta", "text": "Para tener sobres listos para tus pudines de la semana, revisa el precio del doypack original." },
+    { "type": "h2", "text": "Toppings que combinan con el sabor a matcha latte" },
+    { "type": "p", "text": "El sobre aporta un perfil dulce y suave, con notas de crema caramelo y coco. Los toppings que mejor funcionan son los que contrastan, ya sea con acidez o con algo crocante." },
+    { "type": "h3", "text": "Frutas" },
+    { "type": "ul", "items": [
+      "**Aguaymanto:** su acidez corta la cremosidad; parte cada fruto por la mitad.",
+      "**Granadilla:** la pulpa con pepitas añade frescura y un crujido suave.",
+      "**Mango o fresa:** en cubitos, cuando están de temporada.",
+      "**Plátano:** en rodajas finas, si prefieres algo más dulce."
+    ] },
+    { "type": "h3", "text": "Crocantes" },
+    { "type": "ul", "items": [
+      "**Kiwicha pop:** ligera, peruanísima y fácil de conseguir en mercados y bodegas.",
+      "**Nueces, pecanas o almendras fileteadas:** una cucharada basta.",
+      "**Coco rallado tostado:** refuerza las notas de coco del producto.",
+      "**Nibs de cacao:** un amargor que equilibra el dulzor."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Calorías y fibra de un vaso", "text": "Según su etiqueta, el sobre aporta 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y el 45 % del valor diario de cromo. Con 30 g de chía y 180 ml de leche descremada, el vaso ronda las 255 kcal antes de los toppings; con bebida de almendra sin endulzar, unas 215 kcal. Estos totales son aproximados." },
+    { "type": "h2", "text": "Mucha fibra en poco volumen: cómo tomarlo sin molestias" },
+    { "type": "p", "text": "La chía es muy rica en fibra: 30 g aportan alrededor de 10 g según las tablas de composición de alimentos. Sumados a los 4.9 g del sobre, un vaso puede superar los 14 g, una cantidad considerable de una sola vez." },
+    { "type": "ul", "items": [
+      "**Empieza con la versión suave** de 2 cucharadas o con media porción los primeros días.",
+      "**Toma agua durante el día;** la fibra necesita líquido para hacer bien su trabajo.",
+      "**Si notas gases o hinchazón,** reduce la chía y dale tiempo a tu cuerpo para adaptarse."
+    ] },
+    { "type": "p", "text": "En la página sobre [fibra y digestión](/que-es-matcha-pep-t/fibra-y-digestion/) encontrarás más detalle. Si prefieres una base menos densa en fibra, los [overnight oats con matcha](/como-preparar-matcha-pep-t/overnight-oats/) usan avena y siguen el mismo esquema de reposo nocturno." },
+    { "type": "p", "text": "Recuerda que cada vaso lleva un sobre y que la etiqueta indica 1 sobre por porción. Para conseguir sobres originales, entra a la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/): el doypack de 14 cuesta S/ 158.00, unos S/ 11.29 por sobre. Y si buscas otras ideas, la [guía para preparar Matcha Pep-T](/como-preparar-matcha-pep-t/) reúne todas las recetas." }
+  ],
+  "faqs": [
+    { "q": "¿Cuánto dura el pudín en la refrigeradora?", "a": "Bien tapado, se mantiene agradable hasta 2 días. Agrega la fruta y los crocantes recién al servir para que no suelten jugo ni se ablanden." },
+    { "q": "¿Puedo usar chía molida?", "a": "Sí, y el resultado es más liso, sin el efecto de bolitas. Absorbe el líquido más rápido, así que reduce un poco la cantidad o añade algo más de leche." },
+    { "q": "¿Funciona con agua en lugar de leche?", "a": "Funciona, porque el sobre ya aporta cremosidad con su crema de coco, pero queda más ligero. Una mezcla de mitad agua y mitad bebida vegetal es un buen punto medio." },
+    { "q": "¿Se puede preparar en capas?", "a": "Sí. Usa la textura firme y alterna en un vaso capas de pudín con yogur natural sin endulzar o con fruta picada. Queda vistoso para un desayuno de fin de semana." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central (composición de alimentos)", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "Instituto Nacional de Salud del Perú", "url": "https://www.ins.gob.pe/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/overnight-oats/",
+    "/ingredientes-matcha-pep-t/chia/",
+    "/que-es-matcha-pep-t/fibra-y-digestion/",
+    "/como-preparar-matcha-pep-t/smoothie-con-platano/"
+  ]
+}

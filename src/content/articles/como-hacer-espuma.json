@@ -1,0 +1,85 @@
+{
+  "slug": "como-hacer-espuma",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/como-hacer-espuma/",
+  "isPillar": false,
+  "primaryKeyword": "espuma matcha latte casera",
+  "title": "Espuma para matcha latte casera: con espumador o prensa francesa",
+  "seoTitle": "Espuma matcha latte casera: espumador o prensa francesa",
+  "metaDescription": "Haz espuma para tu matcha latte casera como en cafetería: espumador de mano o prensa francesa, qué leche usar, temperatura y cómo montar tu Matcha Pep-T.",
+  "excerpt": "La capa cremosa que ves en las cafeterías de Barranco no requiere una máquina de espresso. Con un espumador de pilas o una prensa francesa la logras en casa en menos de dos minutos.",
+  "quickAnswer": "Para una espuma de matcha latte casera, prepara primero tu Matcha Pep-T con 180 ml de agua y, aparte, espuma un chorrito de leche o bebida vegetal tibia (unos 60 °C) con un espumador de mano o bombeando 20–30 veces el émbolo de una prensa francesa. Vierte la leche sobre el matcha y corona con la espuma.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A glass cup of matcha latte with a thick white milk foam layer on top and a soft green gradient below, a small French press with frothed milk beside it, on a rustic wooden table in a sunny Barranco style home kitchen with plants in the background, warm afternoon light, shallow depth of field, no packaging, no text, no logos, no people",
+    "alt": "Vaso de matcha latte con gruesa capa de espuma blanca junto a una prensa francesa con leche espumada sobre una mesa de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si alguna vez pediste un matcha latte en una cafetería de Miraflores o Barranco, recordarás la capa blanca y aterciopelada que flota sobre el verde. Esa textura no depende del polvo de matcha, sino de cómo se trabaja la leche. Y para lograrla en casa basta con un aparato que quizá ya tienes en un cajón." },
+    { "type": "p", "text": "Aquí te explicamos dos métodos para hacer **espuma de matcha latte casera** con tu sobre de Matcha Pep-T: el espumador de mano a pilas y la prensa francesa. También verás qué bebidas espuman mejor, a qué temperatura y cómo montar el vaso para que se vea y se sienta como de barra." },
+    { "type": "h2", "text": "Qué necesitas antes de empezar" },
+    { "type": "p", "text": "La base es siempre la misma que indica la etiqueta: **1 sobre de 15 g en 180 ml de agua**, fría o caliente sin hervir. La espuma es un añadido opcional que preparas aparte. La propia indicación del producto contempla sumar un chorrito de leche o bebida vegetal si quieres un latte más cremoso; esa es la parte que vamos a espumar." },
+    { "type": "ul", "items": [
+      "Un sobre de Matcha Pep-T y 180 ml de agua.",
+      "Entre 60 y 100 ml de leche o bebida vegetal, según cuánta espuma quieras.",
+      "Un espumador de mano a pilas **o** una prensa francesa limpia (sin restos de café).",
+      "Una jarrita o taza alta para calentar la leche, y un vaso de al menos 300 ml para servir."
+    ] },
+    { "type": "p", "text": "Si aún no dominas la base, primero revisa la [guía para preparar Matcha Pep-T paso a paso](/como-preparar-matcha-pep-t/): una base lisa es la mitad de un buen latte." },
+    { "type": "h2", "text": "Qué leche hace mejor espuma" },
+    { "type": "p", "text": "La espuma se forma cuando las proteínas y algunas grasas de la leche atrapan burbujas de aire. Por eso no todas las bebidas se comportan igual. Esta tabla resume lo que suele pasar con las opciones más comunes en supermercados y bodegas de Lima:" },
+    { "type": "table", "caption": "Comportamiento general de cada bebida al espumarla", "headers": ["Bebida", "Tipo de espuma", "Comentario"], "rows": [
+      ["Leche de vaca descremada", "Abundante y firme", "Mucho volumen, sensación más ligera"],
+      ["Leche de vaca entera", "Cremosa y sedosa", "Menos volumen, textura más densa"],
+      ["Bebida de soya", "Buena y estable", "La vegetal que mejor imita a la leche"],
+      ["Bebida de avena (versión barista)", "Sedosa", "Las versiones barista están formuladas para espumar"],
+      ["Bebida de almendra", "Ligera, se baja rápido", "Mejor si es versión barista; aporta sabor a nuez"],
+      ["Bebida de coco", "Escasa", "Sabor rico con el coco de la fórmula, pero poca espuma"]
+    ] },
+    { "type": "p", "text": "Si prefieres opciones vegetales, tenemos recetas específicas de [Matcha Pep-T con bebida de avena](/como-preparar-matcha-pep-t/latte-con-avena/) y de [latte con leche de almendra](/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/), con sus diferencias de sabor y cremosidad." },
+    { "type": "h2", "text": "Método 1: espuma de matcha latte casera con espumador de mano" },
+    { "type": "p", "text": "Es el método más rápido y el que menos lava. Los espumadores de pilas son económicos y caben en cualquier mochila, así que también sirven en la oficina si hay microondas." },
+    { "type": "steps", "items": [
+      { "name": "Prepara la base", "text": "En el vaso de servir, vierte 180 ml de agua y añade el sobre de 15 g. Mezcla hasta que no queden grumos." },
+      { "name": "Entibia la leche", "text": "Calienta entre 60 y 100 ml de leche o bebida vegetal hasta que esté bien tibia, sin que llegue a hervir: unos 55–65 °C. Al tacto, la jarrita debe sentirse caliente pero sostenible." },
+      { "name": "Inclina el recipiente", "text": "Usa una jarra o taza alta e inclínala un poco. Así el remolino se forma mejor y evitas salpicar." },
+      { "name": "Incorpora aire", "text": "Sumerge el espiral, enciéndelo y súbelo cerca de la superficie durante 10–15 segundos. Escucharás un leve sonido de succión: es el aire entrando." },
+      { "name": "Texturiza", "text": "Baja el espiral hacia el centro del líquido otros 10 segundos para romper burbujas grandes y lograr una espuma fina. Apágalo dentro de la leche." },
+      { "name": "Asienta la espuma", "text": "Da dos golpecitos de la jarra contra la mesa y gírala en círculos. La superficie debe verse brillante, como pintura blanca." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Truco sin leche", "text": "Si quieres mantener la bebida tal como indica la etiqueta, pasa el espumador directamente por tu Matcha Pep-T ya preparado durante 15 segundos. Gracias a la lecitina de girasol y a la crema de coco se forma una espuma ligera de burbuja más grande. No es tan densa como la de leche, pero mejora mucho la textura." },
+    { "type": "cta", "text": "Para practicar tus lattes necesitas sobres: mira el precio del doypack de 14 unidades y cómo pedirlo." },
+    { "type": "h2", "text": "Método 2: con prensa francesa" },
+    { "type": "p", "text": "Muchas casas peruanas tienen una prensa francesa guardada desde que se puso de moda el café de especialidad. Sirve perfectamente para espumar y da una espuma más uniforme que el espumador, aunque requiere un poco más de volumen de leche para funcionar bien." },
+    { "type": "ol", "items": [
+      "Calienta la leche a 55–65 °C y viértela en la prensa limpia, llenando como máximo un tercio de su capacidad. La espuma duplicará el volumen.",
+      "Coloca la tapa con el émbolo arriba.",
+      "Bombea con movimientos cortos y rápidos de arriba abajo, 20 a 30 veces, sin sacar la malla del líquido en cada bajada.",
+      "Deja reposar 30 segundos para que la espuma se estabilice.",
+      "Retira la tapa, golpea suavemente la prensa contra la mesa y remueve con una cuchara para unificar la textura."
+    ] },
+    { "type": "p", "text": "Un detalle importante: lava la prensa con agua caliente y detergente antes de usarla para leche. Cualquier aceite residual del café impide que la espuma suba y deja un sabor que no combina con el matcha." },
+    { "type": "h2", "text": "Cómo montar el vaso como en cafetería" },
+    { "type": "p", "text": "El orden del montaje marca la diferencia visual. Sirve primero la base verde en un vaso de vidrio. Luego vierte la leche espumada despacio, sujetando la espuma con una cuchara para que pase solo el líquido. Al final, deja caer la espuma encima con la cuchara. Obtendrás tres capas: verde, verde claro y blanco." },
+    { "type": "p", "text": "Para la versión fría, en pleno verano limeño, espuma la leche **sin calentarla**: tanto el espumador como la prensa funcionan con leche de refrigeradora, aunque la espuma sale algo más suelta. Sirve el matcha sobre hielo y corona con esa espuma fría. Encuentras más ideas en la receta de [Matcha Pep-T frío con hielo](/como-preparar-matcha-pep-t/frio-con-hielo/)." },
+    { "type": "h3", "text": "Ten en cuenta las calorías extra" },
+    { "type": "p", "text": "La porción preparada solo con agua aporta **46 kcal**, según la etiqueta. Cada chorrito de leche o bebida vegetal suma lo que indique su propio envase, y la diferencia entre una descremada y una entera o una avena endulzada no es menor. Si cuidas tu ingesta, revisa el artículo sobre las [calorías de Matcha Pep-T](/ingredientes-matcha-pep-t/calorias/) y elige versiones sin azúcar en la bebida que añadas." },
+    { "type": "p", "text": "Cuando tengas tu técnica dominada, solo te faltará la materia prima. Puedes revisar el precio vigente y pedir desde la [página para comprar Matcha Pep-T](/comprar-matcha-pep-t/), que te lleva a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo hacer espuma con una licuadora?", "a": "Sí. Licuar leche tibia 20–30 segundos a velocidad alta genera bastante espuma, aunque de burbuja más grande e irregular que la del espumador o la prensa. Es útil si preparas dos o tres lattes a la vez." },
+    { "q": "¿Por qué mi espuma se baja en segundos?", "a": "Las causas más comunes son leche demasiado caliente, bebidas vegetales con poca proteína o un recipiente con restos de grasa. Prueba bajar la temperatura, usar una versión barista y lavar bien la jarra o la prensa." },
+    { "q": "¿Se puede espumar la leche en el microondas?", "a": "El microondas sirve para calentar, no para espumar. Hay quien agita la leche en un frasco con tapa y luego la calienta unos segundos destapada para fijar la espuma, pero el resultado es menos estable que con espumador o prensa francesa." },
+    { "q": "¿La espuma cambia el sabor del matcha?", "a": "La espuma suaviza la percepción del matcha porque lo primero que toca el paladar es la leche. Si te gusta notar más el té, usa menos leche y deja una capa de espuma delgada." }
+  ],
+  "sources": [
+    { "label": "Ficha de Matcha Pep-T en la tienda del distribuidor autorizado", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" },
+    { "label": "FDA – Cómo entender la etiqueta de información nutricional", "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/latte-con-avena/",
+    "/como-preparar-matcha-pep-t/en-shaker-sin-grumos/",
+    "/como-preparar-matcha-pep-t/frio-con-hielo/",
+    "/como-preparar-matcha-pep-t/caliente/"
+  ]
+}

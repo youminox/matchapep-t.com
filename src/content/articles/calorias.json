@@ -1,0 +1,80 @@
+{
+  "slug": "calorias",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/calorias/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T calorías",
+  "title": "Matcha Pep-T calorías: 46 kcal por taza y cómo cambian",
+  "seoTitle": "Matcha Pep-T calorías: cuántas tiene y con leche cuánto sube",
+  "metaDescription": "Matcha Pep-T calorías: 46 kcal por porción y 26 kcal por 100 ml. Compáralo con café, jugos o gaseosas y calcula cuánto sube si le agregas leche.",
+  "excerpt": "Una porción de Matcha Pep-T aporta 46 kcal. Te mostramos de dónde salen, cómo se comparan con bebidas de todos los días en Perú y cuánto suman los distintos tipos de leche.",
+  "quickAnswer": "Las calorías de Matcha Pep-T son 46 kcal por porción, es decir, 1 sobre de 15 g preparado con 180 ml de agua (26 kcal por cada 100 ml). Es una cifra baja frente a un matcha latte de cafetería o una gaseosa, pero sube si lo preparas con leche: un chorrito de 50 ml de leche entera añade unas 30 kcal.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two glasses side by side on a cafe counter in Miraflores, one tall glass of iced green matcha drink and one glass of milk, a small milk jug and a wooden spoon, bright late afternoon light, shallow depth of field, modern minimal interior, no text, no logos, no packaging, no people",
+    "alt": "Vaso de bebida de matcha fría junto a un vaso de leche y una jarrita en la barra de un café"
+  },
+  "blocks": [
+    { "type": "p", "text": "Piensa en el clásico «¿algo para tomar?» de media tarde: un frappé en la cafetería del centro comercial, una gaseosa del quiosco o un jugo surtido en el mercado. Las bebidas son una de las fuentes de calorías que menos registramos, porque no se sienten como comida." },
+    { "type": "p", "text": "Por eso tiene sentido preguntarse cuánto aporta un sobre de Matcha Pep-T antes de sumarlo a la rutina. La respuesta corta es poco; la útil incluye de dónde salen esas calorías y qué pasa cuando la receta deja de ser solo agua." },
+    { "type": "h2", "text": "Matcha Pep-T calorías: lo que dice la etiqueta" },
+    { "type": "callout", "variant": "etiqueta", "title": "Energía declarada", "text": "Por porción (1 sobre de 15 g en 180 ml de agua): 46 kcal o 191 kJ, el 2 % del valor diario en una dieta de 2000 kcal. Por 100 ml de bebida preparada: 26 kcal o 106 kJ." },
+    { "type": "p", "text": "Si tomas un sobre diario durante los 14 días que dura un doypack, el total acumulado es de 644 kcal en dos semanas. Para ponerlo en perspectiva, es una cifra comparable a la de un solo plato contundente de menú, repartida en catorce días." },
+    { "type": "h2", "text": "De dónde salen esas 46 kcal" },
+    { "type": "p", "text": "Con los factores de conversión generales que se usan en nutrición, podemos reconstruir de forma aproximada el origen de la energía a partir de la tabla nutricional:" },
+    { "type": "table", "caption": "Reparto estimado de la energía de una porción (cálculo propio con factores estándar)", "headers": ["Componente", "Gramos por porción", "Factor aproximado", "Energía estimada"], "rows": [
+      ["Proteína", "4.7 g", "4 kcal/g", "≈ 19 kcal"],
+      ["Carbohidratos disponibles (7.8 g − 4.9 g de fibra)", "2.9 g", "4 kcal/g", "≈ 12 kcal"],
+      ["Fibra", "4.9 g", "≈ 2 kcal/g", "≈ 10 kcal"],
+      ["Grasa", "0.6 g", "9 kcal/g", "≈ 5 kcal"]
+    ] },
+    { "type": "p", "text": "La suma da unas 46 kcal, que coincide con lo declarado. La conclusión interesante es que **cerca de dos quintos de la energía vienen de la proteína**, casi toda de colágeno, y que la fibra aporta más que la grasa. La isomaltulosa y la tapioca están dentro de esos carbohidratos disponibles; la estevia no suma calorías." },
+    { "type": "p", "text": "Si quieres ver el resto de los nutrientes con sus porcentajes, la [tabla nutricional completa de Matcha Pep-T](/ingredientes-matcha-pep-t/tabla-nutricional/) los recoge todos por 100 ml y por porción." },
+    { "type": "h2", "text": "Comparación con otras bebidas habituales" },
+    { "type": "p", "text": "Los valores de la tabla siguiente son referencias aproximadas basadas en datos nutricionales generales. Cambian según la marca, el tamaño y la receta, así que úsalos como orientación y revisa siempre la etiqueta de lo que compras." },
+    { "type": "table", "caption": "Calorías aproximadas por bebida y tamaño típico", "headers": ["Bebida", "Tamaño de referencia", "Calorías aproximadas"], "rows": [
+      ["Matcha Pep-T con agua", "180 ml", "46 kcal (etiqueta)"],
+      ["Café pasado o americano, sin azúcar", "1 taza", "Menos de 5 kcal"],
+      ["Café con 2 cucharaditas de azúcar", "1 taza", "≈ 35 kcal"],
+      ["Leche entera", "180 ml", "≈ 110 kcal"],
+      ["Jugo de naranja natural, sin azúcar", "250 ml", "≈ 110 kcal"],
+      ["Gaseosa regular", "500 ml", "≈ 200–220 kcal"],
+      ["Matcha latte de cafetería con leche entera", "350–470 ml", "≈ 180–260 kcal"]
+    ] },
+    { "type": "p", "text": "Matcha Pep-T no compite con el café negro o el té sin azúcar, que prácticamente no aportan energía. Donde sí marca diferencia es frente a las bebidas cremosas o dulces: un latte de cafetería puede cuadruplicar sus calorías, sobre todo si lleva jarabe o crema batida." },
+    { "type": "cta", "text": "Si buscas un latte ligero para la oficina o la casa, revisa el precio del doypack de 14 sobres." },
+    { "type": "h2", "text": "Con leche: cuánto suben las calorías de Matcha Pep-T" },
+    { "type": "p", "text": "La preparación oficial es con agua, pero muchos prefieren un toque de leche para una textura más de cafetería. Esta es la cuenta aproximada de lo que añade cada opción, tomando como ejemplo un chorrito de 50 ml:" },
+    { "type": "table", "caption": "Calorías aproximadas que suma un chorrito de 50 ml", "headers": ["Tipo de leche o bebida", "Kcal extra aprox.", "Total aprox. con el sobre"], "rows": [
+      ["Bebida de almendra sin azúcar", "≈ 7 kcal", "≈ 53 kcal"],
+      ["Leche descremada", "≈ 17 kcal", "≈ 63 kcal"],
+      ["Bebida de soya sin azúcar", "≈ 17 kcal", "≈ 63 kcal"],
+      ["Bebida de avena", "≈ 20–25 kcal", "≈ 66–71 kcal"],
+      ["Leche entera", "≈ 30 kcal", "≈ 76 kcal"],
+      ["Leche evaporada entera (30 ml)", "≈ 40 kcal", "≈ 86 kcal"]
+    ] },
+    { "type": "p", "text": "La leche evaporada merece mención aparte porque en muchas casas peruanas es la leche por defecto. Al estar concentrada, un chorro pequeño aporta más que la misma cantidad de leche fresca. Las bebidas vegetales «originales» o con sabor suelen llevar azúcar: revisa su etiqueta antes de hacer la cuenta." },
+    { "type": "p", "text": "Si en lugar de un chorrito sustituyes la mitad del agua por leche entera (90 ml), la bebida rondaría las 100 kcal. Sigue siendo razonable, pero ya no es la misma bebida de 46 kcal que figura en la etiqueta. Hay recetas pensadas para eso, como el [latte con leche de almendra](/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/), que mantiene el resultado ligero." },
+    { "type": "h2", "text": "Calorías bajas no significa efecto adelgazante" },
+    { "type": "p", "text": "Que un producto aporte pocas calorías es un dato, no una promesa. Matcha Pep-T no es un medicamento ni un quemador de grasa, y su efecto sobre el peso depende del conjunto de tu alimentación, tu actividad y tu descanso. Lo que sí puede hacer es reemplazar una bebida más calórica en un momento del día en que antes tomabas algo dulce." },
+    { "type": "p", "text": "Tampoco es un sustituto de comida: 46 kcal no alcanzan para reemplazar un desayuno o una cena. Si tu objetivo es el control de peso, el análisis honesto está en [Matcha Pep-T para bajar de peso](/que-es-matcha-pep-t/para-bajar-de-peso/), y si tienes una condición de salud, coordina con tu nutricionista." },
+    { "type": "p", "text": "Para ver cómo encaja la energía con el resto de componentes de la fórmula, vuelve a la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Y si ya decidiste probarlo, en la página de [compra de Matcha Pep-T](/comprar-matcha-pep-t/) tienes el precio de S/ 158.00 por doypack, equivalente a S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Cuántas calorías tiene un doypack completo?", "a": "Un doypack trae 14 sobres de 46 kcal cada uno, así que suma 644 kcal en total si lo preparas solo con agua. Cualquier leche o fruta que añadas va por cuenta aparte." },
+    { "q": "¿Prepararlo con agua caliente cambia las calorías?", "a": "No. La temperatura del agua no modifica la energía. Las calorías solo cambian si agregas otros ingredientes, como leche, miel o fruta." },
+    { "q": "¿Puedo tomar dos sobres para tener más energía?", "a": "La etiqueta recomienda 1 sobre en 180 ml de agua y no exceder lo indicado. Si te preguntas por la frecuencia diaria, revisa la guía sobre cuántos sobres al día tomar." },
+    { "q": "¿Las calorías de la fibra cuentan igual que las del azúcar?", "a": "No del todo. La fibra se fermenta parcialmente en el colon y aporta en promedio unas 2 kcal por gramo, frente a las 4 kcal de los azúcares. Por eso los 4.9 g de fibra pesan menos en el total de lo que parece." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central (valores de referencia de leches y bebidas)", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "FAO – Food energy: methods of analysis and conversion factors", "url": "https://www.fao.org/" },
+    { "label": "FDA – Daily Value on the Nutrition and Supplement Facts Labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/tabla-nutricional/",
+    "/ingredientes-matcha-pep-t/tiene-azucar/",
+    "/como-preparar-matcha-pep-t/latte-con-avena/",
+    "/ciencia-matcha-pep-t/vs-cafe/"
+  ]
+}

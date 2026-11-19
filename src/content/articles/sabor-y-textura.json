@@ -1,0 +1,76 @@
+{
+  "slug": "sabor-y-textura",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/sabor-y-textura/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T sabor",
+  "title": "Matcha Pep-T sabor y textura: qué esperar y cómo ajustarlo",
+  "seoTitle": "Matcha Pep-T sabor: perfil, textura y cómo ajustarlo",
+  "metaDescription": "Matcha Pep-T sabor explicado: notas de matcha latte, crema caramelo, coco y estevia, su textura cremosa y trucos prácticos para ajustarlo a tu gusto.",
+  "excerpt": "Una descripción honesta del sabor y la textura de Matcha Pep-T a partir de su etiqueta, con ajustes prácticos para que se acerque a lo que te gusta.",
+  "quickAnswer": "El sabor de Matcha Pep-T se declara como matcha latte natural: una base de té verde matcha suavizada con crema de coco y saborizantes naturales de crema caramelo y leche de coco, endulzada con estevia y muy poca azúcar. La textura es cremosa y ligeramente espesa, y puedes ajustarla con la temperatura, hielo o un chorrito de bebida vegetal.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Close-up of a clear glass of creamy pale green matcha latte with fine foam on top, a bamboo whisk and a small bowl of grated coconut beside it on a light stone countertop, soft natural daylight, shallow depth of field, realistic food photography, no text, no logos, no packaging, no people",
+    "alt": "Vaso de matcha latte cremoso con espuma fina junto a un batidor de bambú y coco rallado"
+  },
+  "blocks": [
+    { "type": "p", "text": "El sabor decide si un producto se vuelve parte de tu rutina o se queda olvidado en la alacena. Puedes tener la mejor tabla nutricional del mundo, pero si la bebida no te agrada, el doypack durará meses. Por eso vale la pena saber qué esperar antes del primer sorbo." },
+    { "type": "p", "text": "Aquí no vamos a decirte que es «delicioso» ni que «te va a encantar»: el gusto es personal. Lo que sí podemos hacer es describir el **sabor de Matcha Pep-T** a partir de lo que declara la etiqueta, explicar de dónde sale cada nota y darte ajustes concretos para acercarlo a tu preferencia." },
+    { "type": "h2", "text": "¿A qué sabe Matcha Pep-T según su etiqueta?" },
+    { "type": "p", "text": "El envase lo presenta como «sabor natural a matcha latte». Ese perfil se construye con varios ingredientes que aportan notas distintas:" },
+    { "type": "table", "caption": "De dónde viene cada nota del sabor", "headers": ["Ingrediente declarado", "Qué aporta al sabor o la textura"], "rows": [
+      ["Mix de té matcha y chía", "La nota vegetal y herbácea característica del té verde en polvo"],
+      ["Crema de coco", "Suavidad y cuerpo tipo latte, sin lácteos en la lista de ingredientes"],
+      ["Saborizantes naturales (crema caramelo y leche de coco)", "Un fondo dulce y redondo que suaviza el amargor del té"],
+      ["Estevia (glicósidos de esteviol)", "El dulzor principal, sin aportar calorías"],
+      ["Isomaltulosa (Palatinose™)", "Un dulzor leve; es la fuente de los 0.9 g de azúcares añadidos por porción"],
+      ["Colágeno hidrolizado (Nextida® GC)", "Prácticamente neutro en sabor; suma cuerpo a la bebida"]
+    ] },
+    { "type": "p", "text": "En conjunto, lo esperable es una bebida donde el matcha se percibe, pero no domina como en un té ceremonial puro. La crema de coco y las notas de caramelo lo llevan hacia el terreno del latte de cafetería, más amable para quien no está acostumbrado al té verde intenso." },
+    { "type": "callout", "variant": "etiqueta", "title": "Dulzor declarado", "text": "Por porción (1 sobre en 180 ml) la etiqueta declara **2.0 g de azúcares totales**, de los cuales **0.9 g son azúcares añadidos**, y 46 kcal. El dulzor viene principalmente de la estevia. Por eso es correcto decir que está endulzado con estevia y con muy poca azúcar, no que carece de ella." },
+    { "type": "h3", "text": "La estevia: el punto que más divide opiniones" },
+    { "type": "p", "text": "Algunas personas perciben en la estevia un regusto ligeramente amargo o parecido al regaliz, sobre todo si no la consumen habitualmente. Otras no lo notan. Si eres sensible a ese matiz, los ajustes de la siguiente sección ayudan a disimularlo. Para entender mejor este edulcorante, revisa qué es la [estevia de Matcha Pep-T](/ingredientes-matcha-pep-t/estevia/) y por qué se eligió." },
+    { "type": "h2", "text": "Textura: cremosa, con cuerpo y sin arenilla si la preparas bien" },
+    { "type": "p", "text": "La textura no depende solo de la crema de coco. La fórmula incluye goma xantana como espesante, tapioca como base, lecitina de girasol como emulsionante y dióxido de silicio para que el polvo no forme grumos dentro del sobre. El resultado es una bebida con más cuerpo que un té común, más cercana a un latte ligero." },
+    { "type": "p", "text": "Dos detalles conviene conocer. Primero, la fibra de maíz y la goma xantana espesan un poco la bebida si la dejas reposar varios minutos. Segundo, la etiqueta no especifica si la chía va molida, así que podrías notar alguna partícula fina en el fondo del vaso. Agitarla antes de cada sorbo lo resuelve." },
+    { "type": "p", "text": "Si te salen grumos, casi siempre es por el orden o el método de mezcla. La técnica completa está en cómo preparar [Matcha Pep-T sin grumos en shaker](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/)." },
+    { "type": "cta", "text": "¿Te animas a probar el sabor por tu cuenta? Mira el precio vigente y compra el original en la tienda oficial." },
+    { "type": "h2", "text": "Cómo ajustar el sabor de Matcha Pep-T a tu gusto" },
+    { "type": "p", "text": "La base siempre es la misma: un sobre en 180 ml de agua. A partir de ahí, estos ajustes cambian la experiencia sin alterar la porción recomendada:" },
+    { "type": "ul", "items": [
+      "**Si lo sientes muy dulce:** sírvelo bien frío con hielo. El frío atenúa la percepción del dulzor y el hielo, al derretirse, lo suaviza un poco más.",
+      "**Si lo sientes poco dulce:** pruébalo tibio. El calor intensifica el aroma y la sensación dulce. Usa agua caliente, nunca hirviendo.",
+      "**Si quieres más cremosidad:** añade un chorrito de leche o de bebida vegetal de almendra, soya o coco. Ten en cuenta que suma calorías a las 46 kcal de la porción.",
+      "**Si quieres una nota de cafetería:** espolvorea una pizca de canela por encima o bate la bebida hasta formar espuma.",
+      "**Si notas el regusto de la estevia:** la versión fría con un poco de bebida vegetal suele disimularlo mejor que la versión con agua sola."
+    ] },
+    { "type": "p", "text": "Evita agregar azúcar, miel o jarabes: además de sumar calorías, cambian el propósito de una bebida pensada para ser ligera. Si buscas recetas más elaboradas, la versión con [bebida de almendra](/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/) es un buen punto de partida." },
+    { "type": "h3", "text": "Frío o caliente según la estación limeña" },
+    { "type": "p", "text": "En verano, cuando el calor aprieta en la combi o en la oficina sin aire acondicionado, la versión con hielo resulta más refrescante y el matcha se siente más limpio. En invierno, con la garúa y el cielo gris, una taza tibia resalta las notas de coco y caramelo y se parece más a un latte de cafetería." },
+    { "type": "h2", "text": "Cómo se compara con otras bebidas de matcha" },
+    { "type": "p", "text": "Para ubicar mejor el perfil, esta comparación cualitativa puede ayudarte. No es una valoración de calidad, solo una referencia de sabor:" },
+    { "type": "ul", "items": [
+      "**Frente al matcha ceremonial puro:** Matcha Pep-T es mucho más suave y dulce; el puro es más intenso, vegetal y con notas amargas y umami.",
+      "**Frente a un matcha latte de cafetería:** perfil parecido en cremosidad, aunque los de cafetería suelen llevar leche entera y jarabe, por lo que resultan más dulces y calóricos.",
+      "**Frente al té verde en bolsita:** Matcha Pep-T tiene mucho más cuerpo y dulzor; el té en bolsita es ligero y algo astringente."
+    ] },
+    { "type": "p", "text": "Si después de probarlo quieres compartir tu impresión, tu experiencia ayuda a otros: encontrarás cómo hacerlo en la guía general de [opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/). Y si aún no lo tienes, la [página de compra](/comprar-matcha-pep-t/) te lleva a la tienda oficial, con el doypack de 14 sobres a S/ 158.00." }
+  ],
+  "faqs": [
+    { "q": "¿Matcha Pep-T sabe amargo?", "a": "No es una bebida amarga como el matcha puro. El té verde aporta una nota vegetal, pero la crema de coco, los saborizantes de crema caramelo y leche de coco y la estevia la suavizan. Quien es muy sensible al amargor del té puede preferirlo frío o con bebida vegetal." },
+    { "q": "¿Sabe a coco?", "a": "El coco está presente, porque lleva crema de coco y saborizante natural de leche de coco, pero actúa más como fondo cremoso que como sabor protagonista. Si tienes alergia al coco, revisa los ingredientes con tu médico antes de probarlo." },
+    { "q": "¿Puedo prepararlo con menos agua para que sea más intenso?", "a": "La etiqueta indica 1 sobre en 180 ml. Con menos agua la bebida queda más espesa y dulce, y puede costar disolverla bien. Si buscas más intensidad, es mejor usar los 180 ml y agregar un chorrito de bebida vegetal para ganar cuerpo." },
+    { "q": "¿El sabor cambia si lo dejo preparado varias horas?", "a": "Puede espesar un poco por la fibra y la goma xantana, y la crema de coco tiende a asentarse. Si lo preparas con anticipación, guárdalo refrigerado en un tomatodo cerrado y agítalo bien antes de tomarlo." }
+  ],
+  "sources": [
+    { "label": "EFSA – Steviol glycosides (E 960)", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FDA – Food additives and ingredients", "url": "https://www.fda.gov/food/food-ingredients-packaging" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/estevia/",
+    "/ingredientes-matcha-pep-t/crema-de-coco/",
+    "/como-preparar-matcha-pep-t/en-shaker-sin-grumos/",
+    "/como-preparar-matcha-pep-t/frio-con-hielo/"
+  ]
+}

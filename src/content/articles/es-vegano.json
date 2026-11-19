@@ -1,0 +1,75 @@
+{
+  "slug": "es-vegano",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/es-vegano/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vegano",
+  "title": "¿Matcha Pep-T es vegano? La respuesta honesta según su etiqueta",
+  "seoTitle": "Matcha Pep-T vegano: ¿lo es? Lo que dice la etiqueta",
+  "metaDescription": "¿Matcha Pep-T es vegano? No: su primer ingrediente es colágeno de origen animal. Por qué, opciones si eres vegetariano y cómo leer la etiqueta.",
+  "excerpt": "Matcha Pep-T lleva matcha, chía y coco, pero no es vegano. Te contamos por qué, cómo encaja según tu estilo de alimentación y cómo detectar ingredientes animales en cualquier etiqueta.",
+  "quickAnswer": "Matcha Pep-T no es vegano. Su primer ingrediente es colágeno hidrolizado (péptidos Nextida GC), una proteína que se obtiene de tejidos animales. El resto de la fórmula es mayormente de origen vegetal, como la crema de coco, la fibra de maíz o la lecitina de girasol, pero eso no cambia la clasificación del producto.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A rustic wooden table at an outdoor organic farmers market in Lima with bunches of fresh kale, chia seeds in a small ceramic bowl, a halved coconut and a cup of green matcha latte, overcast soft light, shallow depth of field, no text, no logos, no packaging, no people",
+    "alt": "Mesa de feria ecológica con verduras, semillas de chía, un coco partido y una taza de matcha latte"
+  },
+  "blocks": [
+    { "type": "p", "text": "Las ferias ecológicas de Miraflores y Barranco, los menús veganos que ya aparecen en cualquier patio de comidas y las bebidas vegetales que ocupan media góndola del supermercado muestran que comer sin productos animales dejó de ser una rareza en Lima. En ese contexto, es lógico que una bebida verde con matcha, chía y coco parezca, a primera vista, apta para veganos." },
+    { "type": "p", "text": "No lo es, y conviene decirlo sin rodeos para que nadie lo descubra después de haber comprado el doypack." },
+    { "type": "h2", "text": "Por qué Matcha Pep-T no es vegano: el colágeno viene de animales" },
+    { "type": "p", "text": "El colágeno es la proteína estructural de la piel, los huesos, los tendones y el cartílago de los animales. Las plantas no lo producen: sostienen sus tejidos con celulosa y otras fibras. Lo que se vende como «colágeno vegano» suele ser una mezcla de aminoácidos o vitaminas que apoyan la producción propia del cuerpo, no colágeno en sí; los desarrollos por fermentación con microorganismos existen, pero todavía son poco comunes." },
+    { "type": "p", "text": "En Matcha Pep-T, el colágeno hidrolizado es el primer ingrediente de la lista, es decir, el que está en mayor proporción. Llega como péptidos Nextida GC, del fabricante Rousselot, especializado en colágeno y gelatina de origen animal. La etiqueta no especifica la especie (bovina, porcina o marina), pero en cualquier caso es animal. Cómo se obtiene y qué aporta lo detallamos en [el colágeno hidrolizado de Matcha Pep-T](/ingredientes-matcha-pep-t/colageno-hidrolizado/)." },
+    { "type": "p", "text": "Además, ese colágeno explica buena parte de los 4.7 g de proteína por porción, así que no es un componente menor que se pueda pasar por alto. Lo analizamos a fondo en [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/)." },
+    { "type": "h2", "text": "¿Y si eres vegetariano?" },
+    { "type": "p", "text": "Depende de qué tipo de vegetariano seas, pero en la práctica tampoco encaja en la mayoría de casos. El vegetarianismo ovolácteo acepta huevos y lácteos porque se obtienen sin sacrificar al animal; el colágeno, igual que la gelatina, proviene de piel y huesos de animales faenados. Por eso la mayoría de vegetarianos lo evita del mismo modo que evitaría una gelatina común." },
+    { "type": "table", "caption": "Cómo encaja Matcha Pep-T según el estilo de alimentación", "headers": ["Estilo de alimentación", "¿Encaja Matcha Pep-T?", "Motivo"], "rows": [
+      ["Vegano estricto", "No", "Contiene colágeno de origen animal"],
+      ["Vegetariano ovolácteo", "Generalmente no", "El colágeno, como la gelatina, implica faenado"],
+      ["Pescetariano", "Depende", "La especie de origen del colágeno no está declarada"],
+      ["Flexitariano", "Sí, si tu criterio lo permite", "Consume productos animales de forma ocasional"],
+      ["Omnívoro", "Sí", "Sin restricción por origen"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que sí es vegetal en la fórmula", "text": "Fibra de maíz, crema de coco, mix de té matcha y chía, isomaltulosa de betarraga, tapioca, estevia y lecitina de girasol son de origen vegetal. La goma xantana se obtiene por fermentación; el dióxido de silicio y el cromo son minerales. Los saborizantes naturales (crema caramelo y leche de coco) no detallan su origen. El único ingrediente claramente animal es el colágeno." },
+    { "type": "cta", "text": "Si tu alimentación sí incluye productos animales, revisa el precio de Matcha Pep-T: S/ 158.00 por 14 sobres, unos S/ 11.29 por sobre." },
+    { "type": "h2", "text": "¿Existe un Matcha Pep-T vegano? Alternativas si no comes animales" },
+    { "type": "p", "text": "No hay una versión vegana de este producto. La razón de ser de la fórmula es precisamente el colágeno Nextida GC, así que quitarlo sería hacer otra bebida. Si eres vegano o vegetariano y te atrae la idea de un matcha latte con algo de proteína y fibra, estas son opciones genéricas que puedes armar en casa:" },
+    { "type": "ul", "items": [
+      "**Matcha puro con bebida de soya**: una cucharadita de matcha batida con bebida de soya, que aporta proteína vegetal. Las diferencias de sabor, precio y preparación están en [Matcha Pep-T vs matcha puro](/ciencia-matcha-pep-t/vs-matcha-puro/).",
+      "**Matcha con proteína vegetal en polvo**: proteína de arveja o de soya en licuadora; la de arveja combinada con la de arroz se acerca a un perfil de aminoácidos completo.",
+      "**Chía y tarwi en el batido**: la chía suma fibra y el tarwi, una legumbre andina muy rica en proteína, se integra bien en batidos si lo compras pelado y listo para consumir en el mercado.",
+      "**Estevia para endulzar**: si buscas un perfil de sabor parecido añadiendo muy poca azúcar."
+    ] },
+    { "type": "p", "text": "Ninguna de estas opciones replica el ingrediente Nextida GC ni los estudios que su fabricante ha hecho sobre él; son simplemente formas de disfrutar un matcha latte acorde con tu alimentación." },
+    { "type": "h3", "text": "Si convives con alguien que sí lo toma" },
+    { "type": "p", "text": "Es una escena frecuente en casas limeñas donde una persona es vegana y el resto no. Si compartes la cocina y para ti es importante evitar cualquier contacto con ingredientes animales, basta con usar un shaker o vaso propio. Y si eres tú quien lo prepara para otra persona, recuerda que la base es 1 sobre en 180 ml de agua; para una versión más cremosa puede añadirse un chorrito de bebida vegetal." },
+    { "type": "h2", "text": "Cómo leer una etiqueta para saber si un producto es vegano" },
+    { "type": "p", "text": "Esta habilidad te sirve para cualquier bebida en polvo del supermercado o de la bodega de la esquina, no solo para este producto." },
+    { "type": "ol", "items": [
+      "**Busca un sello de certificación vegana.** Es la señal más clara. Si no lo hay, no asumas nada y pasa a la lista.",
+      "**Lee la lista completa, no solo el frente.** Palabras como «natural», «verde» o «plant-based» en la cara principal no garantizan nada.",
+      "**Identifica ingredientes animales con nombre técnico.** Colágeno, péptidos de colágeno, gelatina, suero de leche, caseína, caseinato, miel, goma laca, vitamina D3 de lanolina y carmín, el colorante de la cochinilla que, por cierto, Perú produce en grandes cantidades.",
+      "**Revisa los ingredientes ambiguos.** Saborizantes naturales, mono y diglicéridos o algunas vitaminas pueden ser de origen animal o vegetal; si la etiqueta no lo aclara, pregunta al fabricante o al distribuidor.",
+      "**Mira la advertencia de alérgenos.** Si dice «contiene leche» o «contiene huevo», no es vegano aunque la lista parezca limpia."
+    ] },
+    { "type": "p", "text": "Aplicado a Matcha Pep-T, la respuesta aparece en el tercer paso: «colágeno hidrolizado (péptidos de proteína de colágeno)». Con eso basta para descartarlo en una dieta vegana. El resto de componentes, con su función, está en la [lista completa de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "p", "text": "Si tu alimentación lo permite y quieres probarlo, en la [página de compra](/comprar-matcha-pep-t/) te explicamos cómo pedirlo al distribuidor autorizado en Lima o desde provincias." }
+  ],
+  "faqs": [
+    { "q": "¿Tiene lácteos?", "a": "La lista de ingredientes no incluye leche ni derivados; la cremosidad viene de la crema de coco. Pero no tener lácteos no lo vuelve vegano, porque el colágeno sigue siendo animal. Si tienes alergias, revisa además la advertencia del envase." },
+    { "q": "¿El colágeno de Matcha Pep-T es de pescado?", "a": "La etiqueta no indica la especie de origen. Rousselot trabaja con distintas fuentes animales, así que si para ti es determinante, por ejemplo porque eres pescetariano o alérgico al pescado, consulta antes de comprar." },
+    { "q": "¿Es halal o kosher?", "a": "La información disponible del producto no menciona certificaciones halal ni kosher. Si sigues alguna de estas normas, la ausencia de sello es motivo suficiente para consultar antes de consumirlo." },
+    { "q": "¿La estevia o la goma xantana son de origen animal?", "a": "No. La estevia se extrae de las hojas de Stevia rebaudiana y la goma xantana se produce por fermentación bacteriana de azúcares. Ambas son aceptadas en dietas veganas." }
+  ],
+  "sources": [
+    { "label": "Rousselot – colágeno y gelatina", "url": "https://www.rousselot.com/" },
+    { "label": "The Vegan Society", "url": "https://www.vegansociety.com/" },
+    { "label": "Codex Alimentarius – FAO/OMS", "url": "https://www.fao.org/fao-who-codexalimentarius/" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/colageno-hidrolizado/",
+    "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/",
+    "/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/",
+    "/ciencia-matcha-pep-t/vs-matcha-puro/"
+  ]
+}

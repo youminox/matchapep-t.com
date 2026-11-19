@@ -1,0 +1,88 @@
+{
+  "slug": "como-dejar-tu-opinion",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/como-dejar-tu-opinion/",
+  "isPillar": false,
+  "primaryKeyword": "opinar sobre Matcha Pep-T",
+  "title": "Cómo opinar sobre Matcha Pep-T: formulario para clientes reales",
+  "seoTitle": "Opinar sobre Matcha Pep-T: deja tu experiencia real",
+  "metaDescription": "Opinar sobre Matcha Pep-T es sencillo: usa nuestro formulario moderado, mira cómo verificamos cada experiencia y por qué no publicamos testimonios falsos.",
+  "excerpt": "Si ya probaste Matcha Pep-T, tu experiencia ayuda a otros a decidir. Así funciona el formulario, cómo verificamos cada opinión y qué no publicamos.",
+  "quickAnswer": "Para opinar sobre Matcha Pep-T en este sitio, completa el formulario que encontrarás al final de esta página con tu nombre y apellido, tu experiencia y, si lo tienes, tu número de pedido. Revisamos cada envío, verificamos la compra y publicamos solo con tu autorización, tanto las opiniones positivas como las negativas.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "An open spiral notebook with a pen resting on blank lined pages beside a glass mug of warm green matcha latte on a café-style wooden table, a smartphone face down nearby, soft natural light from a large window with blurred green plants outside, realistic lifestyle photography, no text, no logos, no packaging, no people",
+    "alt": "Libreta abierta con un lapicero junto a una taza de matcha latte en una mesa de madera iluminada"
+  },
+  "blocks": [
+    { "type": "p", "text": "Cuando alguien busca reseñas de un suplemento en internet, casi siempre encuentra lo mismo: frases entusiastas sin nombre, fotos de antes y después sin contexto y estrellas que nadie sabe de dónde salen. Nosotros preferimos una página más lenta de llenar pero confiable, y para eso necesitamos a quienes ya lo probaron." },
+    { "type": "p", "text": "Si compraste y usaste Matcha Pep-T, aquí te contamos cómo **opinar sobre Matcha Pep-T** en este sitio, qué datos pedimos, cómo comprobamos que la experiencia es real y por qué rechazamos publicar testimonios que no podemos verificar." },
+    { "type": "h2", "text": "Por qué tu opinión pesa más que cualquier anuncio" },
+    { "type": "p", "text": "Este sitio lo administra un distribuidor autorizado independiente de FuXion en Lima. Eso implica un interés comercial evidente, y lo decimos sin rodeos. Justamente por eso, lo que escribimos nosotros nunca tendrá el mismo valor que la experiencia de alguien que pagó el producto, lo preparó en su cocina y lo tomó durante semanas." },
+    { "type": "p", "text": "Una opinión útil responde preguntas que la etiqueta no puede responder: si el sabor resulta muy dulce, si se disuelve bien en un tomatodo camino a la oficina, si generó gases los primeros días o si valió lo que costó. Esa información práctica es la que otras personas buscan en la [guía de opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/)." },
+    { "type": "h2", "text": "Qué datos te pide el formulario y cuáles se publican" },
+    { "type": "p", "text": "El formulario está al final de esta página. Es corto y cada campo tiene un propósito concreto:" },
+    { "type": "table", "caption": "Campos del formulario de opiniones", "headers": ["Campo", "¿Obligatorio?", "¿Se publica?"], "rows": [
+      ["Nombre y apellido", "Sí", "Sí, junto a tu comentario"],
+      ["Ciudad", "No", "Sí, si la indicas (por ejemplo, Lima, Arequipa o Huancayo)"],
+      ["Correo electrónico", "No", "No; solo sirve para contactarte si necesitamos confirmar algo"],
+      ["Número de pedido", "No", "No; se usa únicamente para verificar la compra"],
+      ["Tu valoración de 1 a 5", "Se elige en el formulario", "Sí, tal como la marques"],
+      ["Tu experiencia (entre 20 y 2,000 caracteres)", "Sí", "Sí, sin cambiar su sentido"],
+      ["Autorización de publicación", "Sí", "Es el consentimiento para mostrar tu texto con tu nombre y ciudad"]
+    ] },
+    { "type": "p", "text": "La valoración que ves en cada opinión publicada es la que eligió su autor. No calculamos promedios ni mostramos puntuaciones globales que pudieran sugerir más respaldo del que realmente existe." },
+    { "type": "h2", "text": "Cómo escribir una opinión que realmente ayude" },
+    { "type": "p", "text": "No necesitas escribir bonito. Necesitas ser concreto. Estas preguntas te pueden servir de guía:" },
+    { "type": "ul", "items": [
+      "¿Cuánto tiempo lo tomaste y con qué frecuencia? Por ejemplo, un sobre diario durante dos semanas o solo en días de trabajo.",
+      "¿Cómo lo preparabas? Con 180 ml de agua fría, caliente, en shaker o con un chorrito de bebida vegetal.",
+      "¿A qué hora lo tomabas y en qué contexto? Antes del almuerzo, a media tarde en la oficina, después de entrenar.",
+      "¿Qué te pareció el sabor y la textura? Si te resultó dulce, suave, espeso o te costó acostumbrarte.",
+      "¿Qué notaste y qué no notaste? Incluye también lo que esperabas y no ocurrió.",
+      "¿Tuviste alguna molestia? Gases, pesadez o cualquier otra sensación, aunque haya sido leve.",
+      "¿Lo volverías a comprar al precio actual? Y por qué sí o por qué no."
+    ] },
+    { "type": "p", "text": "Las opiniones mixtas suelen ser las más útiles. «Me gustó el sabor frío, pero caliente no tanto» le sirve más a otra persona que un «excelente» sin detalles." },
+    { "type": "cta", "text": "¿Todavía no lo has probado? Revisa el precio vigente y compra el original en la tienda oficial." },
+    { "type": "h2", "text": "Cómo verificamos cada opinión antes de publicarla" },
+    { "type": "p", "text": "Ninguna opinión aparece automáticamente. Cada envío entra a un panel de moderación y pasa por estos filtros:" },
+    { "type": "ol", "items": [
+      "**Revisión de la compra:** si indicaste un número de pedido, lo contrastamos con los registros de ventas del distribuidor. Las opiniones confirmadas se marcan como compra verificada.",
+      "**Contacto opcional:** si algo no queda claro y dejaste tu correo, te escribimos para confirmarlo. Nunca publicamos ese correo.",
+      "**Revisión del contenido:** comprobamos que hable de Matcha Pep-T y de una experiencia propia, no de otro producto ni de un texto copiado de otra web.",
+      "**Afirmaciones de salud:** si el comentario presenta como hecho un efecto médico, te pedimos reformularlo como experiencia personal o retiramos esa frase, con tu conocimiento.",
+      "**Publicación:** el texto aparece con tu nombre, tu ciudad, el mes y el año, tal como lo escribiste. Solo corregimos ortografía si nos das permiso."
+    ] },
+    { "type": "h2", "text": "Por qué no publicamos testimonios sin verificar" },
+    { "type": "p", "text": "Matcha Pep-T es un alimento en polvo, no un medicamento. Aun así, mucha gente lo busca pensando en temas sensibles como el peso, el apetito o la glucosa. Un testimonio inventado del tipo «bajé tantos kilos en un mes» puede llevar a alguien a dejar un tratamiento o a esperar algo que el producto no ofrece. Ese riesgo no compensa ninguna venta." },
+    { "type": "p", "text": "Además, la publicidad engañosa perjudica a los consumidores y está regulada en Perú. Por eso nuestras reglas son públicas y no cambian:" },
+    { "type": "ul", "items": [
+      "No inventamos opiniones, nombres ni ciudades.",
+      "No ofrecemos descuentos, regalos ni sorteos a cambio de reseñas.",
+      "No borramos opiniones negativas por ser negativas.",
+      "No publicamos promesas de resultados con cifras de kilos o plazos.",
+      "No usamos opiniones de otras webs o redes sin permiso de su autor."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "El formulario no reemplaza la atención médica", "text": "Si al tomar Matcha Pep-T sentiste una reacción alérgica, malestar intenso o cualquier síntoma que te preocupe, suspende el consumo y consulta a un profesional de salud. Puedes contarnos tu experiencia después, pero lo primero es tu bienestar." },
+    { "type": "p", "text": "Si tienes dudas sobre molestias posibles, la guía de [efectos secundarios de Matcha Pep-T](/opiniones-matcha-pep-t/efectos-secundarios/) explica las más habituales y cuándo suspender. Y si quieres contrastar tu experiencia con lo que es razonable esperar, revisa nuestro análisis sobre [si Matcha Pep-T funciona](/opiniones-matcha-pep-t/funciona/)." },
+    { "type": "h2", "text": "Antes de escribir, ten esto a la mano" },
+    { "type": "p", "text": "Si compraste a este distribuidor, busca tu número de pedido en el correo de confirmación: es la forma más rápida de verificar tu opinión. Si aún no has comprado y quieres probarlo para luego contarnos, la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/) te lleva a la tienda oficial, con el precio vigente de S/ 158.00 por doypack de 14 sobres." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo opinar si compré Matcha Pep-T en otro lugar?", "a": "Puedes enviarnos tu experiencia, pero solo la publicamos si podemos verificar que usaste el producto. Si no hay forma de confirmarlo, la guardamos como referencia interna y no aparece en el sitio." },
+    { "q": "¿Puedo pedir que retiren o corrijan mi opinión?", "a": "Sí. Escríbenos desde la página de contacto con el nombre con el que la publicaste y la retiramos o actualizamos. Tu autorización se puede revocar en cualquier momento." },
+    { "q": "¿Me dan algún beneficio por dejar mi opinión?", "a": "No. No ofrecemos descuentos, puntos ni regalos a cambio de reseñas, porque eso sesgaría lo que la gente escribe. La única recompensa es ayudar a otras personas a decidir con información real." },
+    { "q": "¿Cuánto tarda en aparecer mi opinión?", "a": "Depende de la verificación. Si incluiste tu número de pedido, el proceso suele ser más ágil. Si necesitamos confirmar algo por correo, esperamos tu respuesta antes de publicarla." }
+  ],
+  "sources": [
+    { "label": "INDECOPI – Protección al consumidor y publicidad", "url": "https://www.gob.pe/indecopi" },
+    { "label": "FTC – Endorsements, influencers and reviews", "url": "https://www.ftc.gov/" }
+  ],
+  "related": [
+    "/opiniones-matcha-pep-t/funciona/",
+    "/opiniones-matcha-pep-t/efectos-secundarios/",
+    "/opiniones-matcha-pep-t/sabor-y-textura/",
+    "/opiniones-matcha-pep-t/garantia-y-devoluciones/"
+  ]
+}

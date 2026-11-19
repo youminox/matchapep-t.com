@@ -1,0 +1,84 @@
+{
+  "slug": "caliente",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/caliente/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T caliente",
+  "title": "Matcha Pep-T caliente: a 70–80 °C, sin hervir y sin grumos",
+  "seoTitle": "Matcha Pep-T caliente: temperatura ideal y sin grumos",
+  "metaDescription": "Matcha Pep-T caliente para el invierno limeño: cómo lograr agua a 70–80 °C sin termómetro, por qué no hervirla y la técnica para una taza sin grumos.",
+  "excerpt": "La versión de taza para los meses de garúa: cómo templar el agua sin termómetro, la técnica de la pasta para evitar grumos y un error de seguridad que conviene conocer.",
+  "quickAnswer": "Para preparar Matcha Pep-T caliente usa 180 ml de agua a unos 70–80 °C, nunca hirviendo. Viértela en una taza, añade 1 sobre de 15 g poco a poco mientras bates y mezcla 20–30 segundos. Si primero formas una pasta con un poco de agua tibia, evitas los grumos casi por completo.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A wide ceramic mug of hot pale green matcha latte with a thin layer of foam and a small bamboo whisk resting beside it, on a wooden windowsill with a grey misty winter sky and drizzle on the glass of a Lima apartment window, a knitted blanket softly out of focus, cozy warm interior light, no packaging, no text, no logos, no people",
+    "alt": "Taza ancha de matcha latte caliente con espuma ligera y batidor de bambú junto a una ventana con garúa de invierno en Lima"
+  },
+  "blocks": [
+    { "type": "p", "text": "Julio en Lima: cielo panza de burro, garúa que no moja pero cala, y esa humedad que hace sentir más frío del que marca el termómetro. En esos meses, la mayoría busca algo caliente entre comidas, y no siempre apetece otro café pasado." },
+    { "type": "p", "text": "El sobre de matcha también se toma en taza, y la etiqueta lo permite expresamente: agua caliente, **sin hervir**. Ese pequeño matiz es el que separa una bebida sedosa de una con bolitas verdes flotando. Aquí te explicamos cómo conseguirlo en cualquier cocina, con o sin termómetro." },
+    { "type": "h2", "text": "Por qué el agua no debe hervir" },
+    { "type": "p", "text": "Hay tres razones prácticas para templar el agua antes de usarla:" },
+    { "type": "ul", "items": [
+      "**Grumos.** La fórmula incluye goma xantana y fibra, que se hidratan muy rápido. Con agua demasiado caliente, la capa exterior del polvo se espesa al instante y encierra polvo seco en su interior. Ese es el origen de la mayoría de grumos.",
+      "**Sabor.** El té verde, en general, se prepara por debajo del punto de ebullición porque el agua muy caliente acentúa su amargor. Templar el agua respeta mejor el perfil suave de *matcha latte*.",
+      "**Seguridad.** Una taza a 100 °C es más fácil de derramar y quemarte, sobre todo si la preparas apurado antes de salir."
+    ] },
+    { "type": "p", "text": "Un apunte geográfico: en Lima, a nivel del mar, el agua hierve a unos 100 °C. En ciudades altas como Cusco o Puno hierve a menor temperatura, alrededor de 88–90 °C, pero sigue estando por encima del rango recomendado, así que allí también conviene dejarla enfriar un poco." },
+    { "type": "h2", "text": "Cómo lograr 70–80 °C sin termómetro" },
+    { "type": "table", "caption": "Métodos caseros para templar el agua", "headers": ["Método", "Cómo hacerlo", "Precisión"], "rows": [
+      ["Hervidor con temperatura", "Selecciona 75 u 80 °C si tu hervidor eléctrico lo permite", "Alta"],
+      ["Mezcla caliente + ambiente", "120 ml de agua recién hervida + 60 ml de agua a temperatura ambiente", "Buena (queda cerca de 73 °C)"],
+      ["Reposo", "Hierve, apaga y deja la tetera destapada unos minutos", "Media; depende del recipiente"],
+      ["Señal visual en olla", "Retira del fuego cuando aparezcan burbujas pequeñas en el fondo y bordes, antes del hervor", "Media"],
+      ["Microondas", "Calienta por tramos cortos y detén antes de que burbujee", "Variable; revuelve antes de usar"]
+    ] },
+    { "type": "p", "text": "El método de mezcla es el más fiable en una cocina sin aparatos: combinar dos partes de agua recién hervida con una parte de agua a temperatura ambiente te deja, en teoría, en torno a 73 °C, y la suma da exactamente los 180 ml de la etiqueta. En la práctica pierdes un par de grados al servir, lo que te mantiene dentro del rango." },
+    { "type": "h2", "text": "Matcha Pep-T caliente paso a paso" },
+    { "type": "steps", "items": [
+      { "name": "Templa el agua", "text": "Prepara 180 ml de agua entre 70 y 80 °C con cualquiera de los métodos de la tabla." },
+      { "name": "Forma una pasta (opcional pero recomendado)", "text": "Vierte en la taza unas 2 o 3 cucharadas de esa agua y añade el contenido de 1 sobre de 15 g. Bate con una cucharita o batidor pequeño hasta obtener una pasta lisa y brillante, sin puntos secos." },
+      { "name": "Completa el agua", "text": "Agrega el resto del agua caliente poco a poco, sin dejar de remover, hasta completar los 180 ml." },
+      { "name": "Bate en zigzag", "text": "Mueve el batidor o la cuchara de lado a lado durante 20 a 30 segundos. Este movimiento integra mejor que los círculos y genera una espuma fina." },
+      { "name": "Reposa y sirve", "text": "Espera medio minuto para que la bebida tome cuerpo, da una última vuelta y tómala mientras está caliente." }
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "No agites líquidos calientes en un shaker cerrado", "text": "El vapor genera presión dentro del recipiente y la tapa puede abrirse de golpe, con riesgo de quemaduras. Para la versión caliente usa taza y batidor o cuchara. El shaker queda para la versión fría." },
+    { "type": "cta", "text": "Prepárate para la temporada de garúa: revisa el precio oficial del doypack de 14 sobres y compra con el distribuidor autorizado." },
+    { "type": "h2", "text": "Cómo evitar grumos en la versión caliente" },
+    { "type": "p", "text": "Si a pesar de todo te salen bolitas, casi siempre la causa está en uno de estos puntos:" },
+    { "type": "ol", "items": [
+      "**Echar el polvo de golpe.** Viértelo en forma de lluvia mientras remueves; así cada partícula se moja por separado.",
+      "**Poner el polvo antes que el agua.** El polvo en el fondo seco de la taza se apelmaza al recibir el chorro caliente.",
+      "**Agua demasiado caliente.** Por encima de 85 °C los grumos aparecen con mucha más facilidad.",
+      "**Taza estrecha.** En un jarro angosto el batidor no tiene espacio; una taza ancha facilita el movimiento.",
+      "**Sobre húmedo.** Si el polvo ya está compacto por la humedad limeña, se disuelve peor. Guarda los sobres en un lugar fresco y seco."
+    ] },
+    { "type": "p", "text": "Si quieres llevar la técnica más lejos, con espumador eléctrico y el orden ideal de cada paso, tienes la guía específica de [Matcha Pep-T sin grumos](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/). Y para revisar otros fallos frecuentes, como medir mal el agua, mira los [errores al preparar Matcha Pep-T](/como-preparar-matcha-pep-t/errores-al-prepararlo/)." },
+    { "type": "h2", "text": "Ideas para el invierno limeño" },
+    { "type": "ul", "items": [
+      "**Latte de taza más cremoso:** un chorrito de bebida vegetal tibia le da cuerpo. La de avena es la que mejor funciona en caliente; lo detallamos en el [latte con avena](/como-preparar-matcha-pep-t/latte-con-avena/).",
+      "**Canela por encima:** una pizca espolvoreada al final aporta aroma sin cambiar la preparación.",
+      "**Para el trayecto:** si sales temprano rumbo a la oficina, sirve la bebida ya preparada en un vaso térmico con tapa. Prepárala en taza y luego trasvasa; no la agites en un recipiente cerrado.",
+      "**Media tarde con lonche ligero:** en lugar del clásico té con pan con mantequilla, puede acompañar una fruta o un puñado de maní, si encaja con tu alimentación."
+    ] },
+    { "type": "p", "text": "Sobre el horario, ten presente que el matcha contiene cafeína de forma natural, aunque la etiqueta no declara la cantidad. Si eres sensible, evita tomarlo muy tarde; las recomendaciones de horario están en [a qué hora tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Mismos valores en frío y en caliente", "text": "La temperatura no cambia la etiqueta: 1 sobre en 180 ml aporta 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y cromo al 45 % del valor diario." },
+    { "type": "p", "text": "Para ver el resto de opciones, frías y calientes, vuelve a la guía completa de [cómo preparar Matcha Pep-T](/como-preparar-matcha-pep-t/). Y si te quedaste sin sobres en pleno invierno, puedes [pedir tu doypack original](/comprar-matcha-pep-t/) a S/ 158.00, unos S/ 11.29 por taza." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo recalentar en el microondas un Matcha Pep-T que se enfrió?", "a": "Sí, pero hazlo con suavidad: tramos cortos y sin dejar que hierva, removiendo entre uno y otro. Calentarlo demasiado espesa la mezcla y puede formar una película en la superficie." },
+    { "q": "¿El agua caliente afecta al colágeno o a los ingredientes?", "a": "La etiqueta permite prepararlo con agua caliente siempre que no hierva, y esa es la referencia segura a seguir. No hay datos públicos del fabricante sobre lo que ocurre a temperaturas más altas, por eso es mejor no superar el rango indicado." },
+    { "q": "¿Puedo prepararlo con agua de la terma o del caño caliente?", "a": "No. El agua de la terma no es apta para beber. Calienta siempre agua potable, filtrada o de bidón en hervidor, olla o microondas." },
+    { "q": "¿Qué tipo de taza conviene usar?", "a": "Una taza ancha de cerámica, de 250 ml o más, deja espacio para batir sin derramar y mantiene mejor el calor que un vaso de vidrio delgado." }
+  ],
+  "sources": [
+    { "label": "Ficha de Matcha Pep-T en la tienda del distribuidor autorizado", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" },
+    { "label": "FDA – Cómo entender la etiqueta de información nutricional", "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/en-shaker-sin-grumos/",
+    "/como-preparar-matcha-pep-t/como-hacer-espuma/",
+    "/como-preparar-matcha-pep-t/frio-con-hielo/",
+    "/ingredientes-matcha-pep-t/tiene-cafeina/"
+  ]
+}

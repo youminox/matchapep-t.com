@@ -1,0 +1,71 @@
+{
+  "slug": "fibra-y-saciedad-evidencia",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/",
+  "isPillar": false,
+  "primaryKeyword": "fibra y saciedad estudios",
+  "title": "Fibra y saciedad: qué dicen los estudios sobre apetito y peso",
+  "seoTitle": "Fibra y saciedad: qué dicen los estudios científicos",
+  "metaDescription": "Fibra y saciedad: estudios y revisiones sobre fibra soluble, apetito y peso, qué tipo funciona mejor y cómo se ubican los 4.9 g de fibra de Matcha Pep-T.",
+  "excerpt": "No toda fibra quita el hambre de la misma forma. Revisamos qué han encontrado las revisiones científicas sobre fibra soluble, saciedad y peso, y dónde queda la fibra de Matcha Pep-T.",
+  "quickAnswer": "Los estudios sobre fibra y saciedad muestran un efecto real pero desigual: las fibras viscosas, como el betaglucano de la avena o el psyllium, son las que más reducen el apetito, mientras que otras tienen resultados mixtos. En peso, una dieta rica en fibra se asocia a mejores resultados, aunque los suplementos solos logran cambios pequeños.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Overhead view of a rustic table with small clay bowls of lentils, quinoa, rolled oats, chia seeds and sliced granadilla fruit, next to a glass of creamy iced matcha latte, natural daylight, Peruvian market style, no packaging, no text, no logos, no people",
+    "alt": "Cuencos de lentejas, quinua, avena, chía y granadilla junto a un vaso de matcha latte con hielo"
+  },
+  "blocks": [
+    { "type": "p", "text": "¿Por qué un plato de tacu tacu con ensalada te sostiene hasta la noche y un paquete de galletas comprado al paso, en la combi, no te dura ni media hora? Parte de la respuesta está en la proteína y en el volumen de la comida, pero otra parte tiene nombre propio: la **fibra**." },
+    { "type": "p", "text": "La idea de que la fibra «llena» se repite tanto que parece un hecho indiscutible. La ciencia es más matizada. Aquí revisamos qué han encontrado los estudios, qué tipos de fibra rinden más y qué se puede esperar, de forma realista, de una bebida como Matcha Pep-T." },
+    { "type": "h2", "text": "Fibra y saciedad: lo que dicen los estudios en conjunto" },
+    { "type": "p", "text": "Cuando los investigadores reúnen decenas de ensayos, el panorama es menos uniforme de lo que sugiere la publicidad. Una revisión sistemática publicada en el *Journal of the American College of Nutrition* analizó distintas fibras y encontró que cerca de 4 de cada 10 tratamientos aumentaban la sensación de saciedad frente al control, y solo alrededor de 1 de cada 5 reducía lo que las personas comían después." },
+    { "type": "p", "text": "Otra revisión de ensayos aleatorizados, en *Obesity Reviews*, llegó a una conclusión clave: las fibras más **viscosas**, las que espesan el contenido del estómago, eran las que con más frecuencia disminuían el apetito y la ingesta de energía. En cambio, los efectos sobre el peso corporal fueron pequeños y variables." },
+    { "type": "p", "text": "Dicho de otro modo: la fibra ayuda, pero el tipo, la dosis y la forma en que se consume importan tanto como la cantidad." },
+    { "type": "h2", "text": "Tres mecanismos que explican por qué la fibra puede saciar" },
+    { "type": "ol", "items": [
+      "**Viscosidad**: ciertas fibras forman un gel que hace más lento el vaciamiento del estómago y la absorción de nutrientes. La sensación de plenitud dura más.",
+      "**Fermentación**: en el colon, las bacterias fermentan la fibra soluble y producen ácidos grasos de cadena corta, que estimulan a las células intestinales a liberar hormonas como GLP-1 y PYY.",
+      "**Volumen y masticación**: los alimentos enteros ricos en fibra ocupan más espacio, obligan a comer más despacio y aportan agua. Esto pesa mucho en comidas como una ensalada de pallares o una sopa con verduras."
+    ] },
+    { "type": "p", "text": "El segundo punto conecta con el sistema hormonal del apetito, que explicamos paso a paso en nuestra guía de [hormonas de la saciedad](/ciencia-matcha-pep-t/hormonas-de-la-saciedad/). Aquí basta recordar que estas señales son graduales y no funcionan como un interruptor." },
+    { "type": "h2", "text": "No toda fibra es igual: comparación por tipo" },
+    { "type": "table", "caption": "Tipos de fibra y evidencia sobre saciedad (resumen general)", "headers": ["Tipo de fibra", "Ejemplos", "Cómo actúa", "Evidencia sobre saciedad"], "rows": [
+      ["Soluble viscosa", "Betaglucano de avena y cebada, psyllium, goma guar, glucomanano, mucílago de chía", "Forma gel, retrasa el vaciamiento gástrico", "La más consistente, sobre todo en dosis de varios gramos"],
+      ["Soluble fermentable de baja viscosidad", "Inulina, dextrinas resistentes, fibra soluble de maíz", "Se fermenta en el colon y estimula hormonas intestinales", "Mixta; buena tolerancia, efecto agudo menos marcado"],
+      ["Insoluble", "Salvado de trigo, cáscaras, pieles de frutas", "Aporta volumen y acelera el tránsito", "Poco efecto inmediato sobre el apetito"],
+      ["Alimentos enteros ricos en fibra", "Menestras, quinua, kiwicha, avena, frutas, verduras", "Suma fibra, agua, proteína y masticación", "Asociados a menor peso en estudios de población"]
+    ] },
+    { "type": "h2", "text": "Fibra soluble y peso corporal: qué se ha medido" },
+    { "type": "p", "text": "El dato más sólido no viene de un suplemento, sino de la dieta completa. Un gran metaanálisis publicado en *The Lancet*, encargado por la Organización Mundial de la Salud, observó que las personas con mayor consumo de fibra tenían menor peso corporal y menor riesgo cardiometabólico, con los mejores resultados a partir de unos 25 a 29 g diarios." },
+    { "type": "p", "text": "En un ensayo de pérdida de peso con distintas dietas, el consumo de fibra predijo mejor quién bajaba de peso y quién se mantenía en el plan, más allá de las calorías o el reparto de macronutrientes. Es una asociación, no prueba que la fibra por sí sola cause la pérdida." },
+    { "type": "p", "text": "Con suplementos de fibra viscosa, los ensayos muestran reducciones pequeñas de peso y cintura frente a placebo, casi siempre dentro de una dieta controlada. Ninguna fibra en polvo compensa un exceso de calorías sostenido." },
+    { "type": "callout", "variant": "aviso", "title": "Expectativas sanas", "text": "La fibra es una herramienta dentro de un patrón de alimentación, no un tratamiento para la obesidad. Si tienes diabetes, una enfermedad digestiva o tomas medicamentos, consulta con tu médico o nutricionista antes de aumentar mucho tu consumo de fibra o de usar suplementos." },
+    { "type": "cta", "text": "Revisa el precio de Matcha Pep-T (S/ 158.00 por 14 sobres) y las opciones de pedido en la tienda oficial del distribuidor." },
+    { "type": "h2", "text": "Dónde se ubican los 4.9 g de fibra de Matcha Pep-T" },
+    { "type": "p", "text": "Según su etiqueta, cada porción (1 sobre de 15 g en 180 ml de agua) aporta **4.9 g de fibra**, el 18 % del valor diario, junto con 4.7 g de proteína y 46 kcal. Esa fibra viene principalmente de la fibra de maíz y de la chía; la etiqueta no detalla cuánto aporta cada una." },
+    { "type": "p", "text": "La fibra de maíz es soluble y fermentable, de baja viscosidad, y por eso se disuelve sin espesar demasiado. Si quieres el detalle técnico, lo tienes en nuestra ficha de [fibra de maíz soluble](/ingredientes-matcha-pep-t/fibra-de-maiz/). La chía, en cambio, contiene mucílago, una fibra viscosa, aunque su cantidad en el sobre tampoco está declarada." },
+    { "type": "p", "text": "Puesto en perspectiva: 4.9 g equivalen aproximadamente a una quinta parte de los 25 g diarios que suele recomendarse como mínimo. Es un aporte útil, sobre todo combinado con proteína y tomado antes de una comida, pero no reemplaza las fuentes naturales. Para ver cómo se aplica esto en un día real, revisa cómo usar [Matcha Pep-T para la saciedad](/que-es-matcha-pep-t/saciedad-control-apetito/)." },
+    { "type": "h2", "text": "Cómo sumar fibra en la mesa peruana sin complicarte" },
+    { "type": "ul", "items": [
+      "Vuelve a las **menestras** dos o tres veces por semana: lentejas, frejol canario o pallares rinden mucho en fibra y proteína.",
+      "Cambia parte del arroz blanco por **quinua** o mezcla ambos.",
+      "Desayuna **avena** cocida con fruta picada; el betaglucano es de las fibras con más respaldo.",
+      "Come frutas enteras en lugar de jugo: granadilla, aguaymanto, manzana o papaya del mercado.",
+      "Aumenta de forma gradual y toma suficiente agua, en especial en verano."
+    ] },
+    { "type": "p", "text": "Si al subir la fibra notas gases o hinchazón, suele ser una adaptación temporal; lo tratamos en el artículo sobre [Matcha Pep-T y la digestión](/que-es-matcha-pep-t/fibra-y-digestion/). Para ver cómo encaja la fibra con los péptidos de colágeno y el resto de la evidencia, consulta la [guía científica de Matcha Pep-T](/ciencia-matcha-pep-t/), y si quieres incorporarlo, aquí puedes [pedir Matcha Pep-T en Perú](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Cuánta fibra debería consumir al día?", "a": "La OMS recomienda que los adultos consuman al menos 25 g de fibra al día, de preferencia a partir de alimentos como cereales integrales, menestras, frutas y verduras. Las necesidades pueden variar según la edad y la salud de cada persona." },
+    { "q": "¿La fibra en polvo vale lo mismo que la de los alimentos?", "a": "No exactamente. Los alimentos enteros aportan además agua, vitaminas, minerales y masticación, que también influyen en la saciedad. La fibra añadida a una bebida puede complementar la dieta, pero no reemplaza a las fuentes naturales." },
+    { "q": "¿Es cierto que la fibra atrapa la grasa y las calorías?", "a": "Algunas fibras viscosas pueden reducir ligeramente la absorción de grasas, pero el efecto es pequeño. No sirve para compensar comidas muy calóricas; su valor está sobre todo en la saciedad y en la salud digestiva y metabólica." },
+    { "q": "¿Conviene separar la fibra de los medicamentos?", "a": "Algunas fibras, sobre todo las viscosas en dosis altas, pueden interferir con la absorción de ciertos fármacos. Si tomas medicación de forma regular, pregunta a tu médico o farmacéutico por el horario más adecuado." }
+  ],
+  "sources": [
+    { "label": "PubMed – The effect of fiber on satiety and food intake: a systematic review (J Am Coll Nutr)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=effect+of+fiber+on+satiety+and+food+intake+systematic+review" },
+    { "label": "PubMed – Dietary fibre, subjective appetite, energy intake and body weight (Obesity Reviews)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=dietary+fibre+subjective+appetite+energy+intake+body+weight+systematic+review" },
+    { "label": "PubMed – Carbohydrate quality and human health (The Lancet)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=carbohydrate+quality+and+human+health+systematic+reviews+meta-analyses" },
+    { "label": "Organización Mundial de la Salud (OMS)", "url": "https://www.who.int/" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/hormonas-de-la-saciedad/", "/ingredientes-matcha-pep-t/fibra-de-maiz/", "/que-es-matcha-pep-t/saciedad-control-apetito/", "/que-es-matcha-pep-t/fibra-y-digestion/"]
+}

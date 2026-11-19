@@ -1,0 +1,78 @@
+{
+  "slug": "en-ayunas",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/en-ayunas/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T en ayunas",
+  "title": "Matcha Pep-T en ayunas: tolerancia gástrica y alternativas",
+  "seoTitle": "Matcha Pep-T en ayunas: ¿te cae bien? Alternativas",
+  "metaDescription": "¿Matcha Pep-T en ayunas? Qué puede sentir un estómago sensible, cómo probar tu tolerancia y qué alternativas funcionan mejor si tienes gastritis o acidez.",
+  "excerpt": "Tomarlo apenas te levantas le sienta bien a unos y mal a otros. Te explicamos de qué depende, cómo probar tu tolerancia y qué hacer si tu estómago protesta.",
+  "quickAnswer": "Tomar Matcha Pep-T en ayunas es posible para muchas personas, pero no a todas les cae bien. El matcha aporta cafeína natural y la fórmula tiene 4.9 g de fibra, lo que en un estómago vacío y sensible puede causar acidez, náuseas o gases. Si te pasa, tómalo después de un desayuno ligero o a media mañana.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Early morning scene in a Lima kitchen at dawn, a warm mug of pale green matcha latte next to a small plate with a slice of bread and avocado and a glass of water, soft blue grey light through the window, steam rising gently, calm quiet atmosphere, no packaging, no text, no logos, no people",
+    "alt": "Taza de matcha latte tibio al amanecer junto a un pan con palta y un vaso de agua en una cocina limeña"
+  },
+  "blocks": [
+    { "type": "p", "text": "Son las 6 de la mañana, la combi pasa en veinte minutos y no hay tiempo para desayunar. Preparar un vaso de matcha y salir parece la solución perfecta. Para algunas personas lo es; otras, a mitad del camino por la Panamericana, empiezan a sentir ardor o un nudo en el estómago." },
+    { "type": "p", "text": "La diferencia no está en el producto, sino en cómo responde cada estómago cuando lleva ocho o más horas vacío. En esta guía vemos qué factores influyen en la tolerancia, cómo probar sin pasarla mal y qué alternativas funcionan si el ayuno no es lo tuyo." },
+    { "type": "callout", "variant": "tip", "title": "Si buscas información sobre ayuno intermitente", "text": "Aquí hablamos de tomarlo con el estómago vacío al despertar. Si lo que quieres saber es si interrumpe un protocolo de ayuno intermitente, eso es otra pregunta: sus 46 kcal y su proteína rompen el ayuno estricto. Lo explicamos en detalle en el artículo sobre si [Matcha Pep-T rompe el ayuno](/opiniones-matcha-pep-t/rompe-el-ayuno/)." },
+    { "type": "h2", "text": "¿Se puede tomar Matcha Pep-T en ayunas?" },
+    { "type": "p", "text": "La etiqueta no prohíbe tomarlo en ayunas ni indica un momento concreto: solo señala **1 sobre de 15 g en 180 ml de agua** y no exceder lo recomendado. Así que la respuesta depende de ti, no de una regla del envase." },
+    { "type": "p", "text": "Muchas personas lo toleran sin problema a primera hora. Otras notan molestias. Para entender por qué, conviene mirar tres componentes de la fórmula que pueden hacerse sentir más cuando no hay comida de por medio." },
+    { "type": "h2", "text": "Qué puede notar un estómago vacío" },
+    { "type": "h3", "text": "La cafeína natural del matcha" },
+    { "type": "p", "text": "El matcha es té verde en polvo y contiene cafeína de forma natural; la cantidad en cada sobre **no está declarada**. La cafeína estimula la secreción de ácido en el estómago, y por eso a algunas personas el café o el té con el estómago vacío les da acidez. Con el matcha puede pasar algo parecido, sobre todo si eres sensible." },
+    { "type": "h3", "text": "Los compuestos propios del té verde" },
+    { "type": "p", "text": "El té verde tiene catequinas y otros compuestos con un toque astringente. Hay personas que, al tomar té verde sin haber comido, describen náuseas o una sensación de estómago revuelto. En Matcha Pep-T ese efecto suele suavizarse porque la mezcla incluye crema de coco y colágeno, pero no desaparece para todos." },
+    { "type": "h3", "text": "La fibra" },
+    { "type": "p", "text": "Cada porción aporta **4.9 g de fibra**, buena parte de ella de fibra de maíz, además de chía. Si tu dieta habitual tiene poca fibra, los primeros días puedes notar gases o hinchazón, y en ayunas esa sensación se percibe más. Te contamos cómo manejarlo en el artículo sobre [fibra y digestión](/que-es-matcha-pep-t/fibra-y-digestion/)." },
+    { "type": "h2", "text": "Cómo probar tu tolerancia sin pasarla mal" },
+    { "type": "p", "text": "Si quieres saber si te cae bien en ayunas, no lo pruebes el día de una reunión importante ni antes de un viaje largo en bus. Sigue una secuencia sencilla:" },
+    { "type": "steps", "items": [
+      { "name": "Empieza después de comer", "text": "Durante los primeros tres o cuatro días, tómalo después de un desayuno ligero, para que tu cuerpo se acostumbre a la fibra." },
+      { "name": "Elige un día tranquilo", "text": "Haz la primera prueba en ayunas un fin de semana o un día de teletrabajo, cuando tengas un baño cerca y nada urgente." },
+      { "name": "Prepáralo tibio", "text": "Usa agua tibia o al tiempo, no helada ni muy caliente. Los extremos de temperatura incomodan a algunos estómagos sensibles." },
+      { "name": "Tómalo despacio", "text": "Bebe a sorbos durante 10 o 15 minutos en lugar de tomarlo de un trago antes de salir corriendo." },
+      { "name": "Observa durante dos horas", "text": "Fíjate si aparece ardor, náuseas, gases o nerviosismo. Si notas cualquiera de ellos, vuelve a tomarlo después de comer." }
+    ] },
+    { "type": "cta", "text": "¿Listo para encontrar tu mejor momento? Revisa el precio del doypack de 14 sobres." },
+    { "type": "h2", "text": "Alternativas si en ayunas no te cae bien" },
+    { "type": "p", "text": "No necesitas forzarlo. Estas opciones mantienen el sobre en tu rutina con menos riesgo de molestias:" },
+    { "type": "table", "caption": "Opciones según tu situación", "headers": ["Situación", "Alternativa", "Por qué ayuda"], "rows": [
+      ["Te da acidez al despertar", "Tómalo después de un pan con palta, avena o fruta", "La comida amortigua el efecto sobre el estómago"],
+      ["Sales muy temprano y sin hambre", "Llévalo en shaker y tómalo a media mañana", "Lo tomas cuando ya comiste algo y en un momento útil"],
+      ["Buscas apoyar la saciedad", "Unos 30 minutos antes del almuerzo", "Encaja con la lógica de los estudios del ingrediente, y ya habrás desayunado"],
+      ["Notas gases o hinchazón", "Prepáralo con un chorrito de leche o bebida vegetal y tómalo con comida", "Se percibe más suave y la fibra se tolera mejor acompañada"],
+      ["Te pone nervioso en ayunas", "Muévelo a después del desayuno y evita juntarlo con café", "Reduces la suma de estimulantes con el estómago vacío"]
+    ] },
+    { "type": "p", "text": "Si quieres ver todas las franjas horarias con más detalle, incluida la razón para evitarlo de noche, revisa la guía sobre la [mejor hora para tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "callout", "variant": "aviso", "title": "Gastritis, reflujo y otras condiciones", "text": "Si tienes gastritis, úlcera, reflujo o colon irritable, consulta con tu médico o gastroenterólogo antes de tomarlo, y más aún en ayunas. Lo mismo si tienes diabetes y usas medicamentos para la glucosa, si estás embarazada o das de lactar. Matcha Pep-T es un alimento, no un medicamento, y no reemplaza ningún tratamiento." },
+    { "type": "h2", "text": "Señales para dejar de tomarlo en ayunas" },
+    { "type": "ul", "items": [
+      "Ardor o acidez que aparece repetidamente después de tomarlo.",
+      "Náuseas, mareo o sensación de debilidad a media mañana.",
+      "Palpitaciones, temblor o nerviosismo inusual.",
+      "Hinchazón o gases que no mejoran después de la primera semana."
+    ] },
+    { "type": "p", "text": "Si alguna se repite, cambia el horario. Si persiste aun tomándolo con comida, suspéndelo y consulta. En la guía de [efectos secundarios de Matcha Pep-T](/opiniones-matcha-pep-t/efectos-secundarios/) encontrarás más orientación." },
+    { "type": "p", "text": "Para el resto de preparaciones, desde la receta base hasta las versiones frías, vuelve a la [guía para preparar Matcha Pep-T](/como-preparar-matcha-pep-t/). Y si quieres comprar sobres originales, encuentras el precio y el enlace a la tienda del distribuidor autorizado en la [página de compra](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Tomarlo en ayunas hace que funcione mejor?", "a": "No hay datos que indiquen que tomarlo en ayunas mejore su efecto. La referencia de los estudios del ingrediente es tomarlo unos 30 minutos antes de una comida, algo que puedes hacer antes del almuerzo sin necesidad de estar en ayunas desde la noche anterior." },
+    { "q": "¿Puedo tomarlo en ayunas antes de un análisis de sangre?", "a": "No. Antes de un análisis que pide ayuno solo se permite agua, salvo otra indicación del laboratorio. Matcha Pep-T aporta calorías, proteína y carbohidratos, y podría alterar resultados como la glucosa. Tómalo después de la toma de muestra." },
+    { "q": "¿Es mejor tomar un vaso de agua antes?", "a": "Un vaso de agua al despertar es una buena costumbre para cualquiera y no interfiere. Aun así, no reemplaza el efecto amortiguador de un poco de comida si tu estómago es sensible al té o a la cafeína." }
+  ],
+  "sources": [
+    { "label": "Ficha de Matcha Pep-T en la tienda del distribuidor autorizado", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" },
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" },
+    { "label": "NIH NCCIH – Green Tea", "url": "https://www.nccih.nih.gov/health/green-tea" }
+  ],
+  "related": [
+    "/opiniones-matcha-pep-t/rompe-el-ayuno/",
+    "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/",
+    "/que-es-matcha-pep-t/fibra-y-digestion/",
+    "/opiniones-matcha-pep-t/efectos-secundarios/"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "peptidos-bioactivos",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/peptidos-bioactivos/",
+  "isPillar": false,
+  "primaryKeyword": "péptidos bioactivos qué son",
+  "title": "Péptidos bioactivos: qué son, cómo se obtienen y qué dice la ciencia",
+  "seoTitle": "Péptidos bioactivos: qué son y qué dice la evidencia",
+  "metaDescription": "Péptidos bioactivos: qué son, cómo se obtienen por hidrólisis de proteínas, ejemplos reales (colágeno, leche, soya) y qué tan sólida es la evidencia.",
+  "excerpt": "Fragmentos de proteína que pueden hacer algo más que nutrir. Te contamos cómo se liberan por hidrólisis, qué ejemplos se han estudiado y cómo leer la evidencia sin dejarte llevar por el marketing.",
+  "quickAnswer": "¿Qué son los péptidos bioactivos? Son fragmentos cortos de proteína, por lo general de 2 a 20 aminoácidos, que además de nutrir pueden interactuar con células, enzimas o receptores del cuerpo. Están inactivos dentro de proteínas de la leche, el pescado, la soya o el colágeno, y se liberan por digestión, fermentación o hidrólisis enzimática controlada.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Close-up of a halved ripe papaya and a fresh pineapple slice on a rustic wooden board next to a glass of pale green matcha drink, natural daylight from a side window, Peruvian market produce, shallow depth of field, no packaging, no text, no logos, no people",
+    "alt": "Papaya partida y rodaja de piña sobre una tabla de madera junto a un vaso de bebida de matcha"
+  },
+  "blocks": [
+    { "type": "p", "text": "Cuando el limón «cocina» el pescado de un ceviche, lo que ves es la proteína cambiando de forma: se vuelve blanca y firme. Pero sus cadenas de aminoácidos siguen casi enteras. Para obtener péptidos bioactivos hace falta otro paso: cortar esas cadenas en trozos pequeños y bien definidos." },
+    { "type": "p", "text": "Esa diferencia entre *desnaturalizar* una proteína y *partirla* es la puerta de entrada a uno de los campos más activos de la ciencia de los alimentos. Y también ayuda a entender por qué algunos productos, como Matcha Pep-T, destacan un tipo concreto de péptido en lugar de hablar solo de «proteína»." },
+    { "type": "h2", "text": "Péptidos bioactivos: qué son exactamente" },
+    { "type": "p", "text": "Una proteína es como un collar largo de cuentas, donde cada cuenta es un aminoácido. Puede tener cientos de ellas. Un **péptido** es un tramo corto de ese collar: desde dos aminoácidos (dipéptido) hasta unas pocas decenas." },
+    { "type": "p", "text": "Se llaman **bioactivos** cuando, una vez liberados, muestran un efecto medible más allá de aportar aminoácidos: inhibir una enzima, unirse a un receptor o estimular a ciertas células del intestino. Dentro de la proteína original suelen estar «dormidos»; solo actúan cuando se separan." },
+    { "type": "p", "text": "Algunos ejercen su función en el propio intestino, por ejemplo sobre las células que producen hormonas digestivas. Otros atraviesan la pared intestinal y llegan a la sangre en cantidades pequeñas pero detectables." },
+    { "type": "h2", "text": "Cómo se obtienen: la hidrólisis paso a paso" },
+    { "type": "p", "text": "Hidrolizar significa romper un enlace químico con ayuda de una molécula de agua. En la industria alimentaria se usa sobre todo la **hidrólisis enzimática**, porque permite controlar dónde se corta la proteína y qué fragmentos resultan." },
+    { "type": "ol", "items": [
+      "**Elegir la proteína de origen.** Puede ser leche, pescado, soya, arveja o colágeno de piel y huesos animales. La materia prima define qué secuencias de aminoácidos estarán disponibles.",
+      "**Aplicar enzimas proteasas.** Actúan como tijeras con preferencias: cortan en puntos específicos. Algunas son vegetales, como la papaína de la papaya o la bromelina de la piña —el mismo principio por el que la papaya ablanda la carne—, y otras se obtienen de microorganismos.",
+      "**Controlar el proceso.** La temperatura, el pH y el tiempo determinan el grado de hidrólisis, es decir, cuánto se corta y de qué tamaño quedan los fragmentos.",
+      "**Detener, filtrar y secar.** Se inactivan las enzimas, se separan los fragmentos por tamaño si hace falta y el resultado se seca hasta obtener un polvo soluble."
+    ] },
+    { "type": "p", "text": "Dos hidrolizados de una misma proteína pueden ser muy diferentes según las enzimas y condiciones usadas. Por eso algunos fabricantes desarrollan y patentan composiciones concretas de péptidos en vez de vender «colágeno» a secas." },
+    { "type": "p", "text": "La hidrólisis también ocurre de forma natural. Tu estómago y tu intestino la realizan cada vez que digieres proteína, y ciertas bacterias la llevan a cabo al fermentar la leche para elaborar yogur o quesos madurados." },
+    { "type": "h2", "text": "Ejemplos de péptidos bioactivos que se han estudiado" },
+    { "type": "table", "caption": "Algunos péptidos bioactivos de origen alimentario y su nivel de evidencia", "headers": ["Origen", "Ejemplo", "Qué se ha investigado", "Nivel de evidencia"], "rows": [
+      ["Leche (caseína)", "Tripéptidos VPP e IPP", "Presión arterial, por inhibición de la enzima convertidora de angiotensina", "Ensayos en humanos con resultados mixtos; la EFSA no aprobó la declaración de salud"],
+      ["Colágeno", "Dipéptidos Pro-Hyp e Hyp-Gly", "Piel, articulaciones y señalización celular", "Se detectan en sangre tras consumir colágeno hidrolizado; los efectos clínicos siguen en estudio"],
+      ["Colágeno específico", "Nextida® GC (Rousselot)", "Glucosa después de comer y liberación de GLP-1 y GIP", "Estudios del fabricante: preclínicos y pilotos en humanos"],
+      ["Soya", "Lunasina y otros péptidos", "Colesterol y actividad antioxidante", "Principalmente laboratorio y animales"],
+      ["Pescado", "Hidrolizados de sardina o bonito", "Presión arterial y saciedad", "Estudios pequeños y heterogéneos"]
+    ] },
+    { "type": "p", "text": "En un país pesquero como el Perú, los hidrolizados de pescado despiertan interés para la alimentación humana, aunque la mayoría de aplicaciones aún se encuentra en etapa de investigación." },
+    { "type": "callout", "variant": "fabricante", "title": "El caso de Nextida GC, según su fabricante", "text": "Rousselot comunica que, en estudios propios (ratones y ensayos piloto en personas sanas y con prediabetes), 5–10 g de Nextida GC aislado tomados unos 30 minutos antes de comer se asociaron a mayor liberación de GLP-1 y GIP y a un menor pico de glucosa. Son resultados del ingrediente, no de Matcha Pep-T." },
+    { "type": "cta", "text": "Si quieres incorporar una bebida con péptidos de colágeno a tu rutina diaria, revisa el precio y la forma de compra." },
+    { "type": "h2", "text": "¿Qué tan sólida es la evidencia?" },
+    { "type": "p", "text": "Aquí conviene ser honestos: buena parte de la investigación sobre péptidos bioactivos se hace en tubos de ensayo o en animales. Un péptido que inhibe una enzima en el laboratorio puede no llegar intacto a donde debe actuar, porque la digestión lo vuelve a cortar." },
+    { "type": "p", "text": "Además, muchos ensayos en humanos son pequeños, de corta duración y financiados por la empresa que fabrica el ingrediente. Eso no los invalida, pero obliga a leerlos con cautela. Organismos como la Autoridad Europea de Seguridad Alimentaria (EFSA) han rechazado varias declaraciones de salud sobre péptidos por falta de pruebas suficientes." },
+    { "type": "p", "text": "Cuando leas que un producto «contiene péptidos bioactivos», hazte estas preguntas:" },
+    { "type": "ul", "items": [
+      "¿El estudio usó el péptido aislado o el producto que vas a comprar?",
+      "¿Se hizo en células, en animales o en personas?",
+      "¿Cuántos participantes hubo y durante cuánto tiempo?",
+      "¿Qué dosis se probó y cuánta contiene realmente el producto?",
+      "¿Quién financió la investigación y se publicó en una revista revisada por pares?"
+    ] },
+    { "type": "h2", "text": "Cómo aplicar estas preguntas a Matcha Pep-T" },
+    { "type": "p", "text": "Matcha Pep-T lista como primer ingrediente el [colágeno hidrolizado Nextida GC](/ingredientes-matcha-pep-t/colageno-hidrolizado/). Si pasamos el producto por el filtro anterior, el resultado es claro: los estudios se hicieron con el ingrediente aislado, en dosis de 5 a 10 g, y la etiqueta no declara cuántos gramos de Nextida GC trae cada sobre." },
+    { "type": "p", "text": "Lo que sí está declarado es la proteína total: **4.7 g por porción** de 15 g preparada en 180 ml de agua, junto con 4.9 g de fibra y 46 kcal. Es un alimento con un ingrediente interesante, no un medicamento. Para entender la hormona en la que se centran esos estudios, lee [qué es GLP-1 y cómo actúa](/ciencia-matcha-pep-t/que-es-glp-1/); para el panorama completo, visita [la sección de ciencia de Matcha Pep-T](/ciencia-matcha-pep-t/)." },
+    { "type": "p", "text": "Y si decides probarlo, en [la página de compra](/comprar-matcha-pep-t/) tienes el precio vigente: S/ 158.00 por 14 sobres, unos S/ 11.29 por porción." }
+  ],
+  "faqs": [
+    { "q": "¿Los péptidos bioactivos son lo mismo que los aminoácidos?", "a": "No. Los aminoácidos son las unidades individuales; los péptidos son cadenas cortas formadas por varios aminoácidos unidos. Un péptido puede tener un efecto que sus aminoácidos sueltos no tienen, porque su forma y su secuencia le permiten encajar en receptores o enzimas concretas." },
+    { "q": "¿Todo colágeno hidrolizado contiene los mismos péptidos?", "a": "No. Todo colágeno hidrolizado contiene péptidos, pero su tamaño y composición cambian según la materia prima, las enzimas y el proceso. Por eso un estudio hecho con un hidrolizado específico no se puede extrapolar automáticamente a otro distinto." },
+    { "q": "¿El calor destruye los péptidos bioactivos?", "a": "Depende del péptido y de la temperatura. Muchos péptidos cortos toleran bien un calor moderado, pero no se puede generalizar. En el caso de Matcha Pep-T, la preparación indicada es con agua fría o caliente sin hervir." },
+    { "q": "¿Pueden causar alergia?", "a": "Al provenir de proteínas alimentarias, en general se consideran seguros en cantidades habituales. Sin embargo, la hidrólisis no siempre elimina la capacidad de causar alergia, así que las personas alérgicas a la proteína de origen (pescado, leche o soya, por ejemplo) deben revisar bien la etiqueta y consultar a su médico." }
+  ],
+  "sources": [
+    { "label": "PubMed – revisiones sobre péptidos bioactivos de proteínas alimentarias", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=food+derived+bioactive+peptides+review" },
+    { "label": "European Food Safety Authority (EFSA)", "url": "https://www.efsa.europa.eu/" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/nextida-gc-que-es/", "/ingredientes-matcha-pep-t/colageno-hidrolizado/", "/ciencia-matcha-pep-t/vs-colageno-en-polvo/", "/ciencia-matcha-pep-t/que-es-glp-1/"]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "nextida-gc-que-es",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/nextida-gc-que-es/",
+  "isPillar": false,
+  "primaryKeyword": "Nextida GC qué es",
+  "title": "Nextida GC: qué es y por qué está en Matcha Pep-T",
+  "seoTitle": "Nextida GC: qué es este colágeno y para qué sirve",
+  "metaDescription": "Nextida GC qué es: péptidos de colágeno específicos de Rousselot diseñados para el control de la glucosa. Te explicamos su rol en Matcha Pep-T sin exagerar.",
+  "excerpt": "Nextida GC es una composición de péptidos de colágeno creada por Rousselot con un objetivo concreto: el control de la glucosa. Aquí entiendes qué es y qué hace en la fórmula.",
+  "quickAnswer": "Nextida GC qué es, en corto: una composición específica de péptidos de colágeno desarrollada por Rousselot (grupo Darling Ingredients) para apoyar el control de la glucosa; de ahí la sigla GC, de glucose control. En Matcha Pep-T forma parte del primer ingrediente de la etiqueta, aunque la cantidad por sobre no está declarada.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Close-up of fine white collagen powder in a small ceramic bowl beside a glass of pale green matcha latte on a light marble kitchen counter, soft overcast morning light from a window in a Lima apartment, minimal clean style, no text, no logos, no packaging, no people",
+    "alt": "Polvo blanco de péptidos de colágeno en un bol de cerámica junto a un vaso de matcha latte sobre una encimera clara"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si alguna vez leíste con calma la lista de ingredientes de Matcha Pep-T, seguro te detuviste en un paréntesis: *«Péptidos de Proteína de Colágeno – Nextida® GC»*. El símbolo de marca registrada ya da una pista: no es un nombre químico ni una vitamina, sino un **ingrediente patentado con nombre propio**." },
+    { "type": "p", "text": "En esta guía resolvemos esa duda de forma directa: quién lo fabrica, en qué se diferencia de un colágeno cualquiera, para qué fue diseñado y por qué FuXion lo puso al inicio de la fórmula. Los estudios en detalle tienen su propia página; aquí nos quedamos con la identidad del ingrediente." },
+    { "type": "h2", "text": "Nextida GC: qué es, explicado sin tecnicismos" },
+    { "type": "p", "text": "Nextida GC es **colágeno hidrolizado**, es decir, colágeno que ha sido \"cortado\" en fragmentos pequeños llamados péptidos. Lo que lo distingue es que no se trata de una mezcla cualquiera de fragmentos: el fabricante seleccionó y estandarizó una **composición específica de péptidos** con la intención de que tenga un efecto sobre la respuesta del cuerpo a la glucosa después de comer." },
+    { "type": "p", "text": "Piensa en la diferencia entre comprar \"arroz\" a granel en el mercado y comprar una variedad concreta, siempre del mismo origen y con el mismo grano. Ambos son arroz, pero solo el segundo te asegura un resultado repetible. Con los péptidos pasa algo parecido: el proceso de fabricación define qué fragmentos predominan, y eso es lo que Rousselot afirma controlar en Nextida GC." },
+    { "type": "h2", "text": "Quién está detrás: Rousselot" },
+    { "type": "p", "text": "**Rousselot** es un fabricante internacional de gelatina y colágeno que pertenece al grupo **Darling Ingredients**. Es un proveedor de ingredientes, no una marca de consumo: vende sus materias primas a empresas de alimentos y suplementos de distintos países, que luego las incorporan a sus propios productos." },
+    { "type": "p", "text": "Dentro de su catálogo, *Nextida* es la línea que la compañía dedica a péptidos de colágeno con propósitos específicos de salud metabólica. La versión que lleva Matcha Pep-T es la **GC**, la que el fabricante orienta a la glucosa. Si quieres conocer el reparto de roles entre la marca, el proveedor y quien te vende el producto en Perú, lo contamos en [quién fabrica Matcha Pep-T](/que-es-matcha-pep-t/quien-fabrica-matcha-pep-t/)." },
+    { "type": "h2", "text": "En qué se diferencia de un colágeno en polvo común" },
+    { "type": "p", "text": "En farmacias y tiendas naturistas de Lima abundan los colágenos hidrolizados genéricos, casi siempre vendidos con mensajes sobre piel, cabello o articulaciones. Nextida GC comparte la materia prima, pero no el objetivo. Esta tabla resume las diferencias principales:" },
+    { "type": "table", "caption": "Colágeno hidrolizado genérico vs. Nextida GC", "headers": ["Aspecto", "Colágeno hidrolizado genérico", "Nextida GC"], "rows": [["Qué es", "Péptidos de colágeno de tamaños variados", "Composición específica y estandarizada de péptidos"], ["Propósito declarado", "Aporte de proteína; mensajes de belleza o articulaciones", "Apoyo al control de la glucosa (glucose control)"], ["Respaldo", "Depende de cada marca", "Estudios propios del fabricante con el ingrediente aislado"], ["Quién lo produce", "Múltiples proveedores", "Rousselot, como ingrediente patentado"]] },
+    { "type": "p", "text": "La conclusión práctica: no todo colágeno es intercambiable. Un vaso de colágeno genérico no equivale a Nextida GC, y tampoco al revés. Si te interesa la parte técnica del colágeno como materia prima (origen, digestibilidad, proteína), tienes la guía de [colágeno hidrolizado en Matcha Pep-T](/ingredientes-matcha-pep-t/colageno-hidrolizado/)." },
+    { "type": "h2", "text": "Qué significa \"GC\" y para qué fue diseñado" },
+    { "type": "p", "text": "Las letras **GC** vienen del inglés *glucose control*: control de la glucosa. Según Rousselot, la idea es que estos péptidos, tomados antes de una comida, ayuden a moderar la subida de azúcar en sangre que ocurre después de comer, en parte porque estimularían la liberación de hormonas intestinales que participan en la saciedad y en la respuesta a la insulina." },
+    { "type": "p", "text": "Ese mecanismo pertenece a una familia de compuestos que la ciencia llama **péptidos bioactivos**: fragmentos de proteína que, además de nutrir, podrían tener una acción fisiológica concreta. Si quieres entender ese concepto desde cero, revisa nuestra explicación de [péptidos bioactivos](/ciencia-matcha-pep-t/peptidos-bioactivos/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica el fabricante", "text": "Rousselot presenta Nextida GC como una composición de péptidos de colágeno desarrollada para apoyar el control de la glucosa, con estudios preclínicos y pilotos en humanos realizados con el ingrediente aislado en dosis de 5 g y 10 g. Son datos del proveedor del ingrediente, no evaluaciones del producto Matcha Pep-T." },
+    { "type": "p", "text": "¿Qué encontraron exactamente esos estudios, con qué personas y cuáles son sus límites? Para no mezclar intenciones, lo dejamos completo en [Nextida GC: estudios y limitaciones](/ingredientes-matcha-pep-t/nextida-gc-estudios/). En una frase: los resultados son prometedores pero preliminares, y corresponden al ingrediente solo, no a la bebida." },
+    { "type": "cta", "text": "¿Quieres probar el matcha latte que incorpora Nextida GC? Revisa el precio actualizado y cómo pedirlo desde Lima o provincias." },
+    { "type": "h2", "text": "Por qué Nextida GC está en Matcha Pep-T" },
+    { "type": "p", "text": "FuXion construyó Matcha Pep-T alrededor de una idea: una bebida ligera, tipo latte, pensada para acompañar hábitos de control del apetito. Dentro de esa lógica, Nextida GC cumple varios papeles a la vez:" },
+    { "type": "ul", "items": ["**Es el ingrediente que da nombre al concepto.** El \"Pep\" de Pep-T alude a los péptidos, y Nextida GC es la fuente de esos péptidos.", "**Encabeza la lista de ingredientes.** En la etiqueta, el colágeno hidrolizado con Nextida GC aparece en primer lugar.", "**Aporta proteína.** Una porción tiene **4.7 g de proteína** (9 % VD), y el colágeno es su fuente principal en la fórmula.", "**Encaja con el resto de la mezcla.** Se combina con fibra de maíz, isomaltulosa y cromo (14.9 µg, 45 % VD), ingredientes que también se eligen pensando en una bebida de bajo impacto calórico: **46 kcal por porción**."] },
+    { "type": "p", "text": "Un ejemplo cotidiano: alguien que sale de una reunión en San Isidro a la una de la tarde y sabe que el menú de la esquina llega con sopa, segundo y refresco. La propuesta de la marca es preparar el sobre en 180 ml de agua un rato antes de sentarse a comer. Eso es un uso sugerido coherente con cómo se estudió el ingrediente, no una garantía de resultados." },
+    { "type": "h2", "text": "Lo que la etiqueta no te dice" },
+    { "type": "callout", "variant": "etiqueta", "title": "Dato no declarado", "text": "La etiqueta de Matcha Pep-T no indica cuántos gramos de Nextida GC contiene cada sobre de 15 g. Lo que sí declara es la proteína total por porción: 4.7 g. Por eso no es correcto afirmar que un sobre replica las dosis de los estudios del fabricante." },
+    { "type": "p", "text": "Esta transparencia importa. Si ves publicaciones en redes que presentan la bebida como un \"GLP-1 natural\" o la comparan con medicamentos, desconfía: Matcha Pep-T es un alimento en polvo, no un fármaco, y no está pensado para tratar ninguna enfermedad. Si tienes diabetes, prediabetes o tomas medicación para la glucosa, consulta con tu médico antes de incorporarlo." },
+    { "type": "p", "text": "Para ver cómo encaja Nextida GC con los otros once ingredientes de la fórmula, vuelve a la guía general de [ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/). Y si ya decidiste, en la página de [compra de Matcha Pep-T](/comprar-matcha-pep-t/) tienes el precio de referencia: S/ 158.00 por doypack de 14 sobres, unos S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Nextida GC es lo mismo que colágeno para la piel?", "a": "No. Ambos son colágeno hidrolizado, pero Nextida GC es una composición específica de péptidos que Rousselot orienta al control de la glucosa. Los colágenos genéricos suelen venderse con mensajes de belleza y no tienen ese propósito ni esos estudios." },
+    { "q": "¿Nextida GC es un medicamento?", "a": "No. Es un ingrediente alimentario que se usa en bebidas y suplementos. No requiere receta, no sustituye tratamientos y no debe compararse con fármacos para la diabetes o la obesidad." },
+    { "q": "¿De dónde proviene Nextida GC?", "a": "Es colágeno, una proteína de origen animal, procesado por Rousselot. La etiqueta de Matcha Pep-T no especifica la especie de origen, por lo que si sigues una dieta vegana o tienes restricciones religiosas conviene tenerlo en cuenta." },
+    { "q": "¿Puedo comprar Nextida GC por separado en Perú?", "a": "Rousselot vende el ingrediente a fabricantes, no al consumidor final. En Matcha Pep-T lo encuentras ya incorporado a una bebida tipo matcha latte, con una cantidad por sobre que la etiqueta no declara." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "PubMed – estudios sobre péptidos de colágeno Nextida y glucosa", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Nextida+collagen+peptide+glucose" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/nextida-gc-estudios/", "/ingredientes-matcha-pep-t/colageno-hidrolizado/", "/ciencia-matcha-pep-t/peptidos-bioactivos/", "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/"]
+}

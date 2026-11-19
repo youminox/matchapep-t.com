@@ -1,0 +1,61 @@
+{
+  "slug": "para-mamas-ocupadas",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/para-mamas-ocupadas/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T para mamás",
+  "title": "Matcha Pep-T para mamás ocupadas: guía práctica de un minuto",
+  "seoTitle": "Matcha Pep-T para mamás: uso práctico en días ocupados",
+  "metaDescription": "Matcha Pep-T para mamás con poco tiempo: prepáralo en un minuto, úsalo a media mañana y cambia el snack dulce. Con aviso sobre embarazo y lactancia.",
+  "excerpt": "Entre loncheras, movilidad y trabajo, la media mañana de muchas mamás se resuelve con lo que sobra del plato de los chicos. Así puede encajar un sobre de 46 kcal que se prepara en un minuto.",
+  "quickAnswer": "Matcha Pep-T para mamás ocupadas es, sobre todo, una solución práctica: un sobre de 15 g en 180 ml de agua se prepara en un minuto, aporta 46 kcal, 4.9 g de fibra y 4.7 g de proteína, y puede reemplazar el snack dulce de media mañana. Si estás embarazada o dando de lactar, consulta antes con tu obstetra.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A shaker bottle with green matcha latte on a busy kitchen counter next to two children's lunchboxes with fruit, a set of keys and a school backpack, early morning soft light in a Lima home, slightly messy but warm, no people, no faces, no packaging, no text, no logos",
+    "alt": "Shaker con matcha latte verde en una cocina junto a dos loncheras con fruta, unas llaves y una mochila escolar"
+  },
+  "blocks": [
+    { "type": "p", "text": "Seis de la mañana: loncheras armadas, uniformes buscados, el grupo de WhatsApp del salón recordando la tarea de ciencias y la movilidad tocando la bocina. Cuando por fin te sientas, ya son las diez y tu desayuno fue la mitad de un pan que quedó en el plato de alguien." },
+    { "type": "p", "text": "Si esa escena te suena, este artículo no va de dietas ni de \"tiempo para ti\" en abstracto. Va de algo concreto: cómo puede encajar **Matcha Pep-T** en la rutina de una mamá con poco tiempo, qué esperar de él y en qué casos conviene preguntar antes. Para conocer el producto a fondo, revisa la [guía principal de Matcha Pep-T](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "Por qué Matcha Pep-T para mamás tiene sentido práctico" },
+    { "type": "p", "text": "Lo que más se valora en días caóticos no es la sofisticación, sino que algo sea rápido, portátil y no dependa de cocinar. En ese sentido, el formato ayuda:" },
+    { "type": "ul", "items": ["**Sobres individuales de 15 g**: caben en la cartera, la pañalera o el bolsillo de la casaca.", "**Solo necesita agua**: 180 ml, fría o caliente sin hervir.", "**Sin licuadora**: basta un shaker, un tomatodo con tapa o un vaso y una cuchara.", "**Una porción ligera**: 46 kcal con 4.9 g de fibra y 4.7 g de proteína, pensada como snack y no como comida."] },
+    { "type": "h2", "text": "Cómo prepararlo en un minuto" },
+    { "type": "steps", "items": [
+      { "name": "Agua primero", "text": "Vierte 180 ml de agua en el shaker o tomatodo. Si es caliente, que no esté hirviendo; si es fría, puedes añadir hielo." },
+      { "name": "Un sobre", "text": "Agrega el contenido completo de 1 sobre de 15 g. No hace falta medir nada más." },
+      { "name": "Agita y listo", "text": "Cierra bien y agita 15 a 20 segundos hasta que no queden grumos. Si tienes un poco más de tiempo, un chorrito de leche o bebida vegetal lo hace más cremoso." }
+    ] },
+    { "type": "p", "text": "El truco para que no queden grumos está en poner el agua antes que el polvo. Si te pasa seguido, revisa cómo [preparar Matcha Pep-T en shaker sin grumos](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/)." },
+    { "type": "h2", "text": "Media mañana: el momento que más se descuida" },
+    { "type": "p", "text": "Para muchas mamás, el desayuno es temprano y apurado, y el almuerzo se retrasa porque primero comen los chicos o porque hay que recogerlos del colegio a la una. Entre las seis y media y las dos de la tarde hay un tramo larguísimo donde suele ganar lo que esté a mano." },
+    { "type": "p", "text": "Ese es un buen lugar para el sobre. Algunas formas reales de encajarlo:" },
+    { "type": "ul", "items": ["**Al volver de dejar a los chicos**, mientras arrancas con el trabajo remoto o las tareas de la casa.", "**En la oficina**, con agua del dispensador, antes de la reunión de las once.", "**En el carro o en el paradero**, si ya lo dejaste preparado en un tomatodo frío antes de salir. Lo ideal es tomarlo poco después de prepararlo.", "**En la sala de espera** del pediatra o de la academia de natación, con un sobre en la cartera y una botella de agua."] },
+    { "type": "cta", "text": "Si quieres tener sobres a mano para la semana, revisa el precio del doypack de 14 unidades y pídelo con un distribuidor autorizado." },
+    { "type": "h2", "text": "Reemplazar el snack dulce sin sentir que te privas" },
+    { "type": "p", "text": "Las loncheras traen galletas, la tía trae alfajores y siempre queda media chocoteja en algún lado. El punto no es prohibirte nada, sino tener una alternativa a mano para los días en que el dulce es más costumbre que antojo real." },
+    { "type": "table", "caption": "Cambios simples para el snack de media mañana", "headers": ["En vez de…", "Prueba…", "Por qué puede funcionar"], "rows": [["Las galletas que sobran de la lonchera", "Un Matcha Pep-T frío con hielo", "Sabor dulce suave con estevia y textura cremosa, con fibra y proteína"], ["Un pan dulce de la panadería", "El sobre más una fruta pequeña", "Más volumen, más fibra y menos harina refinada"], ["Picar del plato de los chicos", "Prepararte tu propio vaso al mismo tiempo", "Tienes algo tuyo y dejas de comer \"lo que quedó\""]] },
+    { "type": "p", "text": "Cada sobre cuesta S/ 11.29 si compras el doypack de 14 a S/ 158.00. Si quieres comparar ese gasto con tu snack habitual, lo detallamos en [cuánto cuesta un sobre de Matcha Pep-T](/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/)." },
+    { "type": "callout", "variant": "aviso", "title": "Embarazo, lactancia y posparto reciente", "text": "El matcha contiene cafeína de forma natural y su cantidad no está declarada en la etiqueta. Si estás embarazada, dando de lactar o en el posparto reciente, consulta con tu obstetra o médico antes de tomarlo y sigue su indicación." },
+    { "type": "p", "text": "Puedes leer ese enfoque prudente, con las preguntas que conviene llevar a la consulta, en el artículo sobre [Matcha Pep-T durante el embarazo y la lactancia](/opiniones-matcha-pep-t/embarazo-y-lactancia/)." },
+    { "type": "h2", "text": "Lo que no conviene hacer" },
+    { "type": "ul", "items": ["**Usarlo como almuerzo** en los días más locos. Con 46 kcal te quedas corta; mejor un plato sencillo con proteína, aunque sea recalentado.", "**Darlo a los niños.** No está pensado para ellos. Si tienes hijos adolescentes que preguntan, la decisión conviene tomarla con su pediatra.", "**Tomar varios sobres para \"aguantar\" el día.** La etiqueta indica 1 sobre en 180 ml y recomienda no exceder esa cantidad.", "**Dejar el doypack abierto en la cocina húmeda.** Ciérralo bien después de sacar cada sobre."] },
+    { "type": "p", "text": "Cuando tengas cinco minutos, la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/) resume precio, formas de pago y envío." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo dejarlo preparado desde la noche anterior?", "a": "La etiqueta no da indicaciones sobre cuánto tiempo conservar la bebida ya preparada, así que lo prudente es tomarlo poco después de mezclarlo. Lo práctico es dejar listo el tomatodo con el agua y el sobre al lado, y mezclar justo antes de salir." },
+    { "q": "¿Mi hijo adolescente puede tomarlo conmigo?", "a": "No está pensado para niños, y en adolescentes conviene la supervisión de un profesional por la cafeína natural del matcha, que no está declarada. Lo explicamos en [Matcha Pep-T en niños y adolescentes](/opiniones-matcha-pep-t/ninos-y-adolescentes/)." },
+    { "q": "¿Me ayudará a recuperar la figura después del parto?", "a": "No es un producto para eso ni promete cambios de peso. Después del parto, y más si das de lactar, las necesidades nutricionales cambian, y cualquier plan conviene armarlo con tu médico o un nutricionista." },
+    { "q": "¿Puedo tomarlo caliente en invierno?", "a": "Sí. Usa 180 ml de agua caliente sin que esté hirviendo y mezcla bien. En los días de garúa y frío húmedo de Lima es una forma cómoda de tener algo tibio a media mañana." }
+  ],
+  "sources": [
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "Ministerio de Salud del Perú (MINSA)", "url": "https://www.gob.pe/minsa" }
+  ],
+  "related": [
+    "/opiniones-matcha-pep-t/embarazo-y-lactancia/",
+    "/que-es-matcha-pep-t/en-la-oficina-y-teletrabajo/",
+    "/que-es-matcha-pep-t/ansiedad-por-dulce-en-la-tarde/",
+    "/como-preparar-matcha-pep-t/frio-con-hielo/"
+  ]
+}

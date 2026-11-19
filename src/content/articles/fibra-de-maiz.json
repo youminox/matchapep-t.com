@@ -1,0 +1,80 @@
+{
+  "slug": "fibra-de-maiz",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/fibra-de-maiz/",
+  "isPillar": false,
+  "primaryKeyword": "fibra de maíz soluble",
+  "title": "Fibra de maíz soluble en Matcha Pep-T: qué es y cuánto aporta",
+  "seoTitle": "Fibra de maíz soluble: qué es y su papel en Matcha Pep-T",
+  "metaDescription": "Fibra de maíz soluble: qué es, cómo se obtiene, qué tan bien se tolera y cuánto suma a los 4.9 g de fibra por sobre de Matcha Pep-T, según la etiqueta.",
+  "excerpt": "No es choclo molido ni maicena. Te explicamos qué es la fibra de maíz soluble, por qué se usa en bebidas instantáneas y qué parte de los 4.9 g de fibra de Matcha Pep-T le corresponde.",
+  "quickAnswer": "La fibra de maíz soluble es un carbohidrato obtenido del almidón de maíz cuyos enlaces no se digieren en el intestino delgado, por lo que funciona como fibra dietaria. En Matcha Pep-T es el segundo ingrediente y la principal fuente probable de los 4.9 g de fibra por sobre (18 % VD), aunque la etiqueta no detalla el reparto con la chía.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Close-up of dried yellow and purple Andean corn cobs resting on a rustic wooden counter beside a small ceramic bowl of fine white powder and a glass of pale green matcha drink, soft overcast morning light typical of Lima, natural textures, no text, no logos, no packaging, no people",
+    "alt": "Mazorcas de maíz andino junto a un cuenco con polvo blanco fino y un vaso de bebida verde de matcha"
+  },
+  "blocks": [
+    { "type": "p", "text": "En el Perú, decir maíz es decir choclo con queso, cancha para acompañar el cebiche o mazamorra morada de postre. Por eso, cuando alguien lee «fibra de maíz» en la etiqueta de un matcha latte instantáneo, imagina granos molidos. La realidad es bastante más técnica, y vale la pena entenderla porque es el **segundo ingrediente** de la fórmula." },
+    { "type": "p", "text": "En esta guía revisamos qué es la **fibra de maíz soluble**, cómo se fabrica, qué tan bien la tolera la mayoría de personas y cuánto suma a la fibra que declara Matcha Pep-T. Si quieres ver el resto de componentes, tienes la [lista completa de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/) explicada uno por uno." },
+    { "type": "h2", "text": "Qué es la fibra de maíz soluble" },
+    { "type": "p", "text": "Se obtiene a partir del **almidón de maíz**. Mediante calor y enzimas, las cadenas de glucosa del almidón se cortan y se reorganizan formando enlaces que nuestras enzimas digestivas no pueden romper. El resultado es un polvo blanco que, químicamente, sigue siendo un carbohidrato, pero que el cuerpo trata como **fibra dietaria**: no se absorbe en el intestino delgado y llega casi intacto al colon." },
+    { "type": "p", "text": "En etiquetas y fichas técnicas la vas a encontrar con varios nombres, según el proceso exacto del fabricante:" },
+    { "type": "ul", "items": [
+      "**Fibra soluble de maíz** o *soluble corn fiber*, en inglés.",
+      "**Dextrina resistente**, porque proviene de una dextrina (almidón parcialmente descompuesto) que resiste la digestión.",
+      "**Maltodextrina resistente**, una variante muy usada en bebidas en polvo."
+    ] },
+    { "type": "p", "text": "Tres características explican por qué la industria la elige: se **disuelve en agua fría** sin dejar grumos, tiene **sabor neutro o apenas dulce** y aporta **muy poca viscosidad**. Es decir, no espesa la bebida como lo harían la chía remojada o el psyllium." },
+    { "type": "h3", "text": "Lo que dice exactamente la etiqueta" },
+    { "type": "p", "text": "La lista de ingredientes de Matcha Pep-T indica simplemente **«Fibra de Maíz»**, sin especificar si es dextrina o maltodextrina resistente. Por el formato del producto (un polvo que debe disolverse en 180 ml de agua) lo coherente es que se trate de una fibra soluble de este tipo, pero el fabricante no publica la ficha técnica del ingrediente, así que no conviene afirmar más que eso." },
+    { "type": "callout", "variant": "etiqueta", "title": "Fibra declarada por porción", "text": "1 sobre de 15 g en 180 ml de agua aporta **4.9 g de fibra dietaria (18 % VD)**, dentro de 7.8 g de carbohidratos y 46 kcal. Por cada 100 ml de bebida preparada, la fibra es de 2.7 g." },
+    { "type": "h2", "text": "Cuánto aporta la fibra de maíz soluble a los 4.9 g de fibra" },
+    { "type": "p", "text": "La etiqueta da la cifra total de fibra, pero no el desglose por ingrediente. Lo que sí sabemos es el **orden de la lista**, que por norma va de mayor a menor cantidad: la fibra de maíz aparece en segundo lugar, solo detrás del colágeno hidrolizado. La [chía, que también aporta fibra](/ingredientes-matcha-pep-t/chia/), figura recién en el cuarto puesto y dentro de una mezcla con el té matcha." },
+    { "type": "p", "text": "Con esa información, lo razonable es pensar que **la mayor parte de los 4.9 g proviene de la fibra de maíz**, con un complemento menor de la chía. Cualquier porcentaje exacto que veas en internet sería una estimación, no un dato oficial." },
+    { "type": "table", "caption": "Los 4.9 g de fibra de un sobre puestos en contexto", "headers": ["Referencia", "Fibra aproximada"], "rows": [
+      ["1 sobre de Matcha Pep-T (dato de etiqueta)", "4.9 g"],
+      ["Valor diario usado en la etiqueta (dieta de 2000 kcal)", "18 % del VD"],
+      ["Manzana mediana con cáscara", "unos 4.4 g"],
+      ["Taza de avena cocida", "unos 4 g"],
+      ["Recomendación general para adultos", "25 g o más al día"]
+    ] },
+    { "type": "p", "text": "La lectura práctica: un sobre equivale, en fibra, a algo más que una manzana con cáscara, y cubre cerca de una quinta parte de lo recomendado al día. Ayuda, pero no reemplaza a las menestras, las frutas enteras, la quinua o las verduras del almuerzo. Un menú típico de arroz blanco, papa pelada y pollo frito se queda corto en fibra con o sin bebida." },
+    { "type": "cta", "text": "Revisa el precio actualizado y cómo pedir tu doypack de 14 sobres por S/ 158.00." },
+    { "type": "h2", "text": "Tolerancia: cómo la recibe tu cuerpo" },
+    { "type": "p", "text": "Al llegar al colon, la fibra de maíz soluble es **fermentada de forma lenta y parcial** por la microbiota. Esa fermentación pausada es una de las razones por las que, en estudios de tolerancia, las dextrinas resistentes suelen sentarle bien a la mayoría de adultos en cantidades moderadas, mejor que fibras de fermentación rápida como la inulina, que con frecuencia producen más gases." },
+    { "type": "p", "text": "Eso no significa que nadie note nada. Lo más habitual, cuando aparece algo, es algo de hinchazón o gases los primeros días, sobre todo en personas que venían comiendo poca fibra. Influyen varios factores:" },
+    { "type": "ul", "items": [
+      "**Tu punto de partida:** si tu dieta habitual es baja en fibra, cualquier aumento brusco se nota más.",
+      "**La fibra total del día:** el sobre se suma a la avena del desayuno, las frutas o las lentejas del almuerzo.",
+      "**El agua:** la bebida ya trae 180 ml, pero conviene mantener una hidratación normal durante el día.",
+      "**Un intestino sensible:** personas con colon irritable o diagnósticos digestivos pueden reaccionar distinto y deberían consultarlo."
+    ] },
+    { "type": "p", "text": "Para recomendaciones de uso diario, horarios y qué esperar en el tránsito intestinal, tenemos una guía específica sobre [Matcha Pep-T y la digestión](/que-es-matcha-pep-t/fibra-y-digestion/). Aquí nos quedamos en el ingrediente." },
+    { "type": "h2", "text": "Por qué una bebida instantánea usa esta fibra y no otra" },
+    { "type": "p", "text": "Elegir la fibra de una bebida en polvo es un problema de ingeniería: tiene que disolverse rápido, no cambiar el sabor del matcha y no convertir el vaso en gelatina. La comparación lo deja claro:" },
+    { "type": "table", "caption": "Comparación general de fibras usadas en alimentos", "headers": ["Fibra", "Se disuelve en frío", "Espesa la bebida", "Sabor", "Fermentación"], "rows": [
+      ["Fibra de maíz soluble", "Sí, fácilmente", "Casi nada", "Neutro", "Lenta"],
+      ["Inulina (achicoria)", "Sí", "Poco", "Ligeramente dulce", "Rápida"],
+      ["Psyllium", "Forma gel", "Mucho", "Neutro", "Baja"],
+      ["Chía entera", "No, se hidrata", "Forma gel", "Neutro", "Variable"]
+    ] },
+    { "type": "p", "text": "Hay otra ventaja: la fibra soluble de este tipo aporta pocas calorías por gramo en comparación con el almidón o el azúcar, porque no se absorbe como glucosa. Eso ayuda a que un sobre con 4.7 g de proteína y 4.9 g de fibra se quede en 46 kcal." },
+    { "type": "p", "text": "Además, al no digerirse en el intestino delgado, prácticamente no eleva la glucosa por sí misma. Las investigaciones sobre fibra y sensación de llenura son otro tema, con matices, y las resumimos en [lo que dicen los estudios sobre fibra y saciedad](/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/)." },
+    { "type": "callout", "variant": "aviso", "title": "Si tomas medicamentos o tienes un diagnóstico digestivo", "text": "La fibra puede modificar el momento de absorción de algunos medicamentos. Si tomas medicación diaria, tienes colon irritable, enfermedad inflamatoria intestinal o estás embarazada, consulta con tu médico o nutricionista antes de sumar un suplemento con fibra. Matcha Pep-T no es un medicamento ni trata ninguna condición." },
+    { "type": "h2", "text": "Lo que conviene recordar" },
+    { "type": "p", "text": "La fibra de maíz soluble es un ingrediente funcional discreto: no se ve, no se siente en el sabor y no espesa, pero es la razón por la que la etiqueta puede declarar 4.9 g de fibra en una bebida de 180 ml. Si después de leer esto quieres probarla, en la página para [comprar Matcha Pep-T original en Perú](/comprar-matcha-pep-t/) encontrarás el precio de S/ 158.00 por doypack, es decir, S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿La fibra de maíz es lo mismo que la maicena?", "a": "No. La maicena es almidón de maíz normal, que se digiere y se convierte en glucosa. La fibra de maíz soluble parte de ese almidón, pero se transforma para que sus enlaces resistan la digestión, por eso cuenta como fibra y no como almidón." },
+    { "q": "¿La fibra de maíz contiene gluten?", "a": "El maíz no contiene gluten de forma natural. Aun así, la presencia de trazas depende de la planta de producción. Revisa nuestra página sobre [gluten, lactosa y alérgenos de Matcha Pep-T](/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/) y la etiqueta del lote si tienes celiaquía." },
+    { "q": "¿Puedo tomar dos sobres para duplicar la fibra?", "a": "La etiqueta indica un sobre en 180 ml de agua y no exceder lo recomendado. Si buscas más fibra, es mejor obtenerla de alimentos como menestras, frutas con cáscara, avena o quinua, que además aportan otros nutrientes." },
+    { "q": "¿La etiqueta dice si el maíz es transgénico?", "a": "No. La lista de ingredientes solo indica «Fibra de Maíz», sin detallar el origen agrícola del maíz. Si es un criterio importante para ti, puedes consultarlo directamente al distribuidor antes de comprar." }
+  ],
+  "sources": [
+    { "label": "FDA – Questions and Answers on Dietary Fiber", "url": "https://www.fda.gov/food/food-labeling-nutrition/questions-and-answers-dietary-fiber" },
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "USDA FoodData Central – composición de alimentos", "url": "https://fdc.nal.usda.gov/" }
+  ],
+  "related": ["/que-es-matcha-pep-t/fibra-y-digestion/", "/ingredientes-matcha-pep-t/chia/", "/ingredientes-matcha-pep-t/tabla-nutricional/", "/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/"]
+}

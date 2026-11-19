@@ -1,0 +1,86 @@
+{
+  "slug": "cuanto-cuesta-un-sobre",
+  "pillar": "precio-matcha-pep-t-peru",
+  "path": "/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T precio por sobre",
+  "title": "Matcha Pep-T precio por sobre: S/ 11.29 y lo que recibes",
+  "seoTitle": "Matcha Pep-T precio por sobre: S/ 11.29 explicado",
+  "metaDescription": "Matcha Pep-T precio por sobre: S/ 11.29. Te mostramos la cuenta, cómo se compara con un café o un snack y cuánto pagas por gramo de proteína y fibra.",
+  "excerpt": "Dividimos los S/ 158.00 del doypack entre sus 14 sobres y llevamos ese número al terreno real: snacks, cafés y costo por gramo de proteína y fibra.",
+  "quickAnswer": "El Matcha Pep-T tiene un precio por sobre de S/ 11.29: resulta de dividir los S/ 158.00 del doypack entre sus 14 sobres de 15 g. Cada sobre prepara una bebida de 180 ml con 4.7 g de proteína y 4.9 g de fibra, así que pagas unos S/ 2.40 por gramo de proteína y S/ 2.30 por gramo de fibra.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A single glass of pale green matcha drink on a small wooden table beside a handful of Peruvian coins and a paper receipt, soft overcast Lima daylight through a window, minimal composition, shallow depth of field, no packaging, no text, no logos, no people",
+    "alt": "Vaso de bebida verde de matcha junto a unas monedas peruanas sobre una mesa de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Ver S/ 158.00 en la tienda puede frenar a cualquiera, sobre todo si lo comparas mentalmente con un menú de mediodía en el Centro de Lima. Pero ese monto no se consume de golpe: se reparte en 14 tomas. La pregunta útil no es cuánto cuesta el doypack, sino cuánto pagas cada vez que preparas un vaso y qué recibes a cambio." },
+    { "type": "p", "text": "En esta guía hacemos la cuenta completa: el precio unitario, cómo se compara con lo que sueles comprar al paso y cuánto cuesta cada gramo de proteína y de fibra. Si buscas el panorama general de precio, contenido y compra, lo tienes en la [guía de precio de Matcha Pep-T en Perú](/precio-matcha-pep-t-peru/)." },
+    { "type": "h2", "text": "Matcha Pep-T precio por sobre: la cuenta exacta" },
+    { "type": "p", "text": "La operación es simple: **S/ 158.00 ÷ 14 sobres = S/ 11.2857**, que se redondea a **S/ 11.29 por sobre**. Ese es el costo de producto de cada porción, sin contar el envío, que depende de tu dirección y se muestra al momento de pagar." },
+    { "type": "table", "caption": "Desglose del precio según la etiqueta y la tienda oficial", "headers": ["Concepto", "Dato", "Costo"], "rows": [
+      ["Doypack completo", "14 sobres x 15 g (210 g netos)", "S/ 158.00"],
+      ["1 sobre (1 porción)", "15 g de polvo", "S/ 11.29"],
+      ["1 bebida preparada", "1 sobre + 180 ml de agua", "S/ 11.29"],
+      ["100 g de polvo", "Referencia por peso", "S/ 75.24"],
+      ["100 ml de bebida preparada", "Referencia por volumen", "S/ 6.27"]
+    ] },
+    { "type": "p", "text": "El dato por 100 g sirve para comparar con productos en polvo que se venden en tarro, aunque ojo: no todos los polvos rinden igual ni aportan lo mismo. Por eso, más abajo hacemos la comparación por nutriente, que es la que de verdad dice algo." },
+    { "type": "h2", "text": "¿Es caro o barato frente a lo que compras al paso?" },
+    { "type": "p", "text": "Depende de con qué lo compares. Lo más justo es ponerlo al lado de lo que realmente reemplazaría en tu día: el café de media mañana, el antojo de la tarde o la bebida que compras al salir del gimnasio. Los precios de la tabla son rangos aproximados de Lima y cambian bastante entre distrito, cadena y bodega." },
+    { "type": "table", "caption": "Comparación referencial de precios en Lima (aproximados, pueden variar)", "headers": ["Opción", "Precio aproximado", "Qué suele aportar"], "rows": [
+      ["Sobre de Matcha Pep-T preparado (180 ml)", "S/ 11.29", "46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos"],
+      ["Café americano en cafetería de cadena", "S/ 8 a 13", "Pocas calorías si va solo; sin proteína ni fibra relevantes"],
+      ["Matcha latte de cafetería", "S/ 14 a 20", "Más volumen y, por lo general, más calorías y azúcar según la receta"],
+      ["Barra de proteína de supermercado o farmacia", "S/ 8 a 15", "Muchas veces más proteína; calorías y azúcares muy variables"],
+      ["Jugo surtido en el mercado", "S/ 6 a 10", "Vitaminas de la fruta, bastante azúcar natural y poca fibra si se cuela"],
+      ["Gaseosa personal con galletas de bodega", "S/ 4 a 7", "Calorías y azúcar, casi nada de proteína o fibra"]
+    ] },
+    { "type": "p", "text": "Visto así, el sobre queda en una zona intermedia: no es lo más barato del kiosko, pero cuesta menos que un latte de cafetería y ofrece un perfil que pocas opciones de esa lista igualan con apenas 46 kcal. Esa comparación puntual la desarrollamos en [Matcha Pep-T frente al matcha latte de cafetería](/precio-matcha-pep-t-peru/precio-vs-matcha-latte-de-cafeteria/)." },
+    { "type": "h2", "text": "Costo por gramo de proteína y de fibra" },
+    { "type": "p", "text": "Esta es la métrica que menos se deja engañar por el empaque. Según la tabla nutricional, cada porción aporta **4.7 g de proteína** y **4.9 g de fibra**. Si divides el precio del sobre entre esos gramos, sabes cuánto pagas realmente por cada nutriente." },
+    { "type": "table", "caption": "Costo por nutriente (calculado sobre S/ 11.29 por sobre)", "headers": ["Nutriente", "Por sobre", "Por doypack (14 sobres)", "Costo unitario"], "rows": [
+      ["Proteína", "4.7 g", "65.8 g", "S/ 2.40 por gramo"],
+      ["Fibra", "4.9 g", "68.6 g", "S/ 2.30 por gramo"],
+      ["Proteína y fibra sumadas", "9.6 g", "134.4 g", "S/ 1.18 por gramo"],
+      ["Energía", "46 kcal", "644 kcal", "S/ 0.25 por kcal"]
+    ] },
+    { "type": "p", "text": "Seamos honestos: si tu única meta fuera comprar proteína al menor precio posible, el huevo, las menestras o el pollo del mercado ganan por lejos. Y si solo buscaras fibra barata, la avena o la linaza también. Matcha Pep-T no compite en ese terreno; su propuesta es juntar en un vaso de 180 ml péptidos de colágeno, fibra, matcha, chía y cromo, listo en un minuto y con muy pocas calorías." },
+    { "type": "p", "text": "Por eso conviene leer los S/ 2.40 por gramo de proteína como el precio de una bebida práctica con varios componentes, no como el de un suplemento proteico puro. Si quieres saber qué tipo de proteína es y cuánto representa en tu día, revisa [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que trae cada sobre, según la etiqueta", "text": "Porción: 1 sobre de 15 g en 180 ml de agua. Aporta 46 kcal, 4.7 g de proteína (9 % VD), 4.9 g de fibra (18 % VD), 2.0 g de azúcares totales, de los cuales 0.9 g son añadidos, y 14.9 µg de cromo (45 % VD). Está endulzado con estevia y tiene muy poca azúcar." },
+    { "type": "cta", "text": "Revisa el precio vigente del doypack de 14 sobres en la tienda oficial del distribuidor autorizado." },
+    { "type": "h2", "text": "Lo que no entra en los S/ 11.29" },
+    { "type": "p", "text": "El precio por sobre es solo producto. Hay tres factores que pueden mover tu costo real por vaso y conviene tenerlos presentes antes de sacar conclusiones:" },
+    { "type": "ul", "items": [
+      "**El envío.** Se calcula según tu dirección y aparece en el checkout. Si pides dos doypacks juntos, ese costo se reparte entre 28 sobres en lugar de 14.",
+      "**Lo que le agregues.** La etiqueta está pensada para agua. Si lo preparas con leche o bebida vegetal, sumas el costo de ese chorrito y también cambian las calorías y la proteína del vaso.",
+      "**Tu frecuencia.** No es lo mismo un sobre diario que tres por semana. El gasto según cada escenario lo calculamos en [cuánto dura y cuánto gastar al mes](/precio-matcha-pep-t-peru/presupuesto-mensual/)."
+    ] },
+    { "type": "h2", "text": "Tres formas de mirar el mismo número" },
+    { "type": "p", "text": "Un mismo precio se siente distinto según el lugar que ocupe en tu rutina. Estas son las situaciones más comunes:" },
+    { "type": "h3", "text": "Si reemplaza el café de media mañana" },
+    { "type": "p", "text": "Quien compra un americano diario cerca de la oficina en San Isidro o Miraflores ya gasta una cifra parecida o mayor. Cambiar esa taza por un sobre no suma un gasto nuevo, solo lo redistribuye, y añade proteína y fibra que el café solo no trae." },
+    { "type": "h3", "text": "Si reemplaza el antojo de la tarde" },
+    { "type": "p", "text": "Las galletas con gaseosa de las cinco cuestan menos, sí, pero suelen venir cargadas de azúcar. Aquí el sobre es más caro en soles y bastante más liviano en calorías: 46 kcal por vaso." },
+    { "type": "h3", "text": "Si es un gasto adicional" },
+    { "type": "p", "text": "Si lo tomas además de todo lo que ya consumes, los S/ 11.29 son un gasto extra. En ese caso vale la pena identificar en qué momento del día te resulta más útil y quedarte con ese, en lugar de sumar vasos por costumbre." },
+    { "type": "p", "text": "Cuando tengas claro tu escenario, puedes [comprar Matcha Pep-T desde la página oficial de compra](/comprar-matcha-pep-t/) y confirmar ahí el precio vigente antes de pagar." }
+  ],
+  "faqs": [
+    { "q": "¿Se puede comprar un solo sobre de Matcha Pep-T?", "a": "La presentación que ofrece la tienda oficial es el doypack de 14 sobres de 15 g, a S/ 158.00. No existe un precio oficial por sobre suelto: los S/ 11.29 son una referencia de cálculo. Si alguien vende sobres sueltos, no tendrás forma de verificar su origen ni cómo se almacenaron." },
+    { "q": "¿Los S/ 11.29 por sobre incluyen el envío?", "a": "No. Es el precio del producto dividido entre 14 sobres. El costo de envío depende de tu dirección y se muestra antes de confirmar el pago." },
+    { "q": "¿Por qué se redondea a S/ 11.29 y no a S/ 11.28?", "a": "Porque la división exacta da S/ 11.2857 y, al redondear a dos decimales, el tercer decimal hace subir el segundo. Es solo una referencia; en la tienda pagas el doypack completo de S/ 158.00." },
+    { "q": "¿El costo por sobre baja si me registro como socio?", "a": "Los socios FuXion acceden a un precio preferente, así que su costo por sobre resulta menor. Las condiciones y la diferencia frente al precio de cliente están en [precio de socio y precio de cliente](/precio-matcha-pep-t-peru/precio-socio-vs-cliente/)." }
+  ],
+  "sources": [
+    { "label": "FDA – Daily Value on the Nutrition and Supplement Facts Labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" },
+    { "label": "OMS – Alimentación sana (nota descriptiva)", "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/presupuesto-mensual/",
+    "/precio-matcha-pep-t-peru/precio-vs-matcha-latte-de-cafeteria/",
+    "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/",
+    "/ingredientes-matcha-pep-t/tabla-nutricional/"
+  ]
+}

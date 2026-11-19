@@ -1,0 +1,72 @@
+{
+  "slug": "despues-de-los-40",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/despues-de-los-40/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T después de los 40",
+  "title": "Matcha Pep-T después de los 40: músculo, apetito y movimiento",
+  "seoTitle": "Matcha Pep-T después de los 40: cómo encaja en tu rutina",
+  "metaDescription": "Matcha Pep-T después de los 40: qué cambia en el metabolismo, por qué cuidar el músculo y el apetito, y cómo encaja un sobre junto a comida real y ejercicio.",
+  "excerpt": "Pasados los 40, lo que más cambia no es un metabolismo que se apaga de golpe, sino el músculo, la actividad y los hábitos. Así encaja Matcha Pep-T en esa etapa, sin promesas.",
+  "quickAnswer": "Matcha Pep-T después de los 40 puede ser un apoyo práctico: aporta 46 kcal, 4.7 g de proteína y 4.9 g de fibra por sobre, útil para ordenar el apetito entre comidas. No frena el envejecimiento ni sustituye el ejercicio de fuerza, la proteína de tus comidas ni los controles médicos propios de esta etapa.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A pair of walking shoes and a light resistance band on a wooden bench by a large window overlooking a coastal promenade on a grey Lima morning, a glass of green matcha latte beside a small towel, calm and fresh atmosphere, no people, no packaging, no text, no logos",
+    "alt": "Zapatillas para caminar, una banda elástica y un vaso de matcha latte junto a una ventana con vista al malecón en una mañana gris"
+  },
+  "blocks": [
+    { "type": "p", "text": "En cualquier reunión familiar alguien lo dice: «pasando los 40, todo engorda». El pantalón que antes cerraba sin esfuerzo ahora aprieta, subir al tercer piso cansa más y el pan de la tarde parece dejar huella. Es fácil culpar a un metabolismo que, supuestamente, se apaga de un día para otro." },
+    { "type": "p", "text": "La realidad es más matizada y, en parte, más esperanzadora, porque buena parte de lo que cambia se puede trabajar. Aquí explicamos qué ocurre en esta etapa y dónde encaja un sobre de Matcha Pep-T. Si recién conoces el producto, empieza por [qué es Matcha Pep-T y para qué sirve](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "Qué cambia de verdad en el metabolismo después de los 40" },
+    { "type": "p", "text": "Un amplio estudio publicado en la revista *Science* en 2021, con datos de miles de personas de distintas edades, encontró que el gasto energético diario, ajustado por tamaño corporal, se mantiene bastante estable entre los 20 y los 60 años. Dicho de otro modo: a los 42 no quemas de golpe mucho menos que a los 35." },
+    { "type": "p", "text": "Lo que sí suele moverse es todo lo que rodea al metabolismo:" },
+    { "type": "ul", "items": [
+      "**Menos masa muscular** si no se entrena, lo que reduce poco a poco el gasto y la fuerza.",
+      "**Menos movimiento diario**: más horas sentado entre el auto, la combi, la oficina y el sofá.",
+      "**Sueño más fragmentado y más estrés**, dos factores que influyen en el apetito y en las elecciones de comida.",
+      "**Las mismas porciones de siempre** con un estilo de vida más sedentario."
+    ] },
+    { "type": "h2", "text": "Pérdida muscular: el factor que más se subestima" },
+    { "type": "p", "text": "Con los años, el músculo tiende a disminuir de forma gradual si no se le da motivo para mantenerse. Cuando esa pérdida avanza y afecta la fuerza y la función, se habla de sarcopenia, una condición reconocida por consensos médicos europeos. No ocurre de un día para otro, pero sus efectos se notan más adelante: menos estabilidad, menos energía y más dificultad para controlar el peso." },
+    { "type": "p", "text": "Las dos herramientas con mejor respaldo para frenar ese proceso son el **entrenamiento de fuerza** y una **ingesta suficiente de proteína repartida en las comidas**. Aquí conviene ser claros: los 4.7 g de proteína de un sobre provienen del colágeno, que no es una proteína completa. Sumar es mejor que nada, pero la base tiene que venir del huevo, el pescado, el pollo, las menestras o los lácteos, como detallamos en [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/)." },
+    { "type": "h2", "text": "Apetito y picoteo: cómo encaja Matcha Pep-T después de los 40" },
+    { "type": "p", "text": "En esta etapa, el problema suele estar menos en las comidas principales y más en lo que pasa entre ellas: el pancito con mantequilla a media mañana, las galletas de la reunión o el dulce después del almuerzo. Ahí es donde un sobre tiene un lugar razonable." },
+    { "type": "table", "caption": "Dónde puede entrar un sobre en un día típico", "headers": ["Situación", "Hábito frecuente", "Alternativa con Matcha Pep-T"], "rows": [
+      ["Media mañana en la oficina", "Pan o empanada con gaseosa", "1 sobre en 180 ml de agua fría o tibia"],
+      ["Antes del almuerzo", "Llegar con mucha hambre al menú", "Tomarlo unos 30 minutos antes de comer"],
+      ["Tarde en casa", "Galletas frente al televisor", "Un latte preparado y una fruta si hay hambre real"]
+    ] },
+    { "type": "p", "text": "Con 46 kcal, 4.9 g de fibra (18 % del valor diario) y endulzado con estevia, ocupa el espacio del antojo sin sumar mucho. La lógica de tomarlo antes de una comida está explicada en [cómo ayuda a la saciedad](/que-es-matcha-pep-t/saciedad-control-apetito/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Sobre el colágeno Nextida GC", "text": "En estudios del fabricante del ingrediente (Rousselot), con dosis de 5–10 g de Nextida GC aislado, se observó un menor pico de glucosa después de comer y mayor liberación de GLP-1. Son resultados del ingrediente, no de Matcha Pep-T, y la cantidad por sobre no está declarada. No es un medicamento ni un tratamiento." },
+    { "type": "cta", "text": "Si quieres sumarlo a tu rutina, revisa el precio oficial: S/ 158.00 por 14 sobres, S/ 11.29 por sobre." },
+    { "type": "h2", "text": "Actividad física: lo que ningún sobre reemplaza" },
+    { "type": "p", "text": "La Organización Mundial de la Salud recomienda a los adultos entre 150 y 300 minutos semanales de actividad aeróbica moderada y ejercicios de fortalecimiento muscular al menos dos días por semana. Suena a mucho, pero se puede repartir en bloques manejables:" },
+    { "type": "ul", "items": [
+      "**Caminatas a paso rápido** por el malecón, el parque del barrio o alrededor de tu urbanización, 30 minutos cinco días a la semana.",
+      "**Fuerza en casa** con bandas elásticas, sentadillas a una silla o flexiones apoyadas en la pared, dos o tres veces por semana.",
+      "**Escaleras en lugar del ascensor** y bajarte un paradero antes cuando el tráfico lo permita.",
+      "**Algo que disfrutes**: baile, vóley con los amigos del barrio o natación en verano."
+    ] },
+    { "type": "p", "text": "El sobre puede acompañar esa rutina, por ejemplo después de una caminata matinal, pero el músculo responde al estímulo del ejercicio y a la proteína total del día, no a una bebida en particular." },
+    { "type": "h2", "text": "Precauciones propias de esta etapa" },
+    { "type": "p", "text": "Después de los 40 es más frecuente tomar medicación para la presión, el colesterol, la tiroides o la glucosa. Antes de añadir cualquier producto con té verde y cafeína natural, revisa [las posibles interacciones con medicamentos](/opiniones-matcha-pep-t/interaccion-con-medicamentos/) y coméntalo con tu médico." },
+    { "type": "p", "text": "Si eres mujer y atraviesas la transición hormonal, los cambios de apetito y composición corporal tienen particularidades propias que tratamos en [Matcha Pep-T en la menopausia](/que-es-matcha-pep-t/en-la-menopausia/). Cuando tengas claro cómo encaja en tu día, puedes pedirlo desde [la página de compra](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Sirve igual para hombres y mujeres mayores de 40?", "a": "La fórmula y la porción son las mismas: 1 sobre de 15 g en 180 ml de agua. Lo que cambia son las necesidades de cada persona, su nivel de actividad y su estado de salud, que conviene revisar con un profesional." },
+    { "q": "¿Tomarlo me ayuda a no perder músculo?", "a": "Por sí solo, no. Aporta 4.7 g de proteína de colágeno, un complemento modesto. Mantener el músculo depende sobre todo del entrenamiento de fuerza y de la proteína completa de tus comidas." },
+    { "q": "¿Puedo tomarlo si estoy en tratamiento para la presión o la glucosa?", "a": "Consulta primero con tu médico. El matcha contiene cafeína natural, cuya cantidad no está declarada, y los estudios del ingrediente se relacionan con la glucosa, así que es importante que tu profesional lo evalúe junto a tu tratamiento." },
+    { "q": "¿Es mejor tomarlo antes o después de caminar?", "a": "Las dos opciones son válidas para una caminata moderada. Lo importante es hidratarte bien y no usarlo como única comida si tu caminata es temprano y aún no desayunaste." }
+  ],
+  "sources": [
+    { "label": "Pontzer H. et al. Daily energy expenditure through the human life course. Science (2021)", "url": "https://www.science.org/doi/10.1126/science.abe5017" },
+    { "label": "Cruz-Jentoft AJ. et al. Sarcopenia: revised European consensus (EWGSOP2). Age and Ageing (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/30312372/" },
+    { "label": "Organización Mundial de la Salud – Actividad física", "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity" }
+  ],
+  "related": [
+    "/que-es-matcha-pep-t/en-la-menopausia/",
+    "/que-es-matcha-pep-t/para-hombres/",
+    "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/",
+    "/que-es-matcha-pep-t/para-personas-activas/"
+  ]
+}

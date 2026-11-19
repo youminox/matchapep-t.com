@@ -1,0 +1,66 @@
+{
+  "slug": "que-es-glp-1",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/que-es-glp-1/",
+  "isPillar": false,
+  "primaryKeyword": "qué es GLP-1",
+  "title": "Qué es GLP-1: la hormona intestinal de la saciedad, explicada",
+  "seoTitle": "Qué es GLP-1: la hormona de la saciedad, sin tecnicismos",
+  "metaDescription": "Qué es GLP-1 explicado sin jerga médica: cómo esta hormona del intestino regula la saciedad, la insulina y el vaciamiento del estómago después de comer.",
+  "excerpt": "El GLP-1 no nació en una farmacia: es una señal que tu intestino emite cada vez que comes. Te explicamos qué hace con la insulina, el estómago y el apetito, y por qué dura tan poco.",
+  "quickAnswer": "Qué es GLP-1, en pocas palabras: una hormona (péptido similar al glucagón tipo 1) que tu intestino produce cuando comes. Avisa al páncreas que libere insulina si la glucosa sube, hace que el estómago se vacíe más despacio y envía al cerebro señales de saciedad. Dura apenas minutos en la sangre, por eso su efecto natural es breve y muy regulado.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A homemade lunch plate of rice with chicken and a glass of green matcha latte on a wooden table next to a window, soft grey overcast Lima light, calm minimal kitchen interior, natural colors, no packaging, no text, no logos, no people",
+    "alt": "Plato casero de arroz con pollo y un vaso de matcha latte junto a una ventana en un día nublado"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si has escuchado hablar del GLP-1 en un noticiero, en redes o en la sala de espera de una clínica, probablemente fue junto a palabras como «inyección» o «bajar de peso». Pero antes de hacerse famoso por los fármacos, el GLP-1 es algo mucho más cotidiano: una señal que tu propio cuerpo emite varias veces al día, cada vez que te sientas a almorzar." },
+    { "type": "p", "text": "Esta guía lo explica sin jerga médica y con ejemplos de la vida diaria, para que entiendas qué hace, qué no hace y por qué aparece tanto cuando se habla de [la ciencia detrás de Matcha Pep-T](/ciencia-matcha-pep-t/)." },
+    { "type": "h2", "text": "Qué es GLP-1 y de dónde sale" },
+    { "type": "p", "text": "GLP-1 son las siglas en inglés de *glucagon-like peptide-1*, en español **péptido similar al glucagón tipo 1**. Es una cadena corta de aminoácidos que funciona como hormona: viaja por la sangre y activa nervios para dar instrucciones a otros órganos." },
+    { "type": "p", "text": "La fabrican unas células especializadas del intestino llamadas **células L**, abundantes en la parte final del intestino delgado (el íleon) y en el colon. Funcionan como sensores: detectan la llegada de carbohidratos, grasas y proteínas, y responden liberando GLP-1 en los minutos siguientes." },
+    { "type": "p", "text": "Un grupo pequeño de neuronas del tronco cerebral también produce GLP-1 y participa en el control del apetito. Pero la protagonista de esta historia es la versión intestinal, la que responde a lo que comes." },
+    { "type": "h2", "text": "Los cuatro trabajos del GLP-1 después de comer" },
+    { "type": "p", "text": "Imagina que acabas de terminar un menú en el Centro de Lima: una sopa de entrada, un arroz con pollo y un vaso de refresco de cebada. Mientras caminas de regreso a la oficina, el GLP-1 ya está trabajando en cuatro frentes a la vez." },
+    { "type": "h3", "text": "1. Le avisa al páncreas" },
+    { "type": "p", "text": "El GLP-1 estimula la liberación de insulina, la hormona que ayuda a que la glucosa pase de la sangre a las células. Lo interesante es que lo hace **solo cuando la glucosa está elevada**: si el azúcar en sangre vuelve a la normalidad, el estímulo se apaga. Por eso se dice que su acción depende de la glucosa." },
+    { "type": "p", "text": "También reduce la liberación de glucagón, una hormona con el efecto opuesto: ordena al hígado soltar glucosa. Menos glucagón después de comer significa menos azúcar adicional entrando a la circulación." },
+    { "type": "h3", "text": "2. Frena el vaciamiento del estómago" },
+    { "type": "p", "text": "El GLP-1 hace que el estómago entregue la comida al intestino de forma más pausada. Funciona como un semáforo bien sincronizado en la Vía Expresa: los alimentos pasan por tandas y no todos de golpe, lo que suaviza la subida de glucosa y prolonga la sensación de estómago lleno." },
+    { "type": "h3", "text": "3. Conversa con el cerebro" },
+    { "type": "p", "text": "A través del nervio vago y de zonas como el hipotálamo y el tronco cerebral, el GLP-1 contribuye a la señal de «ya fue suficiente». No es un interruptor que apaga el hambre de un momento a otro, sino una de varias voces que, juntas, deciden cuándo dejas los cubiertos." },
+    { "type": "h3", "text": "4. Protagoniza el efecto incretina" },
+    { "type": "p", "text": "Hace décadas, los investigadores notaron algo llamativo: la misma cantidad de glucosa produce bastante más insulina si se toma por la boca que si se administra directamente en la vena. La diferencia se debe a las **incretinas**, hormonas intestinales que preparan al páncreas antes de que la glucosa llegue a la sangre. El GLP-1 y el GIP (polipéptido insulinotrópico dependiente de glucosa) son las dos principales." },
+    { "type": "h2", "text": "¿Por qué el GLP-1 natural dura tan poco?" },
+    { "type": "p", "text": "El GLP-1 que produce tu intestino se degrada en la sangre en uno o dos minutos. Lo corta una enzima llamada DPP-4. Esa vida tan breve tiene lógica: el cuerpo necesita una señal precisa, que aparezca al comer y desaparezca cuando ya no hace falta." },
+    { "type": "p", "text": "Aquí está la gran diferencia con los medicamentos. Fármacos como la semaglutida son moléculas modificadas para resistir esa degradación y mantenerse activas durante días, con una estimulación mucho más intensa y sostenida que la fisiológica. Por eso no tiene sentido equiparar un alimento con un fármaco; lo desarrollamos en [Matcha Pep-T frente a Ozempic](/ciencia-matcha-pep-t/vs-ozempic/)." },
+    { "type": "callout", "variant": "aviso", "title": "Información general, no consejo médico", "text": "Este artículo explica fisiología básica. Si tienes diabetes o prediabetes, estás embarazada o usas medicamentos, cualquier cambio en tu alimentación o en el uso de suplementos debe conversarse antes con tu médico o nutricionista." },
+    { "type": "h2", "text": "¿Qué estimula la liberación de GLP-1 al comer?" },
+    { "type": "p", "text": "Las células L reaccionan a lo que llega al intestino. En términos generales, la investigación en nutrición señala estos factores:" },
+    { "type": "ul", "items": [
+      "**Proteínas y sus fragmentos.** Los aminoácidos y péptidos que se liberan al digerir proteína son estímulos conocidos de las células L.",
+      "**Fibra fermentable.** Las bacterias del colon la transforman en ácidos grasos de cadena corta, que también favorecen la liberación de GLP-1.",
+      "**Grasas y carbohidratos.** Ambos estimulan la secreción, con matices según el tipo y la cantidad.",
+      "**El ritmo al comer.** Comer despacio da tiempo a que las señales hormonales se acumulen antes de terminar el plato."
+    ] },
+    { "type": "p", "text": "Esto no significa que un alimento concreto «active» el GLP-1 como lo hace un medicamento. Significa que la composición de tu comida influye en la intensidad de una respuesta que ya es natural. Para ver cómo se coordina con la grelina, el PYY o la leptina, revisa la guía de [hormonas que regulan el hambre y la saciedad](/ciencia-matcha-pep-t/hormonas-de-la-saciedad/)." },
+    { "type": "cta", "text": "¿Te interesa una bebida con péptidos de colágeno, proteína y fibra para tu media mañana? Revisa el precio y cómo comprarla." },
+    { "type": "h2", "text": "GLP-1 y Matcha Pep-T: qué se sabe y qué no" },
+    { "type": "p", "text": "Matcha Pep-T aparece en esta conversación por su primer ingrediente: el colágeno hidrolizado **Nextida® GC**, desarrollado por la empresa Rousselot. En estudios del fabricante del ingrediente, con dosis de 5 a 10 g del ingrediente aislado tomadas unos 30 minutos antes de una comida, se observó una mayor liberación de GLP-1 y GIP y un pico de glucosa más bajo después de comer." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica el fabricante del ingrediente", "text": "Rousselot reporta estos resultados en estudios preclínicos con ratones y en ensayos piloto con personas sanas y con prediabetes. Son datos de Nextida GC aislado, no del producto terminado Matcha Pep-T." },
+    { "type": "p", "text": "Hay dos matices importantes. Primero, la etiqueta no declara cuántos gramos de Nextida GC contiene cada sobre; sí informa **4.7 g de proteína total** por porción de 15 g disuelta en 180 ml de agua. Segundo, Matcha Pep-T es un alimento, no un medicamento: no trata ni previene enfermedades. El detalle de los ensayos está en [el resumen de estudios de Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-estudios/)." },
+    { "type": "p", "text": "Lo que sí figura en la etiqueta es concreto: 46 kcal, 4.9 g de fibra, 0.9 g de azúcares añadidos y cromo al 45 % del valor diario por porción. Con esos datos puedes decidir si encaja en tu rutina sin esperar efectos que el producto no promete. Si te convence, en [la página para comprar Matcha Pep-T](/comprar-matcha-pep-t/) verás el precio de S/ 158.00 por 14 sobres." }
+  ],
+  "faqs": [
+    { "q": "¿El GLP-1 es lo mismo que la insulina?", "a": "No. La insulina la produce el páncreas y permite que la glucosa entre a las células. El GLP-1 lo produce el intestino y una de sus funciones es estimular al páncreas para que libere insulina cuando la glucosa sube. Son hormonas distintas que trabajan en equipo." },
+    { "q": "¿Se puede medir el GLP-1 en un análisis de sangre común?", "a": "No forma parte de los análisis de rutina de un laboratorio clínico. Se mide sobre todo en investigación, con técnicas especiales y muestras procesadas con rapidez, porque la hormona se degrada en minutos. Para evaluar tu metabolismo, el médico suele pedir glucosa en ayunas, hemoglobina glicosilada o perfil lipídico." },
+    { "q": "¿Las personas con sobrepeso producen menos GLP-1?", "a": "Algunos estudios han observado respuestas de GLP-1 algo menores en personas con obesidad o diabetes tipo 2, pero los resultados varían entre investigaciones y entre individuos. No es una prueba diagnóstica ni explica por sí sola el peso de nadie: también influyen la genética, el sueño, la actividad física y la alimentación." },
+    { "q": "¿Comer más proteína aumenta el GLP-1 sin límite?", "a": "No. La respuesta hormonal tiene un techo y depende del conjunto de la comida. Comer más proteína de la que necesitas no multiplica la saciedad y puede desplazar alimentos importantes como verduras, menestras y frutas." }
+  ],
+  "sources": [
+    { "label": "Holst JJ. The physiology of glucagon-like peptide 1. Physiological Reviews (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Holst+physiology+of+glucagon-like+peptide+1" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/hormonas-de-la-saciedad/", "/ciencia-matcha-pep-t/vs-ozempic/", "/ingredientes-matcha-pep-t/nextida-gc-estudios/", "/ciencia-matcha-pep-t/peptidos-bioactivos/"]
+}

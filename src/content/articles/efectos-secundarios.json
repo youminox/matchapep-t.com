@@ -1,0 +1,78 @@
+{
+  "slug": "efectos-secundarios",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/efectos-secundarios/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T efectos secundarios",
+  "title": "Matcha Pep-T efectos secundarios: molestias posibles y cuándo parar",
+  "seoTitle": "Matcha Pep-T efectos secundarios: guía clara y prudente",
+  "metaDescription": "Matcha Pep-T efectos secundarios: gases por la fibra, sensibilidad a la cafeína del matcha, alergias al coco o al colágeno y señales para suspenderlo.",
+  "excerpt": "Gases, nerviosismo o una reacción alérgica: repasamos ingrediente por ingrediente qué molestias podrían aparecer, cómo reducirlas y en qué casos conviene dejar de tomarlo.",
+  "quickAnswer": "Los efectos secundarios de Matcha Pep-T más probables son leves y digestivos: gases o hinchazón por sus 4.9 g de fibra, sobre todo al inicio. También puede causar nerviosismo o insomnio en personas sensibles a la cafeína natural del matcha, cuya cantidad no está declarada. Si eres alérgico al coco o al colágeno, no lo tomes.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass of water and a half-finished cup of warm green matcha latte on a kitchen counter beside a small bowl of chia seeds and a halved coconut, soft afternoon light in a modest Lima kitchen, calm and clean composition, realistic photography, no text, no logos, no packaging, no people",
+    "alt": "Taza de matcha latte junto a un vaso de agua, semillas de chía y un coco partido sobre una encimera de cocina"
+  },
+  "blocks": [
+    { "type": "p", "text": "Una bebida en polvo con lista de doce ingredientes no es un fármaco, pero tampoco es agua. Cualquier alimento nuevo puede sentarte bien, regular o mal, y lo sensato es saber de antemano **qué molestias tienen explicación** y cuáles son una señal de alarma." },
+    { "type": "p", "text": "Aquí no especulamos con rumores de redes. Partimos de la etiqueta: qué contiene cada sobre y qué se sabe, en general, de cómo esos componentes pueden afectar a algunas personas." },
+    { "type": "h2", "text": "Matcha Pep-T efectos secundarios: de dónde podrían venir" },
+    { "type": "p", "text": "Casi todas las molestias posibles se explican por cuatro elementos de la fórmula. Esta tabla te sirve para relacionar lo que sientes con su causa más probable." },
+    { "type": "table", "caption": "Ingredientes de Matcha Pep-T y molestias asociadas en personas sensibles", "headers": ["Componente", "Molestia posible", "Qué puedes hacer"], "rows": [
+      ["Fibra de maíz, chía y goma xantana (4.9 g de fibra por sobre)", "Gases, hinchazón, cambios en el tránsito", "Beber más agua, tomarlo con algo de comida, no sumar de golpe otros productos con fibra"],
+      ["Té matcha (cafeína natural no declarada)", "Nerviosismo, palpitaciones, dificultad para dormir, acidez", "Tomarlo en la mañana o al mediodía y no juntarlo con varios cafés"],
+      ["Crema de coco y saborizante de leche de coco", "Reacción alérgica en personas alérgicas al coco", "No consumirlo si tienes alergia diagnosticada"],
+      ["Colágeno hidrolizado (Nextida GC)", "Reacción alérgica en personas sensibles a proteínas de origen animal", "Consultar con tu alergólogo; la etiqueta no especifica la fuente animal"]
+    ] },
+    { "type": "h2", "text": "Gases e hinchazón: la molestia más frecuente con la fibra" },
+    { "type": "p", "text": "Cada sobre aporta 4.9 g de fibra, el 18 % del valor diario. Para alguien cuya dieta ya incluye menestras, avena y fruta, es un aporte más. Para quien vive de pan con tortilla en el desayuno y menú de arroz con algo al mediodía, es un salto considerable." },
+    { "type": "p", "text": "Cuando la fibra aumenta de forma brusca, las bacterias del intestino la fermentan y producen gas. Suele ser pasajero: el cuerpo se adapta en pocos días. Lo que más ayuda es acompañarlo con agua a lo largo del día, algo que en verano limeño, con calor y humedad, cuesta menos recordar que en pleno invierno de garúa." },
+    { "type": "ul", "items": [
+      "Si notas hinchazón, prueba a tomarlo junto con una comida en lugar de con el estómago vacío.",
+      "Evita empezar la misma semana con otros suplementos de fibra o un cambio radical de dieta: así sabrás qué te cae mal.",
+      "Si el malestar no mejora en una o dos semanas, o se acompaña de dolor intenso, suspende y consulta."
+    ] },
+    { "type": "p", "text": "Explicamos con más detalle el papel de la fibra en el tránsito en nuestra guía sobre [Matcha Pep-T y la digestión](/que-es-matcha-pep-t/fibra-y-digestion/)." },
+    { "type": "h2", "text": "Sensibilidad a la cafeína natural del matcha" },
+    { "type": "p", "text": "El matcha es té verde molido y contiene cafeína de forma natural. La etiqueta de Matcha Pep-T **no declara cuánta**, así que no podemos darte una cifra. Lo prudente es tratarlo como una bebida con algo de cafeína, sin exagerar ni minimizar." },
+    { "type": "p", "text": "Las personas sensibles pueden notar manos temblorosas, corazón acelerado, ansiedad o un sueño más ligero. El riesgo aumenta si lo tomas en la tarde-noche o si ese día ya llevas dos tazas de café pasado y una gaseosa con el almuerzo." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo suspenderlo de inmediato", "text": "Deja de tomarlo y busca atención médica si notas hinchazón de labios, lengua o garganta, ronchas extendidas, dificultad para respirar, palpitaciones fuertes o persistentes, dolor abdominal intenso, vómitos o diarrea que no ceden. Ante dificultad para respirar, acude a emergencias sin esperar." },
+    { "type": "cta", "text": "Si después de revisar los ingredientes ves que encaja contigo, consulta el precio vigente del doypack de 14 sobres." },
+    { "type": "h2", "text": "Alergias e intolerancias: coco, colágeno y chía" },
+    { "type": "p", "text": "Las alergias alimentarias no dependen de la cantidad: una persona alérgica puede reaccionar con muy poco. Por eso, si tienes un diagnóstico, la lista de ingredientes manda más que cualquier recomendación general." },
+    { "type": "h3", "text": "Coco" },
+    { "type": "p", "text": "La fórmula lleva crema de coco y saborizante natural de leche de coco. Si eres alérgico al coco, este producto no es para ti." },
+    { "type": "h3", "text": "Colágeno" },
+    { "type": "p", "text": "El colágeno hidrolizado es el primer ingrediente. Es una proteína de origen animal y la etiqueta no indica de qué especie procede. Si has tenido reacciones a la gelatina o a suplementos de colágeno, consulta antes con tu alergólogo." },
+    { "type": "h3", "text": "Chía y otros componentes" },
+    { "type": "p", "text": "Las reacciones a la chía son poco comunes, pero existen. La lecitina es de girasol, no de soya. Para dudas sobre gluten o lactosa, revisa nuestra guía de [alérgenos e intolerancias](/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/)." },
+    { "type": "h2", "text": "Otras sensaciones que algunas personas comentan" },
+    { "type": "ul", "items": [
+      "**Regusto de la estevia**: no es un efecto adverso, pero a algunos les deja un final dulce persistente. Más agua o hielo lo suaviza.",
+      "**Sensación de llenura**: es parte de lo que se busca con la fibra y la proteína; si te resulta incómoda antes del almuerzo, adelanta la toma.",
+      "**Molestias por tomarlo muy concentrado**: si usas menos de 180 ml de agua, la bebida queda más densa y puede caer pesada."
+    ] },
+    { "type": "h2", "text": "Cómo reducir el riesgo desde el primer sobre" },
+    { "type": "ol", "items": [
+      "Lee la lista de ingredientes completa antes de abrir el doypack.",
+      "Respeta la porción: 1 sobre de 15 g en 180 ml de agua, sin exceder lo recomendado.",
+      "Empieza un día tranquilo, no antes de un viaje largo en combi ni de una reunión importante.",
+      "Tómalo temprano los primeros días para ver cómo te sienta la cafeína.",
+      "Si tienes una condición de salud o tomas medicación, revisa nuestras [contraindicaciones y casos en los que conviene consultar](/opiniones-matcha-pep-t/contraindicaciones/)."
+    ] },
+    { "type": "p", "text": "Encontrarás más respuestas sobre seguridad y experiencias reales en la sección de [opiniones de Matcha Pep-T](/opiniones-matcha-pep-t/). Si decides probarlo, compra solo por un canal autorizado desde nuestra [página de compra](/comprar-matcha-pep-t/), para asegurarte de que el producto y su etiqueta sean originales." }
+  ],
+  "faqs": [
+    { "q": "¿Matcha Pep-T puede dar diarrea?", "a": "En algunas personas, un aumento brusco de fibra puede ablandar las deposiciones o acelerar el tránsito. Suele ser leve y pasajero. Si la diarrea es intensa, dura más de un par de días o se acompaña de fiebre, suspende el producto y consulta." },
+    { "q": "¿Puede causar dolor de cabeza?", "a": "Es posible en personas sensibles a la cafeína o, al contrario, en quienes reducen de golpe su café habitual y lo sustituyen. Si ocurre con frecuencia, revisa cuánta cafeína tomas en total al día y coméntalo con tu médico." },
+    { "q": "¿Tomarlo de noche afecta el sueño?", "a": "Puede afectarlo si eres sensible, porque el matcha aporta cafeína natural en cantidad no declarada. Para no arriesgar tu descanso, prefiere la mañana o el mediodía." },
+    { "q": "¿Los efectos secundarios desaparecen con el tiempo?", "a": "Las molestias digestivas por la fibra suelen disminuir cuando el intestino se adapta. Las reacciones alérgicas no: si eres alérgico a un ingrediente, la única medida segura es no consumirlo." }
+  ],
+  "sources": [
+    { "label": "FDA – Spilling the Beans: How Much Caffeine is Too Much?", "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" },
+    { "label": "NCCIH (NIH) – Té verde", "url": "https://www.nccih.nih.gov/health/green-tea" },
+    { "label": "FDA – Food Allergies", "url": "https://www.fda.gov/food/food-labeling-nutrition/food-allergies" }
+  ],
+  "related": ["/opiniones-matcha-pep-t/contraindicaciones/", "/que-es-matcha-pep-t/fibra-y-digestion/", "/ingredientes-matcha-pep-t/tiene-cafeina/", "/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/"]
+}

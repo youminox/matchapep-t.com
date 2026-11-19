@@ -1,0 +1,74 @@
+{
+  "slug": "crema-de-coco",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/crema-de-coco/",
+  "isPillar": false,
+  "primaryKeyword": "crema de coco en Matcha Pep-T",
+  "title": "Crema de coco en Matcha Pep-T: cremosidad sin lácteos",
+  "seoTitle": "Crema de coco en Matcha Pep-T: textura, grasa y sabor",
+  "metaDescription": "Por qué hay crema de coco en Matcha Pep-T: da cremosidad de latte sin ingredientes lácteos, suma solo 0.5 g de grasa saturada por sobre y suaviza el matcha.",
+  "excerpt": "La crema de coco es el tercer ingrediente de Matcha Pep-T y la responsable de su textura de latte. Analizamos qué aporta, cuánta grasa suma y cómo cambia el sabor.",
+  "quickAnswer": "La crema de coco en Matcha Pep-T es el tercer ingrediente de la fórmula y su función es dar textura cremosa de latte sin usar leche. Aporta poca grasa: el sobre completo declara 0.6 g de grasa total y 0.5 g de grasa saturada (3 % VD), y además suaviza el amargor natural del té matcha.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Halved fresh coconut showing white flesh next to a small glass bowl of thick coconut cream and a cup of frothy light green matcha latte on a pale marble counter, bright coastal morning light, minimal style, no text, no logos, no packaging, no people",
+    "alt": "Coco partido por la mitad junto a un bol de crema de coco y una taza de matcha latte espumoso"
+  },
+  "blocks": [
+    { "type": "p", "text": "Pide un matcha latte en cualquier cafetería de Miraflores o Barranco y lo primero que te preguntan es con qué leche: entera, deslactosada, de almendra o de avena. Esa decisión define la textura, el sabor y buena parte de las calorías del vaso." },
+    { "type": "p", "text": "En un sobre instantáneo no hay barista que pregunte, así que la fórmula tiene que resolverlo de antemano. En Matcha Pep-T la respuesta es la **crema de coco**, que ocupa el tercer lugar de la lista. Aquí explicamos por qué está ahí, cuánta grasa suma realmente y qué hace con el sabor. Para el panorama general, revisa la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Qué hace la crema de coco en Matcha Pep-T" },
+    { "type": "p", "text": "La crema de coco se obtiene de la pulpa del coco maduro: es la fracción más espesa y grasa de la leche de coco. Para usarla en una bebida en polvo se seca, normalmente por atomización, hasta obtener un polvo fino que se rehidrata al contacto con el agua." },
+    { "type": "p", "text": "Dentro del sobre cumple tres funciones concretas:" },
+    { "type": "ol", "items": [
+      "**Cuerpo:** sin ella, 15 g de polvo en 180 ml de agua darían una bebida más aguada, parecida a un té verde instantáneo.",
+      "**Sensación en boca:** las pequeñas gotas de grasa dispersas crean esa impresión aterciopelada que asociamos a un latte.",
+      "**Vehículo de sabor:** muchos aromas se disuelven mejor en grasa que en agua, así que la crema ayuda a que el sabor se perciba más redondo."
+    ] },
+    { "type": "p", "text": "Para que esa grasa no flote en la superficie, la fórmula incluye **lecitina de girasol** como emulsionante, que mantiene la mezcla homogénea mientras la bebes." },
+    { "type": "h2", "text": "Cremosidad sin lácteos: qué significa y qué no" },
+    { "type": "p", "text": "Si revisas la lista completa, no aparece leche, suero de leche ni caseína como ingrediente. La parte «láctea» del sabor proviene de la crema de coco y de los **saborizantes naturales de crema caramelo y leche de coco**. «Crema caramelo» es el nombre del perfil de sabor, no un ingrediente lácteo declarado." },
+    { "type": "p", "text": "Esto tiene sentido en un país donde muchos adultos notan molestias con la leche. Pero hay dos matices importantes:" },
+    { "type": "ul", "items": [
+      "**Sin lácteos no es igual a vegano.** El primer ingrediente es colágeno hidrolizado, de origen animal. Lo explicamos en detalle en [si Matcha Pep-T es apto para veganos](/ingredientes-matcha-pep-t/es-vegano/).",
+      "**Alergias estrictas:** la etiqueta no detalla los soportes técnicos con los que se seca la crema de coco ni las advertencias de trazas de la planta. Si tienes alergia a la proteína de leche, revisa nuestra página de [gluten, lactosa y alérgenos](/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/) y el empaque del lote antes de tomarlo."
+    ] },
+    { "type": "h2", "text": "Grasa saturada: 0.5 g por sobre en contexto" },
+    { "type": "p", "text": "El coco tiene mala fama por su grasa saturada, y es verdad que la mayor parte de su grasa es de ese tipo. La tabla nutricional lo refleja: casi toda la grasa del sobre es saturada. Lo que cambia la conversación es la cantidad." },
+    { "type": "callout", "variant": "etiqueta", "title": "Grasas por porción (1 sobre en 180 ml de agua)", "text": "Grasa total **0.6 g (1 % VD)**, grasa saturada **0.5 g (3 % VD)**, grasa trans **0 g** y colesterol **0 mg**. Energía total: 46 kcal." },
+    { "type": "table", "caption": "Grasa saturada aproximada de opciones comunes", "headers": ["Bebida o alimento", "Grasa saturada aproximada"], "rows": [
+      ["1 sobre de Matcha Pep-T en agua (etiqueta)", "0.5 g"],
+      ["1 taza (240 ml) de leche entera", "unos 4.5 g"],
+      ["1 cucharada de aceite de coco", "unos 12 g"],
+      ["Límite orientativo OMS para dieta de 2000 kcal (menos del 10 % de la energía)", "unos 22 g al día"]
+    ] },
+    { "type": "p", "text": "En otras palabras, un sobre preparado con agua tiene una fracción de la grasa saturada de un latte de cafetería hecho con leche entera. Tampoco tiene sentido atribuirle beneficios especiales por los triglicéridos de cadena media del coco: con menos de un gramo de grasa, su efecto en ese sentido es irrelevante." },
+    { "type": "p", "text": "Ojo con un detalle práctico: si decides preparar tu latte con leche entera o con bebida de coco en lugar de agua, las cifras de grasa y calorías cambian y ya no son las de la etiqueta." },
+    { "type": "cta", "text": "Conoce el precio del doypack de 14 sobres (S/ 158.00) y cómo hacer tu pedido en Lima o provincias." },
+    { "type": "h2", "text": "Cómo cambia el sabor del matcha" },
+    { "type": "p", "text": "El matcha de buena calidad tiene notas vegetales, un punto de amargor y cierta astringencia. Para quien no está acostumbrado, tomarlo solo con agua puede resultar intenso. La crema de coco amortigua esas aristas y deja un fondo suave, con un recuerdo tropical que se suma al toque de caramelo de los saborizantes." },
+    { "type": "p", "text": "La temperatura influye en cómo lo percibes:" },
+    { "type": "ul", "items": [
+      "**Caliente (sin hervir):** los aromas volátiles se liberan más y el coco se nota con más claridad. Ideal para las mañanas de garúa en Lima.",
+      "**Frío con hielo:** el perfil es más fresco y el coco queda en segundo plano, detrás del matcha. Funciona mejor en pleno verano.",
+      "**Con un chorrito de bebida vegetal:** gana todavía más cremosidad, a costa de algunas calorías extra."
+    ] },
+    { "type": "p", "text": "Si te interesa una descripción completa de cómo sabe y qué textura tiene, la encontrarás en nuestra reseña sobre [el sabor y la textura de Matcha Pep-T](/opiniones-matcha-pep-t/sabor-y-textura/)." },
+    { "type": "callout", "variant": "tip", "title": "Más cremosidad sin añadir nada", "text": "Agitar la bebida en un shaker o tomatodo con tapa durante 15 a 20 segundos incorpora aire y hace que la crema de coco forme una capa ligera de espuma. Funciona tanto en frío como con agua tibia." },
+    { "type": "h2", "text": "¿Por qué coco y no leche en polvo?" },
+    { "type": "p", "text": "La marca no ha publicado sus razones de formulación, pero desde el punto de vista técnico la elección tiene ventajas claras: evita la lactosa, combina naturalmente con el perfil de sabor de un matcha latte, se mantiene estable en un polvo que debe durar meses en la alacena y aporta cremosidad con muy poca cantidad de grasa." },
+    { "type": "p", "text": "El resultado es un sobre de 15 g que, preparado con agua, entrega textura de latte con 46 kcal. Si quieres probarlo, en la página para [comprar Matcha Pep-T con distribuidor autorizado](/comprar-matcha-pep-t/) tienes el precio vigente: S/ 158.00 por doypack, equivalente a S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Matcha Pep-T sabe mucho a coco?", "a": "El coco se percibe como un fondo suave, no como sabor principal. El protagonista sigue siendo el matcha, acompañado de notas de caramelo. En caliente el coco se nota algo más que en frío." },
+    { "q": "¿Puedo tomarlo si soy alérgico al coco?", "a": "No es recomendable sin consultarlo antes. La crema de coco es un ingrediente principal y además hay saborizante de leche de coco. Si tienes alergia diagnosticada, habla con tu alergólogo y muéstrale la etiqueta." },
+    { "q": "¿La crema de coco es lo mismo que el aceite de coco?", "a": "No. El aceite de coco es prácticamente grasa pura, mientras que la crema de coco conserva agua, algo de proteína y carbohidratos de la pulpa. En el sobre se usa en polvo y en una cantidad que deja la grasa total en 0.6 g por porción." },
+    { "q": "¿La crema de coco aporta azúcar?", "a": "La pulpa de coco contiene algo de azúcar natural, pero la etiqueta no desglosa el aporte de cada ingrediente. Los azúcares totales del sobre son 2.0 g, de los cuales 0.9 g son añadidos." }
+  ],
+  "sources": [
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "USDA FoodData Central – composición de alimentos", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "FDA – Food Allergies", "url": "https://www.fda.gov/food/food-labeling-nutrition/food-allergies" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/gluten-lactosa-alergenos/", "/ingredientes-matcha-pep-t/es-vegano/", "/opiniones-matcha-pep-t/sabor-y-textura/", "/ingredientes-matcha-pep-t/calorias/"]
+}

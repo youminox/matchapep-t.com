@@ -1,0 +1,73 @@
+{
+  "slug": "para-personas-activas",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/para-personas-activas/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T deportistas",
+  "title": "Matcha Pep-T para deportistas y gente activa: qué aporta y qué no",
+  "seoTitle": "Matcha Pep-T deportistas: lo que aporta a tu rutina",
+  "metaDescription": "Matcha Pep-T para deportistas y personas activas: qué significan sus 4.7 g de proteína, por qué no reemplaza tu batido post-entreno y cómo encajarlo.",
+  "excerpt": "Si corres, caminas, juegas fulbito o vas al gimnasio, aquí ves con números de etiqueta qué papel puede tener Matcha Pep-T en tu día y cuál no le corresponde.",
+  "quickAnswer": "Para deportistas y personas activas, Matcha Pep-T es una bebida ligera de 46 kcal con 4.7 g de proteína y 4.9 g de fibra por sobre. Ese aporte de proteína es modesto: no reemplaza un batido ni una comida post-entreno. Encaja mejor como bebida entre comidas o en días de descanso, no como suplemento deportivo.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear tumbler of iced green matcha latte resting on a low stone wall along a seaside cliff walkway at sunrise, a folded windbreaker and a running cap beside it, grey Pacific sky and soft light, no people, no packaging, no text, no logos",
+    "alt": "Vaso de matcha latte con hielo sobre un muro de piedra junto al mar al amanecer, al lado de una casaca cortavientos y una gorra de correr"
+  },
+  "blocks": [
+    { "type": "p", "text": "A las seis de la mañana el Malecón de Miraflores ya está lleno: gente que corre con casaca por la neblina, grupos de ciclistas, caminantes con audífonos. Por la tarde, la escena se traslada a las canchas sintéticas de cualquier distrito y a los gimnasios de cadena. Toda esa gente comparte una duda frecuente frente a los suplementos: ¿esto me sirve a mí o es solo marketing?" },
+    { "type": "p", "text": "Con Matcha Pep-T la respuesta exige separar dos cosas: lo que la etiqueta realmente declara y lo que un deportista necesita. Si aún no conoces bien el producto, empieza por la guía de [qué es Matcha Pep-T](/que-es-matcha-pep-t/) y vuelve aquí para el enfoque deportivo." },
+    { "type": "h2", "text": "Matcha Pep-T para deportistas: lo que dice la etiqueta" },
+    { "type": "p", "text": "La porción es **1 sobre de 15 g disuelto en 180 ml de agua**. Esto es lo relevante para alguien que entrena:" },
+    { "type": "table", "caption": "Datos por porción (1 sobre en 180 ml) y su lectura para personas activas", "headers": ["Nutriente", "Por porción", "Qué significa si entrenas"], "rows": [
+      ["Energía", "46 kcal", "Muy poca energía; no sirve como recarga después de una sesión larga"],
+      ["Proteína", "4.7 g (9 % VD)", "Aporte modesto, lejos de una porción post-entreno"],
+      ["Carbohidratos", "7.8 g", "Insuficientes para reponer glucógeno tras un esfuerzo intenso"],
+      ["Fibra", "4.9 g (18 % VD)", "Buena para el día a día, poco conveniente justo antes de correr"],
+      ["Sodio", "28 mg", "No es una bebida de rehidratación ni reemplaza electrolitos"],
+      ["Cromo", "14.9 µg (45 % VD)", "Mineral presente en la fórmula; no tiene un rol deportivo declarado"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que no está declarado", "text": "La etiqueta no indica cuánta cafeína aporta el matcha del sobre ni la cantidad de Nextida GC. Por eso no tiene sentido usarlo como pre-entreno estimulante ni calcular dosis de colágeno a partir de él. Lleva 0.9 g de azúcares añadidos por porción y está endulzado con estevia." },
+    { "type": "h2", "text": "Por qué 4.7 g de proteína no reemplazan tu post-entreno" },
+    { "type": "p", "text": "Las recomendaciones de nutrición deportiva suelen hablar de porciones de alrededor de 20 a 40 g de proteína de buena calidad después de entrenar, según el peso corporal y el tipo de ejercicio. Un sobre de Matcha Pep-T cubre apenas una fracción de eso." },
+    { "type": "p", "text": "Hay un segundo matiz: buena parte de la proteína del sobre viene de **péptidos de colágeno**. El colágeno es útil por otras razones, pero es una proteína incompleta para la recuperación muscular porque tiene poco triptófano y menos leucina que fuentes como el suero de leche, el huevo, el pollo o el pescado. En la guía sobre [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/) se pone ese número en contexto con tu requerimiento diario." },
+    { "type": "p", "text": "En la práctica: si después del gym te tomas tu batido o comes un buen plato con proteína, sigue haciéndolo. Matcha Pep-T no compite con eso; ocupa otro espacio." },
+    { "type": "h2", "text": "Según tu actividad, dónde puede encajar" },
+    { "type": "h3", "text": "Si caminas o haces actividad moderada" },
+    { "type": "p", "text": "Para quien camina 40 minutos por el parque, sube las escaleras del metro o pasea al perro todas las tardes, el gasto energético es moderado. Aquí el sobre funciona bien como **bebida de media mañana o media tarde**, una opción ligera para no llegar con hambre voraz a la siguiente comida." },
+    { "type": "h3", "text": "Si corres o montas bicicleta" },
+    { "type": "p", "text": "En salidas largas importan los carbohidratos rápidos, el agua y las sales. Matcha Pep-T no cumple ninguna de esas funciones. Además, sus 4.9 g de fibra justo antes de correr pueden caer pesados a algunas personas. Funciona mejor en otro momento del día, lejos de la sesión." },
+    { "type": "h3", "text": "Si haces pesas o deportes de equipo" },
+    { "type": "p", "text": "En días de gimnasio o pichanga, úsalo como complemento entre comidas, no como tu fuente principal de proteína. En días de descanso, cuando comes menos y el hambre aparece por aburrimiento, puede ser cuando más sentido tiene." },
+    { "type": "cta", "text": "Si encaja con tu rutina, revisa el precio del doypack de 14 sobres y cómo pedirlo en Perú." },
+    { "type": "h2", "text": "¿Cuándo tomarlo si eres una persona activa?" },
+    { "type": "p", "text": "Sin entrar en el detalle minuto a minuto, la idea general es sencilla: **úsalo en los huecos del día, no en el momento clave del entrenamiento**. Si quieres afinar el horario respecto a tu sesión, hay una guía completa sobre [si tomarlo antes o después de entrenar](/como-preparar-matcha-pep-t/antes-o-despues-de-entrenar/)." },
+    { "type": "ul", "items": [
+      "**Media mañana en la oficina**, si entrenas temprano y desayunaste fuerte.",
+      "**Media tarde**, si entrenas de noche y quieres evitar el snack pesado de las cinco.",
+      "**Días de descanso**, como bebida ligera que ordena el picoteo.",
+      "**En verano**, frío y con hielo, como alternativa a una gaseosa o un jugo azucarado. La receta [con hielo](/como-preparar-matcha-pep-t/frio-con-hielo/) es la más práctica."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Hidratación primero", "text": "Los 180 ml de un sobre no sustituyen el agua que necesitas al entrenar, sobre todo en verano o en entrenamientos de altura si sales de Lima a la sierra. Si tienes una condición de salud, estás embarazada o tomas medicación, consulta a un profesional antes de usar cualquier suplemento." },
+    { "type": "h2", "text": "Errores frecuentes en gente que entrena" },
+    { "type": "ol", "items": [
+      "**Tomar dos o tres sobres para sumar proteína.** La etiqueta indica 1 sobre por porción y no exceder lo recomendado. Si te falta proteína, ajusta tus comidas.",
+      "**Usarlo como pre-entreno.** La cafeína no está declarada; no sabes si te estimula ni cuánto.",
+      "**Contarlo como comida de recuperación.** Con 46 kcal y 7.8 g de carbohidratos no repones lo que gastas en una sesión exigente.",
+      "**Olvidar que añadir leche o plátano cambia los números.** Si lo preparas como batido, las calorías y la proteína ya no son las de la etiqueta."
+    ] },
+    { "type": "p", "text": "Usado con esas reglas claras, puede ser una bebida agradable dentro de una vida activa. Si decides probarlo, aquí puedes [comprar Matcha Pep-T con envío en Perú](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿El colágeno de Matcha Pep-T ayuda a las articulaciones?", "a": "La etiqueta no hace esa afirmación. El colágeno del producto es Nextida GC, desarrollado por Rousselot con enfoque en el control de la glucosa, no en articulaciones. Si tienes molestias articulares por el deporte, lo indicado es evaluarlo con un traumatólogo o fisioterapeuta." },
+    { "q": "¿Puedo tomarlo el mismo día que mi proteína en polvo?", "a": "Sí, son productos distintos que ocupan momentos diferentes. Solo ten en cuenta la proteína total del día y respeta la porción de 1 sobre en 180 ml." },
+    { "q": "¿Sirve para ganar masa muscular?", "a": "Por sí solo, no. La ganancia muscular depende del entrenamiento de fuerza, de la proteína total diaria y de la energía suficiente. Los 4.7 g de un sobre son un aporte pequeño dentro de ese cálculo." },
+    { "q": "¿Es adecuado para deportistas adolescentes?", "a": "Los menores tienen necesidades nutricionales específicas y conviene que cualquier suplemento lo apruebe un pediatra o nutricionista. Para un joven que entrena, lo prioritario son comidas completas, agua y descanso." }
+  ],
+  "sources": [
+    { "label": "International Society of Sports Nutrition – Position stand: protein and exercise (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/28642676/" },
+    { "label": "FDA – Daily Value on the Nutrition and Supplement Facts Labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" },
+    { "label": "Organización Mundial de la Salud – Actividad física", "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity" }
+  ],
+  "related": ["/como-preparar-matcha-pep-t/antes-o-despues-de-entrenar/", "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/", "/que-es-matcha-pep-t/para-hombres/", "/como-preparar-matcha-pep-t/frio-con-hielo/"]
+}

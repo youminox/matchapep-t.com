@@ -1,0 +1,83 @@
+{
+  "slug": "overnight-oats",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/overnight-oats/",
+  "isPillar": false,
+  "primaryKeyword": "overnight oats con matcha",
+  "title": "Overnight oats con matcha: avena remojada con Matcha Pep-T",
+  "seoTitle": "Overnight oats con matcha: receta con Matcha Pep-T",
+  "metaDescription": "Overnight oats con matcha en 5 minutos de noche: avena remojada con 1 sobre de Matcha Pep-T, proporciones, frascos para llevar y variantes con fruta.",
+  "excerpt": "Cinco minutos en la noche y el desayuno queda resuelto: avena remojada con un sobre de Matcha Pep-T, lista para comer en casa o meter en la mochila.",
+  "quickAnswer": "Para hacer overnight oats con matcha, disuelve 1 sobre de Matcha Pep-T en 180 ml de leche o bebida vegetal, mézclalo con 40 g de avena en hojuelas en un frasco con tapa y déjalo en la refrigeradora al menos 6 horas. En la mañana tienes un desayuno frío y cremoso, listo para llevar.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two glass jars with screw lids filled with creamy pale green overnight oats topped with banana slices and a sprinkle of cinnamon, placed next to a canvas lunch bag and a set of keys on a small kitchen counter at dawn, soft blue early morning light through the window, Lima apartment, no packaging, no text, no logos, no people",
+    "alt": "Dos frascos de vidrio con avena remojada verde clara, rodajas de plátano y canela junto a una lonchera de tela al amanecer"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si sales de casa a las seis y media para ganarle al tráfico de la Vía Expresa o de la Panamericana, sabes que el desayuno suele quedar para después: un pan al paso, un café de máquina o nada hasta media mañana. Los overnight oats existen justamente para ese problema." },
+    { "type": "p", "text": "La idea es sencilla: dejas la avena remojando en la refrigeradora durante la noche y, mientras duermes, absorbe el líquido y se ablanda sin cocción. Con un sobre de Matcha Pep-T disuelto en ese líquido, la avena toma sabor a matcha latte y queda lista para comer en el escritorio, en la universidad o en casa." },
+    { "type": "h2", "text": "Qué son los overnight oats con matcha y por qué funcionan" },
+    { "type": "p", "text": "Son avena en hojuelas hidratada en frío. A diferencia de la avena cocida de la abuela, no se vuelve una crema caliente, sino una textura parecida a un pudín espeso que se come con cuchara y se disfruta fría." },
+    { "type": "p", "text": "Matcha Pep-T encaja bien porque ya trae sabor, dulzor de estevia y crema de coco. No necesitas sumar azúcar ni saborizantes: el sobre hace ese trabajo. Si buscas algo parecido pero sin avena, el [pudín de chía con matcha](/como-preparar-matcha-pep-t/pudin-de-chia/) sigue la misma lógica de reposo nocturno con otra base." },
+    { "type": "h2", "text": "Proporciones base para un frasco" },
+    { "type": "table", "caption": "Ingredientes para una porción de overnight oats con Matcha Pep-T", "headers": ["Ingrediente", "Cantidad", "Para qué sirve"], "rows": [
+      ["Matcha Pep-T", "1 sobre (15 g)", "Sabor, dulzor y la nutrición del sobre"],
+      ["Avena en hojuelas", "40 g (unas 4 cucharadas colmadas)", "Base que se hidrata y da cuerpo"],
+      ["Leche o bebida vegetal", "180 ml", "Líquido de remojo"],
+      ["Yogur natural sin endulzar (opcional)", "2 cucharadas", "Más cremosidad y un toque ácido"],
+      ["Chía (opcional)", "1 cucharadita", "Espesa un poco más"]
+    ] },
+    { "type": "p", "text": "Con estas cantidades sale una textura media. Si la prefieres más suelta, sube el líquido a 200 ml; si la quieres compacta, baja a 160 ml o añade la cucharadita de chía." },
+    { "type": "h2", "text": "Cómo preparar overnight oats con matcha paso a paso" },
+    { "type": "steps", "items": [
+      { "name": "Disuelve el sobre primero", "text": "En un shaker o en el mismo frasco, mezcla el sobre de 15 g con los 180 ml de leche o bebida vegetal fría hasta que no quede polvo. Si lo echas directo sobre la avena seca, se forman grumos." },
+      { "name": "Agrega la avena", "text": "Incorpora los 40 g de avena en hojuelas y, si quieres, el yogur y la chía. Remueve bien hasta que toda la avena quede mojada." },
+      { "name": "Tapa y refrigera", "text": "Cierra el frasco y llévalo a la refrigeradora. Necesita al menos 6 horas; lo ideal es toda la noche." },
+      { "name": "Ajusta en la mañana", "text": "Remueve antes de comer. Si quedó muy espeso, añade un chorrito de leche; si quedó líquido, la próxima vez reduce el líquido o deja más horas." },
+      { "name": "Pon los toppings al final", "text": "La fruta fresca y lo crocante van recién al servir, para que no se ablanden ni suelten jugo." }
+    ] },
+    { "type": "h2", "text": "¿Qué avena usar?" },
+    { "type": "ul", "items": [
+      "**Hojuelas tradicionales:** la mejor opción. Se hidratan bien en una noche y conservan algo de mordida.",
+      "**Avena instantánea o de cocción rápida:** sirve, pero queda más pastosa. Reduce el remojo a 2 o 3 horas si la usas.",
+      "**Avena a granel del mercado:** perfecta si es en hojuelas; guárdala en un táper hermético porque la humedad de Lima la ablanda rápido."
+    ] },
+    { "type": "cta", "text": "Si vas a preparar varios frascos a la semana, revisa el precio del doypack de 14 sobres." },
+    { "type": "h2", "text": "Desayuno para llevar: frascos, lonchera y tiempos" },
+    { "type": "p", "text": "Los frascos de vidrio con tapa rosca son los más prácticos: no se derraman en la mochila y se lavan fácil. Un táper pequeño con buen cierre también funciona." },
+    { "type": "ul", "items": [
+      "**Hasta 2 días en la refrigeradora:** puedes preparar el domingo en la noche los frascos del lunes y martes. Pasado ese tiempo, la textura se vuelve demasiado blanda.",
+      "**En la lonchera, con un gel frío:** sobre todo en verano. Si viajas una hora en combi o en el Metropolitano, no dejes el frasco a temperatura ambiente toda la mañana.",
+      "**Cuchara propia:** suena obvio, pero es lo que más se olvida. Deja una cuchara fija en la mochila o en el cajón de la oficina."
+    ] },
+    { "type": "p", "text": "Un detalle importante si preparas varios frascos: cada uno lleva un sobre, y la etiqueta indica 1 sobre por porción. Ese frasco sería tu sobre del día, así que no hace falta tomar además el latte. Lo explicamos mejor en [cuántos sobres de Matcha Pep-T tomar al día](/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/)." },
+    { "type": "h2", "text": "Variantes con fruta y especias" },
+    { "type": "ul", "items": [
+      "**Plátano y canela:** rodajas de plátano maduro y una pizca de canela molida al servir.",
+      "**Fresa:** fresas picadas encima; su acidez contrasta con la dulzura suave del latte.",
+      "**Mango:** cubitos de mango en temporada de verano, con un poco de coco rallado.",
+      "**Manzana rallada:** mezclada desde la noche anterior, aporta jugo y se integra con la avena.",
+      "**Cacao:** una cucharadita de cacao en polvo sin endulzar disuelta junto con el sobre."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Cuánto aporta un frasco", "text": "El sobre aporta, según su etiqueta, 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y el 45 % del valor diario de cromo. Con 40 g de avena y 180 ml de leche descremada, el frasco completo ronda las 260 kcal; con bebida de almendra sin endulzar, unas 220 kcal. Estas dos cifras totales son aproximadas y dependen de las marcas." },
+    { "type": "p", "text": "Entre la avena y el sobre, un frasco reúne cerca de 9 g de fibra. Si no estás acostumbrado a tanta, empieza con media porción y acompaña con suficiente agua durante el día; en la página sobre [fibra y digestión](/que-es-matcha-pep-t/fibra-y-digestion/) hay más recomendaciones." },
+    { "type": "p", "text": "No confundas esta receta con el [Matcha Pep-T con leche de avena](/como-preparar-matcha-pep-t/latte-con-avena/), que es una bebida y no un desayuno para comer con cuchara. Para tener sobres a mano toda la semana, visita la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/): el doypack cuesta S/ 158.00, unos S/ 11.29 por sobre. La [guía para preparar Matcha Pep-T](/como-preparar-matcha-pep-t/) reúne el resto de recetas." }
+  ],
+  "faqs": [
+    { "q": "¿Se pueden calentar los overnight oats?", "a": "Puedes entibiarlos unos segundos en el microondas si no te gusta comer frío, pero sin llevarlos a hervor. La receta está pensada para comerse fría, y es así como mejor se mantiene la textura." },
+    { "q": "¿Funciona con agua en vez de leche?", "a": "Sí, aunque queda menos cremosa. Una buena salida intermedia es usar mitad agua y mitad leche o bebida vegetal, o sumar las dos cucharadas de yogur." },
+    { "q": "¿Sirve si soy intolerante a la lactosa?", "a": "Puedes usar bebida vegetal o leche deslactosada para el remojo. En cuanto al sobre, revisa la lista de ingredientes y las advertencias de alérgenos del envase antes de consumirlo." },
+    { "q": "¿Es un desayuno completo?", "a": "Con avena, leche y fruta se acerca bastante a un desayuno práctico. Si necesitas más proteína, puedes acompañarlo con un huevo duro o un poco más de yogur." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central (composición de alimentos)", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "Instituto Nacional de Salud del Perú", "url": "https://www.ins.gob.pe/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/pudin-de-chia/",
+    "/como-preparar-matcha-pep-t/latte-con-avena/",
+    "/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/",
+    "/que-es-matcha-pep-t/fibra-y-digestion/"
+  ]
+}

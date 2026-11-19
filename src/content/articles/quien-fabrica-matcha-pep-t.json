@@ -1,0 +1,75 @@
+{
+  "slug": "quien-fabrica-matcha-pep-t",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/quien-fabrica-matcha-pep-t/",
+  "isPillar": false,
+  "primaryKeyword": "quién fabrica Matcha Pep-T",
+  "title": "¿Quién fabrica Matcha Pep-T? FuXion, Rousselot y el distribuidor",
+  "seoTitle": "Quién fabrica Matcha Pep-T: FuXion, Nextida y distribuidor",
+  "metaDescription": "Quién fabrica Matcha Pep-T: la marca peruana FuXion, Rousselot como proveedor de Nextida GC y el papel real del distribuidor independiente que te lo vende.",
+  "excerpt": "Detrás de cada sobre hay tres actores con funciones distintas: la marca FuXion, el proveedor del ingrediente Nextida GC y el distribuidor que te atiende. Aquí te explicamos quién hace qué.",
+  "quickAnswer": "¿Quién fabrica Matcha Pep-T? La marca responsable es FuXion, empresa de origen peruano dedicada a bebidas funcionales y con presencia en varios países. Su primer ingrediente, los péptidos de colágeno Nextida® GC, lo produce Rousselot. Y en Perú llega a tus manos a través de distribuidores independientes autorizados, que venden por la tienda oficial.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A light wood table in a bright Lima home office with a glass of creamy green matcha latte, a small ceramic bowl of matcha powder, a notebook with handwritten notes and a pen, soft overcast morning light through a window, minimal style, no packaging, no text, no logos, no people",
+    "alt": "Vaso de matcha latte verde junto a un cuenco de matcha en polvo y una libreta con apuntes sobre una mesa de madera clara"
+  },
+  "blocks": [
+    { "type": "p", "text": "Volteas el doypack y aparecen varios nombres: **FuXion** en el frente, **Nextida® GC** en la lista de ingredientes y, si lo compraste por recomendación, el nombre de la persona que te pasó el enlace. Es normal preguntarse quién está realmente detrás del producto y a quién recurrir si algo sale mal." },
+    { "type": "p", "text": "La respuesta tiene tres capas, y cada una cumple un papel distinto. Si todavía no tienes claro qué contiene la bebida, empieza por la guía de [qué es Matcha Pep-T y para qué sirve](/que-es-matcha-pep-t/); aquí nos enfocamos solo en quién la hace y quién la vende." },
+    { "type": "h2", "text": "Quién fabrica Matcha Pep-T: el mapa en tres actores" },
+    { "type": "table", "caption": "Quién hace qué en la cadena de Matcha Pep-T", "headers": ["Actor", "Qué hace", "Qué no hace"], "rows": [
+      ["FuXion", "Dueña de la marca y de la fórmula; responde por el producto terminado, su etiqueta y su registro sanitario", "No produce el colágeno Nextida GC; lo compra a su proveedor"],
+      ["Rousselot", "Desarrolla y produce Nextida® GC, el colágeno específico que va en la fórmula", "No elabora ni vende Matcha Pep-T al consumidor"],
+      ["Distribuidor independiente", "Orienta, resuelve dudas y te dirige a la tienda oficial para comprar", "No fabrica, no reenvasa y no es FuXion"]
+    ] },
+    { "type": "h2", "text": "FuXion: una empresa peruana de bebidas funcionales" },
+    { "type": "p", "text": "FuXion nació en Perú y se ha hecho conocida por un formato muy concreto: **sobres individuales de polvo** que se disuelven en agua para preparar bebidas con ingredientes funcionales. Con los años amplió su presencia a varios países de América Latina y otros mercados, y opera bajo un modelo de venta directa a través de una red de distribuidores." },
+    { "type": "p", "text": "Matcha Pep-T forma parte de la Línea Energía y Vitalidad del catálogo FuXion Perú. Es FuXion quien define la fórmula (colágeno hidrolizado, fibra de maíz, crema de coco, matcha con chía, isomaltulosa, cromo y demás), quien decide la porción de 1 sobre de 15 g en 180 ml de agua y quien firma la etiqueta con la tabla nutricional." },
+    { "type": "p", "text": "Si quieres ver el resto de la oferta de la marca, puedes revisar el [catálogo completo de FuXion](https://fuxion.site/). En este sitio, en cambio, solo hablamos de Matcha Pep-T." },
+    { "type": "h3", "text": "¿Y dónde se elabora físicamente cada sobre?" },
+    { "type": "p", "text": "Es habitual que las marcas de alimentos funcionales trabajen con plantas propias o con fabricantes contratados bajo sus especificaciones. El dato preciso no hay que suponerlo: el nombre del fabricante, su dirección y el **registro sanitario** figuran impresos en el envase. Te explicamos cómo leerlos en la guía sobre [el registro sanitario DIGESA de Matcha Pep-T](/opiniones-matcha-pep-t/registro-sanitario/)." },
+    { "type": "h2", "text": "Rousselot, el proveedor del colágeno Nextida GC" },
+    { "type": "p", "text": "El primer ingrediente de la lista es el colágeno hidrolizado en forma de **péptidos Nextida® GC**. Ese ingrediente no lo produce FuXion: lo desarrolla Rousselot, empresa especializada en colágeno y gelatina que pertenece al grupo Darling Ingredients y abastece a fabricantes de alimentos y suplementos en todo el mundo." },
+    { "type": "p", "text": "Las siglas GC vienen de *glucose control*. Rousselot diseñó esta composición de péptidos para estudiar su efecto sobre la glucosa después de comer, a diferencia del colágeno genérico que suele asociarse a piel o articulaciones. Si quieres el detalle técnico, revisa [qué es Nextida GC y por qué está en la fórmula](/ingredientes-matcha-pep-t/nextida-gc-que-es/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica el proveedor del ingrediente", "text": "En estudios del fabricante del ingrediente (Rousselot), con dosis de 5–10 g de Nextida GC aislado tomadas unos 30 minutos antes de comer, se observó un menor pico de glucosa posprandial y mayor liberación de GLP-1 y GIP. Son resultados del ingrediente solo, no de Matcha Pep-T, y la cantidad de Nextida GC por sobre no está declarada en la etiqueta (la proteína total es 4.7 g por porción)." },
+    { "type": "p", "text": "Algo parecido ocurre con la isomaltulosa, que en la etiqueta aparece como Palatinose™: el símbolo de marca indica que se trata de un ingrediente con nombre comercial, elaborado por un proveedor especializado. Es común que una bebida funcional combine insumos de distintos fabricantes; lo que la convierte en un producto es la fórmula final de la marca." },
+    { "type": "cta", "text": "¿Ya sabes quién está detrás y quieres probarlo? Revisa el precio oficial de S/ 158.00 por doypack de 14 sobres." },
+    { "type": "h2", "text": "El rol del distribuidor independiente" },
+    { "type": "p", "text": "FuXion vende a través de personas y negocios registrados como distribuidores. Este sitio lo administra **CARLOS EDEN LINGAN BORJA**, distribuidor autorizado independiente con base en Lima. No es la web oficial de FuXion ni habla en nombre de la empresa; puedes conocer más en [la página del distribuidor](/sobre-el-distribuidor/)." },
+    { "type": "p", "text": "En la práctica, el distribuidor cumple estas funciones:" },
+    { "type": "ul", "items": [
+      "**Orientar** sobre cómo prepararlo, cuándo tomarlo y qué esperar, con base en la etiqueta y no en promesas.",
+      "**Dirigirte a la tienda oficial** de FuXion, donde se realiza el pago y se gestiona el envío, a un precio de referencia de S/ 158.00 (S/ 11.29 por sobre).",
+      "**Acompañar después de la compra**: dudas sobre el pedido, conservación de los sobres o cómo leer el lote y el vencimiento.",
+      "**No manipular el producto**: un distribuidor serio no abre doypacks, no vende sobres sueltos reenvasados y no modifica la etiqueta."
+    ] },
+    { "type": "p", "text": "Comprar por este canal no cambia quién responde por la calidad: el producto sigue siendo de FuXion. Lo que cambia es que tienes a alguien en Perú, con nombre y apellido, a quien escribir. Los pasos para pedirlo están en [cómo comprar Matcha Pep-T en la tienda oficial](/comprar-matcha-pep-t/)." },
+    { "type": "h2", "text": "Por qué importa saber quién está detrás" },
+    { "type": "p", "text": "Con productos que se viralizan, aparecen revendedores en redes y marketplaces con precios que no cuadran. Conocer la cadena real te ayuda a detectar cuándo algo no encaja. Antes de comprar o de abrir un doypack, verifica:" },
+    { "type": "ol", "items": [
+      "Que la marca impresa sea FuXion y que la lista de ingredientes empiece por colágeno hidrolizado (Nextida® GC).",
+      "Que el envase muestre registro sanitario, lote y fecha de vencimiento legibles.",
+      "Que la tabla nutricional indique 46 kcal, 4.7 g de proteína, 4.9 g de fibra y 0.9 g de azúcares añadidos por porción.",
+      "Que el vendedor pueda decirte claramente a través de qué tienda se factura la compra."
+    ] },
+    { "type": "p", "text": "Si alguno de estos puntos falla, conviene revisar las [señales de un Matcha Pep-T original frente a uno falsificado](/precio-matcha-pep-t-peru/original-vs-falsificado/) antes de seguir." }
+  ],
+  "faqs": [
+    { "q": "¿FuXion y Rousselot son la misma empresa?", "a": "No. FuXion es la marca que formula y comercializa Matcha Pep-T. Rousselot es un proveedor global de ingredientes de colágeno que produce Nextida GC y lo vende a fabricantes, no al público." },
+    { "q": "¿Matcha Pep-T es un producto importado?", "a": "La marca es de origen peruano, mientras que algunos ingredientes, como Nextida GC, provienen de proveedores internacionales. El lugar exacto de elaboración y el fabricante figuran en el envase junto al registro sanitario." },
+    { "q": "¿Pagar a través de un distribuidor sale más caro?", "a": "La compra se hace en la tienda oficial de FuXion, con un precio de referencia de S/ 158.00 por 14 sobres, es decir, S/ 11.29 por sobre. El distribuidor orienta, pero no fija un precio distinto." },
+    { "q": "¿A quién reclamo si el producto llega dañado?", "a": "Primero escribe a la persona o tienda por la que compraste y guarda tu comprobante y fotos del envase. Si el problema es del producto en sí, el caso se canaliza con FuXion como titular de la marca." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "Darling Ingredients", "url": "https://www.darlingii.com/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/nextida-gc-que-es/",
+    "/precio-matcha-pep-t-peru/donde-comprar-original-en-lima/",
+    "/opiniones-matcha-pep-t/registro-sanitario/",
+    "/que-es-matcha-pep-t/novedades-y-lanzamiento/"
+  ]
+}

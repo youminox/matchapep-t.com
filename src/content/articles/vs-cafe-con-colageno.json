@@ -1,0 +1,76 @@
+{
+  "slug": "vs-cafe-con-colageno",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/vs-cafe-con-colageno/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs café con colágeno",
+  "title": "Matcha Pep-T vs café con colágeno: diferencias que sí importan",
+  "seoTitle": "Matcha Pep-T vs café con colágeno: comparativa honesta",
+  "metaDescription": "Matcha Pep-T vs café con colágeno: comparamos tipo de colágeno, fibra, cafeína, calorías y precio por porción para elegir según tu objetivo y rutina.",
+  "excerpt": "Los dos prometen una taza con colágeno, pero no persiguen lo mismo. Comparamos un café con colágeno genérico con Matcha Pep-T: qué colágeno lleva cada uno, qué más aporta y para quién tiene sentido.",
+  "quickAnswer": "Matcha Pep-T vs café con colágeno es una comparación entre dos bebidas con objetivos distintos. El café con colágeno genérico suele combinar café y colágeno hidrolizado pensado para piel o articulaciones. Matcha Pep-T usa péptidos Nextida GC, desarrollados para el control de la glucosa, y suma 4.9 g de fibra, 4.7 g de proteína y cromo en 46 kcal.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A cup of dark brewed coffee and a glass of pale green matcha latte side by side on a marble cafe counter in Barranco, Lima, warm afternoon light, a few coffee beans and a small spoon nearby, no packaging, no text, no logos, no people",
+    "alt": "Taza de café oscuro y vaso de matcha latte verde claro lado a lado sobre una barra de mármol"
+  },
+  "blocks": [
+    { "type": "p", "text": "Basta con recorrer el pasillo de bebidas de cualquier supermercado de Lima para notarlo: el colágeno ya no se vende solo en pote. Ahora aparece en sobrecitos de café instantáneo, en mezclas 3 en 1 y hasta en cafeterías de Barranco que lo ofrecen como «extra» en el americano." },
+    { "type": "p", "text": "Matcha Pep-T también lleva colágeno, y por eso es fácil meterlos en la misma bolsa. Sin embargo, cuando se lee la etiqueta con calma, aparecen diferencias de fondo: qué colágeno, para qué, y qué más viene en la taza." },
+    { "type": "h2", "text": "Qué es exactamente un café con colágeno" },
+    { "type": "p", "text": "Bajo ese nombre se venden productos muy distintos, así que conviene hablar en términos generales. La mayoría combina café instantáneo o molido con **colágeno hidrolizado** de origen bovino o marino. Algunas versiones son solo eso; otras añaden cremador, azúcar, aceite MCT, cacao o vitaminas." },
+    { "type": "p", "text": "El colágeno de estos productos suele comunicarse con un enfoque de belleza o movilidad: piel, cabello, uñas, articulaciones. La cantidad por porción varía mucho entre marcas, y no siempre se declara con claridad cuánto colágeno hay frente a cuánto café o cremador." },
+    { "type": "p", "text": "También existe la versión casera: tu café pasado de siempre, de Chanchamayo o de Villa Rica, con una cucharada de colágeno en polvo. Para ese caso, la comparación de fondo es la de [Matcha Pep-T frente al colágeno en polvo](/ciencia-matcha-pep-t/vs-colageno-en-polvo/)." },
+    { "type": "h2", "text": "Matcha Pep-T vs café con colágeno: tabla comparativa" },
+    { "type": "p", "text": "Los datos de Matcha Pep-T salen de su etiqueta, por porción de 1 sobre (15 g) en 180 ml de agua. Los del café con colágeno son orientativos, porque dependen de cada marca: revisa siempre el envase concreto." },
+    { "type": "table", "caption": "Comparativa por porción: café con colágeno genérico frente a Matcha Pep-T", "headers": ["Aspecto", "Café con colágeno genérico", "Matcha Pep-T"], "rows": [
+      ["Base de la bebida", "Café instantáneo o molido", "Matcha latte con crema de coco"],
+      ["Tipo de colágeno", "Colágeno hidrolizado genérico", "Péptidos específicos Nextida GC (Rousselot)"],
+      ["Cantidad de colágeno", "Variable según la marca", "No declarada; proteína total 4.7 g"],
+      ["Fibra", "Normalmente nula o escasa", "4.9 g (18 % VD)"],
+      ["Calorías", "De casi nada a bastante más si lleva cremador y azúcar", "46 kcal"],
+      ["Azúcares añadidos", "Desde nada hasta cantidades notables en versiones 3 en 1", "0.9 g; endulzado sobre todo con estevia"],
+      ["Cafeína", "La del café, en general notoria", "Natural del matcha, cantidad no declarada"],
+      ["Cromo", "Poco frecuente", "14.9 µg (45 % VD)"],
+      ["Precio por porción", "Variable; divide precio entre porciones", "S/ 11.29 (S/ 158.00 por 14 sobres)"]
+    ] },
+    { "type": "h2", "text": "La diferencia de fondo: qué colágeno y para qué" },
+    { "type": "p", "text": "Todo el colágeno hidrolizado está hecho de péptidos, pero no todos los péptidos son iguales. El tamaño y la secuencia dependen de la materia prima y del proceso de hidrólisis, y eso puede cambiar lo que hacen en el cuerpo." },
+    { "type": "p", "text": "Nextida GC es una composición específica de péptidos que Rousselot desarrolló con un objetivo concreto: apoyar el control de la glucosa, de ahí las siglas GC. Te contamos su origen y por qué forma parte de la fórmula en [qué es Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-que-es/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica el fabricante del ingrediente", "text": "En estudios de Rousselot (preclínicos y pilotos en humanos), tomar 5 a 10 g de Nextida GC aislado unos 30 minutos antes de comer se asoció a un menor pico de glucosa posprandial y a mayor liberación de GLP-1 y GIP. Son resultados del ingrediente aislado, no del producto, y la cantidad de Nextida GC por sobre no está declarada." },
+    { "type": "p", "text": "Un café con colágeno genérico no persigue ese objetivo. Eso no lo hace mejor ni peor: simplemente responde a otra necesidad." },
+    { "type": "cta", "text": "¿Te interesa el enfoque de saciedad y glucosa? Mira el precio y la presentación de 14 sobres de Matcha Pep-T." },
+    { "type": "h2", "text": "Cafeína, estómago y momento del día" },
+    { "type": "p", "text": "Si lo que buscas es el golpe de energía para arrancar a las 6 de la mañana, el café es directo y predecible. El matcha también contiene cafeína de forma natural, pero la etiqueta de Matcha Pep-T no indica cuánta; lo explicamos en detalle en [si Matcha Pep-T tiene cafeína](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "p", "text": "Hay otro matiz práctico: la lógica de Matcha Pep-T está en tomarlo antes de una comida principal, como el almuerzo o la cena temprana, mientras que el café con colágeno suele acompañar el desayuno o la sobremesa. Si tu estómago se resiente con el café en ayunas, un latte con fibra y proteína puede sentarte mejor, aunque cada persona es distinta." },
+    { "type": "h2", "text": "¿Cuál elegir según tu objetivo?" },
+    { "type": "h3", "text": "Un café con colágeno tiene más sentido si..." },
+    { "type": "ul", "items": [
+      "No quieres renunciar al sabor del café y buscas sumar colágeno a ese ritual.",
+      "Tu interés principal es el colágeno con enfoque en piel o articulaciones.",
+      "Prefieres controlar tú la dosis de colágeno, por ejemplo con la versión casera."
+    ] },
+    { "type": "h3", "text": "Matcha Pep-T encaja mejor si..." },
+    { "type": "ul", "items": [
+      "Buscas una bebida de pocas calorías que te ayude a llegar con menos hambre al almuerzo.",
+      "Valoras la fibra (4.9 g) y el cromo además de la proteína.",
+      "Te interesa el enfoque de los péptidos Nextida GC sobre glucosa y saciedad, entendiendo que la evidencia es del ingrediente.",
+      "Quieres alternar con el café o reducirlo, y te gusta el sabor a matcha latte."
+    ] },
+    { "type": "p", "text": "Si te preguntas cómo queda Matcha Pep-T frente a un café sin colágeno, tenemos una comparativa aparte de [Matcha Pep-T vs café](/ciencia-matcha-pep-t/vs-cafe/)." },
+    { "type": "callout", "variant": "aviso", "title": "Antes de sumar bebidas con cafeína", "text": "Si estás embarazada o dando de lactar, tienes hipertensión, arritmias, diabetes o tomas medicación, consulta con un profesional de salud. Ninguna de estas bebidas es un medicamento ni reemplaza un tratamiento." },
+    { "type": "p", "text": "En pocas palabras, el café con colágeno es un café enriquecido, mientras que Matcha Pep-T es un matcha latte formulado alrededor de péptidos, fibra y cromo. Para entender el resto de la evidencia, visita la [guía de ciencia de Matcha Pep-T](/ciencia-matcha-pep-t/); si ya decidiste, aquí tienes [dónde comprar Matcha Pep-T original](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo preparar Matcha Pep-T con café en lugar de agua?", "a": "La etiqueta indica disolver 1 sobre en 180 ml de agua, y opcionalmente puedes añadir un chorrito de leche o bebida vegetal. Mezclarlo con café cambia el sabor y suma más cafeína, así que no es la forma recomendada de prepararlo." },
+    { "q": "¿El colágeno pierde sus propiedades en el café caliente?", "a": "El colágeno hidrolizado tolera bien las bebidas calientes de consumo habitual. En el caso de Matcha Pep-T, la indicación es usar agua caliente sin hervir o fría con hielo, sobre todo para cuidar la textura y evitar grumos." },
+    { "q": "¿Cuál aporta más proteína?", "a": "Depende de la marca de café con colágeno. Matcha Pep-T declara 4.7 g de proteína por porción. Compara siempre la línea de proteína de la tabla nutricional de cada producto, no solo la palabra «colágeno» del frente del envase." },
+    { "q": "¿Alguno de los dos es apto para veganos?", "a": "En general no. El colágeno es de origen animal, tanto en los cafés con colágeno como en Matcha Pep-T, cuyo primer ingrediente es colágeno hidrolizado." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "PubMed – Collagen peptides and glucose control (Nextida)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Nextida+collagen+peptide+glucose" },
+    { "label": "PubMed – Hydrolyzed collagen supplementation: systematic reviews", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hydrolyzed+collagen+supplementation+systematic+review" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/vs-colageno-en-polvo/", "/ciencia-matcha-pep-t/vs-cafe/", "/ingredientes-matcha-pep-t/nextida-gc-que-es/", "/ingredientes-matcha-pep-t/tiene-cafeina/"]
+}

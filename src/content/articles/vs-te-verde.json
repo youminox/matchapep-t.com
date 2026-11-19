@@ -1,0 +1,70 @@
+{
+  "slug": "vs-te-verde",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/vs-te-verde/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs té verde",
+  "title": "Matcha Pep-T vs té verde: filtrante, matcha y mezcla funcional",
+  "seoTitle": "Matcha Pep-T vs té verde: diferencias y tabla comparativa",
+  "metaDescription": "Matcha Pep-T vs té verde: compara el filtrante, el matcha en polvo y la mezcla con colágeno en calorías, nutrientes, cafeína y costo por taza en Perú.",
+  "excerpt": "Filtrante de té verde, matcha en polvo y Matcha Pep-T vienen de la misma planta, pero no cumplen el mismo papel. Te mostramos en qué se diferencian y cuándo conviene cada uno.",
+  "quickAnswer": "Matcha Pep-T vs té verde no es una competencia directa: el filtrante es una infusión casi sin calorías, el matcha es la hoja entera molida y Matcha Pep-T es una mezcla instantánea tipo latte que incluye matcha, colágeno Nextida GC, fibra y cromo. Aporta 46 kcal, 4.7 g de proteína y 4.9 g de fibra por porción de 180 ml.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Three different green tea drinks on a light wooden table in a bright Lima apartment kitchen: a clear cup of steeped green tea with a used tea bag on a small saucer, a small ceramic bowl of frothy bright green matcha with a bamboo whisk, and a tall glass of creamy iced green latte, soft overcast morning light, minimal style, no text, no logos, no packaging, no people",
+    "alt": "Taza de té verde de filtrante, cuenco de matcha batido y vaso de latte verde frío sobre una mesa de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "En casi cualquier cocina de oficina de Lima hay una caja de filtrantes de té verde junto al dispensador de agua. Es la opción «saludable» por defecto: no engorda, se prepara en un minuto y acompaña bien una mañana de correos. Por eso, cuando alguien ve un producto llamado Matcha Pep-T, la pregunta aparece sola: ¿no es lo mismo que mi té de siempre, pero más caro?" },
+    { "type": "p", "text": "La respuesta corta es no. Las tres bebidas comparten planta de origen, pero se fabrican de manera distinta, aportan nutrientes distintos y sirven para momentos distintos del día. Vamos por partes." },
+    { "type": "h2", "text": "Una misma planta, tres bebidas muy diferentes" },
+    { "type": "p", "text": "El té verde, el matcha y el té negro salen de la *Camellia sinensis*. Lo que cambia es el cultivo y el procesado. En el **filtrante**, las hojas secas y troceadas se remojan en agua caliente y luego se desechan: bebes solo lo que pasó al agua." },
+    { "type": "p", "text": "El **matcha** se obtiene de hojas que se cultivan bajo sombra durante las últimas semanas antes de la cosecha y que luego se muelen hasta un polvo finísimo. Al batirlo en agua no lo filtras: te tomas la hoja completa. Si quieres conocer a fondo este ingrediente, tenemos una guía sobre el [té matcha dentro de Matcha Pep-T](/ingredientes-matcha-pep-t/te-matcha/)." },
+    { "type": "p", "text": "**Matcha Pep-T** es otra categoría: una mezcla en polvo para preparar un matcha latte instantáneo. El matcha (junto con chía) ocupa el cuarto lugar en la lista de ingredientes, detrás del colágeno hidrolizado Nextida GC, la fibra de maíz y la crema de coco. Es decir, el té aporta sabor y color, pero no es el protagonista nutricional." },
+    { "type": "h2", "text": "Matcha Pep-T vs té verde: tabla comparativa" },
+    { "type": "table", "caption": "Comparación por taza preparada (valores de Matcha Pep-T según su etiqueta; el resto, referencias generales)", "headers": ["Aspecto", "Té verde en filtrante", "Matcha puro", "Matcha Pep-T"], "rows": [
+      ["Qué bebes", "Infusión de hojas que se desechan", "Hoja entera molida, suspendida en agua", "Mezcla tipo latte con matcha, colágeno, fibra y coco"],
+      ["Preparación", "Filtrante en agua caliente 2–3 minutos", "Batir el polvo en agua a unos 70–80 °C", "1 sobre de 15 g en 180 ml de agua fría o caliente"],
+      ["Calorías", "Prácticamente 0 (sin azúcar)", "Muy pocas por taza", "46 kcal"],
+      ["Proteína", "Nula", "Mínima", "4.7 g"],
+      ["Fibra", "Nula", "Mínima", "4.9 g (18 % VD)"],
+      ["Azúcares", "Solo si se los agregas", "Solo si se los agregas", "2.0 g totales, de ellos 0.9 g añadidos"],
+      ["Cafeína", "Presente, en general moderada", "Presente, más concentrada que en la infusión", "Natural del matcha; cantidad no declarada"],
+      ["Sabor", "Herbal, ligero, a veces amargo", "Intenso, vegetal, con notas umami", "Latte cremoso, crema caramelo y coco, con estevia"],
+      ["Costo por taza", "Céntimos", "Depende mucho del grado y la marca", "S/ 11.29 por sobre"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que declara la etiqueta por porción", "text": "1 sobre de 15 g en 180 ml de agua: 46 kcal, 4.7 g de proteína, 7.8 g de carbohidratos, 4.9 g de fibra, 2.0 g de azúcares totales (0.9 g añadidos), 0.6 g de grasa y 14.9 µg de cromo (45 % VD). La cafeína, la L-teanina, las catequinas y la dosis de Nextida GC no están declaradas." },
+    { "type": "h2", "text": "El filtrante de té verde: lo bueno y sus límites" },
+    { "type": "p", "text": "El filtrante tiene virtudes difíciles de igualar: es baratísimo, se consigue en cualquier bodega o supermercado y, sin azúcar, no suma calorías. Para quien quiere tomar algo caliente varias veces al día en invierno, mientras la garúa empaña las ventanas, es una forma sencilla de hidratarse." },
+    { "type": "p", "text": "Sus límites también son claros. No aporta proteína ni fibra, así que no ayuda a sentirte satisfecho entre comidas. Y como bebes solo lo que se extrajo al agua, la cantidad de compuestos de la hoja que recibes es menor que con el matcha. Los organismos de salud describen la evidencia sobre té verde y peso como modesta; no es una bebida que haga el trabajo por ti." },
+    { "type": "h2", "text": "Qué cambia cuando pasas al matcha" },
+    { "type": "p", "text": "Al consumir la hoja entera, el matcha concentra más de todo: más sabor, más cafeína y más catequinas por taza que una infusión común. También contiene L-teanina, un aminoácido que se asocia a un estado de alerta más tranquilo; lo explicamos con detalle en el artículo sobre [la L-teanina del matcha](/ciencia-matcha-pep-t/l-teanina/). Los antioxidantes tienen su propia página sobre [catequinas y EGCG](/ingredientes-matcha-pep-t/catequinas-egcg/)." },
+    { "type": "p", "text": "La contracara es que el matcha puro exige técnica (agua sin hervir, batidor, colador para los grumos) y su sabor intenso no convence a todos. Muchos terminan agregándole leche y azúcar, y ahí la ventaja calórica frente a otras bebidas se diluye." },
+    { "type": "cta", "text": "Si buscas un matcha latte listo en un minuto y con proteína y fibra incluidas, revisa el precio y la presentación de 14 sobres." },
+    { "type": "h2", "text": "Dónde encaja Matcha Pep-T frente al té verde" },
+    { "type": "p", "text": "Matcha Pep-T no pretende ser «un té verde más potente». Su propuesta es funcional: una bebida de 46 kcal que, gracias a la proteína del colágeno y a la fibra, tiene más cuerpo que un té y puede ocupar el lugar de un snack dulce a media tarde. El cromo cubre el 45 % del valor diario." },
+    { "type": "p", "text": "El ingrediente que lo distingue es el colágeno Nextida GC de Rousselot. Según estudios del fabricante del ingrediente con dosis de 5–10 g del ingrediente aislado, tomarlo antes de comer se asoció a una mayor liberación de GLP-1 y a picos de glucosa más bajos. Esos resultados no son del producto terminado ni de un té verde; la explicación completa está en nuestra guía de [Matcha Pep-T y GLP-1](/ciencia-matcha-pep-t/)." },
+    { "type": "h2", "text": "¿Cuál elegir según tu momento del día?" },
+    { "type": "ul", "items": [
+      "**Para tomar líquidos calientes varias veces al día:** el filtrante de té verde gana por precio y por calorías.",
+      "**Para un ritual tranquilo de fin de semana y sabor intenso:** el matcha puro, si te gusta prepararlo con calma.",
+      "**Para la media tarde en la oficina, cuando aparece el hambre o el antojo:** Matcha Pep-T, porque suma proteína, fibra y una textura de latte con muy poca azúcar.",
+      "**Para antes del almuerzo o la cena:** Matcha Pep-T unos 30 minutos antes, siguiendo la lógica de los estudios del ingrediente, sin esperar efectos garantizados."
+    ] },
+    { "type": "p", "text": "No son excluyentes. Puedes tomar un filtrante en la mañana y un Matcha Pep-T a las 5 p. m. Solo recuerda que la cafeína se va sumando entre tés, cafés y gaseosas, aunque en el sobre no figure la cifra." },
+    { "type": "callout", "variant": "aviso", "title": "Si eres sensible a la cafeína o tomas medicación", "text": "Tanto el té verde como el matcha contienen cafeína de forma natural. Si estás embarazada, das de lactar, tienes hipertensión, usas anticoagulantes o medicamentos para la glucosa, consulta con tu médico antes de sumar cualquiera de estas bebidas a tu rutina." },
+    { "type": "p", "text": "Si después de comparar decides probarlo, en nuestra página para [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) encontrarás el precio de S/ 158.00 por doypack de 14 sobres y el enlace a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo preparar Matcha Pep-T con té verde en lugar de agua?", "a": "La etiqueta indica disolver el sobre en 180 ml de agua. Si usas té verde como base, sumarás la cafeína del filtrante a la del matcha y cambiará el sabor. Lo más recomendable es seguir la preparación original." },
+    { "q": "¿Matcha Pep-T sabe igual que un té verde?", "a": "No. Su perfil es de matcha latte: cremoso por la crema de coco, con saborizantes de crema caramelo y leche de coco y endulzado con estevia. Es mucho menos herbal y amargo que un filtrante o un matcha puro." },
+    { "q": "¿Tomar té verde en filtrante ayuda a bajar de peso?", "a": "La evidencia sobre té verde y peso es modesta y depende del conjunto de la alimentación y la actividad física. Un filtrante sin azúcar es una buena bebida para hidratarse, pero no reemplaza un plan de alimentación." },
+    { "q": "¿Cuántos sobres de Matcha Pep-T puedo tomar si también tomo té verde?", "a": "La referencia de la etiqueta es 1 sobre al día, sin exceder lo recomendado. Si además tomas varias tazas de té o café, ten en cuenta la cafeína total y modera la cantidad." }
+  ],
+  "sources": [
+    { "label": "NCCIH (NIH) – Green Tea", "url": "https://www.nccih.nih.gov/health/green-tea" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "EFSA – Scientific opinion on the safety of green tea catechins", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5239" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/vs-matcha-puro/", "/ciencia-matcha-pep-t/vs-cafe/", "/ingredientes-matcha-pep-t/te-matcha/", "/ingredientes-matcha-pep-t/tiene-cafeina/"]
+}

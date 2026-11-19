@@ -1,0 +1,61 @@
+{
+  "slug": "saciedad-control-apetito",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/saciedad-control-apetito/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T saciedad",
+  "title": "Matcha Pep-T y saciedad: cómo usarlo para llegar mejor a la comida",
+  "seoTitle": "Matcha Pep-T saciedad: cuándo tomarlo y cómo ayuda",
+  "metaDescription": "Matcha Pep-T y saciedad: cómo su fibra, proteína y péptidos de colágeno te ayudan a sentirte satisfecho entre comidas y en qué momento del día tomarlo.",
+  "excerpt": "Fibra, proteína y péptidos de colágeno en una bebida de 46 kcal. Te explicamos cómo ayudan a sentirte satisfecho, cuándo tomar el sobre y cómo se ve en un día típico en Lima.",
+  "quickAnswer": "La relación entre Matcha Pep-T y saciedad se apoya en tres elementos de cada sobre: 4.9 g de fibra, 4.7 g de proteína (con péptidos de colágeno Nextida GC) y una textura cremosa, todo en 46 kcal. Tomado unos 20 a 30 minutos antes de la comida en la que sueles excederte, puede ayudarte a llegar con menos hambre. No elimina el apetito.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass of iced matcha latte on an office desk beside a lunch container with quinoa salad and grilled fish, a wall clock showing midday blurred in the background, large window with grey overcast sky of Lima, clean modern office, no people, no packaging, no text, no logos",
+    "alt": "Vaso de matcha latte helado sobre un escritorio de oficina junto a un táper con ensalada de quinua y pescado a la plancha"
+  },
+  "blocks": [
+    { "type": "p", "text": "Almuerzas a la una, sales de la oficina a las seis y media, y entre el tráfico de la Javier Prado y la cola del Metropolitano cenas pasadas las nueve. Son más de ocho horas entre comidas, y es normal que en ese hueco aparezcan la bolsa de chifles, el pan con chicharrón improvisado o la cena doble." },
+    { "type": "p", "text": "Ese tipo de vacío es justamente donde una bebida pensada para la saciedad puede ser útil. En esta guía vemos qué tiene **Matcha Pep-T** que influye en sentirse satisfecho, cuándo tomarlo y cómo encajarlo en un día real. Si buscas la visión general del producto, está en [qué es Matcha Pep-T](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "Saciedad no es estar lleno" },
+    { "type": "p", "text": "Conviene separar dos sensaciones. **Estar lleno** es la sensación física del estómago con volumen, y pasa rápido. **Estar satisfecho** es lo que dura entre una comida y la siguiente: no piensas en comer, no te distrae el olor de la panadería. Para controlar el apetito interesa más lo segundo." },
+    { "type": "p", "text": "La saciedad depende de muchas cosas: cuánta proteína y fibra trae lo que comes, cuánto dormiste, tu nivel de estrés y hasta si comiste mirando el celular. Una bebida no controla todas esas variables, pero sí puede sumar en la parte nutricional." },
+    { "type": "h2", "text": "Los tres componentes que influyen en la saciedad con Matcha Pep-T" },
+    { "type": "h3", "text": "Fibra: 4.9 g por sobre" },
+    { "type": "p", "text": "La fibra de maíz y la chía aportan juntas parte de los 4.9 g de fibra de cada porción, el 18 % del valor diario. La fibra da cuerpo a la bebida, ralentiza el paso de los alimentos y es uno de los nutrientes que más se asocia con sentirse satisfecho. Funciona mejor si durante el día tomas suficiente agua." },
+    { "type": "h3", "text": "Proteína: 4.7 g por sobre" },
+    { "type": "p", "text": "El primer ingrediente de la lista es colágeno hidrolizado. La proteína es, entre los macronutrientes, la que más suele prolongar la sensación de saciedad. Los 4.7 g son un aporte moderado, pensado para un snack, no para reemplazar la proteína de tus comidas. Si quieres ponerlo en perspectiva, revisa [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/)." },
+    { "type": "h3", "text": "Péptidos Nextida GC" },
+    { "type": "p", "text": "Parte de esa proteína corresponde a Nextida GC, un péptido de colágeno específico de Rousselot. Su interés está en lo que el fabricante del ingrediente ha estudiado sobre la respuesta del cuerpo después de comer." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que dicen los estudios del fabricante del ingrediente", "text": "En estudios de Rousselot con 5 a 10 g del ingrediente aislado, tomado unos 30 minutos antes de comer, se observó mayor liberación de GLP-1 y un vaciamiento gástrico más lento en personas con prediabetes. Son resultados del ingrediente, no de Matcha Pep-T, y la dosis por sobre no está declarada." },
+    { "type": "p", "text": "Cómo intervienen la GLP-1, la grelina o la leptina en el hambre es un tema aparte, que desarrollamos en [hormonas de la saciedad](/ciencia-matcha-pep-t/hormonas-de-la-saciedad/). Aquí nos quedamos con lo práctico." },
+    { "type": "h2", "text": "¿Cuándo tomar Matcha Pep-T para la saciedad?" },
+    { "type": "p", "text": "La regla más útil es simple: tómalo **antes** del momento en que sueles perder el control, no después. Estas son las opciones más prácticas:" },
+    { "type": "table", "caption": "Momentos de toma según tu objetivo", "headers": ["Momento", "Para qué sirve", "Ten en cuenta"], "rows": [["20–30 min antes del almuerzo", "Llegar al menú con menos hambre y servirte una porción razonable", "Prepáralo antes de salir a comer, no en la mesa"], ["Media tarde (16:00–17:30)", "Cubrir el hueco largo hasta la cena", "Si eres sensible a la cafeína, evita tomarlo muy tarde"], ["20–30 min antes de la cena", "Evitar picar mientras cocinas o llegar con ansiedad", "Útil si cenas tarde por el tráfico"], ["Media mañana", "Reemplazar el snack de quiosco", "Si desayunas muy temprano, es el hueco más largo"]] },
+    { "type": "p", "text": "Elige **un** momento y mantenlo varios días seguidos para evaluar si te funciona. Para afinar el horario según tu rutina, revisa [a qué hora tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "cta", "text": "Si el hueco entre comidas es tu punto débil, revisa el precio y pide tu doypack de 14 sobres." },
+    { "type": "h2", "text": "Un día típico en Lima con Matcha Pep-T" },
+    { "type": "p", "text": "Este ejemplo es solo una referencia para alguien que trabaja en una oficina de San Isidro y vive en Los Olivos. Ajusta horarios y comidas a tu realidad." },
+    { "type": "ul", "items": ["**6:15 a.m.** Desayuno en casa antes de salir: pan integral con huevo y palta, y un té o café.", "**10:30 a.m.** Fruta de estación del mercado: una mandarina o un plátano.", "**1:00 p.m.** Menú: entrada de sopa o ensalada, segundo con proteína, y la mitad del arroz habitual.", "**5:45 p.m.** Antes de salir, un sobre de Matcha Pep-T frío con agua del dispensador y hielo. Es el puente para las dos horas de trayecto.", "**8:45 p.m.** Cena tranquila: algo de proteína con verduras, sin llegar desesperado.", "**Todo el día:** agua a mano, sobre todo si es verano."] },
+    { "type": "p", "text": "Si trabajas desde casa en Surco y almuerzas tarde, cambia el orden: el sobre puede ir a media mañana, cuando el olor de la cocina tienta a picar mucho antes de la hora de almuerzo." },
+    { "type": "h2", "text": "Señales de que lo estás usando bien" },
+    { "type": "ul", "items": ["Llegas a la comida con hambre normal, no con urgencia.", "Te sirves una porción y no sientes necesidad de repetir.", "Disminuyen los snacks improvisados de la tarde.", "No lo usas para saltarte comidas: si eso pasa, el apetito suele volver con más fuerza horas después."] },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar", "text": "Si tienes hambre intensa constante, cambios bruscos de apetito, diabetes o tomas medicación que afecta la glucosa, consulta a tu médico antes de cambiar horarios de comida o añadir un suplemento." }
+  ],
+  "faqs": [
+    { "q": "¿Sacia más frío o caliente?", "a": "No hay datos que muestren diferencias de saciedad entre la versión fría y la caliente. Elige la que disfrutes más: en invierno húmedo muchos prefieren la caliente, sin hervir el agua, y en verano la versión con hielo." },
+    { "q": "¿Puedo añadirle avena o chía para que sacie más?", "a": "Sí, puedes integrarlo en una preparación con avena o chía, pero cada ingrediente suma calorías. Si lo haces, trátalo como un snack más completo y no como una bebida ligera." },
+    { "q": "¿Me quitará el hambre por completo?", "a": "No, y no debería. El objetivo es llegar a la siguiente comida con un hambre manejable, no eliminar el apetito. Si sientes que ya no comes lo suficiente, revisa tu plan con un nutricionista." },
+    { "q": "¿Sirve si hago ayuno intermitente?", "a": "Con 46 kcal y proteína, rompe el ayuno estricto. Si sigues ese esquema, conviene tomarlo dentro de tu ventana de alimentación. Lo explicamos en [si Matcha Pep-T rompe el ayuno](/opiniones-matcha-pep-t/rompe-el-ayuno/). Para pedirlo, entra a [comprar Matcha Pep-T](/comprar-matcha-pep-t/)." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet" }
+  ],
+  "related": [
+    "/que-es-matcha-pep-t/para-bajar-de-peso/",
+    "/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/",
+    "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/",
+    "/que-es-matcha-pep-t/ansiedad-por-dulce-en-la-tarde/"
+  ]
+}

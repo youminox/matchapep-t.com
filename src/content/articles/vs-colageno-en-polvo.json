@@ -1,0 +1,66 @@
+{
+  "slug": "vs-colageno-en-polvo",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/vs-colageno-en-polvo/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T vs colágeno en polvo",
+  "title": "Matcha Pep-T vs colágeno en polvo: mismo origen, distinto propósito",
+  "seoTitle": "Matcha Pep-T vs colágeno en polvo: diferencias reales",
+  "metaDescription": "Matcha Pep-T vs colágeno en polvo: por qué 10 g de colágeno genérico y el colágeno Nextida GC no cumplen la misma función, y cuándo tiene sentido cada uno.",
+  "excerpt": "Ambos contienen colágeno hidrolizado, pero no buscan lo mismo. Explicamos la diferencia entre un tarro de colágeno genérico y los péptidos específicos Nextida GC de Matcha Pep-T.",
+  "quickAnswer": "Matcha Pep-T vs colágeno en polvo: el colágeno genérico suele tomarse en dosis de unos 10 g y se asocia sobre todo a piel y articulaciones; Matcha Pep-T usa Nextida GC, una composición de péptidos desarrollada por Rousselot para el control de la glucosa, dentro de una bebida de 46 kcal con 4.7 g de proteína y 4.9 g de fibra.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A plain unlabeled glass jar of white powder with a measuring scoop next to a tall glass of pale green creamy latte on a white marble kitchen counter, a small bowl of chia seeds nearby, soft natural window light from a Lima apartment, clean minimal style, no text, no logos, no packaging, no people",
+    "alt": "Frasco sin etiqueta con polvo blanco y medidor junto a un vaso de matcha latte y semillas de chía en la cocina"
+  },
+  "blocks": [
+    { "type": "p", "text": "«Si ya tomo colágeno todas las mañanas, ¿para qué quiero otro producto con colágeno?». Es una de las dudas más razonables que puede tener alguien que ve Matcha Pep-T por primera vez. El tarro de colágeno en polvo se volvió un básico en muchas casas peruanas: una cucharada en el café, en el jugo o en la avena del desayuno." },
+    { "type": "p", "text": "La palabra «colágeno» engaña un poco, porque agrupa productos con objetivos muy diferentes. Comparar ambos solo por la etiqueta frontal es como comparar dos panes por su harina: el resultado depende de la receta y de para qué se hizo." },
+    { "type": "h2", "text": "Dos productos con colágeno, dos objetivos distintos" },
+    { "type": "p", "text": "El **colágeno en polvo genérico** es colágeno hidrolizado de origen animal (bovino, porcino o marino, según la marca), sin sabor o saborizado, que se vende en tarros con medidor. La porción típica ronda los 10 g al día y su marketing suele apuntar a la piel, el cabello, las uñas o las articulaciones." },
+    { "type": "p", "text": "**Matcha Pep-T** no es un suplemento de colágeno, sino una mezcla para preparar un matcha latte instantáneo. Su primer ingrediente es colágeno hidrolizado, pero de un tipo concreto: **Nextida GC**, una composición específica de péptidos desarrollada por Rousselot con el objetivo de apoyar el control de la glucosa (de ahí las siglas GC, *glucose control*). Lo explicamos en detalle en [qué es Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-que-es/)." },
+    { "type": "h2", "text": "Matcha Pep-T vs colágeno en polvo: comparación directa" },
+    { "type": "table", "caption": "Colágeno genérico (porción típica) frente a 1 sobre de Matcha Pep-T", "headers": ["Aspecto", "Colágeno en polvo genérico", "Matcha Pep-T"], "rows": [
+      ["Formato", "Tarro con medidor, ingrediente casi único", "Sobres de 15 g con fórmula completa tipo latte"],
+      ["Porción habitual", "Alrededor de 10 g", "1 sobre en 180 ml de agua"],
+      ["Tipo de colágeno", "Hidrolizado estándar", "Péptidos específicos Nextida GC (Rousselot)"],
+      ["Propósito comunicado", "Piel, cabello, articulaciones", "Saciedad y apoyo al control de la glucosa (según el fabricante del ingrediente)"],
+      ["Proteína por porción", "Cerca de 9 g, según la marca", "4.7 g de proteína total"],
+      ["Fibra", "Ninguna, salvo que se añada", "4.9 g (18 % VD)"],
+      ["Otros nutrientes", "Según marca (a veces vitamina C)", "Cromo 14.9 µg (45 % VD), matcha y chía"],
+      ["Sabor", "Neutro o saborizado", "Matcha latte con coco y estevia"],
+      ["Uso típico", "Mezclado en cualquier bebida o comida", "Bebida propia, idealmente antes de una comida o a media tarde"]
+    ] },
+    { "type": "h2", "text": "Qué tiene de particular Nextida GC" },
+    { "type": "p", "text": "Todo colágeno hidrolizado es una mezcla de péptidos, pero la longitud y la secuencia de esos péptidos cambian según la materia prima y el proceso de hidrólisis. Rousselot afirma haber seleccionado una composición concreta que, en sus estudios, mostró efectos que no se atribuyen al colágeno en general. Si te interesa el concepto, tenemos una explicación de los [péptidos bioactivos](/ciencia-matcha-pep-t/peptidos-bioactivos/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica Rousselot sobre Nextida GC", "text": "En estudios del fabricante del ingrediente (preclínicos en ratones y pilotos en personas sanas y con prediabetes), tomar 5–10 g de Nextida GC aislado unos 30 minutos antes de comer se asoció a una mayor liberación de GLP-1 y GIP y a picos de glucosa más bajos. Son resultados del ingrediente aislado, no de Matcha Pep-T." },
+    { "type": "h2", "text": "La cuenta de los gramos: por qué no son intercambiables" },
+    { "type": "p", "text": "Aquí está el punto que muchos pasan por alto. Una cucharada de colágeno genérico aporta más proteína (unos 9 g) que un sobre de Matcha Pep-T (4.7 g de proteína total). Pero más gramos de colágeno estándar no equivalen a los efectos descritos para Nextida GC, porque esos efectos dependen de la composición específica de péptidos." },
+    { "type": "p", "text": "Al revés también hay que ser honestos: la etiqueta de Matcha Pep-T no declara cuántos gramos de Nextida GC contiene cada sobre. Como la proteína total es 4.7 g, no conviene asumir que una porción reproduce exactamente las dosis de 5 o 10 g de los estudios. Lo correcto es verlo como una bebida que incorpora ese ingrediente, no como una dosis clínica." },
+    { "type": "cta", "text": "¿Te interesa una bebida con Nextida GC, fibra y cromo en un solo sobre? Revisa precio y presentación." },
+    { "type": "h2", "text": "¿Se pueden tomar juntos?" },
+    { "type": "p", "text": "En personas sanas no hay una razón evidente para que no convivan: uno puede ir en el café del desayuno y el otro antes del almuerzo o a media tarde. Ten en cuenta que ambos aportan proteína de colágeno, que es incompleta (no contiene triptófano), así que ninguno reemplaza las proteínas de tus comidas: huevo, pescado, pollo, menestras o lácteos. Lo ampliamos en [cuánta proteína aporta Matcha Pep-T](/ingredientes-matcha-pep-t/cuanta-proteina-aporta/)." },
+    { "type": "p", "text": "Si tienes enfermedad renal, sigues una dieta con proteína controlada o tomas medicamentos para la glucosa, consulta con tu médico o nutricionista antes de sumar ambos productos." },
+    { "type": "h2", "text": "Cómo decidir según lo que buscas" },
+    { "type": "ul", "items": [
+      "**Si tu objetivo principal es la piel o las articulaciones** y ya tienes el hábito del tarro, el colágeno genérico está diseñado para eso. Sobre lo que puede o no hacer el colágeno de Matcha Pep-T en la piel, revisa [colágeno y piel](/que-es-matcha-pep-t/colageno-y-piel/).",
+      "**Si quieres una bebida que ayude a llegar con menos hambre a la comida** y te guste el matcha latte, Matcha Pep-T tiene más sentido por su fibra y su enfoque en saciedad.",
+      "**Si te importa el respaldo del ingrediente**, recuerda que los estudios de Nextida GC son del fabricante y con el ingrediente aislado; los del colágeno genérico varían muchísimo según la marca.",
+      "**Si sigues una dieta vegana**, ninguno de los dos es para ti: ambos contienen colágeno de origen animal."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "No es un medicamento", "text": "Ni el colágeno genérico ni Matcha Pep-T son tratamientos. Si tienes diabetes o prediabetes, ningún producto con colágeno reemplaza tu medicación ni tus controles. Consulta con tu médico antes de cambiar tu rutina." },
+    { "type": "p", "text": "Para ver todas las comparativas y el contexto científico completo, visita nuestra guía de [Matcha Pep-T y GLP-1](/ciencia-matcha-pep-t/). Y si decides probarlo, en [comprar Matcha Pep-T](/comprar-matcha-pep-t/) tienes el precio de S/ 158.00 por 14 sobres (S/ 11.29 cada uno)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo poner mi colágeno genérico dentro de Matcha Pep-T?", "a": "Puedes mezclarlo sin problema de sabor, ya que suele ser neutro, pero cambiará la textura y sumará proteína y calorías a la porción. No hará que el sobre se parezca más a las dosis estudiadas de Nextida GC, porque son colágenos distintos." },
+    { "q": "¿El colágeno genérico también ayuda con la glucosa?", "a": "Los efectos sobre GLP-1 y glucosa que comunica Rousselot se refieren a la composición específica de Nextida GC. No es correcto extrapolarlos a cualquier colágeno hidrolizado del mercado." },
+    { "q": "¿Qué cantidad de colágeno tiene un sobre de Matcha Pep-T?", "a": "La etiqueta no declara la cantidad exacta de Nextida GC. Lo que sí declara es 4.7 g de proteína total por porción, y el colágeno hidrolizado es el primer ingrediente de la lista." },
+    { "q": "¿Cuál conviene a partir de los 40 años?", "a": "Depende del objetivo. Con la edad suele importar más el total de proteína diaria y la actividad física que cualquier polvo aislado. Un profesional de nutrición puede ayudarte a decidir si necesitas uno, otro o ninguno." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "PubMed – Estudios sobre péptidos de colágeno Nextida y glucosa", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Nextida+collagen+peptide+glucose" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/colageno-hidrolizado/", "/ingredientes-matcha-pep-t/nextida-gc-estudios/", "/ciencia-matcha-pep-t/vs-cafe-con-colageno/", "/que-es-matcha-pep-t/colageno-y-piel/"]
+}

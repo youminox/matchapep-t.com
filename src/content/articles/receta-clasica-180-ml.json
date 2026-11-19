@@ -1,0 +1,93 @@
+{
+  "slug": "receta-clasica-180-ml",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/receta-clasica-180-ml/",
+  "isPillar": false,
+  "primaryKeyword": "receta Matcha Pep-T",
+  "title": "Receta Matcha Pep-T clásica: 1 sobre en 180 ml, paso a paso",
+  "seoTitle": "Receta Matcha Pep-T clásica: 1 sobre en 180 ml",
+  "metaDescription": "Receta Matcha Pep-T paso a paso: 1 sobre de 15 g en 180 ml de agua, en vaso o shaker, qué resultado esperar y trucos para una textura cremosa.",
+  "excerpt": "La receta base de la etiqueta explicada al detalle: medidas exactas, vaso o shaker, cómo debe verse en cada paso y los trucos que cambian la textura.",
+  "quickAnswer": "La receta Matcha Pep-T clásica es la de la etiqueta: vierte 180 ml de agua (fría o caliente sin hervir) en un vaso o shaker, agrega 1 sobre de 15 g y mezcla o agita unos 20 segundos hasta que no queden grumos. Obtienes un matcha latte verde claro, cremoso y suave, listo en menos de un minuto.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Step by step still life on a white marble kitchen counter in a bright Lima apartment: a glass measuring jug with clear water, a clear glass half filled with smooth pale green matcha latte, a small metal spoon and a stainless steel shaker bottle beside it, soft morning window light, clean minimal style, no packaging, no text, no logos, no people",
+    "alt": "Jarra medidora con agua, vaso con matcha latte verde claro recién mezclado, cuchara y shaker sobre una encimera blanca"
+  },
+  "blocks": [
+    { "type": "p", "text": "Todas las variantes que verás en este sitio, desde el iced latte de verano hasta la versión con avena, parten de una misma base. Si la dominas, cualquier ajuste posterior sale bien; si la haces a ojo, ni el mejor truco salva la taza." },
+    { "type": "p", "text": "Aquí la desarmamos en detalle: qué medir, en qué orden, cómo debería verse la bebida en cada momento y qué hacer si la textura no te convence. Para una visión general de todas las formas de tomarlo, revisa la guía de [cómo preparar Matcha Pep-T](/como-preparar-matcha-pep-t/)." },
+    { "type": "h2", "text": "Lo que necesitas antes de empezar" },
+    { "type": "ul", "items": [
+      "**1 sobre de 15 g.** Es una porción completa; no hace falta pesar nada.",
+      "**180 ml de agua.** Es la medida de «1 taza» de la etiqueta. Una jarra medidora o un vaso con marcas evita errores.",
+      "**Un recipiente:** vaso alto con cuchara, taza con batidor pequeño o un shaker con tapa hermética.",
+      "**Opcional:** hielo para la versión fría, o un chorrito de bebida vegetal si buscas un latte más suave."
+    ] },
+    { "type": "p", "text": "Si no tienes jarra medidora, una referencia útil: un vaso de vidrio de los que se usan para el refresco del menú suele tener entre 250 y 300 ml, así que 180 ml equivalen aproximadamente a sus dos tercios. Mídelo una vez con una botella de agua de 625 ml o con el biberón de la casa y marca el nivel con un plumón; te servirá para siempre." },
+    { "type": "h2", "text": "Receta Matcha Pep-T paso a paso" },
+    { "type": "steps", "items": [
+      { "name": "Mide el agua", "text": "Sirve 180 ml de agua en el vaso, la taza o el shaker. Debe ser fría (con o sin hielo) o caliente sin llegar a hervir." },
+      { "name": "Abre el sobre", "text": "Rasga el sobre por la muesca y sacúdelo un poco antes, para que el polvo se acumule en el fondo y no se quede pegado en las esquinas." },
+      { "name": "Agrega el polvo sobre el agua", "text": "Vierte el contenido completo del sobre de 15 g encima del líquido, poco a poco y no de golpe. El orden importa: agua primero, polvo después." },
+      { "name": "Mezcla o agita", "text": "En vaso, remueve con cuchara o batidor durante 20 a 30 segundos, raspando el fondo. En shaker, cierra bien la tapa y agita con energía unos 15 segundos." },
+      { "name": "Deja reposar y revisa", "text": "Espera medio minuto: la bebida toma un poco más de cuerpo. Dale una última vuelta, comprueba que no haya puntos secos y sírvela." }
+    ] },
+    { "type": "h3", "text": "Cómo se ve cada paso cuando va bien" },
+    { "type": "table", "caption": "Señales visuales durante la preparación", "headers": ["Momento", "Si va bien", "Señal de alerta"], "rows": [
+      ["Al echar el polvo", "Se hunde poco a poco y empieza a teñir el agua de verde", "Forma una costra seca que flota"],
+      ["Tras mezclar", "Color verde claro, opaco y uniforme, tipo latte", "Grumos verde oscuro en las paredes"],
+      ["Tras el reposo", "Textura algo más espesa y sedosa", "Sedimento grueso en el fondo"],
+      ["Al servir", "Superficie lisa, a veces con una espuma fina", "Polvo pegado en el borde del vaso"]
+    ] },
+    { "type": "p", "text": "Si ves alguna de las señales de alerta, no es un problema del producto: casi siempre se corrige mezclando unos segundos más o cambiando el orden de los pasos. La técnica completa para eliminar grumos está en la guía de [Matcha Pep-T sin grumos con shaker](/como-preparar-matcha-pep-t/en-shaker-sin-grumos/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el envase", "text": "La etiqueta indica diluir 1 sobre (15 g) en 1 taza de agua (180 ml) y no exceder lo recomendado. Preparada así, cada porción aporta 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y 14.9 µg de cromo (45 % del valor diario)." },
+    { "type": "h2", "text": "¿Vaso con cuchara o shaker? Diferencias reales" },
+    { "type": "p", "text": "Las dos opciones funcionan. La elección depende más de tu rutina que del resultado final." },
+    { "type": "table", "caption": "Comparativa de recipientes para la receta base", "headers": ["Aspecto", "Vaso o taza", "Shaker"], "rows": [
+      ["Tiempo", "20–30 segundos removiendo", "Unos 15 segundos agitando"],
+      ["Textura", "Más ligera, sin espuma", "Más aireada, con espuma fina"],
+      ["Agua caliente", "Ideal", "No recomendable con tapa cerrada"],
+      ["Para llevar", "Poco práctico", "Muy práctico en la mochila"],
+      ["Limpieza", "Inmediata", "Conviene enjuagar pronto"]
+    ] },
+    { "type": "p", "text": "Si trabajas en una oficina de San Isidro o Miraflores y lo preparas en el *kitchenette*, el shaker con agua del dispensador es lo más rápido. En casa, con agua caliente y sin apuro, la taza y un batidor pequeño dan una bebida más tranquila de tomar." },
+    { "type": "cta", "text": "¿Todavía no tienes tus sobres? Consulta el precio oficial de S/ 158.00 por 14 sobres (S/ 11.29 cada uno) y compra con el distribuidor autorizado." },
+    { "type": "h2", "text": "Trucos de textura que sí marcan diferencia" },
+    { "type": "ul", "items": [
+      "**Respeta los 180 ml.** Con menos agua la bebida queda densa y muy dulce; con mucha más, aguada. La medida de la etiqueta es la que equilibra sabor y cuerpo.",
+      "**Dale 30 segundos de reposo.** La fórmula lleva goma xantana y fibra de maíz, que tardan un momento en hidratarse. Esa pausa es la que da la sensación sedosa.",
+      "**Usa un batidor eléctrico de mano.** Los espumadores a pilas que se venden en cualquier tienda de menaje dejan la bebida lisa en 10 segundos y con algo de espuma.",
+      "**Añade el hielo al final.** Si lo pones antes de mezclar, el polvo se pega a los cubos y cuesta más disolverlo.",
+      "**Un chorrito de bebida vegetal.** La propia marca sugiere almendra, soya o coco para un latte más cremoso; ten en cuenta que suma algunas calorías.",
+      "**No le pongas azúcar.** Ya viene endulzado con estevia y lleva muy poca azúcar; agregar más tapa el sabor del matcha y suma calorías innecesarias."
+    ] },
+    { "type": "h2", "text": "El resultado: qué sabor y aspecto esperar" },
+    { "type": "p", "text": "Preparado tal cual, obtienes una bebida de color verde pistacho apagado, más clara que un matcha puro porque la crema de coco la vuelve opaca. El sabor es de *matcha latte* suave: el toque herbal del té verde aparece al inicio y luego dominan notas de coco y crema caramelo, con un dulzor moderado propio de la estevia." },
+    { "type": "p", "text": "No esperes la espuma alta de un latte de cafetería, salvo que lo batas con espumador. Tampoco el amargor intenso de un matcha ceremonial batido en *chawan*: es una mezcla pensada para el día a día, no un té de ceremonia." },
+    { "type": "p", "text": "Desde aquí puedes ir a la versión [fría con hielo](/como-preparar-matcha-pep-t/frio-con-hielo/), que es la favorita en verano, o simplemente elegir el mejor momento del día para tomarlo. Sobre eso, la referencia más citada es tomarlo unos 30 minutos antes de una comida principal, tema que tratamos en [a qué hora tomar Matcha Pep-T](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "h2", "text": "Tres situaciones típicas y cómo adaptar la receta" },
+    { "type": "ol", "items": [
+      "**Mañana con prisa antes de salir al paradero:** shaker con agua fría del bidón, agita, tapa y llévalo. Listo en 30 segundos.",
+      "**Media tarde en casa con garúa:** agua caliente sin hervir en taza, polvo encima y batidor. Tómalo con calma mientras revisas pendientes.",
+      "**Después del gimnasio:** vaso con agua fría y dos o tres cubos de hielo añadidos al final, para refrescarte sin una bebida pesada."
+    ] },
+    { "type": "p", "text": "En las tres, la proporción no cambia: 1 sobre por 180 ml. Lo único que varía es la temperatura y el recipiente. Cuando quieras reponer, puedes [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) directamente con el distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo usar medio sobre para que me dure más?", "a": "Puedes, siempre que también reduzcas el agua a la mitad (90 ml) para mantener la proporción. Eso sí, los valores de la etiqueta (46 kcal, 4.7 g de proteína, 4.9 g de fibra) corresponden al sobre completo, así que obtendrías la mitad de cada uno." },
+    { "q": "¿Se puede dejar preparado desde la noche anterior?", "a": "Lo ideal es prepararlo al momento, porque la fibra y la chía siguen espesando la mezcla con las horas. Si necesitas adelantarlo, guárdalo tapado en la refrigeradora, tómalo dentro del día y agítalo bien antes de beber." },
+    { "q": "¿Sirve el agua del caño para prepararlo?", "a": "Usa la misma agua que tomarías sola: hervida y enfriada, filtrada o de bidón. En frío no hay un paso de cocción que la potabilice, así que conviene partir de agua segura." },
+    { "q": "¿Cuántas veces al día puedo repetir esta receta?", "a": "La etiqueta toma como referencia 1 sobre por porción y pide no exceder lo recomendado. Si tienes dudas sobre tu caso, consulta con un profesional de salud antes de aumentar la cantidad." }
+  ],
+  "sources": [
+    { "label": "Ficha de Matcha Pep-T en la tienda del distribuidor autorizado", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" },
+    { "label": "FDA – Cómo entender la etiqueta de información nutricional", "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/en-shaker-sin-grumos/",
+    "/como-preparar-matcha-pep-t/errores-al-prepararlo/",
+    "/como-preparar-matcha-pep-t/frio-con-hielo/",
+    "/ingredientes-matcha-pep-t/tabla-nutricional/"
+  ]
+}

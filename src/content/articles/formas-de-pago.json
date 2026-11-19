@@ -1,0 +1,77 @@
+{
+  "slug": "formas-de-pago",
+  "pillar": "precio-matcha-pep-t-peru",
+  "path": "/precio-matcha-pep-t-peru/formas-de-pago/",
+  "isPillar": false,
+  "primaryKeyword": "comprar Matcha Pep-T con tarjeta o Yape",
+  "title": "Comprar Matcha Pep-T con tarjeta o Yape: medios de pago y checkout",
+  "seoTitle": "Comprar Matcha Pep-T con tarjeta o Yape: guía de pago",
+  "metaDescription": "Cómo comprar Matcha Pep-T con tarjeta o Yape en la tienda oficial: medios de pago habituales, checkout paso a paso y qué hacer si tu pago es rechazado.",
+  "excerpt": "Los medios de pago que suele ofrecer la tienda oficial de FuXion, el checkout explicado paso a paso y soluciones a los problemas de pago más comunes.",
+  "quickAnswer": "Para comprar Matcha Pep-T con tarjeta o Yape, entra a la tienda oficial, agrega el doypack de S/ 158.00 al carrito y elige el medio de pago en el checkout. Lo habitual es pagar con tarjeta de crédito o débito; las billeteras digitales como Yape dependen de la pasarela activa en ese momento, así que confírmalo en la pantalla de pago.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Hands holding a smartphone over a white table with a contactless bank card and a cup of hot matcha latte beside it, soft daylight from a window, clean modern Lima apartment, no screen content visible, no text, no logos, no faces",
+    "alt": "Manos con un celular y una tarjeta bancaria sobre una mesa junto a una taza de matcha latte caliente"
+  },
+  "blocks": [
+    { "type": "p", "text": "Elegir el producto es la parte fácil. Donde muchos se traban es en la pantalla de pago: la tarjeta de débito que no pasa, la duda de si se puede pagar con el celular o el miedo a que el cobro salga dos veces." },
+    { "type": "p", "text": "Esta guía te acompaña desde que abres la tienda hasta que recibes el correo de confirmación, con los medios de pago que suelen estar disponibles y lo que conviene revisar en cada paso." },
+    { "type": "h2", "text": "¿Se puede comprar Matcha Pep-T con tarjeta o Yape?" },
+    { "type": "p", "text": "Sí se puede **comprar Matcha Pep-T con tarjeta**, y es el medio más estable en la tienda oficial de FuXion. En cuanto a Yape y otras billeteras digitales, la respuesta honesta es: depende de la pasarela de pagos que la tienda tenga habilitada cuando hagas tu pedido." },
+    { "type": "p", "text": "Por eso no te vamos a prometer un medio específico que quizá no veas. La regla es sencilla: **lo que aparece en el checkout es lo que vale**. Si una opción no figura ahí, no está disponible para ese pedido." },
+    { "type": "h3", "text": "Medios de pago habituales" },
+    { "type": "table", "caption": "Medios de pago que suelen verse en la tienda oficial (confírmalos al pagar)", "headers": ["Medio", "Cómo funciona", "Qué tener listo"], "rows": [["Tarjeta de crédito", "Pago en línea con los datos de la tarjeta y validación de tu banco", "Tarjeta habilitada para compras por internet"], ["Tarjeta de débito", "Igual que la de crédito, se descuenta de tu cuenta al momento", "Compras por internet activadas y saldo suficiente"], ["Billetera digital (por ejemplo, Yape)", "Disponible solo si la pasarela vigente lo ofrece; se confirma desde la app", "Celular a mano y límite diario suficiente"], ["Otros medios que muestre la tienda", "Según la configuración del momento", "Seguir las instrucciones de la pantalla"]] },
+    { "type": "callout", "variant": "tip", "title": "Activa las compras por internet", "text": "En Perú, los bancos permiten activar o desactivar las compras por internet de cada tarjeta desde su app o banca en línea. Si tu tarjeta de débito es nueva, es muy probable que esa opción venga apagada. Revísala antes de iniciar el pago." },
+    { "type": "h2", "text": "El checkout paso a paso" },
+    { "type": "p", "text": "El proceso toma unos pocos minutos si tienes tus datos a mano. Así se ve, en orden:" },
+    { "type": "steps", "items": [
+      { "name": "Abre la tienda oficial", "text": "Entra a [la ficha de Matcha Pep-T en la tienda oficial](https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/) y comprueba en la barra del navegador que la dirección empiece con carlos-lingan.site.fuxion.com." },
+      { "name": "Agrega el producto al carrito", "text": "Elige la cantidad de doypacks. Verifica que el precio sea S/ 158.00 por unidad o la promoción que anuncie la misma tienda." },
+      { "name": "Revisa el carrito", "text": "Confirma producto, cantidad y subtotal. Si te equivocaste, este es el momento de corregir." },
+      { "name": "Completa tus datos", "text": "Nombre, documento de identidad, correo y celular. El correo es donde llegará la confirmación del pedido; escríbelo con cuidado." },
+      { "name": "Indica la dirección de entrega", "text": "Distrito o ciudad, calle, número y una referencia clara. Al hacerlo, la tienda calcula el costo y el plazo de envío para tu zona." },
+      { "name": "Elige el medio de pago", "text": "Selecciona una de las opciones que muestre la pantalla: tarjeta o, si está disponible, billetera digital." },
+      { "name": "Valida el pago", "text": "Con tarjeta, tu banco puede pedirte una clave, un código por SMS o una aprobación en su app. Con billetera digital, sigue las instrucciones para confirmar desde el celular. No cierres la ventana mientras se procesa." },
+      { "name": "Guarda la confirmación", "text": "Anota el número de pedido y conserva el correo. Te servirá para hacer seguimiento o cualquier consulta." }
+    ] },
+    { "type": "p", "text": "Si vives fuera de Lima, el paso de la dirección es el que más cambia; en [envío de Matcha Pep-T a provincias](/precio-matcha-pep-t-peru/envio-a-provincias/) explicamos qué tener en cuenta desde Arequipa, Trujillo o Piura." },
+    { "type": "cta", "text": "Ten tu tarjeta habilitada y haz tu pedido de Matcha Pep-T en la tienda oficial en pocos minutos." },
+    { "type": "h2", "text": "Cuando el pago no pasa: causas frecuentes" },
+    { "type": "p", "text": "Un pago rechazado casi nunca es un problema de la tienda. En la mayoría de casos, la causa está en la configuración de la tarjeta o en un dato mal escrito:" },
+    { "type": "ul", "items": [
+      "**Compras por internet desactivadas**: la causa número uno con tarjetas de débito. Actívalas en la app de tu banco y vuelve a intentarlo.",
+      "**Límite insuficiente**: si pides varios doypacks, el total con envío puede superar tu límite diario o el saldo disponible.",
+      "**Validación sin completar**: si el código de tu banco expiró o cerraste la ventana antes de tiempo, el pago se cancela.",
+      "**Datos con error**: fecha de vencimiento, código de seguridad o nombre distinto al de la tarjeta.",
+      "**Billetera fuera de límite**: las apps de pago tienen topes diarios; si ya hiciste otras transferencias, quizá no te alcance."
+    ] },
+    { "type": "p", "text": "Si ves un cargo en tu app pero no te llegó el correo de confirmación, no repitas el pago de inmediato. A veces se trata de una retención temporal que el banco libera sola. Espera unos minutos, revisa tu bandeja de spam y, si sigue sin aparecer, escríbenos por [la página de contacto](/contacto/) con la hora y el monto." },
+    { "type": "h2", "text": "Pagar de forma segura" },
+    { "type": "p", "text": "La forma más segura es pagar **dentro de la tienda oficial**, donde el cobro queda vinculado a un pedido con tu nombre. Ten presente lo siguiente:" },
+    { "type": "ul", "items": [
+      "Nunca envíes los datos de tu tarjeta por WhatsApp, Messenger o correo.",
+      "Desconfía de quien te pida un Yape a un número personal para «separar» un doypack con descuento; es una modalidad típica de venta informal, como contamos en [los riesgos de comprar en marketplaces y redes](/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/).",
+      "Usa tu propia conexión de datos o wifi de casa en lugar de redes públicas de centros comerciales.",
+      "Revisa que el monto que te pide validar tu banco coincida con el total del carrito."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Comprobante y reclamos", "text": "Conserva el correo de confirmación y el comprobante de pago. Si el doypack llega dañado o hay un problema con el pedido, los necesitarás para gestionarlo según la política de garantía y devoluciones de la tienda." },
+    { "type": "p", "text": "Para ver de un vistazo el precio, los puntos y el envío, consulta la [guía de precio de Matcha Pep-T en Perú](/precio-matcha-pep-t-peru/). Y si prefieres ir directo, en la página para [comprar Matcha Pep-T en la tienda oficial](/comprar-matcha-pep-t/) tienes todos los accesos." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo pagar contra entrega?", "a": "Depende de lo que ofrezca la tienda en el momento de tu compra. Si el pago contra entrega no aparece entre las opciones del checkout, no está disponible para ese pedido." },
+    { "q": "¿El costo de envío se paga aparte?", "a": "No. Se suma al total del pedido y lo pagas en la misma operación. La tienda te muestra el monto del envío antes de que confirmes el pago, así que lo ves con anticipación." },
+    { "q": "¿Puedo pedir factura con RUC?", "a": "Si necesitas factura para tu empresa, revisa si el formulario del checkout permite ingresar un RUC. Si no ves la opción, consúltalo antes de pagar para que el comprobante salga correctamente." },
+    { "q": "¿Puedo pagar con una tarjeta que no está a mi nombre?", "a": "Lo recomendable es que el titular de la tarjeta sea quien haga la compra o la valide. Muchos bancos piden una aprobación desde la app del titular, y una compra a nombre de otra persona puede ser rechazada por seguridad." }
+  ],
+  "sources": [
+    { "label": "Superintendencia de Banca, Seguros y AFP (SBS)", "url": "https://www.sbs.gob.pe/" },
+    { "label": "Indecopi – Protección al consumidor", "url": "https://www.gob.pe/indecopi" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/envio-a-provincias/",
+    "/precio-matcha-pep-t-peru/donde-comprar-original-en-lima/",
+    "/opiniones-matcha-pep-t/garantia-y-devoluciones/",
+    "/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/"
+  ]
+}

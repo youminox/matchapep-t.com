@@ -1,0 +1,88 @@
+{
+  "slug": "funciona",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/funciona/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T funciona",
+  "title": "¿Matcha Pep-T funciona? Qué esperar, en qué plazo y de qué depende",
+  "seoTitle": "¿Matcha Pep-T funciona? Expectativas reales y evidencia",
+  "metaDescription": "¿Matcha Pep-T funciona? Separamos lo que comunica el marketing de lo que respalda la evidencia y te explicamos qué esperar, en qué plazo y de qué depende.",
+  "excerpt": "Antes de preguntar si funciona, conviene definir para qué. Te ayudamos a separar la publicidad de la evidencia y a evaluar tu propia experiencia con criterios concretos.",
+  "quickAnswer": "Si te preguntas si Matcha Pep-T funciona, la respuesta honesta es: depende de para qué. Es una bebida de 46 kcal con 4.9 g de fibra y 4.7 g de proteína que puede ayudarte a ordenar la media tarde y a sentirte satisfecho entre comidas. No quema grasa ni reemplaza hábitos, y sus efectos sobre la glucosa solo se han estudiado en el ingrediente aislado.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A glass of iced green matcha latte on a small balcony table next to an open paper notebook with a pencil and a measuring tape loosely coiled, overcast grey Lima sky in the background, soft diffused light, realistic lifestyle photography, no text, no logos, no packaging, no people",
+    "alt": "Vaso de matcha latte frío junto a una libreta abierta y una cinta métrica en un balcón con cielo gris de Lima"
+  },
+  "blocks": [
+    { "type": "p", "text": "Un anuncio en Instagram dice «controla tu apetito», un audio reenviado en el grupo familiar habla de «efecto GLP-1» y alguien en TikTok enseña su vaso verde como si fuera la solución a todo. Con tanto ruido, la pregunta razonable no es solo si funciona, sino **para qué funciona, cuánto y según quién**." },
+    { "type": "p", "text": "En esta guía no vas a encontrar testimonios ni antes y después. Vas a encontrar lo que dice la etiqueta, lo que comunica la marca, lo que muestran los estudios del ingrediente principal y una forma sencilla de medir tu propia experiencia sin autoengañarte." },
+    { "type": "h2", "text": "¿Matcha Pep-T funciona? Primero define qué esperas" },
+    { "type": "p", "text": "«Funcionar» significa cosas muy distintas según la persona. Para una estudiante que almuerza tarde en la universidad puede significar llegar a las 3 pm sin asaltar la máquina de galletas. Para alguien que acaba de recibir un resultado de glucosa alterada, significa algo mucho más serio, y ahí la respuesta cambia." },
+    { "type": "p", "text": "Por eso conviene separar los objetivos en tres grupos: los que la composición del producto puede apoyar de forma razonable, los que dependen casi por completo de tus hábitos y los que simplemente no le corresponden a una bebida." },
+    { "type": "table", "caption": "Objetivos frecuentes y qué tan realista es esperarlos de Matcha Pep-T", "headers": ["Objetivo", "¿Es realista?", "Por qué"], "rows": [
+      ["Tener una alternativa ligera al snack dulce", "Sí, bastante", "46 kcal por porción, endulzado con estevia y con muy poca azúcar (0.9 g de azúcares añadidos)"],
+      ["Sentirte más satisfecho entre comidas", "Es posible, varía por persona", "Aporta 4.9 g de fibra (18 % VD) y 4.7 g de proteína, dos nutrientes asociados a la saciedad"],
+      ["Bajar de peso", "Solo como apoyo", "Depende del balance de tu alimentación y actividad; la bebida sola no lo produce"],
+      ["Controlar la glucosa", "No como tratamiento", "Los datos provienen de estudios del ingrediente aislado, no del producto"],
+      ["Tener más energía", "Modesto", "El matcha aporta cafeína natural, pero la cantidad no está declarada"]
+    ] },
+    { "type": "h2", "text": "Lo que dice el marketing frente a lo que respalda la evidencia" },
+    { "type": "p", "text": "FuXion presenta Matcha Pep-T como un matcha latte instantáneo con péptidos de colágeno Nextida GC, fibra, chía y cromo. Esa descripción coincide con la etiqueta. El problema aparece cuando en redes se estira el mensaje hasta convertirlo en un supuesto sustituto de los fármacos para adelgazar o en promesas de kilos por semana." },
+    { "type": "h3", "text": "Lo que sí está respaldado" },
+    { "type": "ul", "items": [
+      "**Los datos nutricionales**: 46 kcal, 7.8 g de carbohidratos, 4.9 g de fibra, 4.7 g de proteína y 14.9 µg de cromo (45 % VD) por sobre de 15 g en 180 ml de agua.",
+      "**El papel general de la fibra y la proteína**: hay evidencia amplia de que ambos nutrientes contribuyen a la sensación de saciedad dentro de una alimentación equilibrada.",
+      "**Los estudios del ingrediente Nextida GC**: existen, pero los hizo su fabricante, Rousselot, con dosis de 5 a 10 g del ingrediente aislado."
+    ] },
+    { "type": "h3", "text": "Lo que todavía no está demostrado" },
+    { "type": "ul", "items": [
+      "Que el producto terminado, tal como viene en el sobre, reproduzca los resultados de esos estudios.",
+      "Cuánto Nextida GC contiene cada sobre: la cifra no está declarada (la proteína total es 4.7 g).",
+      "Cualquier efecto sobre el peso corporal atribuible a la bebida por sí misma."
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica Rousselot sobre Nextida GC", "text": "En estudios del fabricante del ingrediente (preclínicos en ratones y ensayos piloto en personas sanas y con prediabetes), tomar 5–10 g de Nextida GC unos 30 minutos antes de una comida se asoció a un menor pico de glucosa y a mayor liberación de GLP-1 y GIP. Son resultados del ingrediente aislado, no de Matcha Pep-T. Si quieres el detalle, revisa nuestro resumen de los [estudios de Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-estudios/)." },
+    { "type": "h2", "text": "¿En qué plazo se nota algo?" },
+    { "type": "p", "text": "Nadie puede darte una fecha, y desconfía de quien lo haga. Lo que sí se puede describir es qué tipo de cambios tienen sentido observar en cada etapa, sabiendo que cada cuerpo responde distinto." },
+    { "type": "ul", "items": [
+      "**Primeras tomas**: lo único que vas a evaluar de verdad es si te gusta el sabor, cómo te cae la fibra y si la cafeína natural del matcha te sienta bien a la hora en que lo tomas.",
+      "**Primeras dos semanas** (un doypack de 14 sobres a uno por día): es un periodo útil para ver si te ayuda a ordenar un momento concreto del día, como la media tarde o la salida del trabajo antes de una hora de tráfico.",
+      "**Varias semanas**: cualquier cambio en la balanza o en la talla del pantalón dependerá sobre todo de lo que comas y te muevas, no de la bebida."
+    ] },
+    { "type": "p", "text": "Si tu meta es perder peso, en nuestra guía de [Matcha Pep-T para bajar de peso](/que-es-matcha-pep-t/para-bajar-de-peso/) explicamos cómo encaja dentro de un plan, sin promesas." },
+    { "type": "cta", "text": "Si quieres probarlo con expectativas claras, revisa el precio actual: S/ 158.00 por 14 sobres, unos S/ 11.29 por porción." },
+    { "type": "h2", "text": "De qué depende que te funcione" },
+    { "type": "p", "text": "Dos personas pueden tomar el mismo sobre durante el mismo tiempo y contar historias opuestas. No es magia ni engaño: son variables que la bebida no controla." },
+    { "type": "ol", "items": [
+      "**Qué reemplaza.** Si sustituye un keke y una gaseosa de media tarde, el cambio es real. Si se suma encima de todo lo que ya comías, solo estás agregando 46 kcal.",
+      "**El momento.** Los estudios del ingrediente lo usaron antes de una comida. Tomarlo de postre después de un menú completo tiene otra lógica.",
+      "**Tu alimentación del resto del día.** Un sobre no compensa un almuerzo de pollo broaster con papas y una noche de picoteo.",
+      "**Sueño y estrés.** Dormir mal y vivir con prisa alteran el apetito más de lo que cualquier bebida puede equilibrar.",
+      "**Constancia.** Tomarlo tres días y abandonarlo no te dice nada; tampoco tomarlo un mes sin observar nada concreto.",
+      "**Tu condición de salud.** Si tienes diabetes, estás embarazada o tomas medicación, la conversación debe empezar con tu médico."
+    ] },
+    { "type": "h2", "text": "Cómo saber si te está funcionando a ti" },
+    { "type": "p", "text": "La mejor evidencia personal no es una sensación vaga, sino un registro simple. Te proponemos un método de dos semanas que cabe en las notas del celular." },
+    { "type": "steps", "items": [
+      { "name": "Elige un solo objetivo", "text": "Por ejemplo: no comprar dulces en la tarde, o llegar a la cena con menos hambre. Un objetivo medible por día." },
+      { "name": "Anota tu punto de partida", "text": "Durante tres o cuatro días, sin tomar la bebida, registra cuántas veces picas entre comidas y a qué hora te da hambre." },
+      { "name": "Úsalo siempre en el mismo momento", "text": "Prepara 1 sobre en 180 ml de agua, a la misma hora y en reemplazo del mismo snack." },
+      { "name": "Registra lo mismo", "text": "Apunta cada día las mismas variables, incluidas molestias como gases o problemas para dormir." },
+      { "name": "Compara con honestidad", "text": "Al terminar el doypack, revisa las notas. Si no ves diferencia en tu objetivo, también es una respuesta válida." }
+    ] },
+    { "type": "p", "text": "Si notas incomodidad digestiva o te cuesta dormir, revisa nuestra guía de [posibles efectos secundarios](/opiniones-matcha-pep-t/efectos-secundarios/). Y si tu experiencia es real y quieres contarla, puedes [dejar tu opinión verificada](/opiniones-matcha-pep-t/como-dejar-tu-opinion/): no publicamos testimonios sin comprobar." },
+    { "type": "p", "text": "Para ver todas las preguntas sobre seguridad, sabor y uso reunidas en un solo lugar, visita la sección de [opiniones sobre Matcha Pep-T](/opiniones-matcha-pep-t/). Y cuando lo tengas claro, aquí tienes la [página para comprarlo con un distribuidor autorizado](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Funciona igual si lo preparo con leche en vez de agua?", "a": "La etiqueta indica 1 sobre en 180 ml de agua. Si agregas un chorrito de leche o bebida vegetal, el sabor mejora para muchos, pero sumas calorías que no están en la tabla. Tenlo en cuenta si tu objetivo es comer menos." },
+    { "q": "¿Tomar dos sobres al día da el doble de resultado?", "a": "No hay evidencia de que más cantidad signifique más efecto, y la etiqueta pide no exceder lo recomendado. Además duplicarías la fibra y la cafeína natural, lo que puede causar molestias." },
+    { "q": "¿Por qué hay gente que dice que no le hizo nada?", "a": "Porque «funcionar» depende de qué esperaba cada uno y de qué cambió en el resto de su día. Si alguien buscaba bajar de peso sin modificar su alimentación, es lógico que no notara cambios." },
+    { "q": "¿Sirve si ya tomo café todas las mañanas?", "a": "Puede convivir con tu café, pero recuerda que el matcha también aporta cafeína natural no declarada. Si eres sensible, evita juntarlos y no lo tomes cerca de la hora de dormir." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "NIH Office of Dietary Supplements – Chromium", "url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/" }
+  ],
+  "related": ["/que-es-matcha-pep-t/para-bajar-de-peso/", "/opiniones-matcha-pep-t/efectos-secundarios/", "/ingredientes-matcha-pep-t/nextida-gc-estudios/", "/que-es-matcha-pep-t/saciedad-control-apetito/"]
+}

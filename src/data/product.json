@@ -1,0 +1,82 @@
+{
+  "name": "Matcha Pep-T",
+  "brand": "FuXion",
+  "fullName": "Matcha Pep-T de FuXion",
+  "sku": "151023",
+  "gtin": "",
+  "tagline": "Matcha latte instantáneo con péptidos de colágeno Nextida® GC, fibra, chía y cromo",
+  "packDescription": "Mezcla en polvo para preparar bebida instantánea de té matcha, con colágeno hidrolizado y crema de coco",
+  "flavor": "Sabor natural a matcha latte",
+  "presentation": "Doypack de 14 sobres x 15 g",
+  "netWeight": "210 g",
+  "sachets": 14,
+  "sachetGrams": 15,
+  "price": 158,
+  "currency": "PEN",
+  "formattedPrice": "S/ 158.00",
+  "pricePerSachet": 11.29,
+  "formattedPricePerSachet": "S/ 11.29",
+  "points": 24,
+  "priceValidFrom": "2026-11-19",
+  "priceVerified": "2026-11-19",
+  "shopUrl": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/",
+  "officialImage": "/img/producto/matcha-pep-t-fuxion-doypack-y-sobre.webp",
+  "labelImage": "/img/producto/matcha-pep-t-informacion-nutricional-etiqueta.webp",
+  "line": "Línea Energía y Vitalidad (catálogo FuXion Perú)",
+  "packClaims": ["Péptidos de colágeno", "Fibra", "Chía", "Cromo"],
+  "preparation": {
+    "serving": "1 sobre (15 g)",
+    "water": "180 ml (1 taza)",
+    "steps": [
+      "Vierte 180 ml de agua (fría con hielo o caliente, sin hervir) en un vaso, taza o shaker.",
+      "Agrega el contenido de 1 sobre de 15 g.",
+      "Mezcla o agita hasta disolver por completo. Si quieres un latte más cremoso, puedes añadir un chorrito de leche o bebida vegetal (almendra, soya, coco)."
+    ],
+    "note": "La etiqueta indica 1 sobre para diluir en 1 taza de agua (180 ml). No exceder lo recomendado."
+  },
+  "nutrition": {
+    "servingSize": "15 g (1 sobre en 180 ml de agua)",
+    "servingsPerPack": 14,
+    "per100ml": { "kcal": 26.0, "kj": 106.0, "fat": 0.3, "satFat": 0.3, "transFat": 0.0, "cholesterolMg": 0.0, "sodiumMg": 16.0, "carbs": 4.3, "fiber": 2.7, "sugars": 1.1, "addedSugars": 0.5, "protein": 2.6, "chromiumUg": 8.3 },
+    "perServing": { "kcal": 46.0, "kj": 191.0, "fat": 0.6, "satFat": 0.5, "transFat": 0.0, "cholesterolMg": 0.0, "sodiumMg": 28.0, "carbs": 7.8, "fiber": 4.9, "sugars": 2.0, "addedSugars": 0.9, "protein": 4.7, "chromiumUg": 14.9 },
+    "dailyValuePct": { "kcal": 2, "fat": 1, "satFat": 3, "cholesterol": 0, "sodium": 1, "carbs": 3, "fiber": 18, "sugars": 2, "protein": 9, "chromium": 45 },
+    "dvBasis": "Valores diarios basados en una dieta de 2000 kcal (8380 kJ) para mayores de 4 años según CODEX / FDA",
+    "fusionGrams": 15.0
+  },
+  "ingredients": [
+    { "name": "Colágeno hidrolizado (péptidos de proteína de colágeno – Nextida® GC)", "slug": "colageno-nextida-gc", "role": "Primer ingrediente de la lista; péptidos de colágeno específicos de Rousselot" },
+    { "name": "Fibra de maíz", "slug": "fibra-de-maiz", "role": "Fibra dietaria (aporta parte de los 4.9 g de fibra por porción)" },
+    { "name": "Crema de coco", "slug": "crema-de-coco", "role": "Textura cremosa tipo latte" },
+    { "name": "Mix de té matcha y chía", "slug": "matcha-y-chia", "role": "Té verde matcha en polvo y semilla de chía" },
+    { "name": "Isomaltulosa (disacáridos obtenidos de la betarraga – Palatinose™)", "slug": "isomaltulosa", "role": "Carbohidrato de liberación lenta" },
+    { "name": "Tapioca", "slug": "tapioca", "role": "Base / textura" },
+    { "name": "Saborizantes naturales (crema caramelo y leche de coco)", "slug": "saborizantes", "role": "Sabor" },
+    { "name": "Espesante (goma xantana)", "slug": "goma-xantana", "role": "Espesante" },
+    { "name": "Antiaglutinante (dióxido de silicio)", "slug": "dioxido-de-silicio", "role": "Evita grumos en el polvo" },
+    { "name": "Estevia (glicósidos de esteviol de Stevia rebaudiana Bertoni – edulcorante)", "slug": "estevia", "role": "Edulcorante" },
+    { "name": "Emulsionante (lecitina de girasol)", "slug": "lecitina-de-girasol", "role": "Emulsionante" },
+    { "name": "Cromo", "slug": "cromo", "role": "Mineral: 14.9 µg por porción (45 % VD)" }
+  ],
+  "ingredientsText": "Colágeno Hidrolizado (Péptidos de Proteína de Colágeno - Nextida® GC), Fibra de Maíz, Crema de Coco, Mix de Té Matcha y Chía, Isomaltulosa (Disacáridos obtenidos de la Betarraga - Palatinose™), Tapioca, Saborizantes Naturales (Crema Caramelo y Leche de Coco), Espesante (Goma Xantana), Antiaglutinante (Dióxido de Silicio), Estevia (Glicósidos de Esteviol de Stevia rebaudiana Bertoni - Edulcorante), Emulsionante (Lecitina de Girasol), Cromo.",
+  "notDeclared": [
+    "La cantidad exacta de Nextida® GC por sobre no está declarada en la etiqueta (la proteína total por porción es 4.7 g).",
+    "El contenido de cafeína no está declarado en la etiqueta.",
+    "La cantidad de L-teanina o catequinas (EGCG) no está declarada en la etiqueta."
+  ],
+  "nextidaFacts": {
+    "maker": "Rousselot (Darling Ingredients)",
+    "what": "Composición específica de péptidos de colágeno desarrollada para apoyar el control de la glucosa (GC = glucose control).",
+    "studies": "En estudios del fabricante (preclínicos en ratones y ensayos piloto en humanos sanos y con prediabetes), tomar Nextida GC unos 30 minutos antes de una comida se asoció a menor pico de glucosa posprandial y a mayor liberación de las hormonas incretinas GLP-1 y GIP. Las dosis estudiadas fueron 5 g y 10 g; con 10 g el aumento de GLP-1 fue significativo en sanos y en prediabéticos se observó también con 5 g. Rousselot comunica reducciones promedio del pico de glucosa de hasta 42 % y un retraso del vaciamiento gástrico en prediabéticos.",
+    "caveat": "Son resultados del ingrediente aislado en estudios del fabricante, no del producto Matcha Pep-T. Matcha Pep-T no es un medicamento ni un análogo de GLP-1 (como semaglutida/Ozempic).",
+    "sources": [
+      { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+      { "label": "Food Science & Nutrition (estudio preclínico en ratones, PMC)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Nextida+collagen+peptide+glucose" }
+    ]
+  },
+  "distributor": {
+    "name": "CARLOS EDEN LINGAN BORJA",
+    "role": "Distribuidor autorizado (independiente) FuXion",
+    "city": "Lima, Perú",
+    "store": "https://carlos-lingan.site.fuxion.com/"
+  }
+}

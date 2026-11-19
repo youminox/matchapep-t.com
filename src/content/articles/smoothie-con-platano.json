@@ -1,0 +1,96 @@
+{
+  "slug": "smoothie-con-platano",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/smoothie-con-platano/",
+  "isPillar": false,
+  "primaryKeyword": "smoothie de Matcha Pep-T",
+  "title": "Smoothie de Matcha Pep-T con plátano, espinaca y fruta peruana",
+  "seoTitle": "Smoothie de Matcha Pep-T: plátano, mango y aguaymanto",
+  "metaDescription": "Smoothie de Matcha Pep-T con plátano, espinaca, mango o aguaymanto: cuatro combinaciones con fruta peruana y las calorías aproximadas de cada vaso.",
+  "excerpt": "Cuatro combinaciones de smoothie con un sobre de Matcha Pep-T y fruta que encuentras en cualquier mercado peruano, con una tabla de calorías para que sepas qué estás sumando.",
+  "quickAnswer": "Un smoothie de Matcha Pep-T se prepara licuando 1 sobre de 15 g con 180 ml de agua o leche, plátano y, si quieres, espinaca, mango o aguaymanto. Según la combinación, el vaso queda entre unas 140 y 220 kcal: el sobre aporta 46 kcal y el resto depende de la fruta y del líquido que elijas.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two glasses of thick green smoothie on a rustic wooden table at a Peruvian market stall, surrounded by ripe bananas, a bunch of fresh spinach, sliced yellow mango and golden physalis berries in their papery husks, soft morning light, colorful but natural, no packaging, no text, no logos, no people",
+    "alt": "Dos vasos de smoothie verde sobre una mesa de madera rodeados de plátanos, espinaca, mango en trozos y aguaymantos con su cáscara"
+  },
+  "blocks": [
+    { "type": "p", "text": "Un sábado en el mercado de Surquillo o en el de tu barrio basta para entender por qué el Perú es un paraíso para los batidos: plátanos de varias clases, mangos que llegan del norte en verano, aguaymantos dorados todavía envueltos en su capuchón. Con esa fruta y un sobre puedes armar un vaso mucho más completo que el latte de siempre." },
+    { "type": "p", "text": "La diferencia con un [frappé de Matcha Pep-T](/como-preparar-matcha-pep-t/frappe/) es de fondo: allí manda el hielo y la idea es refrescar; aquí manda la fruta, el vaso llena más y las calorías suben. Por eso este artículo trae, además de las recetas, una tabla para que sepas qué estás agregando." },
+    { "type": "h2", "text": "Por qué el plátano es la mejor base para un smoothie de Matcha Pep-T" },
+    { "type": "p", "text": "El plátano cumple tres funciones a la vez. Espesa sin necesidad de yogur, endulza de forma natural y suaviza los sabores ácidos o vegetales que vengan después, como el del aguaymanto o la espinaca. Además, se consigue todo el año y a buen precio." },
+    { "type": "p", "text": "Funciona mejor bien maduro. Si lo congelas en rodajas, el smoothie sale frío sin tener que añadir hielo, lo que evita que el sabor del matcha se diluya." },
+    { "type": "h2", "text": "Cuatro combinaciones para probar" },
+    { "type": "h3", "text": "1. Verde clásico: plátano y espinaca" },
+    { "type": "ul", "items": [
+      "1 sobre de Matcha Pep-T",
+      "180 ml de agua fría",
+      "1 plátano mediano",
+      "1 taza de hojas de espinaca cruda, bien lavadas y desinfectadas"
+    ] },
+    { "type": "p", "text": "La espinaca casi no se nota en el sabor; lo que aporta es color y volumen con muy pocas calorías. Es la mejor puerta de entrada si nunca has metido verduras en un batido." },
+    { "type": "h3", "text": "2. Tropical: mango y plátano" },
+    { "type": "ul", "items": [
+      "1 sobre de Matcha Pep-T",
+      "180 ml de agua fría",
+      "Medio plátano",
+      "100 g de mango maduro en trozos (más o menos media taza)"
+    ] },
+    { "type": "p", "text": "El mango aporta perfume y una textura sedosa. Va muy bien con las notas de coco del producto. En temporada, entre fines de año y el verano, el mango norteño está en su mejor momento." },
+    { "type": "h3", "text": "3. Ácido y fresco: aguaymanto" },
+    { "type": "ul", "items": [
+      "1 sobre de Matcha Pep-T",
+      "180 ml de agua fría",
+      "Medio plátano",
+      "80 g de aguaymanto sin capuchón (un puñado generoso)"
+    ] },
+    { "type": "p", "text": "El aguaymanto le da un punto cítrico que corta la cremosidad. Si te resulta muy ácido, sube a un plátano entero en lugar de añadir azúcar." },
+    { "type": "h3", "text": "4. Cremoso de media mañana: con leche" },
+    { "type": "ul", "items": [
+      "1 sobre de Matcha Pep-T",
+      "180 ml de leche descremada fría o bebida vegetal",
+      "1 plátano mediano congelado"
+    ] },
+    { "type": "p", "text": "Es el más parecido a un batido de juguería: espeso y lleno. Conviene reservarlo para un momento en que de verdad necesites algo contundente, como un refrigerio antes de una tarde larga de clases o de reuniones." },
+    { "type": "h2", "text": "Cómo preparar cualquier smoothie de Matcha Pep-T" },
+    { "type": "steps", "items": [
+      { "name": "Líquido y sobre primero", "text": "Vierte los 180 ml de agua o leche en la licuadora, agrega el sobre de 15 g y licúa 5 segundos para disolverlo antes de que entre la fruta." },
+      { "name": "Añade lo blando", "text": "Suma las hojas de espinaca, si las usas, y la fruta fresca. Las hojas abajo se trituran mejor." },
+      { "name": "Termina con lo congelado", "text": "Coloca encima el plátano congelado o un par de cubos de hielo si toda tu fruta es fresca." },
+      { "name": "Licúa hasta que quede liso", "text": "Entre 30 y 45 segundos suelen bastar. Si queda muy espeso, añade agua de a dos cucharadas." },
+      { "name": "Sirve y toma al momento", "text": "La fruta licuada se oxida y cambia de color con el paso de los minutos, así que no lo dejes para después." }
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "La parte que pone el sobre", "text": "Según la etiqueta, 1 sobre de 15 g preparado en 180 ml de agua aporta 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y el 45 % del valor diario de cromo. Todo lo que añadas en un smoothie se suma a esas cifras." },
+    { "type": "h2", "text": "Calorías del smoothie de Matcha Pep-T según la receta" },
+    { "type": "p", "text": "La columna del sobre es fija y sale de la etiqueta. La fruta y la leche se calcularon con valores de referencia de tablas de composición de alimentos, así que son aproximaciones: un plátano grande o una leche de otra marca mueven el resultado." },
+    { "type": "table", "caption": "Calorías aproximadas por vaso", "headers": ["Combinación", "Sobre", "Resto de ingredientes", "Total aprox."], "rows": [
+      ["Verde clásico", "46 kcal", "Plátano mediano + espinaca: unas 110 kcal", "155–160 kcal"],
+      ["Tropical", "46 kcal", "Medio plátano + 100 g de mango: unas 115 kcal", "160 kcal"],
+      ["Aguaymanto", "46 kcal", "Medio plátano + 80 g de aguaymanto: unas 95 kcal", "140–145 kcal"],
+      ["Cremoso con leche", "46 kcal", "Leche descremada + plátano: unas 170 kcal", "215–220 kcal"]
+    ] },
+    { "type": "p", "text": "Una cucharada de mantequilla de maní suma alrededor de 90 kcal más, y una cucharada de miel cerca de 60. Si estás cuidando tu ingesta, son los primeros extras que conviene medir. La página de [calorías de Matcha Pep-T](/ingredientes-matcha-pep-t/calorias/) explica cómo cambia el aporte con cada leche." },
+    { "type": "cta", "text": "¿Te faltan sobres para tus smoothies de la semana? Mira el precio del doypack original." },
+    { "type": "h2", "text": "Lo que conviene saber antes de hacerlo hábito" },
+    { "type": "p", "text": "Un smoothie con fruta entera conserva la fibra de la fruta, pero también concentra sus azúcares naturales en un solo vaso que se toma rápido. Para la mayoría de personas no es un problema dentro de una alimentación equilibrada; aun así, es distinto a comer la fruta a mordiscos." },
+    { "type": "callout", "variant": "aviso", "title": "Si controlas tu glucosa", "text": "Si tienes diabetes, prediabetes o tomas medicación para el azúcar en sangre, consulta con tu médico o nutricionista antes de sumar batidos con fruta a tu rutina. Matcha Pep-T no es un medicamento ni reemplaza ningún tratamiento. Más contexto en la página sobre [Matcha Pep-T y diabetes](/opiniones-matcha-pep-t/diabetes/)." },
+    { "type": "p", "text": "Otro punto práctico: usa un solo sobre por vaso y por día, que es lo que indica la etiqueta. Si un día tomas tu smoothie, ese es tu sobre del día; no hace falta sumar además el latte." },
+    { "type": "p", "text": "Para tener sobres originales en casa, revisa las opciones en la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/): el doypack de 14 sobres cuesta S/ 158.00, es decir, S/ 11.29 por sobre. Y si quieres repasar la preparación básica antes de experimentar, la [guía para preparar Matcha Pep-T](/como-preparar-matcha-pep-t/) tiene todas las variantes." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo usar plátano de isla o de otra variedad?", "a": "Sí. El plátano de seda es el más dulce y cremoso, pero el de isla o el bizcocho también funcionan. Lo importante es que esté maduro; el verde deja un gusto a almidón y espesa de forma pastosa." },
+    { "q": "¿La espinaca cruda tiene que desinfectarse?", "a": "Conviene hacerlo como con cualquier verdura que se come cruda: lávala hoja por hoja bajo el chorro y desinféctala con un producto apto para alimentos, siguiendo las indicaciones de su etiqueta. Luego enjuaga con agua segura." },
+    { "q": "¿Se puede preparar la noche anterior?", "a": "No es lo ideal, porque la fruta se oxida y la textura se separa. Lo que sí puedes dejar listo es una bolsa en el congelador con la fruta ya cortada y porcionada para cada vaso; en la mañana solo licúas." },
+    { "q": "¿Qué otras frutas peruanas combinan?", "a": "La fresa, la piña y la granadilla funcionan bien con el sabor a matcha latte. La lúcuma también, aunque espesa mucho y aporta más calorías, así que úsala en poca cantidad." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central (composición de alimentos)", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "Instituto Nacional de Salud del Perú – Tablas peruanas de composición de alimentos", "url": "https://www.ins.gob.pe/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/frappe/",
+    "/como-preparar-matcha-pep-t/latte-con-avena/",
+    "/ingredientes-matcha-pep-t/calorias/",
+    "/opiniones-matcha-pep-t/diabetes/"
+  ]
+}

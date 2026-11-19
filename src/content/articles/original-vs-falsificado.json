@@ -1,0 +1,81 @@
+{
+  "slug": "original-vs-falsificado",
+  "pillar": "precio-matcha-pep-t-peru",
+  "path": "/precio-matcha-pep-t-peru/original-vs-falsificado/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T original",
+  "title": "Matcha Pep-T original: 6 señales para no caer en un falsificado",
+  "seoTitle": "Matcha Pep-T original: cómo reconocerlo",
+  "metaDescription": "Matcha Pep-T original: revisa sello, lote, vencimiento, registro sanitario y el texto exacto de la etiqueta. Aprende a detectar un falsificado a tiempo.",
+  "excerpt": "Seis comprobaciones concretas, con la etiqueta en la mano, para saber si tu doypack de Matcha Pep-T es original o conviene no consumirlo.",
+  "quickAnswer": "Un Matcha Pep-T original llega con el doypack y los sobres sellados, lote y fecha de vencimiento impresos, registro sanitario visible y una etiqueta que coincide al pie de la letra con la oficial: 46 kcal, 4.7 g de proteína y 4.9 g de fibra por sobre. Un precio muy por debajo de S/ 158.00 es una alerta.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "Flat lay of a magnifying glass resting on a light linen tablecloth next to a small ceramic bowl of fine green matcha powder and a bamboo whisk, soft natural daylight, calm investigative mood, no packaging, no text, no logos, no people",
+    "alt": "Lupa junto a un bol de polvo de matcha sobre un mantel claro, en alusión a revisar la autenticidad"
+  },
+  "blocks": [
+    { "type": "p", "text": "Un polvo verde dentro de un sobre se parece mucho a otro polvo verde dentro de otro sobre. Esa es justamente la ventaja de quien falsifica o reenvasa: a simple vista cuesta notar la diferencia, y menos si el paquete llegó por un vendedor de redes un viernes por la noche." },
+    { "type": "p", "text": "La buena noticia es que no necesitas un laboratorio. Con la etiqueta en la mano y unos minutos de atención puedes comprobar lo básico. Estas son las señales que sí se pueden verificar en casa." },
+    { "type": "h2", "text": "Matcha Pep-T original: lo que debes revisar primero" },
+    { "type": "p", "text": "Antes de entrar en detalle, una regla general: **ninguna señal por sí sola es definitiva**. Un falsificador puede imitar bien un empaque, pero difícilmente acierta en todo a la vez. Por eso conviene revisar el conjunto." },
+    { "type": "ol", "items": [
+      "Doypack y sobres sellados.",
+      "Lote y fecha de vencimiento impresos y legibles.",
+      "Registro sanitario visible en el empaque.",
+      "Lista de ingredientes idéntica a la oficial.",
+      "Tabla nutricional con los valores exactos.",
+      "Un precio coherente con los S/ 158.00 de referencia."
+    ] },
+    { "type": "h2", "text": "1. Sellos intactos, de afuera hacia adentro" },
+    { "type": "p", "text": "El doypack debe llegar cerrado de fábrica y, dentro, los **14 sobres de 15 g** deben estar sellados de forma individual. Desconfía si el cierre del doypack parece haberse abierto y vuelto a pegar, si hay sobres de más o de menos, o si alguno tiene el borde irregular, como sellado a mano." },
+    { "type": "p", "text": "Un sobre inflado, pegajoso o con polvo filtrado en el exterior tampoco es buena señal, aunque no siempre implica falsificación: también puede indicar un mal almacenamiento. En ambos casos, lo prudente es no consumirlo." },
+    { "type": "h2", "text": "2. Lote y fecha de vencimiento" },
+    { "type": "p", "text": "Todo alimento envasado debe indicar su lote y su fecha de vencimiento. Comprueba que estén impresos con claridad, que no estén raspados, cubiertos por una etiqueta encima o escritos a mano, y que la fecha no haya pasado ni esté demasiado próxima para el tiempo que te tomará terminar el doypack." },
+    { "type": "h2", "text": "3. Registro sanitario" },
+    { "type": "p", "text": "Los alimentos industrializados que se venden en Perú deben contar con registro sanitario, que en el empaque figura con su código. Su ausencia es una alerta seria. Qué es ese registro, quién lo otorga y cómo consultarlo lo explicamos en [registro sanitario DIGESA de Matcha Pep-T](/opiniones-matcha-pep-t/registro-sanitario/)." },
+    { "type": "h2", "text": "4 y 5. La etiqueta tiene que decir exactamente esto" },
+    { "type": "p", "text": "Aquí es donde muchas copias fallan, porque reproducir un texto largo sin errores exige cuidado. Compara palabra por palabra la lista de ingredientes de tu empaque con la oficial:" },
+    { "type": "callout", "variant": "etiqueta", "title": "Ingredientes declarados en la etiqueta oficial", "text": "Colágeno Hidrolizado (Péptidos de Proteína de Colágeno - Nextida® GC), Fibra de Maíz, Crema de Coco, Mix de Té Matcha y Chía, Isomaltulosa (Disacáridos obtenidos de la Betarraga - Palatinose™), Tapioca, Saborizantes Naturales (Crema Caramelo y Leche de Coco), Espesante (Goma Xantana), Antiaglutinante (Dióxido de Silicio), Estevia (Glicósidos de Esteviol de Stevia rebaudiana Bertoni - Edulcorante), Emulsionante (Lecitina de Girasol), Cromo." },
+    { "type": "p", "text": "Fíjate también en el orden: el colágeno hidrolizado va primero y el cromo, al final. Si aparece azúcar como ingrediente, si falta la referencia a Nextida® GC o si el edulcorante es otro, algo no cuadra. Luego revisa la tabla nutricional por porción (1 sobre de 15 g en 180 ml de agua):" },
+    { "type": "table", "caption": "Valores por porción que deben figurar en la tabla nutricional", "headers": ["Nutriente", "Por porción", "% VD"], "rows": [
+      ["Energía", "46 kcal (191 kJ)", "2 %"],
+      ["Grasa total", "0.6 g", "1 %"],
+      ["Sodio", "28 mg", "1 %"],
+      ["Carbohidratos", "7.8 g", "3 %"],
+      ["Fibra dietaria", "4.9 g", "18 %"],
+      ["Azúcares totales / añadidos", "2.0 g / 0.9 g", "2 %"],
+      ["Proteína", "4.7 g", "9 %"],
+      ["Cromo", "14.9 µg", "45 %"]
+    ] },
+    { "type": "p", "text": "Otros datos fijos que puedes cotejar: la presentación es **doypack de 14 sobres x 15 g**, con un peso neto de **210 g**, y el sabor declarado es matcha latte natural. Una etiqueta con otra cantidad de sobres, otro gramaje o una porción preparada con un volumen distinto de agua no corresponde al producto oficial." },
+    { "type": "cta", "text": "Evita dudas desde el inicio: compra Matcha Pep-T original en la tienda oficial del distribuidor autorizado." },
+    { "type": "h2", "text": "6. Un precio que no tiene sentido" },
+    { "type": "p", "text": "El precio de referencia en la tienda oficial es **S/ 158.00 por doypack**, es decir, **S/ 11.29 por sobre**. Las promociones oficiales existen, pero tienen límites razonables. Cuando alguien ofrece el producto a la mitad, o vende sobres sueltos a un precio que no cuadra, la pregunta obligada es de dónde salió esa mercadería." },
+    { "type": "p", "text": "Puede tratarse de un falsificado, de un lote vencido o por vencer, o de producto mal almacenado. Cómo reconocer una promoción legítima lo explicamos en [ofertas y promociones de Matcha Pep-T](/precio-matcha-pep-t-peru/ofertas-y-promociones/), y los riesgos propios de los marketplaces, en [comprar Matcha Pep-T en Mercado Libre y redes](/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/)." },
+    { "type": "h2", "text": "Qué hacer si sospechas de tu doypack" },
+    { "type": "ul", "items": [
+      "**No lo consumas** mientras tengas dudas, por más que el sabor parezca normal.",
+      "**Toma fotos** del empaque, del lote, del vencimiento y de la etiqueta completa.",
+      "**Conserva la prueba de compra**: capturas del chat, comprobante o voucher.",
+      "**Reclama al vendedor** y, si no responde, puedes acudir a INDECOPI como consumidor."
+    ] },
+    { "type": "p", "text": "Si lo compraste en el canal oficial y algo no está bien, revisa las condiciones de [garantía y devoluciones](/opiniones-matcha-pep-t/garantia-y-devoluciones/). En la práctica, la mejor prueba de originalidad es el origen: comprar en la tienda oficial te ahorra todas estas verificaciones. Puedes hacerlo desde la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/), y si quieres el panorama completo de precio y canales, vuelve a la [guía de precio de Matcha Pep-T en Perú](/precio-matcha-pep-t-peru/)." }
+  ],
+  "faqs": [
+    { "q": "¿El color o el sabor sirven para saber si es original?", "a": "Ayudan poco, porque la percepción es subjetiva y puede variar por cómo lo prepares. Son mucho más fiables el sello, el lote, el vencimiento, el registro sanitario y la coincidencia exacta de la etiqueta." },
+    { "q": "¿Un sobre suelto puede ser original?", "a": "Puede venir de un doypack original, pero no tienes forma de comprobarlo: no sabes su lote, su vencimiento completo ni cómo se guardó. Por eso no recomendamos comprar sobres sueltos a terceros." },
+    { "q": "¿Qué pasa si la etiqueta dice sin azúcar?", "a": "Desconfía. La etiqueta oficial declara 2.0 g de azúcares totales, de los cuales 0.9 g son añadidos por porción. El producto está endulzado con estevia y tiene muy poca azúcar, pero no figura como libre de ella." },
+    { "q": "¿Los revendedores siempre venden falsificados?", "a": "No necesariamente. El riesgo está en que no puedes verificar el origen ni las condiciones de almacenamiento, y si surge un problema, el respaldo suele ser nulo." }
+  ],
+  "sources": [
+    { "label": "DIGESA – Registro sanitario de alimentos", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "INDECOPI – Protección al consumidor", "url": "https://www.gob.pe/indecopi" }
+  ],
+  "related": [
+    "/opiniones-matcha-pep-t/registro-sanitario/",
+    "/precio-matcha-pep-t-peru/riesgos-de-comprar-en-marketplaces/",
+    "/precio-matcha-pep-t-peru/ofertas-y-promociones/",
+    "/precio-matcha-pep-t-peru/donde-comprar-original-en-lima/"
+  ]
+}

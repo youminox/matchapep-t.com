@@ -1,0 +1,69 @@
+{
+  "slug": "novedades-y-lanzamiento",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/novedades-y-lanzamiento/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T nuevo FuXion",
+  "title": "Matcha Pep-T, lo nuevo de FuXion: qué trae y por qué destaca",
+  "seoTitle": "Matcha Pep-T nuevo de FuXion: qué trae de diferente",
+  "metaDescription": "Matcha Pep-T, lo nuevo de FuXion: el primer matcha latte de la marca con colágeno Nextida GC, por qué llega en plena ola GLP-1 y qué conviene mirar con calma.",
+  "excerpt": "Un matcha latte con péptidos de colágeno Nextida GC, fibra, chía y cromo que llega en plena conversación sobre GLP-1. Repasamos qué tiene de nuevo y qué no promete.",
+  "quickAnswer": "Matcha Pep-T es el nuevo lanzamiento de FuXion y, según comunica la marca, su primer matcha latte con péptidos de colágeno Nextida® GC. Combina formato latte cremoso, fibra, chía y cromo en 46 kcal por sobre, y aparece en plena conversación sobre GLP-1, aunque no es un medicamento ni actúa como uno.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A minimalist cafe-style counter in a bright Barranco apartment with a freshly prepared green matcha latte in a clear glass, a bamboo whisk and a small dish of chia seeds, soft afternoon light, modern and fresh mood, no packaging, no text, no logos, no people",
+    "alt": "Matcha latte verde recién preparado en un vaso transparente junto a un batidor de bambú y un platito con semillas de chía"
+  },
+  "blocks": [
+    { "type": "p", "text": "En los últimos dos años, la sigla GLP-1 pasó de los congresos médicos a las conversaciones de sobremesa, los reels y los anaqueles. En ese escenario, que un matcha latte llegue con colágeno de un tipo específico y un nombre que termina en «Pep-T» no es casualidad: responde a una tendencia muy concreta." },
+    { "type": "p", "text": "Aquí repasamos qué tiene de nuevo este lanzamiento, por qué está generando tanta curiosidad en Perú y qué conviene leer con calma antes de dejarse llevar por la novedad. Si buscas primero la definición general, revisa [qué es Matcha Pep-T y para qué sirve](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "Matcha Pep-T, lo nuevo de FuXion: qué trae de diferente" },
+    { "type": "p", "text": "Según comunica la marca, Matcha Pep-T es el **primer matcha latte de FuXion que incorpora péptidos de colágeno Nextida® GC**. La novedad no está en un solo ingrediente, sino en la combinación y en el formato:" },
+    { "type": "table", "caption": "Elementos que distinguen la fórmula, según la etiqueta", "headers": ["Elemento", "Qué es", "Por qué llama la atención"], "rows": [
+      ["Nextida® GC", "Péptidos de colágeno de Rousselot, primer ingrediente de la lista", "Es un colágeno diseñado para estudiar su efecto sobre la glucosa, no un colágeno genérico"],
+      ["Formato matcha latte", "Té matcha con crema de coco y sabor a crema caramelo", "Sabor de cafetería en un sobre de 15 g, sin lácteos en la lista de ingredientes"],
+      ["Fibra y chía", "Fibra de maíz más mezcla de matcha y chía", "4.9 g de fibra por porción, el 18 % del valor diario"],
+      ["Cromo", "Mineral declarado en la etiqueta", "14.9 µg por porción, el 45 % del valor diario"],
+      ["Isomaltulosa y estevia", "Carbohidrato de liberación lenta y edulcorante", "Solo 0.9 g de azúcares añadidos por porción"]
+    ] },
+    { "type": "p", "text": "Todo eso cabe en **46 kcal y 4.7 g de proteína** por porción, preparada con 1 sobre en 180 ml de agua. El nombre también da pistas: «Pep» remite a los péptidos y la «T» al té." },
+    { "type": "h2", "text": "La tendencia GLP-1 en 2025 y 2026" },
+    { "type": "p", "text": "El GLP-1 es una hormona que el intestino libera al comer y que participa en la saciedad, la liberación de insulina y el ritmo con que el estómago se vacía. Si quieres entenderla sin tecnicismos, te lo contamos en [qué es el GLP-1](/ciencia-matcha-pep-t/que-es-glp-1/)." },
+    { "type": "p", "text": "La conversación explotó por los fármacos que imitan esa hormona, como la semaglutida, que se usan bajo receta para diabetes tipo 2 y obesidad. Su popularidad mundial, los precios y los debates sobre su uso llevaron a la industria de alimentos a buscar ingredientes que apoyen la liberación natural de estas hormonas mediante proteína, fibra y péptidos específicos. Matcha Pep-T aparece justamente en ese contexto." },
+    { "type": "p", "text": "Conviene marcar la diferencia desde el inicio: un fármaco agonista de GLP-1 y una bebida con péptidos no son equivalentes ni intercambiables. La comparación completa está en [Matcha Pep-T frente a Ozempic](/ciencia-matcha-pep-t/vs-ozempic/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Qué dicen los estudios del ingrediente", "text": "En estudios del fabricante del ingrediente (Rousselot), con dosis de 5–10 g de Nextida GC aislado tomadas unos 30 minutos antes de comer, se observó un menor pico de glucosa posprandial y mayor liberación de GLP-1 y GIP. Son resultados del ingrediente, no de Matcha Pep-T, y la cantidad de Nextida GC por sobre no está declarada en la etiqueta." },
+    { "type": "cta", "text": "¿Te da curiosidad probar la novedad? Revisa el precio oficial: S/ 158.00 por doypack de 14 sobres." },
+    { "type": "h2", "text": "Por qué está llamando tanto la atención en Perú" },
+    { "type": "ul", "items": [
+      "**El matcha está de moda.** En las cafeterías de Miraflores, Barranco o San Isidro, el matcha latte ya es parte de la carta habitual, y mucha gente lo pide como alternativa al café.",
+      "**Une dos conversaciones del momento**: la del colágeno, muy conocida, y la de las hormonas de la saciedad, que es más reciente.",
+      "**Es práctico.** Un sobre se prepara en un minuto con agua fría o caliente, sin licuadora ni máquina.",
+      "**El costo por porción es manejable** frente a un latte de cafetería: S/ 11.29 por sobre. La comparación está en [Matcha Pep-T frente al matcha latte de cafetería](/precio-matcha-pep-t-peru/precio-vs-matcha-latte-de-cafeteria/)."
+    ] },
+    { "type": "h2", "text": "Lo que conviene mirar con calma" },
+    { "type": "p", "text": "Que un producto sea nuevo y siga una tendencia no significa que haga todo lo que se dice en redes. Estos son los puntos que vale la pena tener presentes:" },
+    { "type": "ol", "items": [
+      "**La dosis de Nextida GC no está declarada.** Lo que sí sabemos es que la proteína total es 4.7 g por porción, por lo que no se pueden trasladar al sobre los resultados obtenidos con 5 o 10 g del ingrediente. El detalle está en [los estudios de Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-estudios/).",
+      "**La cafeína tampoco está declarada.** El matcha la contiene de forma natural, así que conviene prudencia de noche, en el embarazo o si eres sensible.",
+      "**No es un medicamento.** No reemplaza ningún tratamiento para la glucosa o el peso, y no promete kilos ni plazos.",
+      "**El contexto manda.** Funciona como parte de una alimentación ordenada, con comidas reales, movimiento y sueño suficiente."
+    ] },
+    { "type": "p", "text": "Si después de leer esto quieres probarlo, la recomendación de la etiqueta es sencilla: 1 sobre al día, en 180 ml de agua, idealmente en un horario fijo para ver cómo te sienta. Puedes hacer tu pedido en [la página de compra de Matcha Pep-T](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Dónde se consigue Matcha Pep-T en Perú?", "a": "FuXion comercializa sus productos principalmente a través de su red de distribuidores y su tienda online, no en supermercados. El precio de referencia es S/ 158.00 por 14 sobres." },
+    { "q": "¿Qué significa «GC» en Nextida GC?", "a": "Viene de glucose control, en inglés. Es el nombre que Rousselot dio a esta composición de péptidos de colágeno, desarrollada para estudiar su efecto sobre la glucosa después de las comidas." },
+    { "q": "¿Puede reemplazar a un medicamento GLP-1 recetado?", "a": "No. Matcha Pep-T es un alimento en polvo, no un fármaco. Si usas o evalúas un tratamiento con análogos de GLP-1, cualquier cambio debe decidirlo tu médico." },
+    { "q": "¿Contiene lácteos ese sabor a latte?", "a": "La cremosidad viene de la crema de coco y los saborizantes naturales de crema caramelo y leche de coco; la lista de ingredientes no incluye leche de vaca. Aun así, revisa siempre las advertencias de alérgenos del envase." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "Organización Mundial de la Salud – Obesidad y sobrepeso", "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight" }
+  ],
+  "related": [
+    "/ingredientes-matcha-pep-t/nextida-gc-que-es/",
+    "/ciencia-matcha-pep-t/que-es-glp-1/",
+    "/ciencia-matcha-pep-t/suplementos-glp-1-en-peru/",
+    "/que-es-matcha-pep-t/quien-fabrica-matcha-pep-t/"
+  ]
+}

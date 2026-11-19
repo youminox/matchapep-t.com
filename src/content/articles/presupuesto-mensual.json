@@ -1,0 +1,82 @@
+{
+  "slug": "presupuesto-mensual",
+  "pillar": "precio-matcha-pep-t-peru",
+  "path": "/precio-matcha-pep-t-peru/presupuesto-mensual/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T cuánto dura y cuánto gastar al mes",
+  "title": "Matcha Pep-T: cuánto dura y cuánto gastar al mes según tu rutina",
+  "seoTitle": "Matcha Pep-T: cuánto dura y cuánto gastar al mes",
+  "metaDescription": "Matcha Pep-T: cuánto dura y cuánto gastar al mes si lo tomas a diario, de lunes a viernes o 3 veces por semana. Cálculos claros en soles para planificar.",
+  "excerpt": "Tres escenarios de consumo con su gasto semanal y mensual en soles, para que sepas cuántos doypacks pedir y cada cuánto recomprar.",
+  "quickAnswer": "Matcha Pep-T cuánto dura y cuánto gastar al mes depende de cuántos días lo tomes. Con 1 sobre diario, un doypack de 14 sobres te da dos semanas y necesitas unos 2 doypacks al mes (S/ 316). De lunes a viernes, el promedio baja a unos S/ 245 mensuales; tres veces por semana, a cerca de un doypack (S/ 158).",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A paper wall calendar with a few days circled in green pencil, a glass of iced matcha latte and a small notebook with handwritten numbers on a light wood kitchen counter in a Lima apartment, soft overcast morning light, minimal style, no packaging, no text legible, no logos, no faces",
+    "alt": "Calendario de pared con días marcados junto a un vaso de matcha latte frío y una libreta de cuentas"
+  },
+  "blocks": [
+    { "type": "p", "text": "Antes de pedir tu primer doypack conviene hacer una cuenta sencilla: no cuánto cuesta el producto, sino cuánto te va a costar **mantener el hábito** durante un mes normal, con sus quincenas, sus feriados y esos días en que sales corriendo sin desayunar." },
+    { "type": "p", "text": "En esta guía partimos de los datos fijos de la tienda oficial y los aplicamos a tres rutinas reales. Así puedes elegir el escenario que se parece al tuyo y saber de antemano cuántos doypacks necesitas y en qué fecha te tocará volver a pedir." },
+    { "type": "h2", "text": "Los números de partida" },
+    { "type": "p", "text": "Todo el cálculo sale de tres cifras. Un doypack de Matcha Pep-T trae **14 sobres de 15 g**, su precio de lista es **S/ 158.00** y, dividido entre los 14 sobres, cada porción cuesta **S/ 11.29**. Cada sobre se prepara con 180 ml de agua y equivale a una sola bebida." },
+    { "type": "p", "text": "Si quieres ver cómo se llega al costo por porción y cómo se compara con otros gastos del día, lo desarrollamos en [cuánto cuesta un sobre de Matcha Pep-T](/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/). Aquí nos centramos en el calendario: semanas, meses y recompras." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el envase", "text": "La porción es 1 sobre (15 g) disuelto en 180 ml de agua, con 46 kcal, 4.7 g de proteína y 4.9 g de fibra. Los escenarios de esta página nunca superan 1 sobre al día, que es la referencia de la etiqueta." },
+    { "type": "h2", "text": "Matcha Pep-T: cuánto dura y cuánto gastar al mes en tres escenarios" },
+    { "type": "p", "text": "La tabla resume el gasto aproximado de cada rutina. Los montos mensuales son promedios: como solo puedes comprar doypacks completos, lo que pagues en un mes concreto dependerá del día en que hagas tu pedido." },
+    { "type": "table", "caption": "Gasto estimado según frecuencia de consumo (precio de lista S/ 158.00)", "headers": ["Escenario", "Sobres por semana", "Gasto por semana", "Doypacks al mes", "Gasto mensual aprox."], "rows": [["Todos los días", "7", "S/ 79.03", "2 (y un poco más)", "S/ 316 a S/ 342"], ["Lunes a viernes", "5", "S/ 56.45", "Alrededor de 1.5", "Unos S/ 245"], ["Tres días por semana", "3", "S/ 33.87", "Cerca de 1", "S/ 147 a S/ 158"]] },
+    { "type": "h3", "text": "Escenario 1: un sobre todos los días" },
+    { "type": "p", "text": "Es la rutina de quien lo toma como desayuno ligero o como bebida fija de media tarde, incluidos sábados y domingos. Un doypack cubre exactamente **dos semanas**, así que dos doypacks (**S/ 316**) te dan 28 días." },
+    { "type": "p", "text": "El detalle está en los meses de 30 y 31 días: te faltarán 2 o 3 sobres. Si lo miras en todo el año, necesitas unos 26 doypacks (S/ 4,108), lo que da un promedio cercano a **S/ 342 al mes**. En la práctica, la mayoría resuelve esa diferencia haciendo un tercer pedido cada cierto tiempo o saltándose algún domingo." },
+    { "type": "h3", "text": "Escenario 2: solo de lunes a viernes" },
+    { "type": "p", "text": "Encaja con quien lo prepara antes de salir a la oficina en San Isidro o lo lleva en el shaker para tomarlo después de la combi. Son 5 sobres por semana, es decir, **S/ 56.45 semanales**." },
+    { "type": "p", "text": "Un doypack te dura dos semanas y cuatro días hábiles. Tres doypacks (42 sobres) alcanzan para algo más de ocho semanas, casi dos meses. Promediado, el gasto ronda los **S/ 245 mensuales**: unos S/ 70 menos que el escenario diario, a cambio de dejar libres los fines de semana." },
+    { "type": "h3", "text": "Escenario 3: tres veces por semana" },
+    { "type": "p", "text": "Pensado para quien trabaja en modalidad híbrida o lo reserva para los días de gimnasio, clases en la universidad o turnos largos. Con 3 sobres por semana gastas **S/ 33.87 semanales** y un doypack te dura un poco más de un mes." },
+    { "type": "p", "text": "Es la forma más fácil de presupuestar: **un doypack al mes, S/ 158**, y de vez en cuando te sobra algún sobre para el mes siguiente." },
+    { "type": "cta", "text": "¿Ya sabes qué rutina es la tuya? Revisa el precio vigente y pide los doypacks que necesitas en la tienda oficial." },
+    { "type": "h2", "text": "Cálculo por semana: la cuenta que puedes hacer tú" },
+    { "type": "p", "text": "Si tu rutina no coincide con ninguno de los tres escenarios, la fórmula es directa y la puedes hacer en la calculadora del celular:" },
+    { "type": "ol", "items": [
+      "Cuenta cuántos sobres tomarás por semana (por ejemplo, 4).",
+      "Multiplica por S/ 11.29 para obtener tu gasto semanal (4 × 11.29 = S/ 45.16).",
+      "Multiplica ese resultado por 4.33, el número promedio de semanas en un mes (unos S/ 196).",
+      "Para saber cuántos doypacks pedir, divide los sobres del mes entre 14 y redondea hacia arriba."
+    ] },
+    { "type": "p", "text": "El resultado en soles es una estimación del valor que consumes. Lo que sale de tu bolsillo cada mes puede variar un poco porque compras por doypack, no por sobre, y porque el envío se suma por pedido." },
+    { "type": "h2", "text": "Cada cuánto recomprar para no quedarte sin sobres" },
+    { "type": "p", "text": "Quedarse sin producto a mitad de semana es la razón más común por la que se corta un hábito. Unas reglas prácticas según tu escenario:" },
+    { "type": "ul", "items": [
+      "**Diario**: pide cuando te queden unos 4 sobres. Así el nuevo pedido llega antes de terminar, incluso si el reparto se demora un par de días.",
+      "**Lunes a viernes**: si pides dos doypacks juntos, tienes para más de cinco semanas y reduces la cantidad de envíos que pagas.",
+      "**Tres veces por semana**: fija una fecha, como el día de tu pago de fin de mes, y haz el pedido siempre ese día.",
+      "**Provincias**: añade unos días de margen, porque el plazo de entrega fuera de Lima suele ser mayor; el plazo exacto se muestra al pagar."
+    ] },
+    { "type": "p", "text": "Ojo: esta página habla de rendimiento en días de consumo. Si te preocupa cuánto tiempo se mantiene bien el producto una vez abierto o cuál es su vida útil, eso lo explicamos en [cuánto dura un doypack de Matcha Pep-T](/opiniones-matcha-pep-t/cuanto-dura-un-doypack/)." },
+    { "type": "h2", "text": "Formas de que el gasto mensual pese menos" },
+    { "type": "p", "text": "No hay trucos mágicos, pero sí decisiones que ordenan el presupuesto:" },
+    { "type": "ul", "items": [
+      "**Agrupa pedidos.** Comprar dos doypacks en un solo pedido suele salir mejor que hacer dos pedidos separados, porque el costo de envío se calcula por despacho. Confírmalo en tu carrito.",
+      "**Elige tu frecuencia real, no la ideal.** Si sabes que los fines de semana desayunas fuera con la familia, el escenario de lunes a viernes refleja mejor tu gasto que el diario.",
+      "**Evalúa si te conviene registrarte.** Si lo consumes todos los días, quizá te interese comparar el precio de lista con el de afiliado; lo explicamos en [precio de socio frente a precio de cliente](/precio-matcha-pep-t-peru/precio-socio-vs-cliente/).",
+      "**No dupliques porciones para que rinda más rápido.** Tomar más de un sobre al día no está indicado por la etiqueta; en [cuántos sobres de Matcha Pep-T tomar al día](/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/) está el porqué."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Un gasto de alimentación, no un tratamiento", "text": "Matcha Pep-T es una bebida en polvo, no un medicamento. Presupuéstalo como parte de tu alimentación diaria. Si estás embarazada, tienes diabetes o tomas medicación, consulta con un profesional de salud antes de convertirlo en un hábito." },
+    { "type": "h2", "text": "Antes de hacer tu pedido" },
+    { "type": "p", "text": "Con tu escenario definido, solo queda comprar la cantidad correcta. En la [guía completa del precio de Matcha Pep-T en Perú](/precio-matcha-pep-t-peru/) tienes la ficha con todos los datos, y en la página para [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) encuentras el acceso directo a la tienda oficial. Antes de pagar, revisa siempre el total con envío incluido: ese es el número que va a tu presupuesto." }
+  ],
+  "faqs": [
+    { "q": "¿Cuántos doypacks debo pedir la primera vez?", "a": "Si no sabes aún con qué frecuencia lo tomarás, empieza con uno. Te servirá para dos semanas diarias o casi tres semanas de lunes a viernes, tiempo suficiente para decidir tu rutina antes del segundo pedido." },
+    { "q": "¿El gasto mensual incluye el envío?", "a": "No. Los montos de esta página se calculan solo con el precio de lista de S/ 158.00 por doypack. El costo de envío depende de tu distrito o ciudad y se muestra en el carrito antes de pagar." },
+    { "q": "¿Qué pasa si el precio cambia o hay una promoción?", "a": "Repite el cálculo con el nuevo precio: divídelo entre 14 para obtener el costo por sobre y aplica la misma fórmula semanal. El precio vigente es siempre el que aparece en la tienda oficial al momento de comprar." },
+    { "q": "¿Puedo compartir un doypack con mi pareja?", "a": "Sí, pero el doypack se acabará el doble de rápido. Si ambos lo toman a diario, cuenten con unos 4 doypacks al mes (S/ 632) y planifiquen la recompra cada semana." }
+  ],
+  "sources": [
+    { "label": "Tienda oficial del distribuidor – Matcha Pep-T", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" }
+  ],
+  "related": [
+    "/precio-matcha-pep-t-peru/cuanto-cuesta-un-sobre/",
+    "/opiniones-matcha-pep-t/cuanto-dura-un-doypack/",
+    "/precio-matcha-pep-t-peru/precio-socio-vs-cliente/",
+    "/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/"
+  ]
+}

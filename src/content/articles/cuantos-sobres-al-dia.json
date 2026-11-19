@@ -1,0 +1,76 @@
+{
+  "slug": "cuantos-sobres-al-dia",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/cuantos-sobres-al-dia/",
+  "isPillar": false,
+  "primaryKeyword": "cuántos Matcha Pep-T al día",
+  "title": "¿Cuántos Matcha Pep-T al día? Por qué la referencia es uno",
+  "seoTitle": "Cuántos Matcha Pep-T al día puedes tomar: 1 sobre",
+  "metaDescription": "Cuántos Matcha Pep-T al día: la etiqueta indica 1 sobre (1 porción) en 180 ml y no exceder. Te explicamos por qué tomar más no da mejores resultados.",
+  "excerpt": "La etiqueta lo deja claro: una porción diaria. Aquí verás qué significa en la práctica y por qué duplicar la dosis suma cafeína, fibra y gasto, pero no beneficios.",
+  "quickAnswer": "¿Cuántos Matcha Pep-T al día? La referencia de la etiqueta es 1 sobre de 15 g diluido en 180 ml de agua, es decir, una porción diaria, con la indicación expresa de no exceder lo recomendado. Tomar dos o tres no multiplica los resultados y sí suma cafeína natural, fibra y gasto.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A single cup of pale green matcha latte on a small wooden tray next to a weekly paper planner with one checkmark per day, morning light on a kitchen table in a Lima home, calm minimalist mood, muted earthy tones, no packaging, no text, no logos, no people",
+    "alt": "Una sola taza de matcha latte sobre una bandeja de madera junto a una agenda semanal con una marca por día"
+  },
+  "blocks": [
+    { "type": "p", "text": "Es una lógica muy humana: si algo te cae bien, ¿por qué no tomar el doble? Con el café muchos lo hacen sin pensarlo, y con las bebidas funcionales la tentación es parecida, sobre todo cuando uno espera notar cambios rápido. En el caso de Matcha Pep-T, la respuesta corta es que no conviene." },
+    { "type": "p", "text": "En este artículo revisamos qué dice exactamente la etiqueta, qué pasa con cada nutriente si duplicas o triplicas la porción y en qué situaciones tiene sentido hablar con un profesional antes de ajustar la cantidad." },
+    { "type": "h2", "text": "Cuántos Matcha Pep-T al día indica la etiqueta" },
+    { "type": "p", "text": "La indicación es directa: **1 sobre de 15 g en 1 taza de agua (180 ml)**, y la nota del envase añade **no exceder lo recomendado**. La tabla nutricional está calculada para esa porción única, y el doypack contiene 14 porciones, es decir, 14 días si tomas una al día." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que aporta una porción (1 sobre en 180 ml)", "text": "46 kcal, 4.7 g de proteína, 4.9 g de fibra (18 % VD), 7.8 g de carbohidratos, 2.0 g de azúcares totales de los cuales 0.9 g son añadidos, y 14.9 µg de cromo (45 % VD). Contiene té matcha, con cafeína natural cuya cantidad no está declarada." },
+    { "type": "p", "text": "Esa es la cantidad que el fabricante evaluó para su etiquetado y la que respaldan los datos que puedes leer en el envase. Todo lo que vaya más allá es una decisión que la etiqueta no avala." },
+    { "type": "h2", "text": "Qué pasa si tomas dos o tres sobres" },
+    { "type": "p", "text": "Hagamos las cuentas con los datos de la etiqueta. Multiplicar la porción multiplica todo, no solo lo que te interesa:" },
+    { "type": "table", "caption": "Aporte acumulado según el número de sobres al día", "headers": ["Nutriente", "1 sobre", "2 sobres", "3 sobres"], "rows": [
+      ["Energía", "46 kcal", "92 kcal", "138 kcal"],
+      ["Fibra", "4.9 g", "9.8 g", "14.7 g"],
+      ["Proteína", "4.7 g", "9.4 g", "14.1 g"],
+      ["Azúcares añadidos", "0.9 g", "1.8 g", "2.7 g"],
+      ["Cromo (% VD)", "45 %", "90 %", "135 %"],
+      ["Cafeína natural", "No declarada", "El doble de lo no declarado", "El triple de lo no declarado"]
+    ] },
+    { "type": "p", "text": "Algunas filas parecen inofensivas, como las calorías. Otras merecen atención:" },
+    { "type": "ul", "items": [
+      "**Fibra concentrada:** casi 10 o 15 g de fibra añadida en pocas horas, sobre todo si tu dieta habitual no es muy rica en fibra, puede causar gases, hinchazón o molestias. El cuerpo se adapta mejor a aumentos graduales.",
+      "**Cromo por encima del valor diario:** con tres sobres superas el 100 % del valor diario solo con esta bebida, sin contar lo que aportan tus comidas u otros suplementos. No hay motivo para acumularlo. Más detalles en el artículo sobre el [cromo de Matcha Pep-T](/ingredientes-matcha-pep-t/cromo/).",
+      "**Cafeína desconocida:** como la cantidad no está declarada, al tomar varios sobres no sabes cuánta cafeína suma tu día, especialmente si también tomas café, té o gaseosas.",
+      "**Más dulzor:** aunque tiene muy poca azúcar, multiplicar porciones mantiene el paladar acostumbrado al sabor dulce de la estevia."
+    ] },
+    { "type": "p", "text": "Si notas alguna molestia incluso con un solo sobre, revisa la guía de [posibles efectos secundarios](/opiniones-matcha-pep-t/efectos-secundarios/) para saber cuándo conviene suspender y consultar." },
+    { "type": "h2", "text": "Por qué más no es mejor" },
+    { "type": "p", "text": "Hay un razonamiento que circula con frecuencia: los estudios de Nextida GC usaron 5 o 10 g del ingrediente, así que tomando varios sobres se llegaría a esa dosis. El planteamiento tiene dos problemas." },
+    { "type": "p", "text": "Primero, la cantidad de Nextida GC por sobre **no está declarada**; la etiqueta solo indica 4.7 g de proteína total. No hay forma de calcular cuántos sobres equivaldrían a la dosis de un estudio. Segundo, esos resultados son de **estudios del fabricante del ingrediente (Rousselot) con dosis de 5–10 g del ingrediente aislado**, no del producto terminado. Extrapolar de ahí a tres sobres diarios es ir más allá de lo que la evidencia permite." },
+    { "type": "p", "text": "Además, lo que Matcha Pep-T puede aportar en tu día (una pausa de 46 kcal con fibra y algo de proteína, que ayuda a llegar a la comida con menos hambre) no crece de forma proporcional. Un segundo vaso no te hace sentir el doble de satisfecho; simplemente suma otra bebida. Los cambios sostenibles dependen mucho más de lo que comes en el almuerzo y la cena, del sueño y de la actividad física." },
+    { "type": "cta", "text": "Con un sobre al día, un doypack te acompaña dos semanas: consulta el precio y cómo pedirlo." },
+    { "type": "h2", "text": "Un sobre al día en la práctica" },
+    { "type": "p", "text": "Tomar una sola porción también tiene una ventaja económica clara. El doypack de 14 sobres cuesta **S/ 158.00**, lo que equivale a unos **S/ 11.29 por sobre**. A un sobre diario te dura dos semanas; a dos sobres, apenas siete días, y el gasto mensual se duplica sin que el beneficio lo haga. Si quieres planificar compras, mira [cuánto dura un doypack](/opiniones-matcha-pep-t/cuanto-dura-un-doypack/) según tu ritmo de consumo." },
+    { "type": "p", "text": "Para sacarle el máximo provecho a esa única porción, lo que más importa es **el momento**. Tomarla unos 30 minutos antes del almuerzo, o usarla como reemplazo del snack de media tarde, suele tener más sentido que repartir varios sobres durante el día. Te lo explicamos en la guía sobre la [mejor hora para tomarlo](/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/)." },
+    { "type": "ol", "items": [
+      "Elige un momento fijo del día y deja el sobre a la vista: en tu mochila, en el cajón de la oficina o junto al hervidor.",
+      "Prepáralo siempre con los 180 ml de agua; no lo concentres para que rinda más ni lo diluyas para tomar dos vasos.",
+      "Si quieres otra bebida más tarde, opta por agua, una infusión sin cafeína o una limonada sin azúcar.",
+      "Anota durante una o dos semanas cómo te sientes: hambre antes del almuerzo, digestión y calidad de sueño."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo hablar con un profesional", "text": "Si estás embarazada o das de lactar, tienes diabetes o tomas medicamentos para la glucosa, tienes presión alta, enfermedad renal o eres sensible a la cafeína, consulta con tu médico o nutricionista antes de incorporarlo, incluso en la porción de un sobre. Matcha Pep-T es un alimento, no un medicamento." },
+    { "type": "p", "text": "En resumen, la cantidad correcta es la que figura en la etiqueta. Si te quedan dudas sobre la preparación, la [guía completa para preparar Matcha Pep-T](/como-preparar-matcha-pep-t/) reúne todas las variantes, y cuando necesites reponer, encuentras el precio vigente en la [página de compra](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar medio sobre dos veces al día?", "a": "Técnicamente el total sería una porción, pero tendrías que dividir el polvo a ojo y usar 90 ml de agua en cada toma para mantener la proporción. Es poco práctico y te aleja de la preparación indicada; resulta más sencillo tomar el sobre completo una sola vez." },
+    { "q": "¿Pueden tomarlo dos personas del mismo sobre?", "a": "No es lo recomendable. Un sobre es una porción individual y la tabla nutricional está calculada para una persona. Si son dos en casa, cada uno necesita su propio sobre, lo que también significa que el doypack dura la mitad." },
+    { "q": "¿Es necesario tomarlo todos los días?", "a": "No hay una indicación de uso continuo obligatorio en la etiqueta. Puedes tomarlo los días que mejor encaje en tu rutina; lo importante es no superar un sobre diario." },
+    { "q": "¿Qué hago si un día tomé dos por error?", "a": "En una persona sana, un descuido puntual no suele ser motivo de alarma, aunque podrías notar algo de hinchazón o más estimulación por la cafeína. Toma agua, evita otras bebidas con cafeína ese día y vuelve a un sobre al día siguiente. Si tienes una condición de salud o síntomas que te preocupen, consulta a un profesional." }
+  ],
+  "sources": [
+    { "label": "Ficha de Matcha Pep-T en la tienda del distribuidor autorizado", "url": "https://carlos-lingan.site.fuxion.com/producto/matcha-pep-t/" },
+    { "label": "NIH Office of Dietary Supplements – Chromium Fact Sheet", "url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/mejor-hora-para-tomarlo/",
+    "/opiniones-matcha-pep-t/cuanto-dura-un-doypack/",
+    "/como-preparar-matcha-pep-t/errores-al-prepararlo/",
+    "/opiniones-matcha-pep-t/efectos-secundarios/"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "cromo",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/cromo/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T cromo",
+  "title": "Matcha Pep-T y cromo: qué aportan 14.9 µg (45 % VD) por sobre",
+  "seoTitle": "Matcha Pep-T cromo: qué aporta el 45 % VD por sobre",
+  "metaDescription": "Matcha Pep-T cromo: qué es este mineral, su rol en el metabolismo de carbohidratos, qué significa el 45 % VD por sobre y cuáles son los límites seguros.",
+  "excerpt": "Es el último ingrediente de la lista y uno de los cuatro sellos del empaque. Te explicamos qué hace el cromo, qué significa el 45 % VD y cuándo conviene tener cuidado.",
+  "quickAnswer": "Matcha Pep-T aporta cromo: 14.9 µg por sobre, equivalente al 45 % del valor diario según su etiqueta. El cromo es un mineral traza que participa en la acción de la insulina y en el metabolismo de carbohidratos, grasas y proteínas. La cantidad está muy por debajo de las dosis asociadas a efectos adversos, aunque conviene sumar otros suplementos que tomes.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Minimalist still life of a glass of iced green matcha drink on a white desk beside a steamed broccoli bowl and a slice of whole grain bread, bright natural window light in a modern Lima apartment, clean composition, no text, no logos, no packaging, no people",
+    "alt": "Vaso de bebida de matcha con hielo junto a un bol de brócoli al vapor y una tajada de pan integral"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si das vuelta al doypack de Matcha Pep-T y lees la lista de ingredientes hasta el final, la última palabra es **«Cromo»**. Por la regla de ordenar de mayor a menor peso, eso significa que es el componente presente en menor cantidad. Y sin embargo, es uno de los cuatro atributos destacados en el frente del empaque, junto al colágeno, la fibra y la chía." },
+    { "type": "p", "text": "La paradoja tiene explicación: el cromo es un **mineral traza**, de esos que el cuerpo usa en cantidades minúsculas. Los 14.9 microgramos de un sobre equivalen aproximadamente a la cuarta parte de lo que pesa un solo grano de sal de mesa. Aquí revisamos qué hace, qué significa el porcentaje de la etiqueta y dónde están los límites. Si quieres ver el resto de la fórmula, consulta la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Qué es el cromo y en qué forma se consume" },
+    { "type": "p", "text": "El cromo existe en varias formas químicas, y la diferencia entre ellas es enorme:" },
+    { "type": "ul", "items": [
+      "**Cromo trivalente (cromo III):** es el que se encuentra en los alimentos y el que se usa en suplementos y alimentos fortificados.",
+      "**Cromo hexavalente (cromo VI):** es una forma industrial, presente en procesos como el cromado de metales o el curtido de cuero. Es tóxico y no tiene nada que ver con la nutrición."
+    ] },
+    { "type": "p", "text": "Cuando una etiqueta alimentaria menciona cromo, se refiere a la forma trivalente. La lista de Matcha Pep-T no especifica qué sal de cromo se usa (existen varias, como cloruro o picolinato), así que ese detalle no está declarado." },
+    { "type": "h2", "text": "Su rol en el metabolismo de los carbohidratos" },
+    { "type": "p", "text": "La función más estudiada del cromo es su relación con la **insulina**, la hormona que permite que la glucosa entre a las células. Se cree que el cromo potencia la señal de la insulina en las células, facilitando que la glucosa se aproveche. También participa en el metabolismo de grasas y proteínas." },
+    { "type": "p", "text": "En la Unión Europea, por ejemplo, se permite decir que el cromo **contribuye al metabolismo normal de los macronutrientes** y **al mantenimiento de niveles normales de glucosa en sangre**. Son declaraciones sobre una función normal del nutriente, no sobre efectos terapéuticos." },
+    { "type": "p", "text": "Conviene poner esto en perspectiva. La deficiencia real de cromo es muy rara en personas que comen variado y se ha documentado sobre todo en pacientes con nutrición intravenosa prolongada. Además, los estudios con suplementos de cromo en personas sin deficiencia han mostrado resultados inconsistentes, y la propia autoridad europea (EFSA) concluyó en 2014 que no había base suficiente para fijar un requerimiento diario." },
+    { "type": "callout", "variant": "etiqueta", "title": "Cromo declarado en la etiqueta", "text": "Por porción (1 sobre de 15 g en 180 ml de agua): **14.9 µg de cromo, 45 % VD**. Por cada 100 ml de bebida preparada: 8.3 µg. Es el último ingrediente de la lista." },
+    { "type": "h2", "text": "Matcha Pep-T y el cromo: qué significa el 45 % VD" },
+    { "type": "p", "text": "El porcentaje de valor diario se calcula sobre una cifra de referencia que usa la etiqueta para una dieta de 2000 kcal. Para saber qué representa en tu caso, sirve compararlo con las ingestas adecuadas que publica la Oficina de Suplementos Dietéticos de los Institutos Nacionales de Salud de EE. UU.:" },
+    { "type": "table", "caption": "Ingesta adecuada de cromo en adultos (NIH, EE. UU.) frente a un sobre", "headers": ["Grupo", "Ingesta adecuada diaria", "Un sobre (14.9 µg) cubre aprox."], "rows": [
+      ["Hombres de 19 a 50 años", "35 µg", "43 %"],
+      ["Mujeres de 19 a 50 años", "25 µg", "60 %"],
+      ["Hombres de 51 años a más", "30 µg", "50 %"],
+      ["Mujeres de 51 años a más", "20 µg", "75 %"]
+    ] },
+    { "type": "p", "text": "El resto llega por la comida. Brócoli, papas, carnes, granos integrales, algunas frutas y especias aportan cromo, aunque la cantidad varía mucho según el suelo de cultivo y el grado de procesamiento. Por eso las tablas de composición de alimentos para este mineral son poco precisas." },
+    { "type": "cta", "text": "Revisa el precio del doypack de 14 sobres y cómo pedirlo con despacho en Lima o envío a provincias." },
+    { "type": "h2", "text": "Límites seguros: cuánto cromo es demasiado" },
+    { "type": "p", "text": "Ni las Academias Nacionales de EE. UU. ni la EFSA han fijado un nivel máximo tolerable de cromo trivalente, porque no se han observado efectos adversos con las cantidades habituales de alimentos y suplementos. Los problemas descritos en la literatura son casos aislados con **dosis de cientos o miles de microgramos al día**, generalmente en suplementos concentrados." },
+    { "type": "p", "text": "Un sobre de Matcha Pep-T está muy lejos de ese rango. Aun así, hay tres situaciones en las que vale la pena hacer cuentas:" },
+    { "type": "ol", "items": [
+      "**Si ya tomas un multivitamínico o un suplemento de cromo:** suma las cantidades de todas las etiquetas.",
+      "**Si piensas tomar más de un sobre al día:** la etiqueta indica un sobre en 180 ml de agua y no exceder lo recomendado.",
+      "**Si tienes enfermedad renal o hepática:** cualquier suplemento mineral debe pasar antes por tu médico."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Cromo y medicamentos", "text": "El cromo podría sumar su efecto al de la insulina y otros medicamentos para la glucosa, y se ha descrito que puede interferir con la absorción de la levotiroxina. Si usas alguno de ellos, consulta con tu médico y revisa nuestra guía sobre [Matcha Pep-T e interacción con medicamentos](/opiniones-matcha-pep-t/interaccion-con-medicamentos/)." },
+    { "type": "h2", "text": "El cromo no es un atajo" },
+    { "type": "p", "text": "En farmacias y tiendas en línea es común ver cápsulas de picolinato de cromo vendidas para «controlar antojos» o «quemar grasa». La evidencia detrás de esas promesas es modesta y poco consistente. El cromo de Matcha Pep-T no debe entenderse así: es un aporte nutricional dentro de una bebida, no un quemador. Si te interesa esa comparación, lee [Matcha Pep-T frente a los quemadores de grasa](/ciencia-matcha-pep-t/vs-quemadores-termogenicos/)." },
+    { "type": "p", "text": "Su lugar en la fórmula tiene más sentido como complemento del enfoque general del producto en torno a la glucosa, que explicamos con matices en [Matcha Pep-T y la glucosa](/que-es-matcha-pep-t/y-la-glucosa/). Si después de leer todo esto quieres probarlo, puedes [comprar Matcha Pep-T con un distribuidor autorizado](/comprar-matcha-pep-t/) a S/ 158.00 por doypack, es decir, S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿El cromo de Matcha Pep-T es el mismo de las piezas cromadas?", "a": "No. En la industria se usa con frecuencia cromo hexavalente, que es tóxico. En alimentos y suplementos se emplea cromo trivalente, la forma presente de manera natural en la comida." },
+    { "q": "¿Necesito cromo extra si como bien?", "a": "Probablemente no. La deficiencia es rara en personas con una dieta variada. El cromo de un sobre es un aporte adicional, no la corrección de una carencia diagnosticada." },
+    { "q": "¿Puedo tomarlo durante el embarazo?", "a": "Durante el embarazo la ingesta adecuada de cromo es algo mayor, pero cualquier suplemento debe evaluarlo tu médico o nutricionista, considerando también el resto de ingredientes del sobre." },
+    { "q": "¿Por qué la etiqueta usa microgramos y no miligramos?", "a": "Porque el cromo se necesita en cantidades muy pequeñas. Un microgramo es la milésima parte de un miligramo, así que 14.9 µg equivalen a 0.0149 mg." }
+  ],
+  "sources": [
+    { "label": "NIH Office of Dietary Supplements – Chromium", "url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/" },
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/tabla-nutricional/", "/que-es-matcha-pep-t/y-la-glucosa/", "/opiniones-matcha-pep-t/interaccion-con-medicamentos/", "/opiniones-matcha-pep-t/contraindicaciones/"]
+}

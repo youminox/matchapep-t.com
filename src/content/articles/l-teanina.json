@@ -1,0 +1,79 @@
+{
+  "slug": "l-teanina",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/l-teanina/",
+  "isPillar": false,
+  "primaryKeyword": "matcha L-teanina",
+  "title": "Matcha y L-teanina: qué dice la evidencia sobre la alerta calmada",
+  "seoTitle": "Matcha y L-teanina: evidencia sobre la alerta calmada",
+  "metaDescription": "Matcha y L-teanina: qué es, qué muestran los estudios sobre la alerta calmada y por qué su cantidad no figura en la etiqueta de Matcha Pep-T.",
+  "excerpt": "La L-teanina es el aminoácido que explica buena parte de la fama tranquila del matcha. Revisamos la evidencia con lupa y aclaramos qué se puede decir, y qué no, sobre Matcha Pep-T.",
+  "quickAnswer": "Matcha y L-teanina están ligados: el matcha contiene de forma natural este aminoácido, que en estudios con dosis aisladas se asocia a un estado de alerta más tranquilo, sobre todo combinado con cafeína. Los efectos son modestos y la etiqueta de Matcha Pep-T no declara cuánta L-teanina aporta cada sobre, así que no conviene atribuirle esos resultados.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A small ceramic bowl of vivid green matcha powder beside a bamboo whisk and a notebook with a pen on a light wooden desk, soft overcast daylight from a window in a calm Lima apartment, minimal and serene mood, no packaging, no text, no logos, no people",
+    "alt": "Cuenco de cerámica con matcha en polvo junto a un batidor de bambú y una libreta sobre un escritorio de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Mucho antes de que existieran los energizantes en lata, los monjes budistas de Japón tomaban té en polvo para no quedarse dormidos durante largas horas de meditación. Buscaban algo curioso: estar despiertos sin sentirse acelerados. Siglos después, la ciencia tiene un sospechoso principal para esa sensación: la **L-teanina**." },
+    { "type": "p", "text": "En esta guía separamos lo que dicen los estudios sobre este aminoácido de lo que se repite en redes, y explicamos por qué, en el caso de Matcha Pep-T, lo honesto es hablar de la L-teanina del matcha en general y no de una cantidad concreta en tu sobre." },
+    { "type": "h2", "text": "Qué es la L-teanina y por qué el matcha la concentra" },
+    { "type": "p", "text": "La L-teanina es un aminoácido que no forma proteínas y que aparece casi exclusivamente en la planta del té, *Camellia sinensis*. Es responsable en parte del sabor umami, ese fondo sabroso y ligeramente dulce que distingue a un buen matcha de un té verde amargo." },
+    { "type": "p", "text": "El matcha tiene dos ventajas frente a una bolsita. Primero, las plantas se cubren con mallas de sombra durante algunas semanas antes de la cosecha; con menos sol, la hoja convierte menos L-teanina en catequinas y conserva más de este aminoácido. Segundo, no se desecha la hoja: se muele entera y se bebe en suspensión, en lugar de quedarse en el filtro." },
+    { "type": "p", "text": "Aun así, el contenido varía muchísimo de un matcha a otro. Los factores que más pesan son:" },
+    { "type": "ul", "items": [
+      "**Grado**: el matcha ceremonial, de hojas jóvenes, suele tener más L-teanina que el culinario.",
+      "**Cosecha**: la primera recolección de primavera tiende a ser la más rica.",
+      "**Tiempo de sombreado**: más semanas bajo sombra, más aminoácidos y color más intenso.",
+      "**Cantidad de polvo**: una taza tradicional se prepara con aproximadamente 1 a 2 g de matcha; una mezcla instantánea puede llevar mucho menos o no indicarlo.",
+      "**Almacenamiento**: la luz, el calor y la humedad, muy presente en el invierno limeño, degradan el polvo con el tiempo."
+    ] },
+    { "type": "h2", "text": "Matcha y L-teanina: qué muestran los estudios sobre la alerta calmada" },
+    { "type": "p", "text": "La expresión «alerta calmada» no es marketing inventado de la nada; resume lo que varios ensayos intentaron medir. Pero conviene leer la letra pequeña: casi todos usan L-teanina aislada, en cápsulas o bebidas preparadas, con dosis controladas que en muchos casos van de 50 a 200 mg." },
+    { "type": "h3", "text": "Ondas cerebrales y relajación" },
+    { "type": "p", "text": "En estudios con electroencefalograma, la L-teanina aislada se asoció a un aumento de la actividad de ondas alfa, un patrón que se observa cuando una persona está relajada pero despierta. Son trabajos con pocos participantes y efectos medidos en laboratorio, no en la vida diaria." },
+    { "type": "h3", "text": "La pareja L-teanina más cafeína" },
+    { "type": "p", "text": "Los resultados más consistentes aparecen cuando la L-teanina se combina con cafeína, justo como ocurre de forma natural en el té. Varios ensayos controlados con placebo encontraron mejor precisión en tareas que exigen cambiar el foco de atención y menos sensibilidad a distracciones durante las primeras horas. Una revisión sistemática publicada en *Nutrition Reviews* concluyó que la combinación ofrece beneficios pequeños pero reales sobre la atención." },
+    { "type": "p", "text": "Hay matices: las muestras suelen ser reducidas, las mejoras son de pocos puntos porcentuales y parte de esos estudios fue financiada por la industria del té." },
+    { "type": "h3", "text": "Estrés percibido y sueño" },
+    { "type": "p", "text": "Un ensayo japonés con adultos sanos que tomaron L-teanina durante cuatro semanas reportó mejoras en escalas de estrés y calidad de sueño autopercibidas. Es un hallazgo interesante, pero aislado y basado en cuestionarios." },
+    { "type": "h3", "text": "¿Y el matcha como bebida?" },
+    { "type": "p", "text": "Hay menos estudios con matcha real que con L-teanina pura. Una intervención publicada en *Food Research International* encontró mejoras modestas en algunas pruebas de atención tras consumir matcha en bebida o en barra frente a placebo. El problema es que cada matcha es distinto, y lo que funcionó con un producto concreto no se traslada automáticamente a otro." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que la etiqueta de Matcha Pep-T no declara", "text": "La etiqueta no indica la cantidad de L-teanina, de cafeína ni de catequinas (EGCG). Lo que sí declara por porción (1 sobre de 15 g en 180 ml de agua) es: 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y cromo al 45 % del valor diario." },
+    { "type": "h2", "text": "Lo que no sabemos de la L-teanina en Matcha Pep-T" },
+    { "type": "p", "text": "En la lista de ingredientes, el «mix de té matcha y chía» aparece en cuarto lugar, después del colágeno hidrolizado Nextida GC, la fibra de maíz y la crema de coco. Eso nos dice que hay matcha real, pero no cuánto: el orden refleja proporciones relativas, no gramos. Si quieres conocer mejor ese ingrediente, revisa nuestra ficha sobre [el té matcha dentro de la fórmula](/ingredientes-matcha-pep-t/te-matcha/)." },
+    { "type": "p", "text": "Por eso, cualquier frase del tipo «cada sobre te da X mg de L-teanina» sería inventada. La propia propuesta del producto tampoco gira en torno a este aminoácido: su enfoque principal está en los péptidos de colágeno, la fibra y el cromo." },
+    { "type": "table", "caption": "L-teanina y Matcha Pep-T: certezas y vacíos", "headers": ["Pregunta", "Lo que se sabe", "Lo que no se sabe"], "rows": [
+      ["¿Contiene matcha?", "Sí, en un mix con chía (4.° ingrediente)", "Los gramos de matcha por sobre"],
+      ["¿Contiene L-teanina?", "El matcha la aporta de forma natural", "La cantidad exacta por porción"],
+      ["¿Contiene cafeína?", "El matcha la aporta de forma natural", "La cantidad exacta por porción"],
+      ["¿Replica los estudios?", "Los ensayos usan dosis aisladas y controladas", "Si una porción alcanza esas dosis"]
+    ] },
+    { "type": "cta", "text": "¿Quieres ver la presentación de 14 sobres, el precio de S/ 158.00 y cómo pedirlo? Revisa la página de compra." },
+    { "type": "h2", "text": "Cafeína y L-teanina: por qué conviene mirarlas juntas" },
+    { "type": "p", "text": "Un error frecuente es pensar que la L-teanina «anula» la cafeína. No es así: puede suavizar la sensación de aceleración en algunas personas, pero la cafeína sigue actuando. Si eres sensible a ella, te cuesta dormir o tomas otras bebidas estimulantes, vale la pena leer qué sabemos sobre [la cafeína natural del matcha en este producto](/ingredientes-matcha-pep-t/tiene-cafeina/)." },
+    { "type": "h2", "text": "Cómo usar esta información con expectativas realistas" },
+    { "type": "p", "text": "Más que perseguir un número, piensa en contexto. La sensación de foco depende sobre todo de cuánto dormiste, de si comiste bien y del estrés acumulado. Algunas ideas prácticas:" },
+    { "type": "ul", "items": [
+      "Si lo tomas, prefiere la mañana o la media mañana: por ejemplo, antes de una reunión larga en San Isidro o de una tarde de clases.",
+      "Evítalo en la noche si notas que cualquier té te quita el sueño.",
+      "No lo sumes a energizantes ni a varios cafés en el mismo día.",
+      "Si estás en época de exámenes, la base sigue siendo dormir y organizarte; tenemos una guía específica sobre [Matcha Pep-T para estudiar](/que-es-matcha-pep-t/para-estudiantes-y-concentracion/)."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar antes", "text": "Si estás embarazada o dando de lactar, tienes un trastorno de ansiedad o del sueño, o tomas medicamentos para la presión, estimulantes o ansiolíticos, habla con tu médico antes de incorporar bebidas con té. Matcha Pep-T es un alimento, no un medicamento ni un tratamiento." },
+    { "type": "p", "text": "En resumen: la L-teanina del matcha tiene una base científica razonable para hablar de alerta tranquila, con efectos modestos y estudiados en dosis aisladas. Para entender cómo encaja esto con el resto de la evidencia del producto, visita la [guía de ciencia de Matcha Pep-T](/ciencia-matcha-pep-t/), y si decides probarlo, aquí está [cómo comprar Matcha Pep-T original](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿La L-teanina da sueño?", "a": "En las dosis estudiadas no se comporta como un sedante. Se asocia más bien a una relajación sin somnolencia. Si una bebida con matcha te altera de noche, lo más probable es que se deba a la cafeína y no a la L-teanina." },
+    { "q": "¿El matcha tiene más L-teanina que el té verde en bolsita?", "a": "Por lo general sí, porque se cultiva bajo sombra y se consume la hoja entera molida. Aun así, depende del grado y de la cantidad que uses. Lo explicamos en la comparativa de [Matcha Pep-T frente al té verde](/ciencia-matcha-pep-t/vs-te-verde/)." },
+    { "q": "¿Puedo tomar cápsulas de L-teanina junto con Matcha Pep-T?", "a": "Son cosas distintas y no hay estudios de esa combinación. Si estás pensando en un suplemento aislado, consúltalo con un profesional de salud, sobre todo si tomas medicación o tienes alguna condición médica." },
+    { "q": "¿Existen declaraciones de salud aprobadas para la L-teanina?", "a": "La Autoridad Europea de Seguridad Alimentaria (EFSA) evaluó propuestas sobre L-teanina, función cognitiva y relajación, y concluyó que no se había demostrado una relación causa-efecto suficiente. Por eso conviene desconfiar de promesas tajantes." }
+  ],
+  "sources": [
+    { "label": "PubMed – L-theanine, caffeine and attention (revisión sistemática, Nutrition Reviews)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=L-theanine+caffeine+cognitive+systematic+review" },
+    { "label": "PubMed – L-theanine and alpha brain wave activity", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=L-theanine+alpha+brain+waves" },
+    { "label": "PubMed – Matcha tea, mood and cognitive performance (Food Research International)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=matcha+tea+mood+cognitive+performance" },
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/te-matcha/", "/ingredientes-matcha-pep-t/tiene-cafeina/", "/ingredientes-matcha-pep-t/catequinas-egcg/", "/ciencia-matcha-pep-t/vs-te-verde/"]
+}

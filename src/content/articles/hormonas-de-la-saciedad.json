@@ -1,0 +1,65 @@
+{
+  "slug": "hormonas-de-la-saciedad",
+  "pillar": "ciencia-matcha-pep-t",
+  "path": "/ciencia-matcha-pep-t/hormonas-de-la-saciedad/",
+  "isPillar": false,
+  "primaryKeyword": "hormonas de la saciedad",
+  "title": "Hormonas de la saciedad: cómo tu cuerpo decide que ya comiste",
+  "seoTitle": "Hormonas de la saciedad: GLP-1, PYY, grelina y leptina",
+  "metaDescription": "Hormonas de la saciedad explicadas: qué hacen GLP-1, PYY, CCK, grelina y leptina, y cómo la proteína y la fibra ayudan a sentirte lleno por más tiempo.",
+  "excerpt": "El hambre de media mañana no es falta de voluntad: es química. Conoce a las hormonas que deciden cuándo comer y cuándo parar, y qué papel juegan la proteína y la fibra.",
+  "quickAnswer": "Las hormonas de la saciedad son señales químicas que coordinan el hambre y la llenura. La grelina, del estómago, despierta el apetito; la CCK, el GLP-1 y el PYY, del intestino, avisan que llegó comida; y la leptina, del tejido graso, informa sobre las reservas de energía a largo plazo. La proteína y la fibra estimulan varias de ellas.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A bright office desk near a large window overlooking a city with soft overcast sky, a glass of iced green matcha latte, a small bowl of mixed nuts and an open planner, modern minimal workspace, natural light, no packaging, no text, no logos, no people",
+    "alt": "Escritorio de oficina junto a una ventana con un vaso de matcha frío y un tazón pequeño de frutos secos"
+  },
+  "blocks": [
+    { "type": "p", "text": "Son las once de la mañana en una oficina de San Isidro y alguien abre un paquete de galletas. Dos horas antes solo tomó un café negro; su estómago lleva un buen rato reclamando. Ese llamado no es falta de voluntad: es química." },
+    { "type": "p", "text": "Detrás del hambre y de la llenura hay un equipo de hormonas que se comunican entre el estómago, el intestino, el tejido graso y el cerebro. Conocerlas no te da un botón mágico, pero sí te ayuda a armar comidas y rutinas que trabajen a tu favor." },
+    { "type": "h2", "text": "Las hormonas de la saciedad y la hormona del hambre" },
+    { "type": "h3", "text": "Grelina: la que pide comida" },
+    { "type": "p", "text": "La grelina se produce sobre todo en el estómago y es la principal hormona que **estimula** el apetito. Sube antes de tus horarios habituales de comida y baja después de comer. Por eso, si almuerzas siempre a la una, a las doce y media tu cuerpo ya empieza a recordártelo, aunque estés en plena reunión." },
+    { "type": "h3", "text": "CCK: la primera en responder" },
+    { "type": "p", "text": "La colecistoquinina (CCK) se libera en el duodeno, el primer tramo del intestino, cuando llegan grasas y proteínas. Activa la vesícula biliar y las enzimas del páncreas, frena el vaciamiento del estómago y genera una saciedad rápida que ayuda a terminar la comida. Su efecto es corto: actúa durante el plato, no horas después." },
+    { "type": "h3", "text": "GLP-1: el mensajero que también regula la glucosa" },
+    { "type": "p", "text": "El GLP-1 lo producen las células L del intestino delgado final y del colon. Además de contribuir a la saciedad, estimula la insulina cuando la glucosa sube y hace más lento el paso de la comida desde el estómago. Lo explicamos con calma en [qué es GLP-1 y cómo actúa](/ciencia-matcha-pep-t/que-es-glp-1/)." },
+    { "type": "h3", "text": "PYY: la señal que se prolonga" },
+    { "type": "p", "text": "El péptido YY sale de las mismas células L que el GLP-1. Empieza a subir poco después de comer, alcanza su punto más alto en una o dos horas y se mantiene elevado un buen tiempo, en proporción a lo que comiste. Su papel principal es reducir el apetito en el periodo entre comidas." },
+    { "type": "h3", "text": "Leptina: el termostato de largo plazo" },
+    { "type": "p", "text": "La leptina la produce el tejido graso, y sus niveles reflejan cuánta energía tienes almacenada. Le informa al hipotálamo si las reservas son suficientes. No regula una comida concreta, sino el balance de semanas y meses. En la obesidad suele haber leptina alta, pero el cerebro responde menos a ella, un fenómeno conocido como resistencia a la leptina." },
+    { "type": "table", "caption": "Resumen de las principales hormonas del apetito", "headers": ["Hormona", "Dónde se produce", "Cuándo actúa", "Efecto principal"], "rows": [
+      ["Grelina", "Estómago", "Antes de comer", "Aumenta el hambre"],
+      ["CCK", "Duodeno", "Durante la comida", "Saciedad rápida; frena el vaciamiento"],
+      ["GLP-1", "Íleon y colon", "Minutos a horas después", "Saciedad, insulina, vaciamiento más lento"],
+      ["PYY", "Íleon y colon", "Horas después de comer", "Menos apetito entre comidas"],
+      ["Leptina", "Tejido graso", "Semanas y meses", "Informa al cerebro sobre las reservas de energía"]
+    ] },
+    { "type": "h2", "text": "Cómo influyen la proteína y la fibra en las hormonas de la saciedad" },
+    { "type": "h3", "text": "Proteína: el nutriente que más sacia por caloría" },
+    { "type": "p", "text": "En estudios de nutrición, la proteína aparece de forma consistente como el macronutriente más saciante por cada caloría. Comidas con más proteína se asocian a mayor liberación de CCK, GLP-1 y PYY, y a una caída más sostenida de la grelina." },
+    { "type": "p", "text": "Un ejemplo cotidiano: un pan con mantequilla y un café dejan espacio para el antojo de media mañana con más facilidad que un pan con huevo o con queso fresco acompañado de fruta. Las calorías pueden ser parecidas; la respuesta hormonal, no." },
+    { "type": "h3", "text": "Fibra: viscosa y fermentable" },
+    { "type": "p", "text": "La fibra actúa por dos caminos. La **fibra viscosa**, como la de la avena, la chía o la linaza, forma un gel que ralentiza la salida del estómago. La **fibra fermentable** alimenta a las bacterias del colon, que producen ácidos grasos de cadena corta capaces de estimular a las células L, las mismas que liberan GLP-1 y PYY." },
+    { "type": "p", "text": "Las menestras que tanto se comen en el Perú, como lentejas, frejoles o pallares, reúnen ambas virtudes: proteína vegetal y fibra. Si quieres ver qué dicen los ensayos sobre fibra y control del apetito, revisa [la evidencia sobre fibra y saciedad](/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/)." },
+    { "type": "callout", "variant": "tip", "title": "Hábitos que también mueven tus hormonas", "text": "Dormir poco se asocia a más grelina y menos leptina, lo que explica parte del hambre tras una mala noche. Comer despacio da tiempo a que la CCK y el GLP-1 hagan su trabajo. Y las calorías líquidas azucaradas, como gaseosas o jugos endulzados, suelen saciar menos que la misma energía en alimentos sólidos." },
+    { "type": "cta", "text": "¿Buscas una bebida con proteína y fibra para la media mañana o la tarde? Revisa el precio de Matcha Pep-T y cómo pedirlo." },
+    { "type": "h2", "text": "Dónde encaja Matcha Pep-T en este mapa hormonal" },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que declara la etiqueta por porción", "text": "1 sobre de 15 g en 180 ml de agua: 46 kcal, 4.7 g de proteína (9 % VD), 4.9 g de fibra (18 % VD), 0.9 g de azúcares añadidos y cromo al 45 % VD." },
+    { "type": "p", "text": "Son cantidades modestas pero útiles para una bebida tan ligera: combinan los dos factores dietarios que más se relacionan con las hormonas de la saciedad. Además, su primer ingrediente es el colágeno Nextida GC, que en estudios del fabricante del ingrediente (Rousselot), con dosis de 5–10 g del ingrediente aislado, se asoció a mayor liberación de GLP-1. La etiqueta no declara cuánto Nextida GC contiene cada sobre." },
+    { "type": "p", "text": "En la práctica, eso se traduce en un uso sencillo, como tomarlo un rato antes del almuerzo o en lugar del snack dulce de la tarde. Lo detallamos en [cómo usar Matcha Pep-T para la saciedad](/que-es-matcha-pep-t/saciedad-control-apetito/). No es un medicamento ni promete kilos: es una pieza más dentro de una alimentación ordenada, que se resume en [la guía científica del producto](/ciencia-matcha-pep-t/)." },
+    { "type": "p", "text": "Si quieres incluirlo en tu rutina, en [la página para comprar Matcha Pep-T](/comprar-matcha-pep-t/) encontrarás el doypack de 14 sobres a S/ 158.00." }
+  ],
+  "faqs": [
+    { "q": "¿Por qué tengo más hambre cuando duermo mal?", "a": "Estudios de restricción de sueño han observado que dormir pocas horas eleva la grelina y reduce la leptina, justo la combinación que aumenta el apetito. Además, el cansancio hace que busques energía rápida en alimentos dulces. Cuidar el sueño es una de las formas más subestimadas de regular el hambre." },
+    { "q": "¿Se puede «resetear» la leptina con algún alimento?", "a": "No existe un alimento que lo haga. La sensibilidad a la leptina mejora de forma gradual con hábitos sostenidos: sueño suficiente, actividad física y una alimentación con suficiente proteína y fibra. Desconfía de productos que prometan corregirla rápidamente." },
+    { "q": "¿Una bebida sacia igual que una comida sólida?", "a": "En general, las bebidas sacian menos que los sólidos con la misma energía, aunque la proteína y la fibra ayudan a cerrar esa brecha. Con 46 kcal, Matcha Pep-T sirve como complemento entre comidas, no como reemplazo de un almuerzo o una cena." },
+    { "q": "¿Cuánto tarda en aparecer la sensación de saciedad?", "a": "Las primeras señales, como la CCK y la distensión del estómago, aparecen durante la comida, mientras que el GLP-1 y el PYY siguen subiendo después. Por eso se suele recomendar comer sin prisa y esperar un rato antes de servirte una segunda porción." }
+  ],
+  "sources": [
+    { "label": "PubMed – revisiones sobre hormonas gastrointestinales y regulación del apetito", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=gut+hormones+appetite+regulation+review" },
+    { "label": "Spiegel K. et al. Sleep curtailment, leptin and ghrelin (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Spiegel+sleep+curtailment+leptin+ghrelin" },
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" }
+  ],
+  "related": ["/ciencia-matcha-pep-t/que-es-glp-1/", "/ciencia-matcha-pep-t/fibra-y-saciedad-evidencia/", "/que-es-matcha-pep-t/saciedad-control-apetito/", "/ingredientes-matcha-pep-t/cuanta-proteina-aporta/"]
+}

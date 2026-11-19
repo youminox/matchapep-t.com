@@ -1,0 +1,89 @@
+{
+  "slug": "frappe",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/frappe/",
+  "isPillar": false,
+  "primaryKeyword": "frappé de Matcha Pep-T",
+  "title": "Frappé de Matcha Pep-T: receta en licuadora con hielo y plátano",
+  "seoTitle": "Frappé de Matcha Pep-T en licuadora: receta con hielo",
+  "metaDescription": "Frappé de Matcha Pep-T en licuadora: cuánto hielo usar, versión con plátano congelado, calorías de cada extra y cómo evitar que quede aguado.",
+  "excerpt": "La textura de frappé de cafetería, hecha en tu licuadora con un solo sobre, hielo y, si quieres, medio plátano congelado. Con proporciones, calorías y soluciones a los fallos típicos.",
+  "quickAnswer": "Para un frappé de Matcha Pep-T, licúa 1 sobre de 15 g con 180 ml de líquido muy frío (agua, o mitad agua y mitad leche) y una taza de hielo durante 30 a 40 segundos. Si lo quieres más espeso, cambia la mitad del hielo por medio plátano congelado. Sírvelo de inmediato, antes de que se separe.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A thick, frosty pale green matcha frappe in a tall glass with a paper straw, a countertop blender jar with crushed ice beside it and a few frozen banana slices on a small ceramic plate, bright Lima kitchen on a sunny summer afternoon, white tiles, natural light, no packaging, no text, no logos, no people",
+    "alt": "Frappé verde claro de matcha en vaso alto junto a una licuadora con hielo picado y rodajas de plátano congelado en una cocina luminosa"
+  },
+  "blocks": [
+    { "type": "p", "text": "Hay tardes de febrero en Lima en que un vaso con cubos de hielo ya no alcanza. Lo que provoca es algo espeso, que casi se coma con cuchara y que enfríe hasta la frente, como esos frappés de cafetería coronados con jarabe y crema batida." },
+    { "type": "p", "text": "Esa textura se consigue en casa con la licuadora de siempre y un solo sobre. Aquí nos enfocamos en la bebida licuada con hielo picado. Si prefieres cubos enteros, la versión de [Matcha Pep-T frío con hielo](/como-preparar-matcha-pep-t/frio-con-hielo/) es más rápida y no necesita aparato; y si buscas un batido con fruta como protagonista, eso es otra receta: el [smoothie con plátano y fruta peruana](/como-preparar-matcha-pep-t/smoothie-con-platano/)." },
+    { "type": "h2", "text": "¿Qué diferencia al frappé de Matcha Pep-T de un latte helado?" },
+    { "type": "p", "text": "Todo está en el hielo. En un latte helado, los cubos flotan enteros y solo enfrían. En un frappé, las cuchillas los convierten en escarcha fina que queda suspendida en el líquido y le da cuerpo. El resultado es más espeso, más espumoso y bastante más frío." },
+    { "type": "p", "text": "Eso tiene una consecuencia práctica: el hielo licuado también diluye. Tu frappé termina con más volumen que los 180 ml que indica la etiqueta, así que el sabor se reparte en un vaso más grande. Por eso conviene medir el hielo y, si te gusta un sabor más marcado, reemplazar parte del agua por leche." },
+    { "type": "h2", "text": "Lo que necesitas" },
+    { "type": "ul", "items": [
+      "**1 sobre de Matcha Pep-T (15 g).** Uno por frappé; la etiqueta indica 1 sobre por porción.",
+      "**180 ml de líquido muy frío.** Agua, o mitad agua y mitad leche o bebida vegetal si lo quieres más cremoso.",
+      "**1 taza de hielo (6 a 8 cubos medianos).** Si son pequeños o ya partidos, le cuestan menos al motor.",
+      "**Opcional: medio plátano congelado en rodajas.** Aporta espesor de helado suave y dulzor natural.",
+      "**Una licuadora común.** No hace falta una de alta potencia; la clásica de vaso de vidrio cumple si no la sobrecargas."
+    ] },
+    { "type": "h2", "text": "Receta paso a paso del frappé de Matcha Pep-T" },
+    { "type": "steps", "items": [
+      { "name": "Primero el líquido", "text": "Vierte los 180 ml de líquido frío en el vaso de la licuadora. Ponerlo antes que el hielo deja que las cuchillas giren libres desde el inicio." },
+      { "name": "Integra el sobre", "text": "Agrega el contenido del sobre y licúa 5 segundos a velocidad baja, solo para disolver el polvo. Así no se queda pegado en las paredes." },
+      { "name": "Suma el hielo", "text": "Añade el hielo y, si lo usas, el plátano congelado. Tapa bien la licuadora." },
+      { "name": "Licúa por pulsos", "text": "Da 4 o 5 pulsos cortos para romper los cubos y luego licúa de forma continua 20 a 30 segundos, hasta que ya no escuches trozos golpeando el vaso." },
+      { "name": "Sirve al toque", "text": "Pasa la mezcla a un vaso alto, mejor si lo enfriaste antes, y tómala enseguida. Un frappé empieza a separarse en capas a los pocos minutos." }
+    ] },
+    { "type": "p", "text": "Si la licuadora se traba, apágala, mueve el contenido con una cuchara de palo y añade una o dos cucharadas más de líquido. Forzarla con el vaso repleto de hielo es la manera más rápida de quemar el motor." },
+    { "type": "h2", "text": "Versión con plátano congelado: más espesa y cremosa" },
+    { "type": "p", "text": "El plátano congelado es el truco casero más eficaz para dar cuerpo sin crema ni jarabes. Al licuarse frío, su pulpa se vuelve sedosa y deja una textura parecida a la de un helado blando. Además, permite usar menos hielo, así que el frappé se aguada menos." },
+    { "type": "p", "text": "Para tenerlo siempre a mano, pela plátanos de seda bien maduros, de esos que ya muestran pintitas marrones, córtalos en rodajas y guárdalos en una bolsa con cierre en el congelador. Medio plátano por vaso es suficiente; uno entero tapa el sabor del matcha." },
+    { "type": "ul", "items": [
+      "**Cambia la mitad del hielo** por las rodajas de medio plátano.",
+      "**Elige plátano maduro:** endulza más, mientras que uno verde deja gusto a almidón.",
+      "**Prueba una pizca de canela,** que combina con las notas de crema caramelo y coco del producto."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que aporta el sobre según la etiqueta", "text": "Cada sobre de 15 g, preparado como indica el envase en 180 ml de agua, aporta 46 kcal, 4.7 g de proteína, 4.9 g de fibra, 0.9 g de azúcares añadidos y el 45 % del valor diario de cromo. El hielo no suma calorías; la leche, el plátano o cualquier otro extra sí." },
+    { "type": "h2", "text": "¿Cuántas calorías tiene cada versión?" },
+    { "type": "p", "text": "Las cifras del sobre salen de la etiqueta. Las de los demás ingredientes son valores de referencia de tablas de composición de alimentos, así que tómalas como aproximaciones: cambian según la marca y el tamaño de la fruta." },
+    { "type": "table", "caption": "Calorías aproximadas del frappé según la base que uses", "headers": ["Versión", "Qué lleva", "Calorías aprox."], "rows": [
+      ["Clásica", "1 sobre + 180 ml de agua + hielo", "46 kcal"],
+      ["Con plátano", "1 sobre + 180 ml de agua + medio plátano congelado + hielo", "95–100 kcal"],
+      ["Cremosa", "1 sobre + 90 ml de agua + 90 ml de leche descremada + hielo", "75–80 kcal"],
+      ["Con bebida vegetal", "1 sobre + 180 ml de bebida de almendra sin endulzar + hielo", "70–75 kcal, según la marca"]
+    ] },
+    { "type": "p", "text": "Si quieres ver con más detalle cómo cambia la cuenta al agregar leches, revisa la página de [calorías de Matcha Pep-T](/ingredientes-matcha-pep-t/calorias/)." },
+    { "type": "cta", "text": "Arma tu reserva de sobres para el verano: revisa el precio y pide el doypack original." },
+    { "type": "h2", "text": "Problemas comunes y cómo arreglarlos" },
+    { "type": "h3", "text": "Quedó aguado" },
+    { "type": "p", "text": "Usaste demasiado hielo o licuaste tanto rato que la fricción lo derritió. Baja a 5 o 6 cubos y acorta el licuado. Otra salida: congela leche o bebida vegetal en una cubeta; esos cubos enfrían sin diluir el sabor." },
+    { "type": "h3", "text": "Se separó en capas" },
+    { "type": "p", "text": "Es normal si pasan varios minutos. La goma xantana de la fórmula ayuda a mantener la mezcla unida, pero no puede sostener indefinidamente un vaso lleno de escarcha. Tómalo apenas lo sirvas o dale 5 segundos más de licuadora." },
+    { "type": "h3", "text": "Tiene grumitos verdes" },
+    { "type": "p", "text": "El polvo tocó el hielo antes de mezclarse con el líquido y se apelmazó. Respeta el orden: líquido, sobre, unos segundos de licuado y recién después el hielo." },
+    { "type": "h3", "text": "No está tan dulce como el de cafetería" },
+    { "type": "p", "text": "Los frappés comerciales suelen llevar jarabe y crema batida. Matcha Pep-T está endulzado con estevia y tiene muy poca azúcar, así que su sabor es más suave. Antes de echar azúcar, prueba con plátano bien maduro o canela." },
+    { "type": "h2", "text": "¿En qué momento tiene sentido tomarlo?" },
+    { "type": "p", "text": "Funciona como refrigerio de media tarde en verano, después de una caminata por el malecón o cuando aparece el antojo de algo frío y dulce. Ten en cuenta que el matcha tiene cafeína de forma natural y que la cantidad no figura en la etiqueta: si eres sensible, mejor no dejarlo para la noche." },
+    { "type": "p", "text": "Cada sobre sale a S/ 11.29 si compras el doypack de 14 a S/ 158.00, y hecho en casa sabes exactamente qué lleva tu vaso. Para conseguir sobres originales, entra a la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/); y si quieres explorar otras preparaciones, la [guía completa para preparar Matcha Pep-T](/como-preparar-matcha-pep-t/) reúne todas las recetas." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo usar dos sobres para que el frappé tenga más sabor?", "a": "No es lo recomendable. La etiqueta indica 1 sobre por porción y no exceder lo recomendado. Si lo sientes suave, reduce el hielo o usa cubos de leche congelada en lugar de cubos de agua." },
+    { "q": "¿Puedo dejarlo listo y guardarlo en la refrigeradora?", "a": "No funciona bien: la escarcha se derrite y la bebida pierde cuerpo en pocos minutos. Lo que sí puedes adelantar es el plátano en rodajas congelado y los cubos de leche; con eso, licuar te toma menos de un minuto." },
+    { "q": "¿Qué agua uso para el hielo?", "a": "Usa agua hervida y enfriada o agua de mesa, tanto para el líquido como para los cubos. El hielo termina siendo parte de lo que tomas, así que merece el mismo cuidado." },
+    { "q": "¿Se puede hacer sin licuadora?", "a": "Puedes agitarlo fuerte en un shaker con hielo picado, pero obtendrás un latte helado espumoso, no un frappé. La escarcha fina y espesa solo se logra licuando." },
+    { "q": "¿Un frappé con plátano reemplaza una comida?", "a": "No. Incluso con plátano ronda las 100 kcal, muy lejos de lo que aporta un desayuno o un almuerzo completo. Úsalo como refrigerio o como complemento de una comida." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central (composición de alimentos)", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "Instituto Nacional de Salud del Perú – Tablas peruanas de composición de alimentos", "url": "https://www.ins.gob.pe/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/frio-con-hielo/",
+    "/como-preparar-matcha-pep-t/smoothie-con-platano/",
+    "/como-preparar-matcha-pep-t/paletas-heladas/",
+    "/ingredientes-matcha-pep-t/calorias/"
+  ]
+}

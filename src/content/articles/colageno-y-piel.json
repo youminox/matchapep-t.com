@@ -1,0 +1,68 @@
+{
+  "slug": "colageno-y-piel",
+  "pillar": "que-es-matcha-pep-t",
+  "path": "/que-es-matcha-pep-t/colageno-y-piel/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T colágeno piel",
+  "title": "Matcha Pep-T, colágeno y piel: qué esperar de verdad",
+  "seoTitle": "Matcha Pep-T colágeno y piel: lo que sí se sabe",
+  "metaDescription": "Matcha Pep-T, colágeno y piel: qué dice la evidencia sobre el colágeno oral, cuánto aporta el sobre y por qué no es un producto de belleza específico.",
+  "excerpt": "Matcha Pep-T lleva colágeno hidrolizado, pero eso no lo convierte en un suplemento de belleza. Revisamos qué se sabe del colágeno y la piel, y qué esperar de un sobre.",
+  "quickAnswer": "Sobre Matcha Pep-T, colágeno y piel, lo justo es esto: el sobre contiene colágeno hidrolizado Nextida GC, un tipo de péptido desarrollado para el control de la glucosa, no para la piel. La cantidad por sobre no está declarada y la proteína total es 4.7 g. No es un producto de belleza ni promete efectos en arrugas o hidratación.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A glass of iced green matcha latte on a bathroom shelf beside a bottle of sunscreen without label, a folded white towel and a small potted fern, soft diffused morning light, clean spa-like minimal style, no people, no packaging, no text, no logos",
+    "alt": "Vaso de matcha latte con hielo en una repisa junto a un frasco de protector solar sin etiqueta, una toalla blanca y un helecho pequeño"
+  },
+  "blocks": [
+    { "type": "p", "text": "En las farmacias de Lima hay pasillos enteros de colágeno: en polvo, en cápsulas, en bebidas listas, con ácido hialurónico, con biotina. La palabra se ha vuelto casi sinónimo de piel bonita. Por eso, cuando alguien ve que Matcha Pep-T tiene colágeno como primer ingrediente, la pregunta aparece sola: ¿esto también me sirve para la piel?" },
+    { "type": "p", "text": "La respuesta corta es que no fue diseñado con ese propósito. La larga tiene matices que vale la pena conocer antes de comprar, y te la explicamos aquí. Si todavía no tienes claro qué es el producto en conjunto, revisa la guía de [qué es Matcha Pep-T](/que-es-matcha-pep-t/)." },
+    { "type": "h2", "text": "Colágeno en Matcha Pep-T y piel: qué péptido lleva realmente" },
+    { "type": "p", "text": "El ingrediente es **colágeno hidrolizado en forma de péptidos Nextida GC**, de la empresa Rousselot. Las letras GC significan *glucose control*: es una composición específica de péptidos que su fabricante estudió por su relación con la glucosa después de las comidas, no por efectos en la piel, el cabello o las uñas." },
+    { "type": "p", "text": "Esto importa porque no todos los colágenos hidrolizados son iguales. Los péptidos se obtienen cortando la proteína de colágeno en fragmentos, y el tipo de fragmentos que resulta depende del proceso. Las marcas de colágeno para la piel suelen usar péptidos estudiados específicamente para ese fin. Para conocer el ingrediente a fondo, revisa la ficha de [qué es Nextida GC](/ingredientes-matcha-pep-t/nextida-gc-que-es/) y el detalle técnico del [colágeno hidrolizado de Matcha Pep-T](/ingredientes-matcha-pep-t/colageno-hidrolizado/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice y no dice la etiqueta", "text": "El colágeno hidrolizado es el primer ingrediente de la lista, pero la cantidad exacta de Nextida GC por sobre no está declarada. Lo que sí se informa es la proteína total: 4.7 g por porción (1 sobre de 15 g en 180 ml de agua), que incluye también la proteína de otros ingredientes como la chía." },
+    { "type": "h2", "text": "Qué se sabe del colágeno oral y la piel en general" },
+    { "type": "p", "text": "Fuera de Matcha Pep-T, el colágeno hidrolizado para la piel es un campo con bastante investigación. Varias revisiones sistemáticas y metaanálisis publicados en los últimos años han encontrado mejoras moderadas en hidratación y elasticidad de la piel en personas que tomaron suplementos de colágeno durante varias semanas, comparadas con placebo." },
+    { "type": "p", "text": "Esos resultados vienen con advertencias que los propios investigadores señalan:" },
+    { "type": "ul", "items": [
+      "**Muchos estudios fueron financiados por fabricantes** de colágeno, lo que aumenta el riesgo de sesgo.",
+      "**Los productos y dosis varían mucho** entre estudios, por lo que no se puede extrapolar un resultado a cualquier colágeno.",
+      "**Los efectos observados son modestos** y medidos con equipos especializados, no siempre perceptibles a simple vista.",
+      "**Los tiempos de uso suelen ser de dos a tres meses** como mínimo, con un suplemento formulado y dosificado para la piel."
+    ] },
+    { "type": "p", "text": "En resumen, hay señales favorables para ciertos colágenos estudiados con ese fin, pero no es correcto suponer que cualquier producto con colágeno tendrá el mismo efecto. Si te interesa ver en qué se diferencia de un colágeno en polvo tradicional, revisa la comparación [Matcha Pep-T vs. colágeno en polvo](/ciencia-matcha-pep-t/vs-colageno-en-polvo/)." },
+    { "type": "cta", "text": "Si te interesa Matcha Pep-T por lo que realmente es, un matcha latte con fibra y péptidos de colágeno, revisa su precio en Perú." },
+    { "type": "h2", "text": "Cantidad modesta: por qué no conviene esperar un efecto en la piel" },
+    { "type": "p", "text": "Pongamos los números de la etiqueta en perspectiva. Un sobre aporta 4.7 g de proteína en total, y no sabemos qué parte exacta corresponde a Nextida GC. En comparación, muchos suplementos de colágeno pensados para la piel se presentan en porciones con dosis declaradas de su propio péptido." },
+    { "type": "table", "caption": "Matcha Pep-T frente a un suplemento de colágeno para la piel", "headers": ["Aspecto", "Matcha Pep-T", "Colágeno orientado a la piel"], "rows": [
+      ["Objetivo del péptido", "Control de glucosa (Nextida GC)", "Piel, según el péptido usado"],
+      ["Dosis de colágeno", "No declarada; proteína total 4.7 g", "Normalmente declarada en la etiqueta"],
+      ["Otros componentes", "Matcha, fibra, chía, crema de coco, cromo", "Suele incluir vitamina C u otros activos"],
+      ["Uso principal", "Bebida ligera de 46 kcal", "Suplemento de belleza"]
+    ] },
+    { "type": "p", "text": "Por eso la recomendación honesta es esta: si tu objetivo principal es la piel, Matcha Pep-T no es la herramienta más directa. Si lo tomas por otras razones, como reemplazar un snack o tener una bebida con fibra, el colágeno es un componente más de la fórmula, sin promesas estéticas." },
+    { "type": "h2", "text": "Lo que más influye en tu piel (y no viene en un sobre)" },
+    { "type": "p", "text": "En Lima es fácil olvidarlo porque el cielo pasa meses gris, pero la radiación ultravioleta llega igual, y en verano el Senamhi suele reportar niveles extremos. La exposición solar sin protección es uno de los factores que más aceleran el envejecimiento de la piel." },
+    { "type": "ol", "items": [
+      "**Protector solar todos los días**, también con garúa o neblina.",
+      "**No fumar**, porque el tabaco daña las fibras de colágeno de la piel.",
+      "**Proteína suficiente en tu dieta**: huevos, pescado, pollo, menestras y lácteos aportan los aminoácidos que tu cuerpo usa para fabricar su propio colágeno.",
+      "**Vitamina C de frutas y verduras**: el camu camu, la naranja, el kiwi o el pimiento participan en la síntesis natural de colágeno.",
+      "**Dormir bien y tomar agua** a lo largo del día."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Si tienes un problema de piel", "text": "Acné, manchas, dermatitis o caída de cabello merecen una evaluación con un dermatólogo. Ningún suplemento reemplaza un diagnóstico. Si estás embarazada, das de lactar o tomas medicación, consulta a un profesional antes de usar Matcha Pep-T." },
+    { "type": "p", "text": "Si te preocupa cómo cambian la piel y el cuerpo con la edad, también puede interesarte la guía sobre [Matcha Pep-T después de los 40](/que-es-matcha-pep-t/despues-de-los-40/). Y si decides probarlo por lo que realmente ofrece, puedes [comprar Matcha Pep-T](/comprar-matcha-pep-t/) a S/ 158.00 el doypack de 14 sobres." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar Matcha Pep-T junto con mi colágeno para la piel?", "a": "No hay una incompatibilidad conocida entre ambos, pero estarías sumando proteína de dos fuentes. Respeta la porción de cada producto y, si tienes alguna condición de salud o tomas medicación, coméntalo con tu médico." },
+    { "q": "¿El matcha del sobre tiene antioxidantes buenos para la piel?", "a": "El té matcha contiene catequinas de forma natural, pero la etiqueta no declara su cantidad. Por eso no se puede atribuir al sobre un efecto antioxidante concreto en la piel." },
+    { "q": "¿Ayuda con el cabello o las uñas?", "a": "La etiqueta no hace ninguna afirmación sobre cabello o uñas y el péptido que contiene no fue desarrollado con ese fin. Si notas caída de cabello o uñas débiles, conviene descartar causas como anemia o problemas de tiroides con un médico." },
+    { "q": "¿El colágeno de Matcha Pep-T es de origen animal?", "a": "El colágeno hidrolizado se obtiene de fuentes animales, por lo que el producto no es apto para una dieta vegana estricta. Si sigues una alimentación vegetal, revisa este punto antes de comprarlo." }
+  ],
+  "sources": [
+    { "label": "Rousselot – Nextida GC", "url": "https://www.rousselot.com/nextida/nextida-gc" },
+    { "label": "PubMed – Revisiones sobre colágeno hidrolizado y piel", "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hydrolyzed+collagen+skin+meta-analysis" },
+    { "label": "Senamhi – Servicio Nacional de Meteorología e Hidrología del Perú", "url": "https://www.senamhi.gob.pe/" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/colageno-hidrolizado/", "/ciencia-matcha-pep-t/vs-colageno-en-polvo/", "/ingredientes-matcha-pep-t/nextida-gc-que-es/", "/que-es-matcha-pep-t/despues-de-los-40/"]
+}

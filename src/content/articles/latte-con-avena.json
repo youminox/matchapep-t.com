@@ -1,0 +1,78 @@
+{
+  "slug": "latte-con-avena",
+  "pillar": "como-preparar-matcha-pep-t",
+  "path": "/como-preparar-matcha-pep-t/latte-con-avena/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T con leche de avena",
+  "title": "Matcha Pep-T con leche de avena: el latte más cremoso",
+  "seoTitle": "Matcha Pep-T con leche de avena: receta cremosa",
+  "metaDescription": "Matcha Pep-T con leche de avena: receta para un latte cremoso, cuántos carbohidratos y calorías extra suma la bebida de avena y cuándo conviene moderarla.",
+  "excerpt": "La avena es la bebida vegetal que más cuerpo aporta al matcha latte. Receta fría y caliente, por qué queda tan cremosa y cuántos carbohidratos suma.",
+  "quickAnswer": "Para preparar Matcha Pep-T con leche de avena, disuelve 1 sobre de 15 g en 180 ml de agua y añade entre 30 y 60 ml de bebida de avena. El resultado es el latte más cremoso de todas las variantes, a cambio de sumar aproximadamente 12–36 kcal y 2–5 g de carbohidratos a la porción.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A rustic ceramic cup of creamy pale green matcha oat latte with velvety microfoam, a small bowl of rolled oats and a wooden spoon beside it, on a dark wooden kitchen table in a cozy Lima home on a cloudy winter morning, warm soft light, no packaging, no cartons, no text, no logos, no people",
+    "alt": "Taza de cerámica con matcha latte de avena cremoso y espuma fina junto a un bol de hojuelas de avena sobre una mesa de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas peruanas la avena es parte del desayuno desde la infancia: cocida con leche, con manzana y canela, o tibia en el vaso antes del colegio. La bebida de avena que se vende en caja es otra cosa, más fluida y pensada para mezclar, pero conserva esa sensación reconfortante que la hace tan popular." },
+    { "type": "p", "text": "Con el sobre de matcha, es la bebida vegetal que mejor imita la textura de un latte de cafetería. También es la que más modifica los números de la etiqueta, así que conviene saber cuánto añadir según lo que busques." },
+    { "type": "h2", "text": "Receta de Matcha Pep-T con leche de avena" },
+    { "type": "p", "text": "La base sigue siendo la de la etiqueta: 1 sobre en 180 ml de agua. La avena entra después, como complemento. La propia marca sugiere añadir un chorrito de bebida vegetal para un latte más cremoso; la avena es una de las opciones que mejor funcionan." },
+    { "type": "steps", "items": [
+      { "name": "Disuelve el sobre en agua", "text": "Sirve 180 ml de agua fría o caliente sin hervir y agrega el contenido de 1 sobre de 15 g. Mezcla hasta que no queden grumos." },
+      { "name": "Prepara la avena", "text": "Mide entre 30 y 60 ml de bebida de avena. Para la versión caliente, entíbiala en una olla pequeña o en el microondas sin que llegue a hervir." },
+      { "name": "Espúmala si quieres textura de cafetería", "text": "Bate la avena tibia con un espumador de mano durante 10 a 15 segundos. Las versiones «barista» forman una espuma más estable." },
+      { "name": "Une las dos partes", "text": "Vierte la avena sobre el matcha ya disuelto. Si la espumaste, sostén la espuma con una cuchara y déjala caer al final por encima." },
+      { "name": "Sirve al momento", "text": "Tómalo recién hecho; con el tiempo la espuma baja y la bebida espesa un poco más." }
+    ] },
+    { "type": "p", "text": "Para la versión fría, el orden es el mismo: matcha disuelto en agua fría, luego la avena fría y el hielo al final. Si te interesa la técnica de espuma con más detalle, tienes la guía de [espuma de matcha latte casera](/como-preparar-matcha-pep-t/como-hacer-espuma/)." },
+    { "type": "h2", "text": "Por qué queda tan cremoso" },
+    { "type": "p", "text": "La bebida de avena se elabora con avena y agua, y durante su fabricación parte del almidón del cereal se descompone en azúcares más simples. Lo que queda en suspensión, junto con la fibra soluble propia de la avena (los betaglucanos), le da una viscosidad que no tienen la almendra ni el arroz." },
+    { "type": "p", "text": "Al juntarse con la crema de coco y la goma xantana del sobre, ese cuerpo se potencia. El resultado es una bebida aterciopelada, con un dulzor natural suave y un fondo a cereal que combina muy bien con las notas de crema caramelo." },
+    { "type": "ul", "items": [
+      "**Avena clásica:** cremosidad media, sabor a cereal marcado.",
+      "**Avena barista:** suele llevar un poco de aceite vegetal para espumar mejor; más cuerpo y algo más de calorías.",
+      "**Avena casera:** hojuelas remojadas, licuadas y coladas; textura variable y sabor intenso, aunque se separa con más facilidad."
+    ] },
+    { "type": "cta", "text": "¿Te animas a tu latte de avena en casa? Mira el precio oficial de 14 sobres por S/ 158.00 y compra con el distribuidor autorizado." },
+    { "type": "h2", "text": "Carbohidratos y calorías extra: cuánto suma la avena" },
+    { "type": "p", "text": "Aquí está el matiz importante. Una bebida de avena típica aporta entre 40 y 60 kcal y entre 6 y 8 g de carbohidratos por cada 100 ml, según la marca. Parte de esos carbohidratos son azúcares que se forman en el proceso, aunque el envase indique que no lleva azúcar agregada. La tabla usa valores aproximados; revisa siempre el envase de la tuya." },
+    { "type": "table", "caption": "Aporte aproximado de la bebida de avena sobre la porción base", "headers": ["Avena añadida", "Calorías extra", "Carbohidratos extra", "Total aproximado con el sobre"], "rows": [
+      ["Ninguna (solo agua)", "0 kcal", "0 g", "46 kcal / 7.8 g carbohidratos"],
+      ["30 ml", "12–18 kcal", "2–2.5 g", "58–64 kcal / unos 10 g"],
+      ["60 ml", "24–36 kcal", "3.5–5 g", "70–82 kcal / 11–13 g"],
+      ["90 ml", "36–54 kcal", "5.5–7 g", "82–100 kcal / 13–15 g"]
+    ] },
+    { "type": "p", "text": "En la práctica, un chorrito de 30 ml cambia poco; con 90 ml la bebida puede llegar a duplicar sus calorías respecto a la versión con agua. No es un problema en sí, pero sí algo que tener presente si usas el matcha como una opción ligera entre comidas." },
+    { "type": "callout", "variant": "aviso", "title": "Si controlas tus carbohidratos", "text": "Si sigues una dieta baja en carbohidratos o cetogénica, la avena suma más de lo que parece; revisa primero si [Matcha Pep-T encaja en una dieta keto](/ingredientes-matcha-pep-t/es-keto-low-carb/). Si tienes diabetes o prediabetes, consulta con tu médico o nutricionista antes de incorporar esta variante; tienes más contexto en [Matcha Pep-T y diabetes](/opiniones-matcha-pep-t/diabetes/)." },
+    { "type": "h2", "text": "¿Avena o almendra? Cuándo elegir cada una" },
+    { "type": "table", "caption": "Comparativa práctica entre las dos bebidas vegetales", "headers": ["Criterio", "Bebida de avena", "Bebida de almendra sin endulzar"], "rows": [
+      ["Cremosidad", "Alta", "Ligera"],
+      ["Calorías extra (60 ml)", "Unas 24–36 kcal", "Unas 8–15 kcal"],
+      ["Carbohidratos", "Moderados", "Muy bajos"],
+      ["Mejor en", "Caliente y con espuma", "Frío y con hielo"],
+      ["Sabor", "Cereal, dulzor natural", "Tostado, a fruto seco"]
+    ] },
+    { "type": "p", "text": "Si priorizas sumar lo menos posible, la almendra gana; lo explicamos en el [Matcha Pep-T con leche de almendra](/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/). Si lo que quieres es una taza reconfortante en una mañana de invierno, la avena es difícil de superar." },
+    { "type": "h3", "text": "Un truco para tener cremosidad sin sumar tanto" },
+    { "type": "p", "text": "Usa solo 30 ml de avena, pero espúmala y colócala encima. La espuma concentra la sensación de cremosidad en cada sorbo, y la bebida se percibe mucho más rica de lo que sugiere la cantidad añadida." },
+    { "type": "p", "text": "Para descubrir el resto de variantes, frías y calientes, vuelve a la guía de [cómo preparar Matcha Pep-T](/como-preparar-matcha-pep-t/). Y si quieres tener sobres a mano para el invierno, puedes [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) por S/ 11.29 el sobre." }
+  ],
+  "faqs": [
+    { "q": "¿La bebida de avena contiene gluten?", "a": "La avena puede contaminarse con trigo o cebada durante el cultivo y el procesado. Si tienes celiaquía o sensibilidad al gluten, elige una bebida que indique expresamente «sin gluten» o certificada." },
+    { "q": "¿Puedo usar la avena cocida del desayuno en lugar de la bebida de caja?", "a": "No es lo ideal: la avena cocida es mucho más espesa y calórica, y la mezcla quedaría densa como una papilla. Para algo así, es mejor una receta pensada para ello, como la avena remojada con matcha." },
+    { "q": "¿Por qué mi latte de avena se cortó al calentarlo?", "a": "Algunas bebidas de avena se separan si se calientan en exceso o de forma brusca. Entíbiala a fuego bajo, sin hervir, y añádela sobre el matcha ya disuelto en lugar de calentar todo junto." },
+    { "q": "¿La avena le resta sabor al matcha?", "a": "Lo suaviza. Con 30 ml el matcha sigue siendo protagonista; con 90 ml, el cereal y el dulzor natural de la avena empiezan a dominar. Ajusta la cantidad según cuánto quieras que se note el té." }
+  ],
+  "sources": [
+    { "label": "USDA FoodData Central – valores nutricionales de alimentos", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "EFSA – Opinión científica sobre betaglucanos de avena", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": [
+    "/como-preparar-matcha-pep-t/latte-con-leche-de-almendra/",
+    "/como-preparar-matcha-pep-t/como-hacer-espuma/",
+    "/como-preparar-matcha-pep-t/overnight-oats/",
+    "/ingredientes-matcha-pep-t/es-keto-low-carb/"
+  ]
+}

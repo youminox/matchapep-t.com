@@ -1,0 +1,70 @@
+{
+  "slug": "estevia",
+  "pillar": "ingredientes-matcha-pep-t",
+  "path": "/ingredientes-matcha-pep-t/estevia/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T estevia",
+  "title": "Matcha Pep-T con estevia: cómo endulza y qué tan segura es",
+  "seoTitle": "Matcha Pep-T estevia: glicósidos, sabor y seguridad",
+  "metaDescription": "Matcha Pep-T y estevia: qué son los glicósidos de esteviol, por qué no suman calorías, cómo influyen en el sabor y qué dicen las autoridades sobre su seguridad.",
+  "excerpt": "La estevia es el edulcorante que da la mayor parte del dulzor a Matcha Pep-T. Revisamos qué es, por qué no aporta calorías, cómo sabe y cuánto se considera seguro.",
+  "quickAnswer": "Matcha Pep-T usa estevia, en forma de glicósidos de esteviol de la planta Stevia rebaudiana Bertoni, como edulcorante. Son compuestos cientos de veces más dulces que el azúcar que se usan en cantidades mínimas y prácticamente no aportan calorías. Organismos como JECFA (FAO/OMS) y la EFSA fijaron una ingesta diaria admisible de 4 mg por kilo de peso.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Fresh green stevia plant sprigs in a small terracotta pot next to a cup of warm light green matcha latte on a sunny windowsill, soft morning light, natural botanical style, no text, no logos, no packaging, no people",
+    "alt": "Ramitas frescas de estevia en una maceta de barro junto a una taza de matcha latte en el alféizar de una ventana"
+  },
+  "blocks": [
+    { "type": "p", "text": "Desde 2019, cuando los octógonos de advertencia llegaron a los empaques en el Perú, muchas gaseosas, jugos y yogures de bodega cambiaron de receta para reducir el azúcar. En esa reformulación masiva, la estevia se volvió un nombre conocido: hoy la ves en sobrecitos junto a la caja de las cafeterías y en la lista de ingredientes de cientos de productos." },
+    { "type": "p", "text": "Matcha Pep-T también la usa. En la etiqueta figura como **«Estevia (Glicósidos de Esteviol de Stevia rebaudiana Bertoni – Edulcorante)»**. A continuación explicamos qué es exactamente, por qué no suma calorías, cómo afecta al sabor y qué dicen las autoridades sobre su seguridad. El resto de la fórmula está explicado en la [guía de ingredientes de Matcha Pep-T](/ingredientes-matcha-pep-t/)." },
+    { "type": "h2", "text": "Qué es la estevia y qué son los glicósidos de esteviol" },
+    { "type": "p", "text": "La *Stevia rebaudiana* es un arbusto originario de la zona fronteriza entre Paraguay y Brasil, donde los pueblos guaraníes usaban sus hojas para endulzar bebidas desde mucho antes de que llegara a la industria. Su dulzor no proviene del azúcar, sino de unas moléculas llamadas **glicósidos de esteviol**." },
+    { "type": "p", "text": "Los más conocidos son el esteviósido y el rebaudiósido A, aunque hay más de una decena. Tienen un poder endulzante que suele situarse entre **200 y 300 veces el del azúcar**, según el tipo y la pureza. Por eso basta una cantidad diminuta para endulzar una bebida entera." },
+    { "type": "p", "text": "Un detalle importante: lo que se usa como aditivo **no es la hoja seca** que puedes encontrar en algunos mercados o tiendas naturistas, sino un extracto purificado de esos glicósidos. Esa diferencia es relevante para la seguridad, como veremos más adelante." },
+    { "type": "h2", "text": "Por qué la estevia no suma calorías" },
+    { "type": "p", "text": "Los glicósidos de esteviol no se digieren en el estómago ni en el intestino delgado. Llegan al colon, donde las bacterias los transforman en esteviol, que se absorbe, pasa por el hígado y se elimina por la orina. En ningún momento se convierten en glucosa que el cuerpo use como energía." },
+    { "type": "p", "text": "Sumado a la mínima cantidad que se emplea, el resultado es un aporte calórico prácticamente nulo. Las 46 kcal de un sobre provienen de la proteína del colágeno, de los carbohidratos y de la pequeña cantidad de grasa, no de la estevia. Además, ocupa el **décimo lugar de doce** en la lista de ingredientes, lo que confirma que su presencia en peso es muy pequeña." },
+    { "type": "callout", "variant": "etiqueta", "title": "Endulzado con estevia y con muy poca azúcar", "text": "La estevia no cuenta como azúcar, pero el sobre sí contiene algo: por porción (15 g en 180 ml de agua) la etiqueta declara **2.0 g de azúcares totales, de los cuales 0.9 g son añadidos**. La cantidad exacta de estevia no está declarada." },
+    { "type": "h2", "text": "Matcha Pep-T y la estevia: cómo influye en el sabor" },
+    { "type": "p", "text": "La estevia tiene un perfil de dulzor distinto al del azúcar: aparece un poco más tarde, dura más en la boca y, en concentraciones altas, puede dejar un regusto amargo o parecido al regaliz. No todos lo perciben igual; la sensibilidad al amargor varía bastante entre personas." },
+    { "type": "p", "text": "Por eso rara vez se usa sola. En Matcha Pep-T trabaja en equipo con otros ingredientes que suavizan ese efecto:" },
+    { "type": "ul", "items": [
+      "**La isomaltulosa**, un azúcar de dulzor suave que aporta cuerpo. Lo detallamos en [qué es la isomaltulosa Palatinose](/ingredientes-matcha-pep-t/isomaltulosa-palatinose/).",
+      "**La crema de coco**, cuya grasa redondea los sabores y atenúa las notas amargas.",
+      "**Los saborizantes de crema caramelo y leche de coco**, que dan un fondo dulce aromático sin necesidad de más azúcar."
+    ] },
+    { "type": "p", "text": "Ese equilibrio también convive con el amargor natural del matcha. Si lo notas demasiado dulce, prepararlo [frío y con bastante hielo](/como-preparar-matcha-pep-t/frio-con-hielo/) suele percibirse menos intenso; si te falta dulzor, un chorrito de bebida vegetal o una pizca de canela cambian la sensación, aunque modifican los valores de la etiqueta." },
+    { "type": "cta", "text": "Consulta el precio del doypack de 14 sobres (S/ 158.00) y cómo pedirlo desde cualquier distrito de Lima o provincia." },
+    { "type": "h2", "text": "¿Es segura la estevia?" },
+    { "type": "p", "text": "Los glicósidos de esteviol purificados están entre los edulcorantes más evaluados. Estas son las referencias principales:" },
+    { "type": "table", "caption": "Evaluaciones de seguridad de los glicósidos de esteviol", "headers": ["Organismo", "Conclusión principal"], "rows": [
+      ["JECFA (comité de expertos FAO/OMS)", "Ingesta diaria admisible de 0 a 4 mg por kg de peso, expresada como esteviol"],
+      ["EFSA (Unión Europea)", "Misma ingesta diaria admisible de 4 mg por kg de peso"],
+      ["FDA (EE. UU.)", "No objeta el uso de glicósidos de alta pureza; la hoja entera y los extractos crudos no están aprobados como aditivos"],
+      ["Codex Alimentarius", "Edulcorante autorizado con el código INS 960"]
+    ] },
+    { "type": "p", "text": "Para poner la cifra en perspectiva: una persona de 60 kg tendría una ingesta diaria admisible de 240 mg de equivalentes de esteviol. Un edulcorante tan potente se usa en cantidades mucho menores por porción, por lo que un sobre al día queda lejos de ese margen, incluso sumando otros productos con estevia." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar antes", "text": "Las reacciones a la estevia purificada son poco frecuentes, pero si tienes alergia a plantas de la familia de las margaritas (asteráceas), consúltalo. En embarazo, lactancia, niños o diabetes, la evaluación debe considerar el producto completo y no solo el edulcorante; revisa también nuestra página sobre [Matcha Pep-T y la diabetes](/opiniones-matcha-pep-t/diabetes/). Matcha Pep-T no es un medicamento." },
+    { "type": "h2", "text": "Mitos frecuentes sobre la estevia" },
+    { "type": "ul", "items": [
+      "**«La estevia es un químico artificial».** Proviene de una planta, aunque el aditivo es un extracto purificado industrialmente, igual que el azúcar de caña es un producto refinado.",
+      "**«Es lo mismo que la hoja que venden en el mercado».** No. La hoja seca contiene muchos otros compuestos y no tiene la misma evaluación regulatoria que el extracto purificado.",
+      "**«Si tiene estevia, no tiene azúcar».** Falso en este caso: el sobre contiene 0.9 g de azúcares añadidos. El detalle completo está en [cuánta azúcar tiene Matcha Pep-T](/ingredientes-matcha-pep-t/tiene-azucar/).",
+      "**«La estevia sube la glucosa».** Los glicósidos de esteviol, por sí mismos, no elevan la glucosa, porque no se convierten en azúcar."
+    ] },
+    { "type": "p", "text": "En resumen, la estevia permite que un matcha latte con 46 kcal sepa dulce sin depender del azúcar. Si quieres comprobar el equilibrio de sabor por tu cuenta, puedes [comprar Matcha Pep-T original](/comprar-matcha-pep-t/) a S/ 158.00 por doypack, que equivale a S/ 11.29 por sobre." }
+  ],
+  "faqs": [
+    { "q": "¿Cuánta estevia tiene cada sobre?", "a": "La etiqueta no declara la cantidad. Solo sabemos, por el orden de la lista, que está entre los ingredientes de menor peso, algo lógico en un edulcorante tan potente." },
+    { "q": "¿La estevia afecta la microbiota intestinal?", "a": "Es un tema en investigación. Como los glicósidos llegan al colon, algunos estudios exploran su interacción con las bacterias intestinales, pero los resultados aún no permiten conclusiones firmes en las cantidades de consumo habituales." },
+    { "q": "¿Puedo añadirle más estevia o azúcar a mi bebida?", "a": "Puedes, pero la etiqueta describe la bebida preparada solo con el sobre y 180 ml de agua. Cualquier agregado cambia el perfil de sabor y, en el caso del azúcar, también las calorías y los azúcares añadidos." },
+    { "q": "¿Por qué no usan sucralosa u otro edulcorante?", "a": "La marca no ha detallado sus motivos. La estevia es una opción de origen vegetal muy aceptada por quienes prefieren evitar edulcorantes sintéticos, y combina bien con el resto de la fórmula." }
+  ],
+  "sources": [
+    { "label": "EFSA – Steviol glycosides", "url": "https://www.efsa.europa.eu/en/topics/topic/sweeteners" },
+    { "label": "FDA – High-Intensity Sweeteners", "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food" },
+    { "label": "Organización Mundial de la Salud – JECFA", "url": "https://www.who.int/" },
+    { "label": "Codex Alimentarius – FAO/OMS", "url": "https://www.fao.org/fao-who-codexalimentarius/" }
+  ],
+  "related": ["/ingredientes-matcha-pep-t/isomaltulosa-palatinose/", "/ingredientes-matcha-pep-t/tiene-azucar/", "/opiniones-matcha-pep-t/sabor-y-textura/", "/ingredientes-matcha-pep-t/calorias/"]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "contraindicaciones",
+  "pillar": "opiniones-matcha-pep-t",
+  "path": "/opiniones-matcha-pep-t/contraindicaciones/",
+  "isPillar": false,
+  "primaryKeyword": "Matcha Pep-T contraindicaciones",
+  "title": "Matcha Pep-T contraindicaciones: quiénes deben consultar antes",
+  "seoTitle": "Matcha Pep-T contraindicaciones: quién debe consultar",
+  "metaDescription": "Matcha Pep-T contraindicaciones y precauciones: embarazo, lactancia, niños, enfermedad renal, medicación y alergias. Qué revisar con tu médico antes.",
+  "excerpt": "No todo el mundo debería empezar a tomarlo sin más. Repasamos los grupos que necesitan una consulta previa, el motivo en cada caso y qué preguntas llevar a la cita.",
+  "quickAnswer": "Las principales contraindicaciones y precauciones de Matcha Pep-T afectan a embarazadas, mujeres que dan de lactar, niños, personas con enfermedad renal, quienes toman medicación (sobre todo para la diabetes o anticoagulantes) y alérgicos al coco o al colágeno. En esos casos, consulta con tu médico antes del primer sobre.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A doctor's consultation desk seen from above with a blank notepad, a stethoscope, a pen and a cup of green matcha latte placed to one side, bright clinic in Lima with soft natural window light, neat and reassuring atmosphere, realistic photography, no text, no logos, no packaging, no people",
+    "alt": "Escritorio de consultorio con estetoscopio, libreta en blanco y una taza de matcha latte a un lado"
+  },
+  "blocks": [
+    { "type": "p", "text": "En el lenguaje médico, una *contraindicación* es una situación en la que algo no debe usarse. En los alimentos funcionales la frontera es menos tajante: lo habitual es hablar de **grupos que deben consultar antes** porque la información disponible no basta para decir que es seguro en su caso." },
+    { "type": "p", "text": "Matcha Pep-T es un alimento en polvo, no un medicamento. Aun así, combina cafeína natural en cantidad no declarada, péptidos de colágeno estudiados por su relación con la glucosa, cromo y fibra. Esa mezcla justifica una revisión previa si estás en alguno de los grupos que describimos abajo." },
+    { "type": "h2", "text": "Matcha Pep-T contraindicaciones: resumen por grupo" },
+    { "type": "table", "caption": "Grupos que deben consultar antes de tomar Matcha Pep-T y motivo principal", "headers": ["Grupo", "Motivo principal", "Con quién consultar"], "rows": [
+      ["Embarazo", "Cafeína natural no declarada; ingrediente no estudiado en gestantes", "Obstetra"],
+      ["Lactancia", "La cafeína pasa a la leche materna", "Obstetra o pediatra"],
+      ["Niños y adolescentes", "No está pensado para ellos; cafeína", "Pediatra"],
+      ["Enfermedad renal", "Puede haber restricciones de proteína y minerales", "Nefrólogo o nutricionista"],
+      ["Personas con medicación", "Posibles interacciones con antidiabéticos, anticoagulantes y estimulantes", "Médico tratante"],
+      ["Alergias", "Contiene coco, colágeno y chía", "Alergólogo"]
+    ] },
+    { "type": "h2", "text": "Embarazo y lactancia: prudencia por falta de datos" },
+    { "type": "p", "text": "La etiqueta no declara cuánta cafeína aporta el matcha de cada sobre, y en el embarazo se recomienda vigilar la cafeína total del día. Tampoco hay estudios de Nextida GC en gestantes. Durante la lactancia, parte de la cafeína llega al bebé a través de la leche." },
+    { "type": "p", "text": "No es una prohibición automática, pero sí un caso claro de «primero pregunta». Lo desarrollamos en nuestra guía sobre [Matcha Pep-T en el embarazo y la lactancia](/opiniones-matcha-pep-t/embarazo-y-lactancia/)." },
+    { "type": "h2", "text": "Niños y adolescentes" },
+    { "type": "p", "text": "Es una bebida formulada para adultos. Los niños son más sensibles a la cafeína y sus necesidades nutricionales son distintas. Que un hijo pida probar el vaso verde de mamá en el desayuno es comprensible, pero no conviene que se vuelva costumbre." },
+    { "type": "p", "text": "En adolescentes, cualquier uso debería ser ocasional y con supervisión de un adulto y del pediatra, sobre todo si ya consumen café, energizantes o gaseosas con cafeína. Ampliamos este punto en la página sobre [Matcha Pep-T en niños y adolescentes](/opiniones-matcha-pep-t/ninos-y-adolescentes/)." },
+    { "type": "h2", "text": "Enfermedad renal" },
+    { "type": "p", "text": "Si tienes enfermedad renal crónica o te han indicado una dieta controlada, tu equipo de salud probablemente vigila cuánta proteína, sodio, potasio y fósforo consumes. Cada sobre aporta 4.7 g de proteína y 28 mg de sodio; el potasio y el fósforo no figuran en la tabla nutricional." },
+    { "type": "p", "text": "Son cantidades modestas, pero en una dieta renal cada gramo se cuenta. No lo añadas por tu cuenta: pide a tu nefrólogo o nutricionista que lo encaje (o no) en tu plan." },
+    { "type": "callout", "variant": "aviso", "title": "No es un medicamento ni sustituye un tratamiento", "text": "Matcha Pep-T no sirve para tratar ni prevenir enfermedades. Si tienes una condición crónica, no cambies ni reduzcas tu medicación por tomar esta bebida. Cualquier ajuste lo decide tu médico tratante." },
+    { "type": "cta", "text": "Si ya consultaste y tienes luz verde, revisa el precio y la forma de compra con un distribuidor autorizado." },
+    { "type": "h2", "text": "Personas que toman medicación" },
+    { "type": "p", "text": "Aquí la consulta es especialmente importante. Algunos ejemplos de situaciones que tu médico querrá conocer:" },
+    { "type": "ul", "items": [
+      "**Medicamentos para la diabetes**, incluidos la insulina y los análogos de GLP-1: la bebida contiene un ingrediente estudiado por su efecto sobre la glucosa y aporta cromo (45 % VD por sobre).",
+      "**Anticoagulantes**: el té verde contiene vitamina K de forma natural y se ha descrito que puede interferir con algunos de estos fármacos.",
+      "**Estimulantes o medicamentos sensibles a la cafeína**: algunos tratamientos para el TDAH, el asma o ciertos antibióticos pueden sumar efectos o alterar cómo procesas la cafeína.",
+      "**Tratamientos para la tiroides, la presión o el ritmo cardiaco**: conviene confirmar los horarios de toma y la compatibilidad."
+    ] },
+    { "type": "p", "text": "Tenemos una guía específica sobre [interacciones de Matcha Pep-T con medicamentos](/opiniones-matcha-pep-t/interaccion-con-medicamentos/). Y si tienes diabetes o prediabetes, lee también nuestra página dedicada a [Matcha Pep-T y la diabetes](/opiniones-matcha-pep-t/diabetes/)." },
+    { "type": "h2", "text": "Alergias alimentarias" },
+    { "type": "p", "text": "La fórmula incluye crema de coco, saborizante de leche de coco, colágeno hidrolizado de origen animal (sin especie declarada) y chía. Si tienes una alergia diagnosticada a cualquiera de ellos, no lo tomes. Si tu alergia es a otra proteína animal o a la gelatina, coméntalo con tu alergólogo antes de probarlo." },
+    { "type": "h2", "text": "Otros casos en los que conviene preguntar" },
+    { "type": "ul", "items": [
+      "Hipertensión no controlada, arritmias o palpitaciones frecuentes, por la cafeína natural.",
+      "Trastornos de ansiedad o insomnio, por el mismo motivo.",
+      "Gastritis, reflujo o síndrome de intestino irritable, por la cafeína y los 4.9 g de fibra.",
+      "Antecedentes de trastornos de la conducta alimentaria, cuando el producto se usa con fines de control del apetito."
+    ] },
+    { "type": "h2", "text": "Qué llevar a tu consulta" },
+    { "type": "p", "text": "Una cita en EsSalud, en el centro de salud del barrio o en una clínica de San Borja suele durar poco. Para aprovecharla:" },
+    { "type": "ol", "items": [
+      "Lleva una foto clara de la lista de ingredientes y de la tabla nutricional.",
+      "Explica para qué quieres tomarlo y en qué momento del día.",
+      "Menciona todos tus medicamentos y suplementos, incluidos los naturales.",
+      "Pregunta si debes vigilar algún parámetro (glucosa, presión, función renal) al empezar."
+    ] },
+    { "type": "p", "text": "Para ver el resto de dudas sobre seguridad y experiencias, visita la sección de [opiniones y preguntas sobre Matcha Pep-T](/opiniones-matcha-pep-t/). Cuando tengas la confirmación de tu profesional de salud, puedes ir a la [página de compra de Matcha Pep-T](/comprar-matcha-pep-t/)." }
+  ],
+  "faqs": [
+    { "q": "¿La etiqueta indica contraindicaciones?", "a": "La información nutricional e ingredientes que conocemos indican la porción (1 sobre en 180 ml de agua) y piden no exceder lo recomendado. Revisa siempre las advertencias impresas en el envase que tengas en la mano, y ante cualquier duda de salud, consulta a un profesional." },
+    { "q": "¿Una persona mayor puede tomarlo?", "a": "La edad por sí sola no es una contraindicación, pero los adultos mayores suelen tomar más medicamentos y pueden tener la función renal disminuida. Por eso, en este grupo la consulta previa es especialmente recomendable." },
+    { "q": "¿Puedo tomarlo si me voy a operar?", "a": "Informa a tu cirujano o anestesiólogo de todos los suplementos y bebidas funcionales que tomes, incluido este. Ellos te dirán si debes suspenderlo y con cuánta anticipación, sobre todo si tomas anticoagulantes." },
+    { "q": "Si no estoy en ningún grupo de riesgo, ¿debo consultar igual?", "a": "No es obligatorio, pero es buena idea si tienes cualquier duda. Empieza respetando la porción indicada, obsérvate los primeros días y suspéndelo si aparece una molestia." }
+  ],
+  "sources": [
+    { "label": "NCCIH (NIH) – Té verde", "url": "https://www.nccih.nih.gov/health/green-tea" },
+    { "label": "EFSA – Caffeine", "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine" },
+    { "label": "NIH Office of Dietary Supplements – Chromium", "url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/" }
+  ],
+  "related": ["/opiniones-matcha-pep-t/interaccion-con-medicamentos/", "/opiniones-matcha-pep-t/embarazo-y-lactancia/", "/opiniones-matcha-pep-t/ninos-y-adolescentes/", "/opiniones-matcha-pep-t/hipertension/"]
+}

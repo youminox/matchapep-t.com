@@ -196,8 +196,13 @@ export default function ChatWidget() {
                 <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-[#0a6fa6] bg-[#8CC63F]" />
               </div>
               <div className="min-w-0">
-                <p className="truncate font-display text-[15px] font-extrabold leading-tight">Asesor Matcha Pep-T</p>
-                <p className="text-xs text-white/80">Responde al instante · IA</p>
+                <div className="flex items-center gap-2">
+                  <p className="truncate font-display text-[15px] font-extrabold leading-tight">Asesor Matcha Pep-T</p>
+                  <span className="inline-flex items-center whitespace-nowrap shrink-0 leading-none text-[10px] font-bold uppercase tracking-wider px-2 py-1 rounded-full bg-[#EFFBC4] text-[#142600]">
+                    En línea
+                  </span>
+                </div>
+                <p className="text-xs text-white/80 truncate mt-0.5">Responde al instante · IA</p>
               </div>
             </div>
             <div className="flex items-center gap-1">
